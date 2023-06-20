@@ -16,7 +16,7 @@
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.2
+Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
@@ -25,8 +25,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Kolkhidashvili, Ana
-Contributing: elsewhere
-Contact: ana@pulsar.ai
+Contributors: Lobzhanidze, Irina
+Contributing: here
+Contact: irina_lobzhanidze@iliauni.edu.ge
 ===============================================================================
 </pre>
