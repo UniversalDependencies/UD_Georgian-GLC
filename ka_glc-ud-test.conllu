@@ -457,7 +457,7 @@
 15	დნება	დნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	10	conj	10:conj	SpaceAfter=No|Translit=dneba
 16	,	,	PUNCT	F	PunctType=Comm	18	punct	18:punct	Translit=,
 17	არ	არ	PART	Part	PartType=Neg	18	advmod	18:advmod	Translit=ar
-18	ჩერდება	ჩერდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	15	root	15:conj	Translit=čʻerdeba
+18	ჩერდება	ჩერდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	15	conj	15:conj	Translit=čʻerdeba
 19	ჯერჯერობით	ჯერჯერობით	ADV	Adv	AdvType=Tim	18	advmod	18:advmod	Translit=jerjerobitʻ
 20-21	ზედაპირზე	_	_	_	_	_	_	_	SpaceAfter=No
 20	ზედაპირ	ზედაპირი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obl	18:obl	Translit=zedapir
@@ -757,13 +757,13 @@
 1	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	2	nmod	2:nmod	Translit=qvela
 2	ეპოქას	ეპოქა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	nsubj	11:nsubj	Translit=epokʻas
 3	„	„	PUNCT	F	PunctType=Quot	4	punct	4:punct	SpaceAfter=No|Translit=„
-4	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes	7	nmod	7:nmod	SpaceAfter=No|Translit=tʻavisi
+4	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes	10	nmod	10:nmod	SpaceAfter=No|Translit=tʻavisi
 5	“	“	PUNCT	F	PunctType=Quot	4	punct	4:punct	SpaceAfter=No|Translit=“
-6	,	,	PUNCT	F	PunctType=Comm	11	punct	11:punct	Translit=,
+6	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
 7-8	მოსახლეობისათვის	_	_	_	_	_	_	_	_
 7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	obl	11:obl	Translit=mosaxleobisa
 8	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	7	case	7:case	Translit=tʻvis
-9	თავზარდამცემი	თავზარდამცემი	ADJ	Adj	Case=Nom|Number=Sing	10	amod	10:amod	Translit=tʻavzardamcʻemi
+9	თავზარდამცემი	თავზარდამცემი	ADJ	Adj	Case=Nom|Number=Sing	4	conj	4:conj	Translit=tʻavzardamcʻemi
 10	ავადმყოფობა	ავადმყოფობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	obj	11:obj	Translit=avadmqopʻoba
 11	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	SpaceAfter=No|Translit=akʻvs
 12	.	.	PUNCT	F	PunctType=Peri	11	punct	11:punct	Translit=.
@@ -799,7 +799,7 @@
 4	,	,	PUNCT	F	PunctType=Comm	6	punct	6:punct	Translit=,
 5	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	3	nmod	3:nmod	Translit=romelsacʻ
 6	უთხრეს	ეუბნება	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	2	acl	2:acl	SpaceAfter=No|Translit=utʻxres
-7	,	,	PUNCT	F	PunctType=Comm	6	punct	6:punct	Translit=,
+7	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
 8	კისრის	კისერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	9:nmod	Translit=kisris
 9	ოსტეოქონდროზი	ოსტეოქონდროზი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	obj	10:obj	Translit=osteokʻondrozi
 10-11	გაქვსო	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1960,10 +1960,10 @@
 5	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	Translit=didi
 6	მნიშვნელობა	მნიშვნელობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	obj	7:obj	Translit=mnišvneloba
 7	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp	0	root	0:root	SpaceAfter=No|Translit=hkʻonda
-8	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
+8	,	,	PUNCT	F	PunctType=Comm	9	punct	9:punct	Translit=,
 9	თუმცა	თუმცა	SCONJ	Conj	_	19	mark	19:mark	Translit=tʻumcʻa
 10	სირიულ	სირიული	ADJ	Adj	Case=Dat|Number=Sing	15	amod	15:amod	SpaceAfter=No|Translit=siriul
-11	,	,	PUNCT	F	PunctType=Comm	14	punct	14:punct	Translit=,
+11	,	,	PUNCT	F	PunctType=Comm	12	punct	12:punct	Translit=,
 12	კოპტურ	კოპტური	ADJ	Adj	Case=Dat|Number=Sing	10	conj	10:conj	Translit=koptur
 13	და	და	CCONJ	Conj	_	14	cc	14:cc	Translit=da
 14	სომხურ	სომხური	ADJ	Adj	Case=Dat|Number=Sing	10	conj	10:conj	Translit=somxur
@@ -2575,13 +2575,13 @@
 10	აღასრულებს	ასრულებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	2	ccomp	2:ccomp	Translit=aġasrulebs
 11	და	და	CCONJ	Conj	_	14	cc	14:cc	Translit=da
 12	საზოგადოების	საზოგადოება	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	13	nmod	13:nmod	Translit=sazogadoebis
-13	დახმარებით	დახმარება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	14	advmod	14:advmod	Translit=daxmarebitʻ
+13	დახმარებით	დახმარება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	14	obl	14:obl	Translit=daxmarebitʻ
 14	განაგებს	აგებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	10	conj	10:conj	Translit=ganagebs
 15	სახელმწიფოს	სახელმწიფო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	17:nmod	Translit=saxelmcipʻos
 16	შინაგან	შინაგანი	ADJ	Adj	Case=Dat|Number=Sing	17	amod	17:amod	Translit=šinagan
-17-18	საქმეებსაო	_	_	_	_	_	_	_	_
+17-18	საქმეებსაო	_	_	_	_	_	_	_	SpaceAfter=No
 17	საქმეებსა	საქმე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	14	obj	14:obj	Translit=sakʻmeebsa
-18	ო	თქო	PART	Part	Evident=Nfh	17	ccomp	17:ccomp	SpaceAfter=No|Translit=o
+18	ო	თქო	PART	Part	Evident=Nfh	17	ccomp	17:ccomp	Translit=o
 19	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
 # sent_id = GLC_00130
@@ -2961,7 +2961,7 @@
 7	დამცველი	დამცველი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No|Translit=damcʻveli
 8	,	,	PUNCT	F	PunctType=Comm	11	punct	11:punct	Translit=,
 9	ისე	ისე	ADV	Adv	AdvType=Man	11	advmod	11:advmod	Translit=ise
-10	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Nom|Number=Sing	11	conj	11:conj	Translit=saertʻašoriso
+10	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Nom|Number=Sing	11	amod	11:amod	Translit=saertʻašoriso
 11	ორგანიზაციები	ორგანიზაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	7	conj	7:conj	Translit=organizacʻiebi
 12	აღნიშნავდნენ	აღნიშნავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	1	ccomp	1:ccomp	Translit=aġnišnavdnen
 13	ძალადობის	ძალადობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	15:nmod	Translit=żaladobis
