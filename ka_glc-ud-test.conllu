@@ -1,11 +1,11 @@
-# sent_id = corpora.iliauni.edu.ge-ka-00001 
+# sent_id = GLC_00001
 # text = რამდენი ვინმეა ქვეყნად და მე მაინც არა ვარ.
 # translit = ramdeni vinmea kʻveqnad da me maincʻ ara var.
 1	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	2	nsubj	2:nsubj	Translit=ramdeni
 2-3	ვინმეა	_	_	_	_	_	_	_	_
 2	ვინმე	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	0	root	0:root	Translit=vinme
 3	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	2	cop	2:cop	Translit=a
-4	ქვეყნად	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	3	advmod	3:advmod	Translit=kʻveqnad
+4	ქვეყნად	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	2	obl	2:obl	Translit=kʻveqnad
 5	და	და	CCONJ	Conj	_	9	cc	9:cc	Translit=da
 6	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Translit=me
 7	მაინც	მაინც	PART	Part	PartType=Emp	8	advmod	8:advmod	Translit=maincʻ
@@ -13,29 +13,29 @@
 9	ვარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres	3	conj	3:conj	SpaceAfter=No|Translit=var
 10	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00002 
+# sent_id = GLC_00002
 # text = ამბობენ, საინტერესო რამ არისო, სანამ ხარ სულ შენთან იქნებაო.
 # translit = amboben, saintereso ram ariso, sanam xar sul šentʻan ikʻnebao.
 1	ამბობენ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=amboben
 2	,	,	PUNCT	F	PunctType=Comm	1	punct	1:punct	Translit=,
 3	საინტერესო	საინტერესო	ADJ	Adj	Case=Erg|Number=Sing	4	amod	4:amod	Translit=saintereso
-4	რამ	რა	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	5	nsubj	5:nsubj	Translit=ram
+4	რამ	რა	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	3	nsubj	3:nsubj	Translit=ram
 5-6	არისო	_	_	_	_	_	_	_	SpaceAfter=No
-5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing||Person[subj]=3|Subcat=Intr|Tense=Pres	1	cop	1:cop	Translit=aris
-6	ო	თქო	PART	Part	Evident=Nfh	1	ccomp	1:ccomp	Translit=o
+5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	3:cop	Translit=aris
+6	ო	თქო	PART	Part	Evident=Nfh	3	ccomp	3:ccomp	Translit=o
 7	,	,	PUNCT	F	PunctType=Comm	1	punct	1:punct	Translit=,
-8	სანამ	სანამ	SCONJ	Conj	_	9	mark	9:mark	Translit=sanam
+8	სანამ	სანამ	SCONJ	Conj	_	1	mark	1:mark	Translit=sanam
 9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	1	cop	1:cop	Translit=xar
 10	სულ	სულ	ADV	Adv	AdvType=Man	1	advmod	1:advmod	Translit=sul
 11-12	შენთან	_	_	_	_	_	_	_	_
-11	შენ	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	13	obl	13:obl	Translit=šen
+11	შენ	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	1:obl	Translit=šen
 12	თან	თან	ADP	Post	AdpType=Post|Case=Dat	11	case	11:case	Translit=tʻan
 13-14	იქნებაო	_	_	_	_	_	_	_	SpaceAfter=No
-13	იქნება	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing||Person[subj]=3|Subcat=Intr|Tense=Fut	1	cop	1:cop	Translit=ikʻneba
+13	იქნება	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	1	cop	1:cop	Translit=ikʻneba
 14	ო	თქო	PART	Part	Evident=Nfh	1	ccomp	1:ccomp	Translit=o
 15	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00003 
+# sent_id = GLC_00003
 # text = უცებ სულ ახლოს, სულ ღრმად, სულ ჩემში რაღაც აფართხალდა მტრედივით.
 # translit = ucʻeb sul axlos, sul ġrmad, sul čʻemši raġacʻ apʻartʻxalda mtredivitʻ.
 1	უცებ	უცებ	ADV	Adv	AdvType=Man	12	advmod	12:advmod	Translit=ucʻeb
@@ -49,24 +49,24 @@
 9-10	ჩემში	_	_	_	_	_	_	_	_
 9	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	12	obl	12:obl	Translit=čʻem
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	9:case	Translit=ši
-11	რაღაც	რა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	12	nmod	12:nmod	Translit=raġacʻ
-12	აფართხალდა	აფართხალდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	Translit=apʻartʻxalda
+11	რაღაც	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nmod	12:nmod	Translit=raġacʻ
+12	აფართხალდა	აფართხალდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	Translit=apʻartʻxalda
 13-14	მტრედივით	_	_	_	_	_	_	_	SpaceAfter=No
 13	მტრედი	მტრედი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	12	obl	12:obl	Translit=mtredi
 14	ვით	ვით	ADP	Post	AdpType=Post|Case=Nom	13	case	13:case	Translit=vitʻ
 15	.	.	PUNCT	F	PunctType=Peri	12	punct	12:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00004 
+# sent_id = GLC_00004
 # text = მე ჩემი წილი სული ჩავისუნთქე.
 # translit = me čʻemi cili suli čʻavisuntʻkʻe.
 1	მე	მე	PRON	Pron	Case=Erg|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	Translit=me
 2	ჩემი	ჩემი	PRON	Pron	Case=Nom|Number=Sing|Person=1|Poss=Yes	3	det:poss	3:det:poss	Translit=čʻemi
 3	წილი	წილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	obj	4:obj	Translit=cili
 4	სული	სული	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	5:obj	Translit=suli
-5	ჩავისუნთქე	სუნთქავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=čʻavisuntʻkʻe
+5	ჩავისუნთქე	სუნთქავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=čʻavisuntʻkʻe
 6	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00005 
+# sent_id = GLC_00005
 # text = რატომღაც არა მჯერა იმათი, ვინც დაიბადა და შემდეგ იძახის – მე ხომ არ მითხოვია დაბადებაო.
 # translit = ratomġacʻ ara mjera imatʻi, vincʻ daibada da šemdeg iżaxis – me xom ar mitʻxovia dabadebao.
 1	რატომღაც	რატომ	ADV	Adv	AdvType=Rel|PartType=Emp	3	advmod	3:advmod	Translit=ratomġacʻ
@@ -75,7 +75,7 @@
 4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	nmod	3:nmod|10:csubj	SpaceAfter=No|Translit=imatʻi
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	4:punct	Translit=,
 6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	4	nsubj	4:nsubj	Translit=vincʻ
-7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Pass	6	ccomp	6:ccomp	Translit=daibada
+7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	6	ccomp	6:ccomp	Translit=daibada
 8	და	და	CCONJ	Conj	_	10	cc	10:cc	Translit=da
 9	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	10	advmod	10:advmod	Translit=šemdeg
 10	იძახის	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	7	conj	7:conj	Translit=iżaxis
@@ -83,13 +83,13 @@
 12	მე	მე	PRON	Pron	Case=Dat|Person=1|PronType=Prs	15	iobj	15:iobj	Translit=me
 13	ხომ	ხომ	PART	Part	PartType=Int	15	advmod	15:advmod	Translit=xom
 14	არ	არ	PART	Part	PartType=Neg	15	advmod	15:advmod	Translit=ar
-15	მითხოვია	ეთხოვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	13	ccomp	13:ccomp	Translit=mitʻxovia
+15	მითხოვია	ეთხოვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	10	ccomp	10:ccomp	Translit=mitʻxovia
 16-17	დაბადებაო	_	_	_	_	_	_	_	SpaceAfter=No
-16	დაბადება	დაბადება	NOUN	Noun	Animacy=Inan|Case=Nom|IndSpeechPerson=3|Number=Sing	15	nsubj	15:nsubj	Translit=dabadeba
+16	დაბადება	დაბადება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	nsubj	15:nsubj	Translit=dabadeba
 17	ო	თქო	PART	Part	Evident=Nfh	16	ccomp	16:ccomp	Translit=o
 18	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00006 
+# sent_id = GLC_00006
 # text = სულ ტყუილად აყვედრიან ისინი თავის თავს ამ ქვეყანას.
 # translit = sul tquilad aqvedrian isini tʻavis tʻavs am kʻveqanas.
 1	სულ	სულ	ADV	Adv	AdvType=Man	2	advmod	2:advmod	Translit=sul
@@ -102,7 +102,7 @@
 8	ქვეყანას	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	3:obj	SpaceAfter=No|Translit=kʻveqanas
 9	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00007 
+# sent_id = GLC_00007
 # text = ჩემს წილ სივრცეს ერთი ლამაზი ქალი გაუვლიდა.
 # translit = čʻems cil sivrcʻes ertʻi lamazi kʻali gauvlida (šesażloa čʻemšicʻ gaeara).
 1	ჩემს	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	3	det:poss	3:det:poss	Translit=čʻems
@@ -114,7 +114,7 @@
 7	გაუვლიდა	გაივლის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Fut	0	root	0:root	SpaceAfter=No|Translit=gauvlida
 8	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00008 
+# sent_id = GLC_00008
 # text = ოთახში საშინლად ჭყავიან სხვა ბავშვები.
 # translit = otʻaxši sašinlad čqavian sxva bavšvebi.
 1-2	ოთახში	_	_	_	_	_	_	_	_
@@ -126,28 +126,28 @@
 6	ბავშვები	ბავშვი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	4	nsubj	4:nsubj	SpaceAfter=No|Translit=bavšvebi
 7	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00009 
+# sent_id = GLC_00009
 # text = სოლიდარობის გამო მეც ცოტა წავიტირებ.
 # translit = solidarobis gamo mecʻ cʻota cavitireb.
 1	სოლიდარობის	სოლიდარობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	obl	5:obl	Translit=solidarobis
 2	გამო	გამო	ADP	Post	AdpType=Post|Case=Gen	1	case	1:case	Translit=gamo
 3	მეც	მე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|Person=1|PronType=Prs	5	nsubj	5:nsubj	Translit=mecʻ
-4	ცოტა	ცოტა	NUM	Num	Case=Nom|NumType=Card|Number=Sing	5	nummod	5:nummod	Translit=cʻota
+4	ცოტა	ცოტა	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	5:nummod	Translit=cʻota
 5	წავიტირებ	ატირებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Fut|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=cavitireb
 6	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00010 
+# sent_id = GLC_00010
 # text = ჩემს ნერვებს უნდა გავუფრთხილდე, დამჭირდება.
 # translit = čʻems nervebs unda gavupʻrtʻxilde, damčirdeba.
 1	ჩემს	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	2	det:poss	2:det:poss	Translit=čʻems
 2	ნერვებს	ნერვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	obj	4:obj	Translit=nervebs
 3	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	aux	4:aux	Translit=unda
-4	გავუფრთხილდე	უფრთხილდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=gavupʻrtʻxilde
+4	გავუფრთხილდე	უფრთხილდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=gavupʻrtʻxilde
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	4:punct	Translit=,
 6	დამჭირდება	ჭირდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Act	4	parataxis	4:parataxis	SpaceAfter=No|Translit=damčirdeba
 7	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00011 
+# sent_id = GLC_00011
 # text = მთვარე იჭყიტება ფანჯარაში...
 # translit = mtʻvare ičqiteba pʻanjaraši...
 1	მთვარე	მთვარე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	2:nsubj	Translit=mtʻvare
@@ -157,17 +157,17 @@
 4	ში	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	3:case	Translit=ši
 5	...	...	PUNCT	F	PunctType=Elip	2	punct	2:punct	Translit=...
 
-# sent_id = corpora.iliauni.edu.ge-ka-00012 
+# sent_id = GLC_00012
 # text = მხოლოდ მისი უკანასკნელი სხივები დავინახე...
 # translit = mxolod misi ukanaskneli sxivebi davinaxe...
 1	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	4	advmod	4:advmod	Translit=mxolod
 2	მისი	მისი	PRON	Pron	Case=Nom|Number=Sing|Person=3|Poss=Yes	3	det:poss	3:det:poss	Translit=misi
 3	უკანასკნელი	უკანასკნელი	ADJ	Adj	Case=Nom|Number=Sing	4	amod	4:amod	Translit=ukanaskneli
 4	სხივები	სხივი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	5	obj	5:obj	Translit=sxivebi
-5	დავინახე	ნახავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=davinaxe
+5	დავინახე	ნახავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=davinaxe
 6	...	...	PUNCT	F	PunctType=Elip	5	punct	5:punct	Translit=...
 
-# sent_id = corpora.iliauni.edu.ge-ka-00013 
+# sent_id = GLC_00013
 # text = სიზმარში მთელი ჩემი შემდგომი ცხოვრება ვნახე, ოღონდ დილას ყველაფერი დამავიწყდა.
 # translit = sizmarši mtʻeli čʻemi šemdgomi cʻxovreba vnaxe, oġond dilas qvelapʻeri damavicqda.
 1-2	სიზმარში	_	_	_	_	_	_	_	_
@@ -177,15 +177,15 @@
 4	ჩემი	ჩემი	PRON	Pron	Case=Nom|Number=Sing|Person=1|Poss=Yes	6	det:poss	6:det:poss	Translit=čʻemi
 5	შემდგომი	შემდგომი	ADJ	Adj	Case=Nom|Number=Sing	6	amod	6:amod	Translit=šemdgomi
 6	ცხოვრება	ცხოვრება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	obj	7:obj	Translit=cʻxovreba
-7	ვნახე	ნახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=vnaxe
+7	ვნახე	ნახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=vnaxe
 8	,	,	PUNCT	F	PunctType=Comm	12	punct	12:punct	Translit=,
 9	ოღონდ	ოღონდ	SCONJ	Conj	_	12	mark	12:mark	Translit=oġond
 10	დილას	დილა	ADV	Adv	AdvType=Tim	12	advmod	12:advmod	Translit=dilas
 11	ყველაფერი	ყველაფერი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	12	obj	12:obj	Translit=qvelapʻeri
-12	დამავიწყდა	ავიწყდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Aor|Voice=Mid	7	parataxis	7:parataxis	SpaceAfter=No|Translit=damavicqda
+12	დამავიწყდა	ავიწყდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Past|Voice=Mid	7	parataxis	7:parataxis	SpaceAfter=No|Translit=damavicqda
 13	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00014 
+# sent_id = GLC_00014
 # text = თქვენ ალბათ გაინტერესებთ რას მეძახიან.
 # translit = tʻkʻven albatʻ gainteresebtʻ ras meżaxian.
 1	თქვენ	თქვენ	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	3:iobj	Translit=tʻkʻven
@@ -195,14 +195,14 @@
 5	მეძახიან	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	3	ccomp	3:ccomp	SpaceAfter=No|Translit=meżaxian
 6	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00015 
+# sent_id = GLC_00015
 # text = მეც მაინტერესებს.
 # translit = mecʻ mainteresebs.
 1	მეც	მე	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|Person=1|PronType=Prs	2	iobj	2:iobj	Translit=mecʻ
 2	მაინტერესებს	აინტერესებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=mainteresebs
 3	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00016 
+# sent_id = GLC_00016
 # text = სილამაზეზე მე ჩემი აზრი მაქვს, მაგრამ არავინ არაფერს მეკითხება და ამიტომ მეც არაფერს ვამბობ.
 # translit = silamazeze me čʻemi azri makʻvs, magram aravin arapʻers mekitʻxeba da amitom mecʻ arapʻers vambob.
 1-2	სილამაზეზე	_	_	_	_	_	_	_	_
@@ -224,7 +224,7 @@
 16	ვამბობ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|Voice=Act	11	conj	11:conj	SpaceAfter=No|Translit=vambob
 17	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00017 
+# sent_id = GLC_00017
 # text = სიმართლის თქმა დღეიდან იწყება.
 # translit = simartʻlis tʻkʻma dġeidan icqeba.
 1	სიმართლის	სიმართლე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=simartʻlis
@@ -233,13 +233,13 @@
 4	იწყება	იწყება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=icqeba
 5	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00018 
+# sent_id = GLC_00018
 # text = სხვათა შორის, ძია ლევანი მეტად კეთილი და თავდადებულია.
 # translit = sxvatʻa šoris, żia levani metad ketʻili da tʻavdadebulia.
-1	სხვათა	სხვა	PRON	Pron	Case=Dat|Number=Plur|PronType=Tot	5	obl	5:obl	Translit=sxvatʻa
+1	სხვათა	სხვა	PRON	Pron	Case=Dat|Number=Plur|PronType=Tot	7	obl	7:obl	Translit=sxvatʻa
 2	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	1	case	1:case	SpaceAfter=No|Translit=šoris
 3	,	,	PUNCT	F	PunctType=Comm	7	punct	7:punct	Translit=,
-4	ძია	ძია	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	5	appos	5:appos	Translit=żia
+4	ძია	ძია	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	5	nmod	5:nmod	Translit=żia
 5	ლევანი	ლევანი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	7	nsubj	7:nsubj	Translit=levani
 6	მეტად	მეტი	ADV	Adv	_	7	advmod	7:advmod	Translit=metad
 7	კეთილი	კეთილი	ADJ	Adj	Case=Nom|Number=Sing	0	root	0:root	Translit=ketʻili
@@ -249,7 +249,7 @@
 10	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	9	cop	9:cop	Translit=a
 11	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00019 
+# sent_id = GLC_00019
 # text = მიუხედავად იმისა, რომ 30 წლითაა ჩემზე უფროსი, მაინც ჩემი მეზობელია.
 # translit = miuxedavad imisa, rom 30 clitʻaa čʻemze upʻrosi, maincʻ čʻemi mezobelia.
 1	მიუხედავად	მიუხედავად	ADV	Adv	AdvType=Man	14	advcl	14:advcl	Translit=miuxedavad
@@ -272,7 +272,7 @@
 15	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	14	cop	14:cop	Translit=a
 16	.	.	PUNCT	F	PunctType=Peri	14	punct	14:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00020 
+# sent_id = GLC_00020
 # text = შემდეგ შენს გარშემო აღმოაჩენ შენს მაგვარ არსებებს, რომელნიც ასევე უშორესი რთული გზებით მოდიან და ასე უბრალოდ ხვდებიან ერთმანეთს.
 # translit = šemdeg šens garšemo aġmoačʻen šens magvar arsebebs, romelnicʻ aseve ušoresi rtʻuli gzebitʻ modian da ase ubralod xvdebian ertʻmanetʻs.
 1	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	4	advmod	4:advmod	Translit=šemdeg
@@ -296,7 +296,7 @@
 19	ერთმანეთს	ერთმანეთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rcp	18	nmod	18:nmod	SpaceAfter=No|Translit=ertʻmanetʻs
 20	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00021 
+# sent_id = GLC_00021
 # text = ახლა თუმცა დიდი სიყვარულითა და აღტაცებით დასცქერენ მეზობელ-ნათესავები ამ სიცოცხლეს, შემდგომში ყველას ავიწყდება იგი და სწორედ ამ სასწაულს იყენებენ ისინი წამებისათვის, ღალატისათვის, შანტაჟისათვის, ფეხქვეშ გასათელად, გასაუბრალოებლად, ტკივილის მისაყენებლად, მისაჩქმალავად, აბუჩად ასაგდებად...
 # translit = axla tʻumcʻa didi siqvarulitʻa da aġtacʻebitʻ dascʻkʻeren mezobel-natʻesavebi am sicʻocʻxles, šemdgomši qvelas avicqdeba igi da scored am sascauls iqeneben isini camebisatʻvis, ġalatisatʻvis, šantažisatʻvis, pʻexkʻveš gasatʻelad, gasaubraloeblad, tkivilis misaqeneblad, misačʻkʻmalavad, abučʻad asagdebad...
 1	ახლა	ახლა	ADV	Adv	AdvType=Tim	7	advmod	7:advmod	Translit=axla
@@ -305,7 +305,7 @@
 4	სიყვარულითა	სიყვარული	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	obl	7:obl	Translit=siqvarulitʻa
 5	და	და	CCONJ	Conj	_	6	cc	6:cc	Translit=da
 6	აღტაცებით	აღტაცება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	conj	4:conj	Translit=aġtacʻebitʻ
-7	დასცქერენ	ცქერს	VERB	Verb	Aspect=Perf|IndVoice=Act|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	0	root	0:root	Translit=dascʻkʻeren
+7	დასცქერენ	ცქერს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	0:root	Translit=dascʻkʻeren
 8	მეზობელ-ნათესავები	მეზობელ-ნათესავი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	7	nsubj	7:nsubj	Translit=mezobel-natʻesavebi
 9	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	10	nmod	10:nmod	Translit=am
 10	სიცოცხლეს	სიცოცხლე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	7:obj	SpaceAfter=No|Translit=sicʻocʻxles
@@ -348,7 +348,7 @@
 43	ასაგდებად	ასაგდები	ADV	Adv	_	21	advmod	21:advmod	SpaceAfter=No|Translit=asagdebad
 44	...	...	PUNCT	F	PunctType=Elip	7	punct	7:punct	Translit=...
 
-# sent_id = corpora.iliauni.edu.ge-ka-00022 
+# sent_id = GLC_00022
 # text = იმიტომ ვლაპარაკობ ამდენს ჩემს თავზე, რომ მე სხვა გამოცდილება არა მაქვს, გარდა ჩემი საკუთარი სიცოცხლის შეგრძნებისა.
 # translit = imitom vlaparakob amdens čʻems tʻavze, rom me sxva gamocʻdileba ara makʻvs, garda čʻemi sakutʻari sicʻocʻxlis šegrżnebisa.
 1	იმიტომ	იმიტომ	SCONJ	Conj	_	2	mark	2:mark	Translit=imitom
@@ -373,7 +373,7 @@
 19	შეგრძნებისა	შეგრძნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	11:nmod	SpaceAfter=No|Translit=šegrżnebisa
 20	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00023 
+# sent_id = GLC_00023
 # text = ჩემში ცვივა ხმები, ბგერები, ხმაური, სიტყვები.
 # translit = čʻemši cʻviva xmebi, bgerebi, xmauri, sitqvebi.
 1-2	ჩემში	_	_	_	_	_	_	_	_
@@ -389,7 +389,7 @@
 10	სიტყვები	სიტყვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	4	conj	4:conj	SpaceAfter=No|Translit=sitqvebi
 11	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00024 
+# sent_id = GLC_00024
 # text = მისი სიტყვები მოდიან ჩემამდე, შემოდიან ჩემში და სადღაც სიღრმეში იძირებიან, ლაგდებიან.
 # translit = misi sitqvebi modian čʻemamde, šemodian čʻemši da sadġacʻ siġrmeši iżirebian, lagdebian.
 1	მისი	მისი	PRON	Pron	Case=Nom|Number=Sing|Person=3|Poss=Yes	2	det:poss	2:det:poss	Translit=misi
@@ -413,7 +413,7 @@
 16	ლაგდებიან	ლაგდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	14	conj	14:conj	SpaceAfter=No|Translit=lagdebian
 17	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00025 
+# sent_id = GLC_00025
 # text = ეს ენა, როგორც ანკარა მთის წყარო, იღვრება ჩემში და მე არ მინდა სხვა ენით ავივსო.
 # translit = es ena, rogorcʻ ankara mtʻis cqaro, iġvreba čʻemši da me ar minda sxva enitʻ avivso.
 1	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	nmod	2:nmod	Translit=es
@@ -434,15 +434,15 @@
 15	მინდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	18	aux	18:aux	Translit=minda
 16	სხვა	სხვა	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	17	nmod	17:nmod	Translit=sxva
 17	ენით	ენა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	18	obl	18:obl	Translit=enitʻ
-18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Aor|Voice=Pass	9	parataxis	9:parataxis	SpaceAfter=No|Translit=avivso
+18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Pass	9	parataxis	9:parataxis	SpaceAfter=No|Translit=avivso
 19	.	.	PUNCT	F	PunctType=Peri	9	punct	9:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00026 
+# sent_id = GLC_00026
 # text = მოდის სიტყვები, როგორც თეთრი სპეტაკი თოვლი, რომელიც ეცემა თბილ მიწას და იქვე დნება, არ ჩერდება ჯერჯერობით ზედაპირზე. 
 # translit = modis sitqvebi, rogorcʻ tʻetʻri spetaki tʻovli, romelicʻ ecʻema tʻbil micas da ikʻve dneba, ar čʻerdeba jerjerobitʻ zedapirze. 
 1	მოდის	მოდის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	Translit=modis
 2	სიტყვები	სიტყვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No|Translit=sitqvebi
-3	,	,	PUNCT	F	PunctType=Comm	7	punct	7:punct	Translit=,
+3	,	,	PUNCT	F	PunctType=Comm	2	punct	2:punct	Translit=,
 4	როგორც	როგორც	SCONJ	Conj	_	2	mark	2:mark	Translit=rogorcʻ
 5	თეთრი	თეთრი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	Translit=tʻetʻri
 6	სპეტაკი	სპეტაკი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	7	amod	7:amod	Translit=spetaki
@@ -464,7 +464,7 @@
 21	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	20	case	20:case	Translit=ze
 22	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00027
+# sent_id = GLC_00027
 # text = მაგრამ მოვა ღამე, ცოტა აცივდება და უეცრად აღმოაჩენ, თურმე რამდენი თოვლი მოსულა წუხელ.
 # translit = magram mova ġame, cʻota acʻivdeba da uecʻrad aġmoačʻen, tʻurme ramdeni tʻovli mosula cuxel.
 1	მაგრამ	მაგრამ	CCONJ	Conj	_	2	cc	2:cc	Translit=magram
@@ -484,21 +484,21 @@
 15	წუხელ	წუხელ	ADV	Adv	AdvType=Tim	14	advmod	14:advmod	SpaceAfter=No|Translit=cuxel
 16	.	.	PUNCT	F	PunctType=Peri	9	punct	9:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00028 
+# sent_id = GLC_00028
 # text = მხოლოდ მეშვიდე დღეს შეთანხმდნენ, რომ მე თომა მქვია. 
 # translit = mxolod mešvide dġes šetʻanxmdnen, rom me tʻoma mkʻvia. 
 1	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	2	advmod	2:advmod	Translit=mxolod
 2	მეშვიდე	შვიდი	NUM	Num	Case=Dat|Number=Sing|NumType=Ord	3	nummod	3:nummod	Translit=mešvide
 3	დღეს	დღე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	4:obl	Translit=dġes
-4	შეთანხმდნენ	თანხმდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=šetʻanxmdnen
-5	,	,	PUNCT	F	PunctType=Comm	9	punct	9:punct	Translit=,
-6	რომ	რომ	SCONJ	Conj	_	9	mark	9:mark	Translit=rom
+4	შეთანხმდნენ	თანხმდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=šetʻanxmdnen
+5	,	,	PUNCT	F	PunctType=Comm	4	punct	4punct	Translit=,
+6	რომ	რომ	SCONJ	Conj	_	4	mark	4:mark	Translit=rom
 7	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Translit=me
 8	თომა	თომა	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	9	obj	9:obj	Translit=tʻoma
-9	მქვია	(ჰ)ქვია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	6	advcl	6:advcl	SpaceAfter=No|Translit=mkʻvia
+9	მქვია	(ჰ)ქვია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	4	advcl	4:advcl	SpaceAfter=No|Translit=mkʻvia
 10	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00029 
+# sent_id = GLC_00029
 # text = რაში ჭირდებოდა ახალი ფორმაციის დამკვიდრებისათვის ბრძოლა ქართველ ხალხს? 
 # translit = raši čirdeboda axali pʻormacʻiis damkvidrebisatʻvis brżola kʻartʻvel xalxs? 
 1-2	რაში	_	_	_	_	_	_	_	_
@@ -515,7 +515,7 @@
 10	ხალხს	ხალხი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No|Translit=xalxs
 11	?	?	PUNCT	F	PunctType=Qest	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00030 
+# sent_id = GLC_00030
 # text = მას თავისი ამოცანა ჰქონდა გადასაწყვეტი – ეროვნულ-გამათავისუფლებელი მოძრაობა უნდა მიეყვანა ბოლომდე, გამხდარიყო დამოუკიდებელი.
 # translit = mas tʻavisi amocʻana hkʻonda gadasacqveti – erovnul-gamatʻavisupʻlebeli możraoba unda mieqvana bolomde, gamxdariqo damoukidebeli.
 1	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	Translit=mas
@@ -536,7 +536,7 @@
 15	დამოუკიდებელი	დამოუკიდებელი	ADJ	Adj	Case=Nom|Number=Sing	14	amod	14:amod	SpaceAfter=No|Translit=damoukidebeli
 16	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00031 
+# sent_id = GLC_00031
 # text = ამ მიზნის სამსახურში იდგა ილია ჭავჭავაძე თავისი თანამებრძოლებით.
 # translit = am miznis samsaxurši idga ilia čavčavaże tʻavisi tʻanamebrżolebitʻ.
 1	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod	2:nmod	Translit=am
@@ -544,14 +544,14 @@
 3-4	სამსახურში	_	_	_	_	_	_	_	_
 3	სამსახურ	სამსახური	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl	5:obl	Translit=samsaxur
 4	ში	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	3:case	Translit=ši
-5	იდგა	დგას	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	Translit=idga
+5	იდგა	დგას	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	Translit=idga
 6	ილია	ილია	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	5	nsubj	5:nsubj	Translit=ilia
 7	ჭავჭავაძე	ჭავჭავაძე	PROPN	Prop	Case=Nom|NameType=Sur|Number=Sing	6	flat:name	6:flat:name	Translit=čavčavaże
 8	თავისი	თავისი	PRON	Pron	Case=Ins|Number=Sing|Poss=Yes	9	det:poss	9:det:poss	Translit=tʻavisi
 9	თანამებრძოლებით	თანამებრძოლი	NOUN	Noun	Animacy=Anim|Case=Ins|Number=Plur	6	obl	6:obl	SpaceAfter=No|Translit=tʻanamebrżolebitʻ
 10	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00032 
+# sent_id = GLC_00032
 # text = საქართველოს ეკონომიკას სად შესწევდა ძალა ესოდენ მასშტაბური ფორმაციისათვის გამოედო თავი, როდესაც ეს ფორმაცია მას სრულებითაც არ წაადგებოდა ეროვნულ-გამათავისუფლებელ მოძრაობაში, პირიქით!
 # translit = sakʻartʻvelos ekonomikas sad šescevda żala esoden masštaburi pʻormacʻiisatʻvis gamoedo tʻavi, rodesacʻ es pʻormacʻia mas srulebitʻacʻ ar caadgeboda erovnul-gamatʻavisupʻlebel możraobaši, pirikʻitʻ!
 1	საქართველოს	საქართველო	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	2	nmod	2:nmod	Translit=sakʻartʻvelos
@@ -564,7 +564,7 @@
 8-9	ფორმაციისათვის	_	_	_	_	_	_	_	_
 8	ფორმაციისა	ფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	obl	11:obl	Translit=pʻormacʻiisa
 9	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	8	case	8:case	Translit=tʻvis
-10	გამოედო	ედება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Subcat=Intr|Tense=Aor|Voice=Pass	4	conj	4:conj	Translit=gamoedo
+10	გამოედო	ედება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Subcat=Intr|Tense=Past|Voice=Pass	4	conj	4:conj	Translit=gamoedo
 11	თავი	თავი	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs	10	obj	10:obj	SpaceAfter=No|Translit=tʻavi
 12	,	,	PUNCT	F	PunctType=Comm	11	punct	11:punct	Translit=,
 13	როდესაც	როდესაც	SCONJ	Conj	_	11	mark	11:mark	Translit=rodesacʻ
@@ -582,7 +582,7 @@
 24	პირიქით	პირიქით	ADV	Adv	AdvType=Deg	19	advcl	19:advcl	SpaceAfter=No|Translit=pirikʻitʻ
 25	!	!	PUNCT	F	PunctType=Excl	4	punct	4:punct	Translit=!
 
-# sent_id = corpora.iliauni.edu.ge-ka-00033 
+# sent_id = GLC_00033
 # text = ერთი სიტყვით, საქართველოს სოციალიზმისათვის არა სცხელოდა.
 # translit = ertʻi sitqvitʻ, sakʻartʻvelos socʻializmisatʻvis ara scʻxeloda.
 1	ერთი	ერთი	NUM	Num	Case=Ins|Number=Sing|NumType=Card	2	nummod	2:nummod	Translit=ertʻi
@@ -596,7 +596,7 @@
 8	სცხელოდა	(ს)ცხელა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Imp|Voice=Mid	0	root	0:root	SpaceAfter=No|Translit=scʻxeloda
 9	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00034 
+# sent_id = GLC_00034
 # text = სოციალიზმის კონცეფცია მისგან მოითხოვდა, თავისუფლებაზე ფიქრი თავიდან ამოეგდო.
 # translit = socʻializmis koncʻepʻcʻia misgan moitʻxovda, tʻavisupʻlebaze pʻikʻritʻavidan amoegdo.
 1	სოციალიზმის	სოციალიზმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=socʻializmis
@@ -616,23 +616,23 @@
 12	ამოეგდო	ა/ი/უგდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	5	ccomp	5:ccomp	SpaceAfter=No|Translit=amoegdo
 13	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00035 
+# sent_id = GLC_00035
 # text = სოციალიზმის დამამკვიდრებლებმა აირჩიეს მაქსიმალური ხერხები, დაუნდობელი ბრძოლა გამოუცხადეს კერძო საკუთრებას.
 # translit = socʻializmis damamkvidreblebma airčʻies makʻsimaluri xerxebi, daundobeli brżola gamoucʻxades kerżo sakutʻrebas.
 1	სოციალიზმის	სოციალიზმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=socʻializmis
 2	დამამკვიდრებლებმა	დამამკვიდრებელი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Plur	3	nsubj	3:nsubj	Translit=damamkvidreblebma
-3	აირჩიეს	ირჩევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=airčʻies
+3	აირჩიეს	ირჩევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=airčʻies
 4	მაქსიმალური	მაქსიმალური	ADJ	Adj	Case=Nom|Number=Sing	5	amod	5:amod	Translit=makʻsimaluri
 5	ხერხები	ხერხი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	3	obj	3:obj	SpaceAfter=No|Translit=xerxebi
 6	,	,	PUNCT	F	PunctType=Comm	9	punct	9:punct	Translit=,
 7	დაუნდობელი	დაუნდობელი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	8:amod	Translit=daundobeli
 8	ბრძოლა	ბრძოლა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	obj	9:obj	Translit=brżola
-9	გამოუცხადეს	აცხადებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	3	conj	3:conj	Translit=gamoucʻxades
+9	გამოუცხადეს	აცხადებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	conj	3:conj	Translit=gamoucʻxades
 10	კერძო	კერძო	ADJ	Adj	Case=Dat|Number=Sing	11	amod	11:amod	Translit=kerżo
 11	საკუთრებას	საკუთრება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	iobj	9:iobj	SpaceAfter=No|Translit=sakutʻrebas
 12	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00036 
+# sent_id = GLC_00036
 # text = დავითი და საერთოდ ყველა ღირსეული მეფე ქართველ ერს სულ ახსოვდა, ჩუმად ეალერსებოდა ფიქრში, ოცნებაში, მაგრამ ადამიანი სანახევროდ შთაგონებაა, ამდენმა ჩიჩინმა მეფეთა „საშინელებაზე“ მაინც გააფერმკრთალა წინამძღოლთა დამსახურება ხალხის თვალში.
 # translit = davitʻi da saertʻod qvela ġirseuli mepʻe kʻartʻvel ers sul axsovda, čʻumad ealerseboda pʻikʻrši, ocʻnebaši, magram adamiani sanaxevrod štʻagonebaa, amdenma čʻičʻinma mepʻetʻa „sašinelebaze“ maincʻ gaapʻermkrtʻala cinamżġoltʻa damsaxureba xalxis tʻvalši.
 1	დავითი	დავითი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	10	obj	10:obj	Translit=davitʻi
@@ -672,7 +672,7 @@
 31	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	30	case	30:case	Translit=ze
 32	“	“	PUNCT	F	PunctType=Quot	30	punct	30:punct	Translit=“
 33	მაინც	მაინც	PART	Part	PartType=Emp	34	advmod	34:advmod	Translit=maincʻ
-34	გააფერმკრთალა	აფერმკრთალებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	10	parataxis	10:parataxis	Translit=gaapʻermkrtʻala
+34	გააფერმკრთალა	აფერმკრთალებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	10	parataxis	10:parataxis	Translit=gaapʻermkrtʻala
 35	წინამძღოლთა	წინამძღოლი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	36	nmod	36:nmod	Translit=cinamżġoltʻa
 36	დამსახურება	დამსახურება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	34	obj	34:obj	Translit=damsaxureba
 37	ხალხის	ხალხი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	38	nmod	38:nmod	Translit=xalxis
@@ -681,7 +681,7 @@
 39	ში	ში	ADP	Post	AdpType=Post|Case=Dat	38	case	38:case	Translit=ši
 40	.	.	PUNCT	F	PunctType=Peri	34	punct	34:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00037 
+# sent_id = GLC_00037
 # text = საქართველოში შექმნილი მწვავე (თუ არა საგანგაშო) დემოგრაფიული სიტუაცია, ბუნებრივია, თხოულობს პროცესების ღრმა და კომპლექსურ შესწავლას, სწორი და ეფექტიანი დემოგრაფიული პოლიტიკის გატარებას, ასევე მეცნიერულად დასაბუთებული რეკომენდაციების დაუყოვნებლივ შემუშავებას.
 # translit = sakʻartʻveloši šekʻmnili mcvave (tʻu ara sagangašo) demograpʻiuli situacʻia, bunebrivia, tʻxoulobs procʻesebis ġrma da komplekʻsur šescavlas, scori da epʻekʻtiani demograpʻiuli politikis gatarebas, aseve mecʻnierulad dasabutʻebuli rekomendacʻiebis dauqovnebliv šemušavebas.
 1-2	საქართველოში	_	_	_	_	_	_	_	_
@@ -705,12 +705,12 @@
 17	პროცესების	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	21:nmod	Translit=procʻesebis
 18	ღრმა	ღრმა	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	21	amod	21:amod	Translit=ġrma
 19	და	და	CCONJ	Conj	_	20	cc	20:cc	Translit=da
-20	კომპლექსურ	კომპლექსური	ADJ	Adj	Case=Dat|Number=Sing	18	amod	18:amod	Translit=komplekʻsur
+20	კომპლექსურ	კომპლექსური	ADJ	Adj	Case=Dat|Number=Sing	18	conj	18:conj	Translit=komplekʻsur
 21	შესწავლას	შესწავლა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	16:obj	SpaceAfter=No|Translit=šescavlas
 22	,	,	PUNCT	F	PunctType=Comm	28	punct	28:punct	Translit=,
 23	სწორი	სწორი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	27	nmod	27:nmod	Translit=scori
 24	და	და	CCONJ	Conj	_	25	cc	25:cc	Translit=da
-25	ეფექტიანი	ეფექტიანი	ADJ	Adj	Case=Gen|Number=Sing	21	nmod	21:nmod	Translit=epʻekʻtiani
+25	ეფექტიანი	ეფექტიანი	ADJ	Adj	Case=Gen|Number=Sing	23	conj	23:conj	Translit=epʻekʻtiani
 26	დემოგრაფიული	დემოგრაფიული	ADJ	Adj	Case=Gen|Number=Sing	27	nmod	27:nmod	Translit=demograpʻiuli
 27	პოლიტიკის	პოლიტიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	28	nmod	28:nmod	Translit=politikis
 28	გატარებას	გატარება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	conj	16:conj	SpaceAfter=No|Translit=gatarebas
@@ -720,10 +720,10 @@
 32	დასაბუთებული	დასაბუთებული	ADJ	Adj	Case=Gen|Number=Sing	33	nmod	33:nmod	Translit=dasabutʻebuli
 33	რეკომენდაციების	რეკომენდაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	35	nmod	35:nmod	Translit=rekomendacʻiebis
 34	დაუყოვნებლივ	დაუყოვნებლივ	ADV	Adv	AdvType=Man	35	advmod	35:advmod	Translit=dauqovnebliv
-35	შემუშავებას	შემუშავება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	conj	28:conj	SpaceAfter=No|Translit=šemušavebas
+35	შემუშავებას	შემუშავება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	conj	16:conj	SpaceAfter=No|Translit=šemušavebas
 36	.	.	PUNCT	F	PunctType=Peri	16	punct	16:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00038 
+# sent_id = GLC_00038
 # text = ქართველი ერის სასიცოცხლო ინტერესებისათვის საჭიროა დემოგრაფიული კვლევის მრავალმხრივი განვითარება.
 # translit = kʻartʻveli eris sasicʻocʻxlo interesebisatʻvis sačiroa demograpʻiuli kvlevis mravalmxrivi ganvitʻareba.
 1	ქართველი	ქართველი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	2:nsubj	Translit=kʻartʻveli
@@ -741,7 +741,7 @@
 11	განვითარება	განვითარება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No|Translit=ganvitʻareba
 12	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00039 
+# sent_id = GLC_00039
 # text = ნათქვამის საილუსტრაციოდ მოვიყვან რამდენიმე ფაქტს.
 # translit = natʻkʻvamis sailustracʻiod moviqvan ramdenime pʻakʻts.
 1	ნათქვამის	ნათქვამი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=natʻkʻvamis
@@ -751,13 +751,13 @@
 5	ფაქტს	ფაქტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	3:obj	SpaceAfter=No|Translit=pʻakʻts
 6	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00040 
+# sent_id = GLC_00040
 # text = ყველა ეპოქას „თავისი“, მოსახლეობისათვის თავზარდამცემი ავადმყოფობა აქვს.
 # translit = qvela epokʻas „tʻavisi“, mosaxleobisatʻvis tʻavzardamcʻemi avadmqopʻoba akʻvs.
 1	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	2	nmod	2:nmod	Translit=qvela
 2	ეპოქას	ეპოქა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	nsubj	3:nsubj	Translit=epokʻas
 3	„	„	PUNCT	F	PunctType=Quot	4	punct	4:punct	SpaceAfter=No|Translit=„
-4	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes	6	nmod	6:nmod	SpaceAfter=No|Translit=tʻavisi
+4	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes	6	appos	6:appos	SpaceAfter=No|Translit=tʻavisi
 5	“	“	PUNCT	F	PunctType=Quot	4	punct	4:punct	SpaceAfter=No|Translit=“
 6	,	,	PUNCT	F	PunctType=Comm	11	punct	11:punct	Translit=,
 7-8	მოსახლეობისათვის	_	_	_	_	_	_	_	_
@@ -768,7 +768,7 @@
 11	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	SpaceAfter=No|Translit=akʻvs
 12	.	.	PUNCT	F	PunctType=Peri	11	punct	11:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00041 
+# sent_id = GLC_00041
 # text = დღევანდელი ადამიანისთვის ყველაზე საშიშ დაავადებად (და სავსებით სამართლიანად) ითვლება ავთვისებიანი სიმსივნე.
 # translit = dġvandeli adamianistʻvis qvelaze sašiš daavadebad (da savsebitʻ samartʻlianad) itʻvleba avtʻvisebiani simsivne.
 1	დღევანდელი	დღევანდელი	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=dġevandeli
@@ -790,23 +790,23 @@
 15	სიმსივნე	სიმსივნე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No|Translit=simsivne
 16	.	.	PUNCT	F	PunctType=Peri	13	punct	13:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00042 
+# sent_id = GLC_00042
 # text = მაგალითად, ქალმა, რომელსაც უთხრეს, კისრის ოსტეოქონდროზი გაქვსო, ნახა რა ჟურნალ „ზდოროვიეში“ კისრის მალების სურათი, სადაც მალების ყველა ნაწილის სრული მიმოხილვისათვის კისერი გვერდზე მიბრუნებულად იყო დახატული, წარმოიდგინა, რომ ამ დაავადების შედეგად იყო კისერი გვერდზე მიქცეული და, აქედან გამომდინარე, მასაც შეიძლება მოეღრიცოს კისერი მომავალში.
 # translit = magalitʻad, kʻalma, romelsacʻ utʻxres, kisris osteokʻondrozi gakʻvso, naxa ra žurnal „zdorovieši“ kisris malebis suratʻi, sadacʻ malebis qvela nacilis sruli mimoxilvisatʻvis kiseri gverdze mibrunebulad iqo daxatuli, carmoidgina, rom am daavadebis šedegad iqo kiseri gverdze mikʻcʻeuli da, akʻedan gamomdinare, masacʻ šeiżleba moeġricʻos kiseri momavalši.
 1	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	obl	12:obl	SpaceAfter=No|Translit=magalitʻad
-2	,	,	PUNCT	F	PunctType=Comm	3	punct	3:punct	Translit=,
-3	ქალმა	ქალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No|Translit=kʻalma
-4	,	,	PUNCT	F	PunctType=Comm	5	punct	5:punct	Translit=,
+2	,	,	PUNCT	F	PunctType=Comm	1	punct	1:punct	Translit=,
+3	ქალმა	ქალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No|Translit=kʻalma
+4	,	,	PUNCT	F	PunctType=Comm	3	punct	3:punct	Translit=,
 5	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	3	nmod	3:nmod	Translit=romelsacʻ
-6	უთხრეს	ეუბნება	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	2	acl	2:acl	SpaceAfter=No|Translit=utʻxres
-7	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
+6	უთხრეს	ეუბნება	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	2	acl	2:acl	SpaceAfter=No|Translit=utʻxres
+7	,	,	PUNCT	F	PunctType=Comm	6	punct	6:punct	Translit=,
 8	კისრის	კისერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	9:nmod	Translit=kisris
 9	ოსტეოქონდროზი	ოსტეოქონდროზი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	obj	10:obj	Translit=osteokʻondrozi
 10-11	გაქვსო	_	_	_	_	_	_	_	SpaceAfter=No
 10	გაქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Intr|Tense=Pres	6	ccomp	6:ccomp	Translit=gakʻvs
 11	ო	თქო	PART	Part	Evident=Nfh	10	ccomp	10:ccomp	Translit=o
 12	,	,	PUNCT	F	PunctType=Comm	13	punct	13:punct	Translit=,
-13	ნახა	ნახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=naxa
+13	ნახა	ნახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=naxa
 14	რა	რა	PRON	Pron	Number=Sing|PronType=Rel	13	nmod	13:nmod	Translit=ra
 15	ჟურნალ	ჟურნალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	obj	17:obj	Translit=žurnal
 16	„	„	PUNCT	F	PunctType=Quot	18	punct	18:punct	SpaceAfter=No|Translit=„
@@ -817,7 +817,7 @@
 20	კისრის	კისერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	21:nmod	Translit=kisris
 21	მალების	მალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	22	nmod	22:nmod	Translit=malebis
 22	სურათი	სურათი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	obj	13:obj	SpaceAfter=No|Translit=suratʻi
-23	,	,	PUNCT	F	PunctType=Comm	36	punct	36:punct	Translit=,
+23	,	,	PUNCT	F	PunctType=Comm	22	punct	22:punct	Translit=,
 24	სადაც	სადაც	ADV	Adv	AdvType=Rel	22	advmod	22:advmod	Translit=sadacʻ
 25	მალების	მალა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	29	nmod	29:nmod	Translit=malebis
 26	ყველა	ყველა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	27	nmod	27:nmod	Translit=qvela
@@ -834,7 +834,7 @@
 35	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor	36	cop	36:cop	Translit=iqo
 36	დახატული	დახატული	ADJ	Adj	Case=Nom|Number=Sing	22	ccomp	22:ccomp	SpaceAfter=No|Translit=daxatuli
 37	,	,	PUNCT	F	PunctType=Comm	38	punct	38:punct	Translit=,
-38	წარმოიდგინა	წარმოიდგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	13	conj	13:conj	SpaceAfter=No|Translit=carmoidgina
+38	წარმოიდგინა	წარმოიდგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	13	conj	13:conj	SpaceAfter=No|Translit=carmoidgina
 39	,	,	PUNCT	F	PunctType=Comm	38	punct	38:punct	Translit=,
 40	რომ	რომ	SCONJ	Conj	_	38	mark	38:mark	Translit=rom
 41	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	42	nmod	42:nmod	Translit=am
@@ -860,7 +860,7 @@
 59	ში	ში	ADP	Post	AdpType=Post|Case=Dat	58	case	58:case	Translit=ši
 60	.	.	PUNCT	F	PunctType=Peri	13	punct	13:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00043 
+# sent_id = GLC_00043
 # text = ზოგჯერ ერთი შეხედვით სრულიად უწყინარმა სამედიცინო საკითხებთან დაკავშირებულმა ინფორმაციამ შეიძლება არასასურველ შედეგებამდე მიგვიყვანოს.
 # translit = zogjer ertʻi šexedvitʻ sruliad ucqinarma samedicʻino sakitʻxebtʻan dakavširebulma inpʻormacʻiam šeiżleba arasasurvel šedegebamde migviqvanos.
 1	ზოგჯერ	ზოგჯერ	ADV	Adv	AdvType=Tim	10	advmod	10:advmod	Translit=zogjer
@@ -879,10 +879,10 @@
 13-14	შედეგებამდე	_	_	_	_	_	_	_	_
 13	შედეგება	შედეგი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	15	obl	15:obl	Translit=šedegeba
 14	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	13	case	13:case	Translit=mde
-15	მიგვიყვანოს	იყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=migviqvanos
+15	მიგვიყვანოს	იყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=migviqvanos
 16	.	.	PUNCT	F	PunctType=Peri	15	punct	15:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00044 
+# sent_id = GLC_00044
 # text = მოსახლეობის სწრაფვამ სამედიცინო საკითხების ცოდნისაკენ წარმოუდგენლად გააძნელა ექიმის ურთიერთობა არა მარტო მძიმე ავადმყოფთან და მის ჭირისუფალთან, რაზეც ზევით უკვე გვქონდა საუბარი, არამედ ჩვეულებრივ, ორდინარულ, ამბულატორულ ავადმყოფთანაც კი.
 # translit = mosaxleobis scrapʻvam samedicʻino sakitʻxebis cʻodnisaken carmoudgenlad gaażnela ekʻimis urtʻiertʻoba ara marto mżime avadmqopʻtʻan da mis čirisupʻaltʻan, razecʻ zevitʻ ukve gvkʻonda saubari, aramed čʻveulebriv, ordinarul, ambulatorul avadmqopʻtʻanacʻ ki.
 1	მოსახლეობის	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=mosaxleobis
@@ -893,7 +893,7 @@
 5	ცოდნისა	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	obl	2:obl	Translit=cʻodnisa
 6	კენ	კენ	ADP	Post	AdpType=Post|Case=Gen	5	case	5:case	Translit=ken
 7	წარმოუდგენლად	წარმოუდგენელი	ADJ	Adj	Case=Ess|Number=Sing	8	amod	8:amod	Translit=carmoudgenlad
-8	გააძნელა	აძნელებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=gaażnela
+8	გააძნელა	აძნელებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=gaażnela
 9	ექიმის	ექიმი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	10	nmod	10:nmod	Translit=ekʻimis
 10	ურთიერთობა	ურთიერთობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	8:obj	Translit=urtʻiertʻoba
 11	არა	არა	PART	Part	PartType=Neg	12	advmod	12:advmod	Translit=ara
@@ -926,7 +926,7 @@
 35	კი	კი	PART	Part	PartType=Emp	33	advmod	33:advmod	SpaceAfter=No|Translit=ki
 36	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00045 
+# sent_id = GLC_00045
 # text = წაკითხულის სიმძაფრე და მრავალფეროვნება დიდად აღემატება განცდილსა და ნანახს.
 # translit = cakitʻxulis simżapʻre da mravalpʻerovneba didad aġemateba gancʻdilsa da nanaxs.
 1	წაკითხულის	წაკითხული	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=cakitʻxulis
@@ -940,7 +940,7 @@
 9	ნანახს	ნანახი	ADJ	Adj	Case=Dat|Number=Sing	7	amod	7:amod	SpaceAfter=No|Translit=nanaxs
 10	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00046 
+# sent_id = GLC_00046
 # text = თუმცა კარგი რომანი ან ლექსის წიგნი რომ შეიქმნას, ამისათვის სულაც არაა საჭირო, რომ მწერალი მონაწილეობდეს კოსმოსურ ოდისეაში, ან სამხედრო ლაშქრობაში, ანდა სხვა რამ თვალის სასეირო ამბავში.
 # translit = tʻumcʻa kargi romani an lekʻsis cigni rom šeikʻmnas, amisatʻvis sulacʻ araa sačiro, rom mcerali monacileobdes kosmosur odiseaši, an samxedro laškʻrobaši, anda sxva ram tʻvalis saseiro ambavši.
 1	თუმცა	თუმცა	SCONJ	Conj	_	8	mark	8:mark	Translit=tʻumcʻa
@@ -950,14 +950,14 @@
 5	ლექსის	ლექსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=lekʻsis
 6	წიგნი	წიგნი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	3:nsubj	Translit=cigni
 7	რომ	რომ	SCONJ	Conj	_	8	mark	8:mark	Translit=rom
-8	შეიქმნას	იქმნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Pass	0	root	0:root	SpaceAfter=No|Translit=šeikʻmnas
+8	შეიქმნას	იქმნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	0:root	SpaceAfter=No|Translit=šeikʻmnas
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	8:punct	Translit=,
 10-11	ამისათვის	_	_	_	_	_	_	_	_
 10	ამისა	ეს(ე)	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obl	15:obl	Translit=amisa
 11	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	10	case	10:case	Translit=tʻvis
 12	სულაც	სულაც	ADV	Adv	AdvType=Man	15	advmod	15:advmod	Translit=sulacʻ
 13-14	არაა	_	_	_	_	_	_	_	_
-13	არა	არა	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	15	advmod	15:advmod	Translit=ara
+13	არა	არა	PART	Part	PartType=Neg	15	advmod	15:advmod	Translit=ara
 14	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	13	cop	13:cop	Translit=a
 15	საჭირო	საჭირო	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	8	advcl	8:advcl	SpaceAfter=No|Translit=sačiro
 16	,	,	PUNCT	F	PunctType=Comm	15	punct	15:punct	Translit=,
@@ -985,13 +985,13 @@
 35	ში	ში	ADP	Post	AdpType=Post|Case=Dat	34	case	34:case	Translit=ši
 36	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00047 
+# sent_id = GLC_00047
 # text = ამ წიგნის გაცნობა გვაფიქრებინებს, რომ მაძიებელი პოეტური ენერგია მაშინაც კი საინტერესო მოულოდნელობებითაა აღსავსე, როცა ის „მცირე“ და ჩვეულებრივი სათქმელის ლექსიდან განსხეულებას ეწირება.
 # translit = am cignis gacʻnoba gvapʻikʻrebinebs, rom mażiebeli poeturi energia mašinacʻ ki saintereso moulodnelobebitʻaa aġsavse, rocʻa is „mcʻire“ da čʻveulebrivi satʻkʻmelis lekʻsidan gansxeulebas ecireba.
 1	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod	2:nmod	Translit=am
 2	წიგნის	წიგნი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	3:nmod	Translit=cignis
 3	გაცნობა	გაცნობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	4:nsubj	Translit=gacʻnoba
-4	გვაფიქრებინებს	აფიქრებინებს	VERB	Verb	Aspect=Impb|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=gvapʻikʻrebinebs
+4	გვაფიქრებინებს	აფიქრებინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=gvapʻikʻrebinebs
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	4:punct	Translit=,
 6	რომ	რომ	SCONJ	Conj	_	13	mark	13:mark	Translit=rom
 7	მაძიებელი	მაძიებელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	9	nsubj	9:nsubj	Translit=mażiebeli
@@ -1020,7 +1020,7 @@
 28	ეწირება	ეწირება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	14	ccomp	14:ccomp	SpaceAfter=No|Translit=ecireba
 29	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00048 
+# sent_id = GLC_00048
 # text = იგი ამ დროსაც კი განირიდებს დაშტამპულ სახეებს და ფრაზეოლოგიას...
 # translit = igi am drosacʻ ki ganiridebs daštampul saxeebs da pʻrazeologias...
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	Translit=igi
@@ -1034,7 +1034,7 @@
 9	ფრაზეოლოგიას	ფრაზეოლოგია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	7:obj	SpaceAfter=No|Translit=pʻrazeologias
 10	...	...	PUNCT	F	PunctType=Elip	5	punct	5:punct	Translit=...
 
-# sent_id = corpora.iliauni.edu.ge-ka-00049 
+# sent_id = GLC_00049
 # text = მთარგმნელის ხელში სიტყვიერი ხელოვნების ნიმუში ახალ სიცოცხლეს იძენს, ხელმეორედ იბადება, მანამდე უქონელი ფერის სამოსელს იცვამს და მეტ-ნაკლებად განსხვავებულ ჟღერადობას ღებულობს.
 # translit = mtʻargmnelis xelši sitqvieri xelovnebis nimuši axal sicʻocʻxles iżens, xelmeored ibadeba, manamde ukʻoneli pʻeris samosels icʻvams da met-naklebad gansxvavebul žġeradobas ġebulobs.
 1	მთარგმნელის	მთარგმნელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=mtʻargmnelis
@@ -1060,10 +1060,10 @@
 20	მეტ-ნაკლებად	მეტ-ნაკლებად	ADV	Adv	AdvType=Man	23	advmod	23:advmod	Translit=met-naklebad
 21	განსხვავებულ	განსხვავებული	ADJ	Adj	Case=Dat|Number=Sing	22	amod	22:amod	Translit=gansxvavebul
 22	ჟღერადობას	ჟღერადობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	23	obj	23:obj	Translit=žġeradobas
-23	ღებულობს	ღებულობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	9	root	9:root	SpaceAfter=No|Translit=ġebulobs
+23	ღებულობს	ღებულობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	18	conj	18:conj	SpaceAfter=No|Translit=ġebulobs
 24	.	.	PUNCT	F	PunctType=Peri	9	punct	9:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00050 
+# sent_id = GLC_00050
 # text = ასე ხატოვნად მოიტანა ჩვენამდე ავტორთა გულისთქმა.
 # translit = ase xatovnad moitana čʻvenamde avtortʻa gulistʻkʻma.
 1	ასე	ასე	ADV	Adv	AdvType=Man	3	advmod	3:advmod	Translit=ase
@@ -1076,7 +1076,7 @@
 7	გულისთქმა	გულისთქმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	3:obj	SpaceAfter=No|Translit=gulistʻkʻma
 8	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00051 
+# sent_id = GLC_00051
 # text = თვალს მჭრის ლამაზთა სინათლე.
 # translit = tʻvals mčris lamaztʻa sinatʻle.
 1	თვალს	თვალი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	2	obj	2:obj	Translit=tʻvals
@@ -1085,7 +1085,7 @@
 4	სინათლე	სინათლე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No|Translit=sinatʻle
 5	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00052 
+# sent_id = GLC_00052
 # text = აღსანიშნავია ლექსების სახეობრივ-მეტაფორული მხარე, რაშიც, უდაოდ ავტორთან ერთად მთარგმნელსაც მიუძღვის საჩინო წვლილი...
 # translit = aġsanišnavia lekʻsebis saxeobriv-metapʻoruli mxare, rašicʻ, udaod avtortʻan ertʻad mtʻargmnelsacʻ miuġżvis sačʻino cvlili...
 1-2	აღსანიშნავია	_	_	_	_	_	_	_	_
@@ -1108,7 +1108,7 @@
 16	წვლილი	წვლილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	14:nsubj	SpaceAfter=No|Translit=cvlili
 17	...	...	PUNCT	F	PunctType=Elip	1	punct	1:punct	Translit=...
 
-# sent_id = corpora.iliauni.edu.ge-ka-00053 
+# sent_id = GLC_00053
 # text = საგანგებო დაკვირვების მოწადინე მკითხველი მცირეოდენ ხარვეზებსაც მიაგნებს ამ კრებულში, მაგრამ ამჟამად ეს არაა ძირითადი.
 # translit = sagangebo dakvirvebis mocadine mkitʻxveli mcʻireoden xarvezebsacʻ miagnebs am krebulši, magram amžamad es araa żiritʻadi.
 1	საგანგებო	საგანგებო	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=sagangebo
@@ -1132,7 +1132,7 @@
 17	ძირითადი	ძირითადი	ADJ	Adj	Case=Nom|Number=Sing	15	amod	15:amod	SpaceAfter=No|Translit=żiritʻadi
 18	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00054 
+# sent_id = GLC_00054
 # text = მთავარია ის დადებითი, რომელიც ქმნის თარგმანების საერთო სახეს.
 # translit = mtʻavaria is dadebitʻi romelicʻ kʻmnis tʻargmanebis saertʻo saxes.
 1-2	მთავარია	_	_	_	_	_	_	_	_
@@ -1148,7 +1148,7 @@
 10	სახეს	სახე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	7:obj	SpaceAfter=No|Translit=saxes
 11	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00055 
+# sent_id = GLC_00055
 # text = მეორე დაზუსტება იმის გამოა აუცილებელი, რომ არავინ იფიქროს, თითქოს თ. ბექიშვილს ეპიგონობას სწამებენ.
 # translit = meore dazusteba imis gamoa aucʻilebeli, rom aravin ipʻikʻros, tʻitʻkʻos tʻ. bekʻišvils epigonobas scameben.
 1	მეორე	ორი	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	2	nummod	2:nummod	Translit=meore
@@ -1161,16 +1161,16 @@
 7	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
 8	რომ	რომ	SCONJ	Conj	_	10	mark	10:mark	Translit=rom
 9	არავინ	არავინ	PRON	Pron	Case=Erg|Number=Sing|PronType=Neg	10	nsubj	10:nsubj	Translit=aravin
-10	იფიქროს	ფიქრობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	4	ccomp	4:ccomp	SpaceAfter=No|Translit=ipʻikʻros
+10	იფიქროს	ფიქრობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	4	ccomp	4:ccomp	SpaceAfter=No|Translit=ipʻikʻros
 11	,	,	PUNCT	F	PunctType=Comm	16	punct	16:punct	Translit=,
 12	თითქოს	თითქოს	ADV	Adv	AdvType=Man	16	advmod	16:advmod	Translit=tʻitʻkʻos
-13	თ.	თ.	NOUN	Noun	Abbr=Yes	16	iobj	16:iobj	SpaceAfter=No|Translit=tʻ.
+13	თ.	თ.	NOUN	Noun	Abbr=Yes	16	iobj	16:iobj	Translit=tʻ.
 14	ბექიშვილს	ბექიშვილი	PROPN	Prop	Case=Dat|NameType=Sur|Number=Sing	13	flat:name	13:flat:name	Translit=bekʻišvils
 15	ეპიგონობას	ეპიგონობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	16:obj	Translit=epigonobas
-16	სწამებენ	სწამებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[iobj]=3|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	10	ccomp	10:ccomp	SpaceAfter=No|Translit=scameben
+16	სწამებენ	სწამებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	10	ccomp	10:ccomp	SpaceAfter=No|Translit=scameben
 17	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00056 
+# sent_id = GLC_00056
 # text = მე მხოლოდ ეროვნულ სათავეებზე მინდოდა მიმეთითებინა.
 # translit = me mxolod erovnul satʻaveebze mindoda mimetʻitʻebina.
 1	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	Translit=me
@@ -1183,7 +1183,7 @@
 7	მიმეთითებინა	ათითებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pqp|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=mimetʻitʻebina
 8	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00057 
+# sent_id = GLC_00057
 # text = დღეს მთელ კულტუროსან სამყაროში განსაკუთრებული შეშფოთებით ფიქრობენ და მსჯელობენ იმ საწყისის გადარჩენაზე, რომელიც „სულიერებადაა“ მონათლული.
 # translit = dġes mtʻel kulturosan samqaroši gansakutʻrebuli šešpʻotʻebitʻ pʻikʻroben da msjeloben im sacqisis gadarčʻenaze, romelicʻ „sulierebadaa“ monatʻluli.
 1	დღეს	დღეს	ADV	Adv	AdvType=Tim	8	advmod	8:advmod	Translit=dġes
@@ -1209,10 +1209,10 @@
 18	სულიერებადა	სულიერება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	acl	12:acl	Translit=sulierebada
 19	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	18	cop	18:cop	Translit=a
 20	“	“	PUNCT	F	PunctType=Quot	18	punct	18:punct	Translit=“
-21	მონათლული	მონათლული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Aor|VerbForm=Part	18	amod	18:amod	SpaceAfter=No|Translit=monatʻluli
+21	მონათლული	მონათლული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	18	amod	18:amod	SpaceAfter=No|Translit=monatʻluli
 22	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00058 
+# sent_id = GLC_00058
 # text = საუბარია იმაზე, რომ ადამიანის სულმა უნდა გაუძლოს საკუთარ ნაწარმს.
 # translit = saubaria imaze, rom adamianis sulma unda gaużlos sakutʻar nacarms.
 1-2	საუბარია	_	_	_	_	_	_	_	_
@@ -1226,12 +1226,12 @@
 7	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	8	nmod	8:nmod	Translit=adamianis
 8	სულმა	სული	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	10	nsubj	10:nsubj	Translit=sulma
 9	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	10	aux	10:aux	Translit=unda
-10	გაუძლოს	უძლებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Tense=Mood=Imp|Voice=Act	1	ccomp	1:ccomp	Translit=gaużlos
+10	გაუძლოს	უძლებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	1	ccomp	1:ccomp	Translit=gaużlos
 11	საკუთარ	საკუთარი	ADJ	Adj	Case=Dat|Number=Sing	12	amod	12:amod	Translit=sakutʻar
 12	ნაწარმს	ნაწარმი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	10:obj	SpaceAfter=No|Translit=nacarms
 13	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00059 
+# sent_id = GLC_00059
 # text = მაგრამ „სულიერების გადარჩენა“ არ გულისხმობს მატერიალურ სამყაროსგან სრულ გათიშვას.
 # translit = magram „sulierebis gadarčʻena“ ar gulisxmobs materialur samqarosgan srul gatʻišvas.
 1	მაგრამ	მაგრამ	CCONJ	Conj	_	7	cc	7:cc	Translit=magram
@@ -1249,7 +1249,7 @@
 12	გათიშვას	გათიშვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	7:obj	SpaceAfter=No|Translit=gatʻišvas
 13	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00060 
+# sent_id = GLC_00060
 # text = ვაჟა ფშაველა ხომ სწორედ იმით გამოირჩა და იმით ამაღლდა მის კილოზე ამღერებულ მრავალრიცხოვან მელექსეთა შორის, რომ მან მშობლიურ მთათა სიმაღლიდან „ქვეყანას“ მოავლო თვალი და თავისი ფიქრი უნივერსალურ ფიქრთა სამკვიდროს შეუნივთა.
 # translit = važa pʻšavela xom scored imitʻ gamoirčʻa da imitʻ amaġlda mis kiloze amġerebul mravalricʻxovan melekʻsetʻa šoris, rom man mšobliur mtʻatʻa simaġlidan „kʻveqanas“ moavlo tʻvali da tʻavisi pʻikʻri universalur pʻikʻrtʻa samkvidros šeunivtʻa.
 1	ვაჟა	ვაჟა	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	6	nsubj	6:nsubj	Translit=važa
@@ -1257,15 +1257,15 @@
 3	ხომ	ხომ	PART	Part	PartType=Int	4	advmod	4:advmod	Translit=xom
 4	სწორედ	სწორედ	ADV	Adv	AdvType=Man	6	advmod	6:advmod	Translit=scored
 5	იმით	ის	PRON	Pron	Case=Ins|Number=Sing|Person=3|PronType=Dem	6	nmod	6:nmod	Translit=imitʻ
-6	გამოირჩა	ირჩევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	Translit=gamoirčʻa
+6	გამოირჩა	ირჩევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	Translit=gamoirčʻa
 7	და	და	CCONJ	Conj	_	9	cc	9:cc	Translit=da
 8	იმით	ის	PRON	Pron	Case=Ins|Number=Sing|Person=3|PronType=Dem	9	nmod	9:nmod	Translit=imitʻ
-9	ამაღლდა	მაღლდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	6	conj	6:conj	Translit=amaġlda
+9	ამაღლდა	მაღლდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	6	conj	6:conj	Translit=amaġlda
 10	მის	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes	11	det:poss	11:det:poss	Translit=mis
 11-12	კილოზე	_	_	_	_	_	_	_	_
 11	კილო	კილო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl	13:obl	Translit=kilo
 12	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	11	case	11:case	Translit=ze
-13	ამღერებულ	ამღერებული	VERB	VerbalAdj	Case=Dat|Mood=Ind|Number=Sing|Tense=Aor|VerbForm=Part	15	amod	15:amod	Translit=amġerebul
+13	ამღერებულ	ამღერებული	VERB	VerbalAdj	Case=Dat|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	15	amod	15:amod	Translit=amġerebul
 14	მრავალრიცხოვან	მრავალრიცხოვანი	ADJ	Adj	Case=Dat|Number=Sing	15	amod	15:amod	Translit=mravalricʻxovan
 15	მელექსეთა	მელექსე	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	9	obl	9:obl	Translit=melekʻsetʻa
 16	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	15	case	15:case	SpaceAfter=No|Translit=šoris
@@ -1280,7 +1280,7 @@
 24	„	„	PUNCT	F	PunctType=Quot	25	punct	25:punct	SpaceAfter=No|Translit=„
 25	ქვეყანას	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	obj	27:obj	SpaceAfter=No|Translit=kʻveqanas
 26	“	“	PUNCT	F	PunctType=Quot	25	punct	25:punct	Translit=“
-27	მოავლო	ავლებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Aor|Voice=Act	6	advcl	6:advcl	Translit=moavlo
+27	მოავლო	ავლებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	6	advcl	6:advcl	Translit=moavlo
 28	თვალი	თვალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	27	obj	27:obj	Translit=tʻvali
 29	და	და	CCONJ	Conj	_	35	cc	35:cc	Translit=da
 30	თავისი	თავისი	PRON	Pron	Case=Nom|Number=Sing|Poss=Yes	31	det:poss	31:det:poss	Translit=tʻavisi
@@ -1288,10 +1288,10 @@
 32	უნივერსალურ	უნივერსალური	ADJ	Adj	Case=Gen|Number=Sing	33	nmod	33:nmod	Translit=universalur
 33	ფიქრთა	ფიქრი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	34	nmod	34:nmod	Translit=pʻikʻrtʻa
 34	სამკვიდროს	სამკვიდრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	35	iobj	35:iobj	Translit=samkvidros
-35	შეუნივთა	ნივთავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	27	conj	27:conj	SpaceAfter=No|Translit=šeunivtʻa
+35	შეუნივთა	ნივთავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	27	conj	27:conj	SpaceAfter=No|Translit=šeunivtʻa
 36	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00061 
+# sent_id = GLC_00061
 # text = გრიგოლ აბაშიძე თანამედროვე ქართული მწერლობის თვალსაჩინო წარმომადგენელია.
 # translit = grigol abašiże tʻanamedrove kʻartʻuli mcerlobis tʻvalsačʻino carmomadgenelia.
 1	გრიგოლ	გრიგოლ	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	7	nsubj	7:nsubj	Translit=grigol
@@ -1305,7 +1305,7 @@
 8	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	7	cop	7:cop	Translit=a
 9	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00062 
+# sent_id = GLC_00062
 # text = სიტყვაკაზმულ ხელოვნებაში მისი მრავალმხრივი მოღვაწეობის ამომწურავი შეფასება, ცხადია, მომავლის საქმეა, ამიტომ პოეტის შემოქმედების ამსახველი ყოველი მაღალკვალიფიციური წერილი თუ ნაშრომი სამომავლოდ განსაკუთრებული ფასეულობის შემცველია.
 # translit = sitqvakazmul xelovnebaši misi mravalmxrivi moġvaceobis amomcuravi šepʻaseba, cʻxadia, momavlis sakʻmea, amitom poetis šemokʻmedebis amsaxveli qoveli maġalkvalipʻicʻiuri cerili tʻu našromi samomavlod gansakutʻrebuli pʻaseulobis šemcʻvelia.
 1	სიტყვაკაზმულ	სიტყვაკაზმული	ADJ	Adj	Case=Dat|Number=Sing	2	amod	2:amod	Translit=sitqvakazmul
@@ -1344,39 +1344,39 @@
 30	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	29	cop	29:cop	Translit=a
 31	.	.	PUNCT	F	PunctType=Peri	29	punct	29:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00063 
+# sent_id = GLC_00063
 # text = მე ვახსენე „მაღალკვალიფიციური ნაშრომი“.
 # translit = me vaxsene „maġalkvalipʻicʻiuri našromi“.
 1	მე	მე	PRON	Pron	Case=Erg|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Translit=me
-2	ვახსენე	ახსენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=vaxsene
+2	ვახსენე	ახსენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=vaxsene
 3	„	„	PUNCT	F	PunctType=Quot	5	punct	5:punct	SpaceAfter=No|Translit=„
 4	მაღალკვალიფიციური	მაღალკვალიფიციური	ADJ	Adj	Case=Nom|Number=Sing	5	amod	5:amod	Translit=maġalkvalipʻicʻiuri
 5	ნაშრომი	ნაშრომი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	obj	2:obj	SpaceAfter=No|Translit=našromi
 6	“	“	PUNCT	F	PunctType=Quot	5	punct	5:punct	SpaceAfter=No|Translit=“
 7	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00064 
+# sent_id = GLC_00064
 # text = იდგა კლდის ბეჭზე და ცას შეჰყურებდა.
 # translit = idga kldis bečze da cʻas šehqurebda.
-1	იდგა	დგას	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	Translit=idga
+1	იდგა	დგას	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	Translit=idga
 2	კლდის	კლდე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	3:nmod	Translit=kldis
 3-4	ბეჭზე	_	_	_	_	_	_	_	_
 3	ბეჭ	ბეჭი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	1	obl	1:obl	Translit=beč
 4	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	3	case	3:case	Translit=ze
 5	და	და	CCONJ	Conj	_	7	cc	7:cc	Translit=da
 6	ცას	ცა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	7:obj	Translit=cʻas
-7	შეჰყურებდა	უყურებს	VERB	Verb	Aspect=Perf|IndVoice=Act|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Tense=Mood=Cnd	1	conj	1:conj	SpaceAfter=No|Translit=šehqurebda
+7	შეჰყურებდა	უყურებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut||Voice=Act	1	conj	1:conj	SpaceAfter=No|Translit=šehqurebda
 8	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00065 
+# sent_id = GLC_00065
 # text = ვერც კი დაინახა, როგორ გაჩერდა ქვემოთ, გზაზე მხარზე ცულგადებული კაცი.
 # translit = vercʻ ki dainaxa, rogor gačʻerda kʻvemotʻ, gzaze mxarze cʻulgadebuli kacʻi.
 1	ვერც	ვერც	PART	Part	PartType=Emp	3	advmod	3:advmod	Translit=vercʻ
 2	კი	კი	PART	Part	PartType=Emp	3	advmod	3:advmod	Translit=ki
-3	დაინახა	ხედავს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=dainaxa
+3	დაინახა	ხედავს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=dainaxa
 4	,	,	PUNCT	F	PunctType=Comm	6	punct	6:punct	Translit=,
 5	როგორ	როგორ	PRON	Pron	Number=Sing|PronType=Rel	6	nmod	6:nmod	Translit=rogor
-6	გაჩერდა	ჩერდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	3	ccomp	3:ccomp	Translit=gačʻerda
+6	გაჩერდა	ჩერდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	3	ccomp	3:ccomp	Translit=gačʻerda
 7	ქვემოთ	ქვემოთ	ADV	Adv	AdvType=Loc	6	advmod:lmod	6:advmod:lmod	SpaceAfter=No|Translit=kʻvemotʻ
 8	,	,	PUNCT	F	PunctType=Comm	9	punct	9:punct	Translit=,
 9-10	გზაზე	_	_	_	_	_	_	_	_
@@ -1389,7 +1389,7 @@
 14	კაცი	კაცი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No|Translit=kacʻi
 15	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00066 
+# sent_id = GLC_00066
 # text = დადის იმ დღიდან ის კაცი.
 # translit = dadis im dġidan is kacʻi.
 1	დადის	დადის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	Translit=dadis
@@ -1401,7 +1401,7 @@
 6	კაცი	კაცი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No|Translit=kacʻi
 7	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00067 
+# sent_id = GLC_00067
 # text = მზის სხივებით დამფრთხალი ღამე იქ აფარებს თავს, დაჭრილი ნადირიც მას ეტანება.
 # translit = mzis sxivebitʻ dampʻrtʻxali ġame ikʻ apʻarebs tʻavs, dačrili nadiricʻ mas etaneba.
 1	მზის	მზე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=mzis
@@ -1418,7 +1418,7 @@
 12	ეტანება	ეტანება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	6	parataxis	6:parataxis	SpaceAfter=No|Translit=etaneba
 13	.	.	PUNCT	F	PunctType=Peri	12	punct	12:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00068 
+# sent_id = GLC_00068
 # text = შემოდგომით ქარისაგან დამფრთხალი ფოთლები თავშესაფარს ვეხის კედლებში ეძებენ.
 # translit = šemodgomitʻ kʻarisagan dampʻrtʻxali pʻotʻlebi tʻavšesapʻars vexis kedlebši eżeben.
 1	შემოდგომით	შემოდგომა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	10:obl	Translit=šemodgomitʻ
@@ -1435,7 +1435,7 @@
 10	ეძებენ	ეძებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=eżeben
 11	.	.	PUNCT	F	PunctType=Peri	10	punct	10:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00069 
+# sent_id = GLC_00069
 # text = ნეოლითის ხანიდან აღინიშნება ადამიანის არსებობა კავკასიაში.
 # translit = neolitʻis xanidan aġinišneba adamianis arseboba kavkasiaši.
 1	ნეოლითის	ნეოლითი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=neolitʻis
@@ -1450,7 +1450,7 @@
 8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	7:case	Translit=ši
 9	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00070
+# sent_id = GLC_00070
 # text = მცხეთის ნაგებობებიდან აღსანიშნავია ძველი საყდარი.
 # translit = mcʻxetʻis nagebobebidan aġsanišnavia żveli saqdari.
 1	მცხეთის	მცხეთა	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	2	nmod	2:nmod	Translit=mcʻxetʻis
@@ -1464,7 +1464,7 @@
 7	საყდარი	საყდარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No|Translit=saqdari
 8	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00071
+# sent_id = GLC_00071
 # text = დღესაც იმაზე კამათობენ მეცნიერები, თუ ვის გავლენას უნდა უმადლოდეს ქართული ხუროთმოძღვრება მის საოცარ ჰარმონიას.
 # translit = dġesacʻ imaze kamatʻoben mecʻnierebi, tʻu vis gavlenas unda umadlodes kʻartʻuli xurotʻmożġvreba mis saocʻar harmonias.
 1	დღესაც	დღეს	ADV	Adv	AdvType=Tim|PartType=Emp	4	advmod	4:advmod	Translit=dġesacʻ
@@ -1486,7 +1486,7 @@
 16	ჰარმონიას	ჰარმონია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obj	11:obj	SpaceAfter=No|Translit=harmonias
 17	.	.	PUNCT	F	PunctType=Peri	11	punct	11:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00072 
+# sent_id = GLC_00072
 # text = ეკლესიის თაღის ქვეშ მეზობელი სახლის ქალები ისხდნენ და გულმოდგინედ აპრიალებდნენ რკინის შანდლებს.
 # translit = eklesiis tʻaġis kʻveš mezobeli saxlis kʻalebi isxdnen da gulmodgined aprialebdnen rkinis šandlebs.
 1	ეკლესიის	ეკლესია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=eklesiis
@@ -1495,7 +1495,7 @@
 4	მეზობელი	მეზობელი	ADJ	Adj	Case=Gen|Number=Sing	5	nmod	5:nmod	Translit=mezobeli
 5	სახლის	სახლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=saxlis
 6	ქალები	ქალი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	7	nsubj	7:nsubj	Translit=kʻalebi
-7	ისხდნენ	ზის	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	Translit=isxdnen
+7	ისხდნენ	ზის	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	Translit=isxdnen
 8	და	და	CCONJ	Conj	_	10	cc	10:cc	Translit=da
 9	გულმოდგინედ	გულმოდგინე	ADV	Adv	_	10	advmod	10:advmod	Translit=gulmodgined
 10	აპრიალებდნენ	აპრიალებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	7	conj	7:conj	Translit=aprialebdnen
@@ -1503,7 +1503,7 @@
 12	შანდლებს	შანდალი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	10	obj	10:obj	SpaceAfter=No|Translit=šandlebs
 13	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00073 
+# sent_id = GLC_00073
 # text = ჩვენმა მძღოლმა მათთან საუბარი დაიწყო, საუბარი თანდათან გაცხოველდა და ჩვენც ძალაუნებურად ყური მივუგდეთ.
 # translit = čʻvenma mżġolma matʻtʻan saubari daicqo, saubari tʻandatʻan gacʻxovelda da čʻvencʻ żalauneburad quri mivugdetʻ.
 1	ჩვენმა	ჩვენი	PRON	Pron	Case=Erg|Number=Plur|Person=1|Poss=Yes	2	det:poss	2:det:poss	Translit=čʻvenma
@@ -1512,25 +1512,25 @@
 3	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl	6:obl	Translit=matʻ
 4	თან	თან	ADP	Post	AdpType=Post|Case=Dat	3	case	3:case	Translit=tʻan
 5	საუბარი	საუბარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	obj	6:obj	Translit=saubari
-6	დაიწყო	იწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=daicqo
+6	დაიწყო	იწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=daicqo
 7	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
 8	საუბარი	საუბარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	nsubj	10:nsubj	Translit=saubari
 9	თანდათან	თანდათან	ADV	Adv	AdvType=Man	10	advmod	10:advmod	Translit=tʻandatʻan
-10	გაცხოველდა	ცხოველდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	6	ccomp	6:ccomp	Translit=gacʻxovelda
+10	გაცხოველდა	ცხოველდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	6	ccomp	6:ccomp	Translit=gacʻxovelda
 11	და	და	CCONJ	Conj	_	15	cc	15:cc	Translit=da
 12	ჩვენც	ჩვენ	PRON	Pron	Case=Erg|Number=Plur|PartType=Emp|Person=1|PronType=Prs	15	nsubj	15:nsubj	Translit=čʻvencʻ
 13	ძალაუნებურად	ძალაუნებურად	ADV	Adv	AdvType=Man	15	advmod	15:advmod	Translit=żalauneburad
 14	ყური	ყური	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	15:obj	Translit=quri
-15	მივუგდეთ	უგდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	6	parataxis	6:parataxis	SpaceAfter=No|Translit=mivugdetʻ
+15	მივუგდეთ	უგდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	6	parataxis	6:parataxis	SpaceAfter=No|Translit=mivugdetʻ
 16	.	.	PUNCT	F	PunctType=Peri	15	punct	15:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00074 
+# sent_id = GLC_00074
 # text = ერთ კვირა დღეს გავემგზავრეთ წინანდლისაკენ, ალექსანდრე ჭავჭავაძის ყოფილ მამულში.
 # translit = ertʻ kvira dġes gavemgzavretʻ cinandlisaken, alekʻsandre čavčavażis qopʻil mamulši.
 1	ერთ	ერთი	NUM	Num	Case=Dat|Number=Sing|NumType=Card	2	nummod	2:nummod	Translit=ertʻ
 2	კვირა	კვირა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	amod	3:amod	Translit=kvira
 3	დღეს	დღეს	ADV	Adv	AdvType=Tim	4	advmod	4:advmod	Translit=dġes
-4	გავემგზავრეთ	ემგზავრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=gavemgzavretʻ
+4	გავემგზავრეთ	ემგზავრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=gavemgzavretʻ
 5-6	წინანდლისაკენ	_	_	_	_	_	_	_	SpaceAfter=No
 5	წინანდლისა	წინანდალი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	4	obl	4:obl	Translit=cinandlisa
 6	კენ	კენ	ADP	Post	AdpType=Post|Case=Gen	5	case	5:case	Translit=ken
@@ -1543,7 +1543,7 @@
 12	ში	ში	ADP	Post	AdpType=Post|Case=Dat	11	case	11:case	Translit=ši
 13	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00075 
+# sent_id = GLC_00075
 # text = გზა მთებით გარშემორტყმულ ველს მიჰყვება, სადაც მაისის მზით გამთბარ ვაზს ყვავილობა დაეწყო.
 # translit = gza mtʻebitʻ garšemortqmul vels mihqveba, sadacʻ maisis mzitʻ gamtʻbar vazs qvaviloba daecqo.
 1	გზა	გზა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	5:nsubj	Translit=gza
@@ -1561,7 +1561,7 @@
 13	დაეწყო	ა/ი/უწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	7	advcl	7:advcl	SpaceAfter=No|Translit=daecqo
 14	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00076 
+# sent_id = GLC_00076
 # text = კოხტა სოფლები კვირადღის სიმშვიდეს მოეცვა.
 # translit = koxta sopʻlebi kviradġis simšvides moecʻva.
 1	კოხტა	კოხტა	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	2	amod	2:amod	Translit=koxta
@@ -1571,7 +1571,7 @@
 5	მოეცვა	ა/ი/უცვამს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=moecʻva
 6	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00077 
+# sent_id = GLC_00077
 # text = ახალგაზრდა გოგონები სიცილ-კისკისით მიჰფენოდნენ შარაგზას.
 # translit = axalgazrda gogonebi sicʻil-kiskisitʻ mihpʻenodnen šaragzas.
 1	ახალგაზრდა	ახალგაზრდა	ADJ	Adj	Case=Nom|Number=Sing	2	amod	2:amod	Translit=axalgazrda
@@ -1581,7 +1581,7 @@
 5	შარაგზას	შარაგზა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	iobj	4:iobj	SpaceAfter=No|Translit=šaragzas
 6	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00078 
+# sent_id = GLC_00078
 # text = გზაში ხშირად ახალგაზრდებით სავსე სატვირთო მანქანები და ავტობუსები გვხვდებოდა, როგორც ჩანს, რაღაც სპორტულ ღონისძიებაზე მიეჩქარებოდათ.
 # translit = gzaši xširad axalgazrdebitʻ savse satvirtʻo mankʻanebi da avtobusebi gvxvdeboda, rogorcʻ čʻans, raġacʻ sportul ġonisżiebaze miečʻkʻarebodatʻ.
 1-2	გზაში	_	_	_	_	_	_	_	_
@@ -1607,7 +1607,7 @@
 19	მიეჩქარებოდათ	ეჩქარება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Imp|Voice=Mid	10	ccomp	10:ccomp	SpaceAfter=No|Translit=miečʻkʻarebodatʻ
 20	.	.	PUNCT	F	PunctType=Peri	10	punct	10:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00079 
+# sent_id = GLC_00079
 # text = ჩვენს ყურადღებას მოხუცი გლეხები იპყრობდნენ, რომლებიც დარბაისლურად მიაბიჯებდნენ შარაზე, პატარა ბარგით დატვირთულ სახედრების თანხლებით.
 # translit = čʻvens quradġebas moxucʻi glexebi ipqrobdnen, romlebicʻ darbaislurad miabijebdnen šaraze, patara bargitʻ datvirtʻul saxedrebis tʻanxlebitʻ.
 1	ჩვენს	ჩვენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	obj	2:obj	Translit=čʻvens
@@ -1630,7 +1630,7 @@
 17	თანხლებით	თანხლებით	ADV	Adv	AdvType=Man	4	advcl	4:advcl	SpaceAfter=No|Translit=tʻanxlebitʻ
 18	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00080 
+# sent_id = GLC_00080
 # text = წყალი გვწყუროდა და ერთი გლეხის სახლთან შევჩერდით.
 # translit = cqali gvcquroda da ertʻi glexis saxltʻan ševčʻerditʻ.
 1	წყალი	წყალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	8:obj	Translit=cqali
@@ -1641,21 +1641,21 @@
 6-7	სახლთან	_	_	_	_	_	_	_	_
 6	სახლ	სახლი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	8:obl	Translit=saxl
 7	თან	თან	ADP	Post	AdpType=Post|Case=Dat	6	case	6:case	Translit=tʻan
-8	შევჩერდით	ჩერდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Aor|Voice=Act	2	conj	2:conj	SpaceAfter=No|Translit=ševčʻerditʻ
+8	შევჩერდით	ჩერდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Act	2	conj	2:conj	SpaceAfter=No|Translit=ševčʻerditʻ
 9	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00081
+# sent_id = GLC_00081
 # text = მეგობრული პატივისცემით შემოგვაგებეს დოქი და ჭიქა.
 # translit = megobruli pativiscʻemitʻ šemogvagebes dokʻi da čikʻa.
 1	მეგობრული	მეგობრული	ADJ	Adj	Case=Ins|Number=Sing	2	amod	2:amod	Translit=megobruli
 2	პატივისცემით	პატივისცემა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	3	obl	3:obl	Translit=pativiscʻemitʻ
-3	შემოგვაგებეს	გებულობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=šemogvagebes
+3	შემოგვაგებეს	გებულობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=šemogvagebes
 4	დოქი	დოქი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	3:obj	Translit=dokʻi
 5	და	და	CCONJ	Conj	_	6	cc	6:cc	Translit=da
 6	ჭიქა	ჭიქა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	4:conj	SpaceAfter=No|Translit=čikʻa
 7	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00082 
+# sent_id = GLC_00082
 # text = წინანდალი ღვინის ერთერთი უდიდესი მეურნეობაა, რომელიც ჯერ კიდევ მის ყოფილ მფლობელებს 100.000 ბოთლ ღვინოს აძლევდა წელიწადში.
 # translit = cinandali ġvinis ertʻertʻi udidesi meurneobaa, romelicʻ jer kidev mis qopʻil mpʻlobelebs 100.000 botʻl ġvinos ażlevda celicadši.
 1	წინანდალი	წინანდალი	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	5	nsubj	5:nsubj	Translit=cinandali
@@ -1681,7 +1681,7 @@
 19	ში	ში	ADP	Post	AdpType=Post|Case=Dat	18	case	18:case	Translit=ši
 20	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00083 
+# sent_id = GLC_00083
 # text = ღვინის მცოდნენი ქართულ ღვინოს ანიჭებენ უპირატესობას.
 # translit = ġvinis mcʻodneni kʻartʻul ġvinos aničeben upiratesobas.
 1	ღვინის	ღვინო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=ġvinis
@@ -1692,7 +1692,7 @@
 6	უპირატესობას	უპირატესობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obj	5:obj	SpaceAfter=No|Translit=upiratesobas
 7	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00084 
+# sent_id = GLC_00084
 # text = მაგრამ ჩვენს ნამდვილ სამშობლოდ პირველივე საათებში უნივერსიტეტი იქცა.
 # translit = magram čʻvens namdvil samšoblod pirvelive saatʻebši universiteti ikʻcʻa.
 1	მაგრამ	მაგრამ	CCONJ	Conj	_	9	cc	9:cc	Translit=magram
@@ -1704,10 +1704,10 @@
 6	საათებ	საათი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	9	obl	9:obl	Translit=saatʻeb
 7	ში	ში	ADP	Post	AdpType=Post|Case=Dat	6	case	6:case	Translit=ši
 8	უნივერსიტეტი	უნივერსიტეტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	9:nsubj	Translit=universiteti
-9	იქცა	იქცევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=ikʻcʻa
+9	იქცა	იქცევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=ikʻcʻa
 10	.	.	PUNCT	F	PunctType=Peri	9	punct	9:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00085 
+# sent_id = GLC_00085
 # text = უპირველეს ყოვლისა ქართული ენის კაბინეტს მივაშურეთ.
 # translit = upirveles qovlisa kʻartʻuli enis kabinets mivašuretʻ.
 1	უპირველეს	უპირველესი	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=upirveles
@@ -1715,23 +1715,23 @@
 3	ქართული	ქართული	ADJ	Adj	Case=Gen|Number=Sing	4	nmod	4:nmod	Translit=kʻartʻuli
 4	ენის	ენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	5:nmod	Translit=enis
 5	კაბინეტს	კაბინეტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obj	6:obj	Translit=kabinets
-6	მივაშურეთ	აშურებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=mivašuretʻ
+6	მივაშურეთ	აშურებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=mivašuretʻ
 7	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00086 
+# sent_id = GLC_00086
 # text = ამ კაბინეტის ხელმძღვანელი პროფესორი ა. შანიძეა.
 # translit = am kabinetis xelmżġvaneli propʻesori a. šaniżea.
 1	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod	2:nmod	Translit=am
 2	კაბინეტის	კაბინეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	3:nmod	Translit=kabinetis
 3	ხელმძღვანელი	ხელმძღვანელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	4	nmod	4:nmod	Translit=xelmżġvaneli
 4	პროფესორი	პროფესორი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	6:nsubj	Translit=propʻesori
-5	ა.	ა.	NOUN	Noun	Abbr=Yes	0	root	6:root	Translit=a.
+5	ა.	ა.	NOUN	Noun	Abbr=Yes	0	root	0:root	Translit=a.
 6-7	შანიძეა	_	_	_	_	_	_	_	SpaceAfter=No
 6	შანიძე	შანიძე	PROPN	Prop	Case=Nom|NameType=Sur|Number=Sing	5	flat:name	5:flat:name	Translit=šaniże
 7	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	6	cop	6:cop	Translit=a
 8	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00087 
+# sent_id = GLC_00087
 # text = იგი უმთავრესად ძველი ქართული ენით არის დაინტერესებული და ცნობილია, როგორც ძველი ტექსტების გამომცემელი.
 # translit = igi umtʻavresad żveli kʻartʻuli enitʻ aris dainteresebuli da cʻnobilia, rogorcʻ żveli tekʻstebis gamomcʻemeli.
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	Translit=igi
@@ -1752,7 +1752,7 @@
 15	გამომცემელი	გამომცემელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	9	nsubj	9:nsubj	SpaceAfter=No|Translit=gamomcʻemeli
 16	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00088 
+# sent_id = GLC_00088
 # text = მეფის რუსეთის პირობებში მრავალი ძვირფასი ხელნაწერი საზღვარგარეთ გაზიდეს.
 # translit = mepʻis rusetʻis pirobebši mravali żvirpʻasi xelnaceri sazġvargaretʻ gazides.
 1	მეფის	მეფე	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=mepʻis
@@ -1764,10 +1764,10 @@
 6	ძვირფასი	ძვირფასი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	7	amod	7:amod	Translit=żvirpʻasi
 7	ხელნაწერი	ხელნაწერი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	obj	9:obj	Translit=xelnaceri
 8	საზღვარგარეთ	საზღვარგარეთ	ADV	Adv	AdvType=Loc	9	advmod:lmod	9:advmod:lmod	Translit=sazġvargaretʻ
-9	გაზიდეს	ზიდავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=gazides
+9	გაზიდეს	ზიდავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=gazides
 10	.	.	PUNCT	F	PunctType=Peri	9	punct	9:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00089 
+# sent_id = GLC_00089
 # text = თეორიულ კვლევა-ძიებასთან ერთად იგი დიდ მნიშვნელობას ანიჭებს, მუშაობის მეორე მხარეს – საშუალო და უმაღლესი სასწავლებლებისათვის გრამატიკული სახელმძღვანელოს შედგენას.
 # translit = tʻeoriul kveleva-żiebastʻan ertʻad igi did mnišvnelobas aničebs, mušaobis meore mxares – sašualo da umaġlesi sascavleblebisatʻvis gramatikuli saxelmżġvanelos šedgenas.
 1	თეორიულ	თეორიული	ADJ	Adj	Case=Dat|Number=Sing	2	amod	2:amod	Translit=tʻeoriul
@@ -1795,7 +1795,7 @@
 21	შედგენას	შედგენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	iobj	12:iobj	SpaceAfter=No|Translit=šedgenas
 22	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00090 
+# sent_id = GLC_00090
 # text = ეს თავისებურება საიდუმლოდ ხდის ჩვენთვის აგრეთვე პროფ. ვ. ახვლედიანის ნაშრომებსაც.
 # translit = es tʻavisebureba saidumlod xdis čʻventʻvis agretʻve propʻ. v. axvledianis našromebsacʻ.
 1	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	nmod	2:nmod	Translit=es
@@ -1806,13 +1806,14 @@
 5	ჩვენ	ჩვენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	obl	4:obl	Translit=čʻven
 6	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	5	case	5:case	Translit=tʻvis
 7	აგრეთვე	აგრეთვე	ADV	Adv	AdvType=Man	4	advmod	4:advmod	Translit=agretʻve
-8	პროფ	პროფესორი	NOUN	Noun	Abbr=Yes	10	appos	10:appos	Translit=
-9	ვ.	ვ.	NOUN	Noun	Abbr=Yes	11	nmod	11:nmod	Translit=v.
-10	ახვლედიანის	ახვლედიანი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	9	flat:name	9:flat:name	Translit=axvledianis
-11	ნაშრომებსაც	ნაშრომი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur|PartType=Emp	4	obj	4:obj	SpaceAfter=No|Translit=našromebsacʻ
-12	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
+8	პროფ	პროფესორი	NOUN	Noun	Abbr=Yes	10	nmod	10:nmod	Translit=
+9	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
+10	ვ.	ვ.	NOUN	Noun	Abbr=Yes	12	nmod	12:nmod	Translit=v.
+11	ახვლედიანის	ახვლედიანი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	10	flat:name	10:flat:name	Translit=axvledianis
+12	ნაშრომებსაც	ნაშრომი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur|PartType=Emp	4	obj	4:obj	SpaceAfter=No|Translit=našromebsacʻ
+13	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00091 
+# sent_id = GLC_00091
 # text = ჩვენში სამწუხაროდ ჯერ კიდევ ღრმად აქვს გადგმული ფესვი წარსულისათვის დამახასიათებელ უდარდელობას.
 # translit = čʻvenši samcuxarod jer kidev ġrmad akʻvs gadgmuli pʻesvi carsulisatʻvis damaxasiatʻebel udardelobas.
 1-2	ჩვენში	_	_	_	_	_	_	_	_
@@ -1832,7 +1833,7 @@
 13	უდარდელობას	უდარდელობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	7:obj	SpaceAfter=No|Translit=udardelobas
 14	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00092
+# sent_id = GLC_00092
 # text = საკითხის დაყენებაში მაინც ჩანს განსხვავება ამ ორ ორგანიზაციას შორის.
 # translit = sakitʻxis daqenebaši maincʻ čʻans gansxvaveba am or organizacʻias šoris.
 1	საკითხის	საკითხი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=sakitʻxis
@@ -1848,7 +1849,7 @@
 10	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	9	case	9:case	SpaceAfter=No|Translit=šoris
 11	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00093 
+# sent_id = GLC_00093
 # text = უნივერსიტეტში ჩვენ ვხედავთ სწავლების პროცესის შესაბამისად დისციპლინების დაყოფას, აკადემიაში კი პირიქით, ეს დარგები თავმოყრილია ერთად, იმ მიზნით, რომ მრავალმხრივი სამეცნიერო-კვლევითი მუშაობა საერთო ძალებით წარიმართოს.
 # translit = universitetši čʻven vxedavtʻ scavlebis procʻesis šesabamisad discʻiplinebis daqopʻas, akademiaši ki pirikʻitʻ, es dargebi tʻavmoqrilia ertʻad, im miznitʻ, rom mravalmxrivi samecʻniero-kvlevitʻi mušaoba saertʻo żalebitʻ carimartʻos.
 1-2	უნივერსიტეტში	_	_	_	_	_	_	_	_
@@ -1884,16 +1885,16 @@
 28	მუშაობა	მუშაობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	31	nsubj:pass	31:nsubj:pass	Translit=mušaoba
 29	საერთო	საერთო	ADJ	Adj	Case=Ins|Number=Sing	30	amod	30:amod	Translit=saertʻo
 30	ძალებით	ძალა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	31	obl	31:obl	Translit=żalebitʻ
-31	წარიმართოს	იმართება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Pass	18	advcl	18:advcl	SpaceAfter=No|Translit=carimartʻos
+31	წარიმართოს	იმართება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	18	advcl	18:advcl	SpaceAfter=No|Translit=carimartʻos
 32	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00094 
+# sent_id = GLC_00094
 # text = ეს საშუალებას იძლევა გადაწყდეს მნიშვნელოვანი პრობლემები განსაკუთრებული ძალების და სახსრების დახარჯვის გარეშე.
 # translit = es sašualebas iżleva gadacqdes mnišvnelovani problemebi gansakutʻrebuli żalebis da saxsrebis daxarjvis gareše.
 1	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	nsubj	3:nsubj	Translit=es
 2	საშუალებას	საშუალება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	3:obj	Translit=sašualebas
 3	იძლევა	იძლევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	0:root	Translit=iżleva
-4	გადაწყდეს	წყდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Aor|Voice=Act	3	xcomp	3:xcomp	Translit=gadacqdes
+4	გადაწყდეს	წყდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	3	xcomp	3:xcomp	Translit=gadacqdes
 5	მნიშვნელოვანი	მნიშვნელოვანი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	Translit=mnišvnelovani
 6	პრობლემები	პრობლემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	4	nsubj	4:nsubj	Translit=problemebi
 7	განსაკუთრებული	განსაკუთრებული	ADJ	Adj	Case=Gen|Number=Sing	8	nmod	8:nmod	Translit=gansakutʻrebuli
@@ -1904,7 +1905,7 @@
 12	გარეშე	გარეშე	ADV	Adv	AdvType=Man	4	advmod	4:advmod	SpaceAfter=No|Translit=gareše
 13	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00095 
+# sent_id = GLC_00095
 # text = ამ გეგმიანი თანამშრომლობის სარგებლობა და დადებითი მხარეები ამ დაწესებულების საყურადღებო გამოცემებში ჩანს.
 # translit = am gegmiani tʻanamšromlobis sargebloba da dadebitʻi mxareebi am dacesebulebis saquradġebo gamocʻemebši čʻans.
 1	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod	2:nmod	Translit=am
@@ -1923,7 +1924,7 @@
 13	ჩანს	ჩანს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=čʻans
 14	.	.	PUNCT	F	PunctType=Peri	13	punct	13:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00096 
+# sent_id = GLC_00096
 # text = კავკასია სულ უფრო მზარდ ინტერესს იწვევს დასავლეთ ევროპაში.
 # translit = kavkasia sul upʻro mzard interess icvevs dasavletʻ evropaši.
 1	კავკასია	კავკასია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	6:nsubj	Translit=kavkasia
@@ -1938,7 +1939,7 @@
 9	ში	ში	ADP	Post	AdpType=Post|Case=Dat	8	case	8:case	Translit=ši
 10	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00097 
+# sent_id = GLC_00097
 # text = კავკასიური ენის შესწავლას ორი თვალსაზრისით უდგებიან.
 # translit = kavkasiuri enis šescavlas ori tʻvalsazrisitʻ udgebian.
 1	კავკასიური	კავკასიური	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=kavkasiuri
@@ -1949,7 +1950,7 @@
 6	უდგებიან	უდგება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=udgebian
 7	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00098 
+# sent_id = GLC_00098
 # text = ქართულ ძვირფას ხელნაწერებს მუდამ დიდი მნიშვნელობა ჰქონდა, თუმცა სირიულ, კოპტურ და სომხურ ენებთან შედარებით ნაკლებად შესწავლილი იყო, რადგან აქ ქართული ენის სპეციალისტების ნაკლებობა იყო მუდამ.
 # translit = kʻartʻul żvirpʻas xelnacerebs mudam didi mnišvneloba hkʻonda, tʻumcʻa siriul, koptur da somxur enebtʻan šedarebitʻ naklebad šescavlili iqo, radgan akʻ kʻartʻuli enis specʻialistebis nakleboba iqo mudam.
 1	ქართულ	ქართული	ADJ	Adj	Case=Dat|Number=Sing	2	amod	2:amod	Translit=kʻartʻul
@@ -1959,10 +1960,10 @@
 5	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	Translit=didi
 6	მნიშვნელობა	მნიშვნელობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	obj	7:obj	Translit=mnišvneloba
 7	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp	0	root	0:root	SpaceAfter=No|Translit=hkʻonda
-8	,	,	PUNCT	F	PunctType=Comm	19	punct	19:punct	Translit=,
+8	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
 9	თუმცა	თუმცა	SCONJ	Conj	_	19	mark	19:mark	Translit=tʻumcʻa
 10	სირიულ	სირიული	ADJ	Adj	Case=Dat|Number=Sing	15	amod	15:amod	SpaceAfter=No|Translit=siriul
-11	,	,	PUNCT	F	PunctType=Comm	19	punct	19:punct	Translit=,
+11	,	,	PUNCT	F	PunctType=Comm	14	punct	14:punct	Translit=,
 12	კოპტურ	კოპტური	ADJ	Adj	Case=Dat|Number=Sing	10	conj	10:conj	Translit=koptur
 13	და	და	CCONJ	Conj	_	14	cc	14:cc	Translit=da
 14	სომხურ	სომხური	ADJ	Adj	Case=Dat|Number=Sing	10	conj	10:conj	Translit=somxur
@@ -1973,8 +1974,8 @@
 18	ნაკლებად	ნაკლები	ADV	Adv	_	19	advmod	19:advmod	Translit=naklebad
 19	შესწავლილი	შესწავლილი	ADJ	Adj	Case=Nom|Number=Sing	7	ccomp	7:ccomp	Translit=šescavlili
 20	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor	19	cop	19:cop	SpaceAfter=No|Translit=iqo
-21	,	,	PUNCT	F	PunctType=Comm	19	punct	19:punct	Translit=,
-22	რადგან	რადგან	SCONJ	Conj	_	19	mark	19:mark	Translit=radgan
+21	,	,	PUNCT	F	PunctType=Comm	27	punct	27:punct	Translit=,
+22	რადგან	რადგან	SCONJ	Conj	_	27	mark	27:mark	Translit=radgan
 23	აქ	აქ	ADV	Adv	AdvType=Loc	27	advmod:lmod	27:advmod:lmod	Translit=akʻ
 24	ქართული	ქართული	ADJ	Adj	Case=Gen|Number=Sing	25	nmod	25:nmod	Translit=kʻartʻuli
 25	ენის	ენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	26:nmod	Translit=enis
@@ -1984,37 +1985,37 @@
 29	მუდამ	მუდამ	ADV	Adv	AdvType=Tim	27	advmod	27:advmod	SpaceAfter=No|Translit=mudam
 30	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00099 
+# sent_id = GLC_00099
 # text = ამჟამად ახლებურად შეუდგნენ ამ კომპლექსის შესწავლას.
 # translit = amžamad axleburad šeudgnen am komplekʻsis šescavlas.
 1	ამჟამად	ამჟამად	ADV	Adv	AdvType=Tim	3	advmod	3:advmod	Translit=amžamad
 2	ახლებურად	ახლებური	ADV	Adv	_	3	advmod	3:advmod	Translit=axleburad
-3	შეუდგნენ	დგება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Aor|Voice=Act	0	root	0:root	Translit=šeudgnen
+3	შეუდგნენ	დგება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	0	root	0:root	Translit=šeudgnen
 4	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	5	nmod	5:nmod	Translit=am
 5	კომპლექსის	კომპლექსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=komplekʻsis
 6	შესწავლას	შესწავლა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	3:obj	SpaceAfter=No|Translit=šescavlas
 7	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00100 
+# sent_id = GLC_00100
 # text = პროფ. ჩიტაიამ გაგვანდო ექსპონირების ახალი მეთოდების და პრინციპების საიდუმლოება.
 # translit = propʻ. čʻitaiam gagvando ekʻsponirebis axali metʻodebis da princʻipebis saidumloeba.
 1	პროფ	პროფესორი	NOUN	Noun	Abbr=Yes	3	nmod	3:nmod	SpaceAfter=No|Translit=propʻ
 2	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
-3	ჩიტაიამ	ჩიტაია	PROPN	Prop	Case=Erg|NameType=Sur|Number=Sing	2	nsubj	2:nsubj	Translit=čʻitaiam
-4	გაგვანდო	ანდობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=gagvando
+3	ჩიტაიამ	ჩიტაია	PROPN	Prop	Case=Erg|NameType=Sur|Number=Sing	4	nsubj	4:nsubj	Translit=čʻitaiam
+4	გაგვანდო	ანდობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=gagvando
 5	ექსპონირების	ექსპონირება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	7:nmod	Translit=ekʻsponirebis
 6	ახალი	ახალი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	7	nmod	7:nmod	Translit=axali
 7	მეთოდების	მეთოდი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	10	nmod	10:nmod	Translit=metʻodebis
-8	და	და	CCONJ	Conj	_	4	cc	4:cc	Translit=da
+8	და	და	CCONJ	Conj	_	9	cc	9:cc	Translit=da
 9	პრინციპების	პრინციპი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	7	conj	7:conj	Translit=princʻipebis
-10	საიდუმლოება	საიდუმლოება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	obj	2:obj	SpaceAfter=No|Translit=saidumloeba
+10	საიდუმლოება	საიდუმლოება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	obj	4:obj	SpaceAfter=No|Translit=saidumloeba
 11	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00101 
+# sent_id = GLC_00101
 # text = ჩვენ ვნახეთ ახლად გამოცემული გერმანული ლიტერატურის ისტორია, რომელიც მოიცავს უძველეს დროს კლასიკურ პერიოდამდე.
 # translit = čʻven vnaxetʻ axladgamocʻemuli germanuli literaturis istoria, romelicʻ moicʻavs użveles dros klasikur periodamde.
 1	ჩვენ	ჩვენ	PRON	Pron	Case=Erg|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Translit=čʻven
-2	ვნახეთ	ნახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=vnaxetʻ
+2	ვნახეთ	ნახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=vnaxetʻ
 3	ახლად	ახალი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	4	amod	4:amod	Translit=axlad
 4	გამოცემული	გამოცემული	ADJ	Adj	Case=Gen|Number=Sing	5	nmod	5:nmod	Translit=gamocʻemuli
 5	გერმანული	გერმანული	ADJ	Adj	Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=germanuli
@@ -2031,7 +2032,7 @@
 15	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	14	case	14:case	Translit=mde
 16	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00102 
+# sent_id = GLC_00102
 # text = თუმცა ჩვენი მეგობრები მაღალფარდოვან სიტყვებს გაურბოდნენ, მაგრამ ჩვენ ყოველთვის ვგრძნობდით, რომ მათ ჩვენი ხალხების მეგობრობა, თანამშრომლობა და მშვიდობის დასაცავად აღძრული გრძნობები გულთან ახლოს მიქონდათ.
 # translit = tʻumcʻa čʻveni megobrebi maġalpʻardovan sitqvebs gaurbodnen, magram čʻven qoveltʻvis vgrżnobditʻ, rom matʻ čʻveni xalxebis megobroba, tʻanamšromloba da mšvidobis dasacʻavad aġżruli grżnobebi gultʻan axlos mikʻondatʻ.
 1	თუმცა	თუმცა	SCONJ	Conj	_	6	mark	6:mark	Translit=tʻumcʻa
@@ -2065,7 +2066,7 @@
 28	მიქონდათ	მიაქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Imp	11	ccomp	11:ccomp	SpaceAfter=No|Translit=mikʻondatʻ
 29	.	.	PUNCT	F	PunctType=Peri	11	punct	11:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00103 
+# sent_id = GLC_00103
 # text = ხშირად მოკლე სიტყვა, ერთი ჟესტიც კმაროდა, რომ კიდევ ერთხელ დამტკიცებულიყო ჩვენი ნება-სურვილის და ბრძოლის ერთობლიობა.
 # translit = xširad mokle sitqva, ertʻi žesticʻ kmaroda, rom kidev ertʻxel damtkicʻebuliqo čʻveni nebasurvilis da brżolis ertʻoblioba.
 1	ხშირად	ხშირად	ADV	Adv	AdvType=Deg	7	advmod	7:advmod	Translit=xširad
@@ -2087,7 +2088,7 @@
 17	ერთობლიობა	ერთობლიობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No|Translit=ertʻoblioba
 18	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00104 
+# sent_id = GLC_00104
 # text = კავკასიური ენების და კავკასიის ხალხთა კულტურის ცოდნა უნდა გამოვიყენოთ ურთიერთგაგების, კეთილი ნების და მეგობრობის იმ ხიდის ასაშენებლად, რომელიც ხალხებს გააერთიანებს.
 # translit = kavkasiuri enebis da kavkasiis xalxtʻa kulturis cʻodna unda gamoviqenotʻ urtʻiertʻgagebis, ketʻili nebis da megobrobis im xidis asašeneblad, romelicʻ xalxebs gaaertʻianebs.
 1	კავკასიური	კავკასიური	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=kavkasiuri
@@ -2098,7 +2099,7 @@
 6	კულტურის	კულტურა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	conj	2:conj	Translit=kulturis
 7	ცოდნა	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	obj	9:obj	Translit=cʻodna
 8	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	9	aux	9:aux	Translit=unda
-9	გამოვიყენოთ	აყენებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=gamoviqenotʻ
+9	გამოვიყენოთ	აყენებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=gamoviqenotʻ
 10	ურთიერთგაგების	ურთიერთგაგება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	17:nmod	SpaceAfter=No|Translit=urtʻiertʻgagebis
 11	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
 12	კეთილი	კეთილი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	13	nmod	13:nmod	Translit=ketʻili
@@ -2114,7 +2115,7 @@
 22	გააერთიანებს	აერთიანებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	17	acl	17:acl	SpaceAfter=No|Translit=gaaertʻianebs
 23	.	.	PUNCT	F	PunctType=Peri	9	punct	9:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00105 
+# sent_id = GLC_00105
 # text = რატომღაც ბრძოლის ველის თავისებურ დრტვინვას მიამსგავსა მან ეს გრგვინვა.
 # translit = ratomġacʻ brżolis velis tʻavisebur drtvinvas miamsgavsa man es grgvinva.
 1	რატომღაც	რატომ	ADV	Adv	AdvType=Rel|PartType=Emp	6	advmod	6:advmod	Translit=ratomġacʻ
@@ -2122,13 +2123,13 @@
 3	ველის	ველი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=velis
 4	თავისებურ	თავისებური	ADJ	Adj	Case=Dat|Number=Sing	5	amod	5:amod	Translit=tʻavisebur
 5	დრტვინვას	დრტვინვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	iobj	6:iobj	Translit=drtvinvas
-6	მიამსგავსა	ამსგავსებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=miamsgavsa
+6	მიამსგავსა	ამსგავსებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=miamsgavsa
 7	მან	იგი	PRON	Pron	Case=Erg|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	Translit=man
 8	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	9	nmod	9:nmod	Translit=es
 9	გრგვინვა	გრგვინვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	obj	6:obj	SpaceAfter=No|Translit=grgvinva
 10	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00106 
+# sent_id = GLC_00106
 # text = დარბაზის კუთხეში თვლემდნენ ლაზარეთიდან გამოწერილი ჯარისკაცები.
 # translit = darbazis kutʻxeši tʻvlemdnen lazaretʻidan gamocerili jariskacʻebi.
 1	დარბაზის	დარბაზი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=darbazis
@@ -2143,7 +2144,7 @@
 8	ჯარისკაცები	ჯარისკაცი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	4	nsubj	4:nsubj	SpaceAfter=No|Translit=jariskacʻebi
 9	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00107
+# sent_id = GLC_00107
 # text = ისინი კვლავ მეწინავე ხაზზე მიდიოდნენ.
 # translit = isini kvlav mecinave xazze midiodnen.
 1	ისინი	ისინი	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	Translit=isini
@@ -2155,7 +2156,7 @@
 6	მიდიოდნენ	მიდის	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Imp	0	root	0:root	SpaceAfter=No|Translit=midiodnen
 7	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00108 
+# sent_id = GLC_00108
 # text = საქართველოში მაგისტრალური მილსადენი ტრანსპორტი მნიშვნელოვან როლს ასრულებს.
 # translit = sakʻartʻveloši magistraluri milsadeni transporti mnišvnelovan rols asrulebs.
 1-2	საქართველოში	_	_	_	_	_	_	_	_
@@ -2169,7 +2170,7 @@
 8	ასრულებს	ასრულებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=asrulebs
 9	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00109 
+# sent_id = GLC_00109
 # text = რესპუბლიკის ტერიტორიაზე გადის ბაქო-ბათუმის ნავთობსადენი, რომლითაც 1907 წლიდან წარმოებს ნავთობის გადაქაჩვა.
 # translit = respublikis teritoriaze gadis bakʻo-batʻumis navtʻobsadeni, romlitʻacʻ 1907 clidan carmoebs navtʻobis gadakʻačʻva.
 1	რესპუბლიკის	რესპუბლიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=respublikis
@@ -2190,7 +2191,7 @@
 14	გადაქაჩვა	გადაქაჩვა	VERB	VerbalNoun	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Vnoun	12	nsubj	12:nsubj	SpaceAfter=No|Translit=gadakʻačʻva
 15	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00110 
+# sent_id = GLC_00110
 # text = აღნიშნული ნავთობსადენის მთლიანი სიგრძე 363 კმ-ია.
 # translit = aġnišnuli navtʻobsadenis mtʻliani sigrże 363 km-ia.
 1	აღნიშნული	აღნიშნული	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=aġnišnuli
@@ -2203,7 +2204,7 @@
 7	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	6	cop	6:cop	Translit=a
 8	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00111 
+# sent_id = GLC_00111
 # text = მისი ნახევარზე მეტი საქართველოს ტერიტორიაზე გადის.
 # translit = misi naxevarze meti sakʻartʻvelos teritoriaze gadis.
 1	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes	2	nmod	2:nmod	Translit=misi
@@ -2218,7 +2219,7 @@
 8	გადის	გადის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	SpaceAfter=No|Translit=gadis
 9	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00112 
+# sent_id = GLC_00112
 # text = ამჟამად ჩვენი ნავსადგურები აღჭურვილია ტვირთის ჩასატვირთ-გადმოსატვირთი თანამედროვე მძლავრი ტექნიკით, რის გამოც აქ დატვირთვა-გადმოტვირთვის სამუშაოები ძირითადად მექანიზებული წესით წარმოებს.
 # translit = amžamad čʻveni navsadgurebi aġčurvilia tvirtʻis čʻasatvirtʻ-gadmosatvirtʻi tʻanamedrove mżlavri tekʻnikitʻ, ris gamocʻ akʻ datvirtʻva-gadmotvirtʻvis samušaoebi żiritʻadad mekʻanizebuli cesitʻ carmoebs.
 1	ამჟამად	ამჟამად	ADV	Adv	AdvType=Tim	4	advmod	4:advmod	Translit=amžamad
@@ -2244,12 +2245,12 @@
 20	წარმოებს	წარმოობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	13	advcl	13:advcl	SpaceAfter=No|Translit=carmoebs
 21	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00113 
+# sent_id = GLC_00113
 # text = დიდი სამუშაოები ჩატარდა სანავსადგურო მეურნეობის ძირეული რეკონსტრუქციისათვის, რამაც განაპირობა ნავსადგურების გამტარიანობის ზრდა.
 # translit = didi samušaoebi čʻatarda sanavsadguro meurneobis żireuli rekonstrukʻcʻiisatʻvis, ramacʻ ganapiroba navsadgurebis gamtarianobis zrda.
 1	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	2	amod	2:amod	Translit=didi
 2	სამუშაოები	სამუშაო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	3	nsubj	3:nsubj	Translit=samušaoebi
-3	ჩატარდა	ტარდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	Translit=čʻatarda
+3	ჩატარდა	ტარდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	Translit=čʻatarda
 4	სანავსადგურო	სანავსადგურო	ADJ	Adj	Case=Gen|Number=Sing	5	nmod	5:nmod	Translit=sanavsadguro
 5	მეურნეობის	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=meurneobis
 6	ძირეული	ძირეული	ADJ	Adj	Case=Gen|Number=Sing	7	nmod	7:nmod	Translit=żireuli
@@ -2258,13 +2259,13 @@
 8	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	7	case	7:case	Translit=tʻvis
 9	,	,	PUNCT	F	PunctType=Comm	3	punct	3:punct	Translit=,
 10	რამაც	რამაც	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	11	nsubj	11:nsubj	Translit=ramacʻ
-11	განაპირობა	აპირობებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	10	ccomp	10:ccomp	Translit=ganapiroba
+11	განაპირობა	აპირობებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	ccomp	3:ccomp	Translit=ganapiroba
 12	ნავსადგურების	ნავსადგური	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	13	nmod	13:nmod	Translit=navsadgurebis
 13	გამტარიანობის	გამტარიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	14:nmod	Translit=gamtarianobis
 14	ზრდა	ზრდა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	obj	11:obj	SpaceAfter=No|Translit=zrda
 15	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00114 
+# sent_id = GLC_00114
 # text = ამასთან, მათ მიეცათ ვაჭრობის მატერიალურ-ტექნიკური ბაზის განვითარების, მიმოქცევის ხარჯების, ხელფასის დონისა და მეურნეობრივი საქმიანობის ზოგიერთი სხვა მაჩვენებლის დამტკიცების უფლება.
 # translit = amastʻan, matʻ miecʻatʻ vačrobis materialur-tekʻnikuri bazis ganvitʻarebis, mimokʻcʻevis xarjebis, xelpʻasis donisa da meurneobrivi sakʻmianobis zogiertʻi sxva mačʻveneblis damtkicʻebis upʻleba.
 1-2	ამასთან	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2293,23 +2294,23 @@
 23	უფლება	უფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	5:obj	SpaceAfter=No|Translit=upʻleba
 24	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00115 
+# sent_id = GLC_00115
 # text = საუცხოო კლიმატური პირობებით და შესანიშნავი პლაჟით ბათუმი საუკეთესო საზღვაო კურორტად ითვლება.
 # translit = saucʻxoo klimaturi pirobebitʻ da šesanišnavi plažitʻ batʻumi sauketʻeso sazġvao kurortad itʻvleba.
 1	საუცხოო	საუცხოო	ADJ	Adj	Case=Ins|Number=Sing	3	amod	3:amod	Translit=saucʻxoo
 2	კლიმატური	კლიმატური	ADJ	Adj	Case=Ins|Number=Sing	3	amod	3:amod	Translit=klimaturi
-3	პირობებით	პირობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	11	advmod	11:advmod	Translit=pirobebitʻ
+3	პირობებით	პირობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	11	obl	11:obl	Translit=pirobebitʻ
 4	და	და	CCONJ	Conj	_	6	cc	6:cc	Translit=da
-5	შესანიშნავი	შესანიშნავი	VERB	VerbalAdj	Case=Ins|Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Part	6	advmod	6:advmod	Translit=šesanišnavi
+5	შესანიშნავი	შესანიშნავი	VERB	VerbalAdj	Case=Ins|Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Part	6	obl	6:obl	Translit=šesanišnavi
 6	პლაჟით	პლაჟი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	3	conj	3:conj	Translit=plažitʻ
 7	ბათუმი	ბათუმი	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	11	nsubj:pass	11:nsubj:pass	Translit=batʻumi
 8	საუკეთესო	კარგი	ADJ	Adj	Case=Ess|Degree=Sup|Number=Sing	10	amod	10:amod	Translit=sauketʻeso
 9	საზღვაო	საზღვაო	ADJ	Adj	Case=Ess|Number=Sing	10	amod	10:amod	Translit=sazġvao
-10	კურორტად	კურორტი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	11	advmod	11:advmod	Translit=kurortad
+10	კურორტად	კურორტი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	11	obl	11:obl	Translit=kurortad
 11	ითვლება	ითვლება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	0	root	0:root	SpaceAfter=No|Translit=itʻvleba
 12	.	.	PUNCT	F	PunctType=Peri	11	punct	11:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00116 
+# sent_id = GLC_00116
 # text = ქალაქის ღირსშესანიშნაობას წარმოადგენს ბათუმის ბოტანიკური ბაღი.
 # translit = kʻalakʻis ġirsšesanišnaobas carmoadgens batʻumis botanikuri baġi.
 1	ქალაქის	ქალაქი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=kʻalakʻis
@@ -2320,7 +2321,7 @@
 6	ბაღი	ბაღი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No|Translit=baġi
 7	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00117 
+# sent_id = GLC_00117
 # text = შეფასება ვალიდური, ანუ მიზანთან შესაბამისია, როდესაც მასწავლებელი აფასებს ზუსტად იმას, რის შეფასებასაც იგი ამ კონკრეტულ შემთხვევაში ისახავს მიზნად.
 # translit = šepʻaseba validuri, anu mizantʻan šesabamisia, rodesacʻ mascavlebeli apʻasebs zustad imas, ris šepʻasebasacʻ igi am konkretul šemtʻxvevaši isaxavs miznad.
 1	შეფასება	შეფასება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	2:nsubj	Translit=šepʻaseba
@@ -2352,7 +2353,7 @@
 24	მიზნად	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	23	obl	23:obl	SpaceAfter=No|Translit=miznad
 25	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00118 
+# sent_id = GLC_00118
 # text = შეფასება ობიექტურია იმ შემთხვევაში, როდესაც შეფასების შედეგები არ არის დამოკიდებული შემფასებლის პირად მოსაზრებებზე, მის პიროვნულ სურვილებზე ან დამოკიდებულებებზე.
 # translit = šepʻaseba obiekʻturia im šemtʻxvevaši, rodesacʻ šepʻasebis šedegebi ar aris damokidebuli šempʻaseblis pirad mosazrebebze, mis pirovnul survilebze an damokidebulebebze. a
 1	შეფასება	შეფასება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	2:nsubj	Translit=šepʻaseba
@@ -2387,7 +2388,7 @@
 25	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	24	case	24:case	Translit=ze
 26	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00119 
+# sent_id = GLC_00119
 # text = განმავითარებელი შეფასების ტიპური ფორმებია ზეპირი და წერილობითი კომენტარები, რომლებიც ტრიმესტრის განმავლობაში, ან სულაც ტრიმესტრის ბოლოს კეთდება.
 # translit = ganmavitʻarebeli šepʻasebis tipuri pʻormebia zepiri da cerilobitʻi komentarebi, romlebicʻ trimestris ganmavlobaši, an sulacʻ trimestris bolos ketʻdeba.
 1	განმავითარებელი	განმავითარებელი	ADJ	Adj	Case=Nom|Number=Sing	6	amod	6:amod	Translit=ganmavitʻarebeli
@@ -2411,10 +2412,10 @@
 17	სულაც	სულაც	ADV	Adv	AdvType=Man	19	advmod	19:advmod	Translit=sulacʻ
 18	ტრიმესტრის	ტრიმესტრი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	19:nmod	Translit=trimestris
 19	ბოლოს	ბოლოს	ADV	Adv	AdvType=Tim	13	conj	13:conj	Translit=bolos
-20	კეთდება	კეთდება	VERB	Verb	Aspect=Imp|Voice=Act|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	9	acl	9:acl	SpaceAfter=No|Translit=ketʻdeba
+20	კეთდება	კეთდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	9	acl	9:acl	SpaceAfter=No|Translit=ketʻdeba
 21	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00120 
+# sent_id = GLC_00120
 # text = კომენტარები აღწერს მოსწავლის (და მისი ნამუშევრების) ძლიერ და სუსტ მხარეებს და, ამავდროულად, შეიცავს რეკომენდაციებს სწავლის გაუმჯობესების შესახებ.
 # translit = komentarebi aġcers moscavlis (da misi namuševrebis) żlier da sust mxareebs da, amavdroulad, šeicʻavs rekomendacʻiebs scavlis gaumjobesebis šesaxeb.
 1	კომენტარები	კომენტარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	2	nsubj	2:nsubj	Translit=komentarebi
@@ -2440,7 +2441,7 @@
 21	შესახებ	შესახებ	ADP	Post	AdpType=Post|Case=Gen	18	case	18:case	SpaceAfter=No|Translit=šesaxeb
 22	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00121 
+# sent_id = GLC_00121
 # text = მოსწავლეებმა წინასწარ იციან, თუ რა თემატიკაზე იქნება ტესტი.
 # translit = moscavleebma cinascar icʻian, tʻu ra tʻematikaze ikʻneba testi.
 1	მოსწავლეებმა	მოსწავლე	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Plur	3	nsubj	3:nsubj	Translit=moscavleebma
@@ -2456,7 +2457,7 @@
 10	ტესტი	ტესტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	9:nsubj	SpaceAfter=No|Translit=testi
 11	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00122 
+# sent_id = GLC_00122
 # text = ისინი ტესტისთვის სპეციალურად ემზადებიან.
 # translit = isini testistʻvis specʻialurad emzadebian.
 1	ისინი	ისინი	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	Translit=isini
@@ -2467,7 +2468,7 @@
 5	ემზადებიან	ემზადება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=emzadebian
 6	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00123 
+# sent_id = GLC_00123
 # text = დადგენილ დღეს მოსწავლეები წერენ ტესტს.
 # translit = dadgenil dġes moscavleebi ceren tests.
 1	დადგენილ	დადგენილი	ADJ	Adj	Case=Dat|Number=Sing	2	amod	2:amod	Translit=dadgenil
@@ -2477,7 +2478,7 @@
 5	ტესტს	ტესტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	4:obj	SpaceAfter=No|Translit=tests
 6	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00124 
+# sent_id = GLC_00124
 # text = მასწავლებელი ნაშრომებს ასწორებს დადგენილი პასუხების მიხედვით და წერს ქულებს.
 # translit = mascavlebeli našromebs ascorebs dadgenili pasuxebis mixedvitʻ da cers kʻulebs.
 1	მასწავლებელი	მასწავლებელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	3	nsubj	3:nsubj	Translit=mascavlebeli
@@ -2491,7 +2492,7 @@
 9	ქულებს	ქულა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	8	obj	8:obj	SpaceAfter=No|Translit=kʻulebs
 10	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00125 
+# sent_id = GLC_00125
 # text = მასწავლებელი ეუბნება მოსწავლეებს, თუ რამდენი ქულა დააგროვეს ტესტში.
 # translit = mascavlebeli eubneba moscavleebs, tʻu ramdeni kʻula daagroves testši.
 1	მასწავლებელი	მასწავლებელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	2	nsubj	2:nsubj	Translit=mascavlebeli
@@ -2501,13 +2502,13 @@
 5	თუ	თუ	SCONJ	Conj	_	8	mark	8:mark	Translit=tʻu
 6	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	7	nmod	7:nmod	Translit=ramdeni
 7	ქულა	ქულა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	8:obj	Translit=kʻula
-8	დააგროვეს	აგროვებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	2	ccomp	2:ccomp	Translit=daagroves
+8	დააგროვეს	აგროვებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	2	ccomp	2:ccomp	Translit=daagroves
 9-10	ტესტში	_	_	_	_	_	_	_	SpaceAfter=No
 9	ტესტ	ტესტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	8:obl	Translit=test
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	9:case	Translit=ši
 11	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00126 
+# sent_id = GLC_00126
 # text = გარეგანი შეხედულება მნახველს საკმაოდ ასიამოვნებს.
 # translit = garegani šexeduleba mnaxvels sakmaod asiamovnebs.
 1	გარეგანი	გარეგანი	ADJ	Adj	Case=Nom|Number=Sing	2	amod	2:amod	Translit=garegani
@@ -2517,7 +2518,7 @@
 5	ასიამოვნებს	ასიამოვნებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=asiamovnebs
 6	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00127 
+# sent_id = GLC_00127
 # text = პარაკლისი თავდებოდა, როდესაც სკოლის ეზოში შემოგრიალდა ლაზათიანი საგზაო კალიასკა.
 # translit = paraklisi tʻavdeboda, rodesacʻ skolis ezoši šemogrialda lazatʻiani sagzao kaliaska.
 1	პარაკლისი	პარაკლისი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	2:nsubj	Translit=paraklisi
@@ -2528,24 +2529,24 @@
 6-7	ეზოში	_	_	_	_	_	_	_	_
 6	ეზო	ეზო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	8:obl	Translit=ezo
 7	ში	ში	ADP	Post	AdpType=Post|Case=Dat	6	case	6:case	Translit=ši
-8	შემოგრიალდა	გრიალდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	2	advcl	2:advcl	Translit=šemogrialda
+8	შემოგრიალდა	გრიალდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	2	advcl	2:advcl	Translit=šemogrialda
 9	ლაზათიანი	ლაზათიანი	ADJ	Adj	Case=Nom|Number=Sing	10	amod	10:amod	Translit=lazatʻiani
 10	საგზაო	საგზაო	ADJ	Adj	Case=Nom|Number=Sing	11	amod	11:amod	Translit=sagzao
 11	კალიასკა	კალიასკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No|Translit=kaliaska
 12	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00128 
+# sent_id = GLC_00128
 # text = როგორც მოვახსენე ზემოთ მკითხველს, შარშან სამი მინისტრი გამოიცვალა და ყოველ მინისტრის გამოცვლაზე ცოტაოდნად მართებლობის წესის ცვლილებაცა ხდებოდა.
 # translit = rogorcʻ movaxsene zemotʻ mkitʻxvels, šaršan sami ministri gamoicʻvala da qovel ministris gamocʻvlaze cʻotaodnad martʻeblobis cesis cʻvlilebacʻa xdeboda.
 1	როგორც	როგორც	SCONJ	Conj	_	2	mark	2:mark	Translit=rogorcʻ
-2	მოვახსენე	ახსენებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|Voice=Act	0	root	0:root	Translit=movaxsene
+2	მოვახსენე	ახსენებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	0	root	0:root	Translit=movaxsene
 3	ზემოთ	ზემო	ADJ	Adj	Case=Dat|Number=Plur	4	amod	4:amod	Translit=zemotʻ
 4	მკითხველს	მკითხველი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	2	iobj	2:iobj	SpaceAfter=No|Translit=mkitʻxvels
 5	,	,	PUNCT	F	PunctType=Comm	9	punct	9:punct	Translit=,
 6	შარშან	შარშან	ADV	Adv	AdvType=Tim	9	advmod	9:advmod	Translit=šaršan
 7	სამი	სამი	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	nummod	8:nummod	Translit=sami
-8	მინისტრი	მინისტრი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	19	nsubj	19:nsubj	Translit=ministri
-9	გამოიცვალა	ცვლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|Voice=Act	2	ccomp	2:ccomp	Translit=gamoicʻvala
+8	მინისტრი	მინისტრი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	9	nsubj	9:nsubj	Translit=ministri
+9	გამოიცვალა	ცვლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	2	ccomp	2:ccomp	Translit=gamoicʻvala
 10	და	და	CCONJ	Conj	_	19	cc	19:cc	Translit=da
 11	ყოველ	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	12	nmod	12:nmod	Translit=qovel
 12	მინისტრის	მინისტრი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	13	nmod	13:nmod	Translit=ministris
@@ -2559,7 +2560,7 @@
 19	ხდებოდა	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Imp|Voice=Act	9	conj	9:conj	SpaceAfter=No|Translit=xdeboda
 20	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00129 
+# sent_id = GLC_00129
 # text = ყველა დარწმუნებული იყო, რომ ახალი მინისტრი თავის დაპირებულს აღასრულებს და საზოგადოების დახმარებით განაგებს სახელმწიფოს შინაგან საქმეებსაო.
 # translit = qvela darcmunebuli iqo, rom axali ministri tʻavis dapirebuls aġasrulebs da sazogadoebis daxmarebitʻ ganagebs saxelmcipʻos šinagan sakʻmeebsao.
 1	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	2	nmod	2:nmod	Translit=qvela
@@ -2579,18 +2580,18 @@
 15	სახელმწიფოს	სახელმწიფო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	17:nmod	Translit=saxelmcipʻos
 16	შინაგან	შინაგანი	ADJ	Adj	Case=Dat|Number=Sing	17	amod	17:amod	Translit=šinagan
 17-18	საქმეებსაო	_	_	_	_	_	_	_	_
-17	საქმეებსა	საქმე	NOUN	Noun	Animacy=Inan|Case=Dat|IndSpeechPerson=3|Number=Plur	14	obj	14:obj	Translit=sakʻmeebsa
+17	საქმეებსა	საქმე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	14	obj	14:obj	Translit=sakʻmeebsa
 18	ო	თქო	PART	Part	Evident=Nfh	3	17	ccomp	17:ccomp	SpaceAfter=No|Translit=o
 19	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00130 
+# sent_id = GLC_00130
 # text = წინა პარაგრაფში აღინიშნა უსაფრთხოების სექტორის მართვაში არსებული რამოდენიმე პრობლემური არე.
 # translit = cina paragrapʻši aġinišna usapʻrtʻxoebis sekʻtoris martʻvaši arsebuli ramodenime problemuri are.
 1	წინა	წინა	ADJ	Adj	Case=Dat|Number=Sing	2	amod	2:amod	Translit=cina
 2-3	პარაგრაფში	_	_	_	_	_	_	_	_
 2	პარაგრაფ	პარაგრაფი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	4:obl	Translit=paragrapʻ
 3	ში	ში	ADP	Post	AdpType=Post|Case=Dat	2	case	2:case	Translit=ši
-4	აღინიშნა	ინიშნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Pass	0	root	0:root	Translit=aġinišna
+4	აღინიშნა	ინიშნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	0:root	Translit=aġinišna
 5	უსაფრთხოების	უსაფრთხოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=usapʻrtʻxoebis
 6	სექტორის	სექტორი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	7:nmod	Translit=sekʻtoris
 7-8	მართვაში	_	_	_	_	_	_	_	_
@@ -2602,7 +2603,7 @@
 12	არე	არე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj:pass	4:nsubj:pass	SpaceAfter=No|Translit=are
 13	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00131 
+# sent_id = GLC_00131
 # text = საქმე ეხება თავდაცვისა და სამართალდაცვის ბიუჯეტთა გამჭვირვალობის არადამაკმაყოფილებელ ხარისხს, რაც, მნიშვნელოვანწილად, 2004-2005 წლებში არმიის და სამართალდამცავი სტრუქტურების ხელშემწყობი არასაბიუჯეტო ფონდების ფუნქციონირებით იყო გამოწვეული.
 # translit = sakʻme exeba tʻavdacʻvisa da samartʻaldacʻvis biujettʻa gamčvirvalobis aradamakmaqopʻilebel xarisxs, racʻ, mnišvnelovancilad, 2004-2005 clebši armiis da samartʻaldamcʻavi strukʻturebis xelšemcqobi arasabiujeto pʻondebis pʻunkʻcʻionirebitʻ iqo gamocveuli.
 1	საქმე	საქმე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	2:nsubj	Translit=sakʻme
@@ -2630,12 +2631,12 @@
 22	ხელშემწყობი	ხელშემწყობი	ADJ	Adj	Case=Gen|Number=Sing	24	nmod	24:nmod	Translit=xelšemcqobi
 23	არასაბიუჯეტო	არასაბიუჯეტო	ADJ	Adj	Case=Gen|Number=Sing	24	nmod	24:nmod	Translit=arasabiujeto
 24	ფონდების	ფონდი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	25	nmod	25:nmod	Translit=pʻondebis
-25	ფუნქციონირებით	ფუნქციონირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	27	advmod	27:advmod	Translit=pʻunkʻcʻionirebitʻ
+25	ფუნქციონირებით	ფუნქციონირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	27	obl	27:obl	Translit=pʻunkʻcʻionirebitʻ
 26	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor	27	cop	27:cop	Translit=iqo
 27	გამოწვეული	გამოწვეული	ADJ	Adj	Case=Nom|Number=Sing	9	acl	9:acl	SpaceAfter=No|Translit=gamocveuli
 28	.	.	PUNCT	F	PunctType=Peri	2	punct	2:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00132 
+# sent_id = GLC_00132
 # text = ქვეყანაში არსებული ტერიტორიული კონფლიქტების გადაწყვეტის უფუნქციო ფორმატების შეცვლის ლეგიტიმური მცდელობები ზრდის დაძაბულობას იმავე კონფლიქტურ ზონებში.
 # translit = kʻveqanaši arsebuli teritoriuli konpʻlikʻtebis gadacqvetis upʻunkʻcʻio pʻormatebis šecʻvlis legitimuri mcʻdelobebi zrdis dażabulobas imave konpʻlikʻtur zonebši.
 1-2	ქვეყანაში	_	_	_	_	_	_	_	_
@@ -2659,7 +2660,7 @@
 17	ში	ში	ADP	Post	AdpType=Post|Case=Dat	16	case	16:case	Translit=ši
 18	.	.	PUNCT	F	PunctType=Peri	12	punct	12:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00133 
+# sent_id = GLC_00133
 # text = თავისთავად, ამ კარდინალური ცვლილებების განხორციელებისას შეიძლებოდა გაჩენილიყო კონკრეტული და არგუმენტირებული კითხვები.
 # translit = tʻavistʻavad, am kardinaluri cʻvlilebebis ganxorcʻielebisas šeiżleboda gačʻeniliqo konkretuli da argumentirebuli kitʻxvebi.
 1	თავისთავად	თავისთავად	ADV	Adv	AdvType=Man	8	advmod	8:advmod	SpaceAfter=No|Translit=tʻavistʻavad
@@ -2676,7 +2677,7 @@
 12	კითხვები	კითხვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	8	nsubj:pass	8:nsubj:pass	SpaceAfter=No|Translit=kitʻxvebi
 13	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00134 
+# sent_id = GLC_00134
 # text = უსაფრთხოების სექტორის რეფორმირებისას ხელისუფლებისა და სამოქალაქო სექტორის ურთიერთობაში კონფლიქტურობისა და გაურკვევლობის შემომტანი ხდებოდა არასამთავრობო სექტორის მხრიდან დაუზუსტებელი ინფორმაციების გავრცელებაც.
 # translit = usapʻrtʻxoebis sekʻtoris repʻormirebisas xelisupʻlebisa da samokʻalakʻo sekʻtoris urtʻiertʻobaši konpʻlikʻturobisa da gaurkvevlobis šemomtani xdeboda arasamtʻavrobo sekʻtoris mxridan dauzustebeli inpʻormacʻiebis gavrcʻelebacʻ.
 1	უსაფრთხოების	უსაფრთხოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=usapʻrtʻxoebis
@@ -2699,12 +2700,12 @@
 17-18	მხრიდან	_	_	_	_	_	_	_	_
 17	მხრი	მხარი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	14	obl	14:obl	Translit=mxri
 18	დან	დან	ADP	Post	AdpType=Post|Case=Ins	17	case	17:case	Translit=dan
-19	დაუზუსტებელი	დაუზუსტებელი	VERB	VerbalAdj	Case=Gen|Neg|Number=Sing|VerbForm=Part	20	nmod	20:nmod	Translit=dauzustebeli
+19	დაუზუსტებელი	დაუზუსტებელი	VERB	VerbalAdj	Case=Gen|Number=Sing|VerbForm=Part	20	nmod	20:nmod	Translit=dauzustebeli
 20	ინფორმაციების	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	21:nmod	Translit=inpʻormacʻiebis
 21	გავრცელებაც	გავრცელება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing|PartType=Emp	14	obj	14:obj	SpaceAfter=No|Translit=gavrcʻelebacʻ
 22	.	.	PUNCT	F	PunctType=Peri	14	punct	14:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00135 
+# sent_id = GLC_00135
 # text = აღსანიშნავია, რომ თავად პოლიტიკური ოპოზიცია მთავრობის ზემოთნახსენებ აქტებს ზედმეტად რეპრესიულად ან არასერიოზულად მიიჩნევდა.
 # translit = aġsanišnavia, rom tʻavad politikuri opozicʻia mtʻavrobis zemotʻnaxseneb akʻtebs zedmetad represiulad an araseriozulad miičʻnevda.
 1-2	აღსანიშნავია	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2725,12 +2726,12 @@
 15	მიიჩნევდა	იჩნევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	1	ccomp	1:ccomp	SpaceAfter=No|Translit=miičʻnevda
 16	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00136 
+# sent_id = GLC_00136
 # text = რევოლუციის შემდეგ დადგა არაერთი საჯარო მოხელის თუ საერთაშორისო დახმარების პროგრამებში მონაწილე პირის სისხლის სამართლებრივი პასუხისმგებლობის საკითხი.
 # translit = revolucʻiis šemdeg dadga araertʻi sajaro moxelis tʻu saertʻašoriso daxmarebis programebši monacile piris sisxlis samartʻlebrivi pasuxismgeblobis sakitʻxi.
 1	რევოლუციის	რევოლუცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=revolucʻiis
 2	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	3	advmod	3:advmod	Translit=šemdeg
-3	დადგა	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	0	root	0:root	Translit=dadga
+3	დადგა	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	0:root	Translit=dadga
 4	არაერთი	არაერთი	ADJ	Adj	Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=araertʻi
 5	საჯარო	საჯარო	ADJ	Adj	Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=sajaro
 6	მოხელის	მოხელე	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	17	nmod	17:nmod	Translit=moxelis
@@ -2748,7 +2749,7 @@
 17	საკითხი	საკითხი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No|Translit=sakitʻxi
 18	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00137 
+# sent_id = GLC_00137
 # text = ყოველივე ამას მოსდევდა კრიტიკა ადამიანის უფლებათა დამცავი წრეებიდან და ბრალდებულთა ადვოკატებისგან როგორც საქართველოში, ისე ქვეყნის ფარგლებს გარეთ.
 # translit = qovelive amas mosdevda kritika adamianis upʻlebatʻa damcʻavi creebidan da braldebultʻa advokatebisgan rogorcʻ sakʻartʻveloši, ise kʻveqnis pʻarglebs garetʻ.
 1	ყოველივე	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	2	nmod	2:nmod	Translit=qovelive
@@ -2777,7 +2778,7 @@
 21	გარეთ	გარეთ	ADV	Adv	AdvType=Loc	15	conj	15:conj	SpaceAfter=No|Translit=garetʻ
 22	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00138 
+# sent_id = GLC_00138
 # text = საყურადღებოა, რომ ამ ადამიანთა უფლებების დაცვა ხდებოდა და ხდება არა კორუმპირებულ-კრიმინალური წარსულის დაბრუნების მოთხოვნით, არამედ ადამიანის უფლებათა და კანონის უზენაესობის არგუმენტებით.
 # translit = saquradġeboa, rom am adamiantʻa upʻlebebis dacʻva xdeboda da xdeba ara korumpirebul-kriminaluri carsulis dabrunebis motʻxovnitʻ, aramed adamianis upʻlebatʻa da kanonis uzenaesobis argumentebitʻ.
 1-2	საყურადღებოა	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2796,7 +2797,7 @@
 13	კორუმპირებულ-კრიმინალური	კორუმპირებულ-კრიმინალური	ADJ	Adj	Case=Gen|Number=Sing	14	nmod	14:nmod	Translit=korumpirebul-kriminaluri
 14	წარსულის	წარსული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	15:nmod	Translit=carsulis
 15	დაბრუნების	დაბრუნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	nmod	16:nmod	Translit=dabrunebis
-16	მოთხოვნით	მოთხოვნა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	9	advmod	9:advmod	SpaceAfter=No|Translit=motʻxovnitʻ
+16	მოთხოვნით	მოთხოვნა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	9	obl	9:obl	SpaceAfter=No|Translit=motʻxovnitʻ
 17	,	,	PUNCT	F	PunctType=Comm	24	punct	24:punct	Translit=,
 18	არამედ	არამედ	CCONJ	Conj	_	24	cc	24:cc	Translit=aramed
 19	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	20	nmod	20:nmod	Translit=adamianis
@@ -2804,10 +2805,10 @@
 21	და	და	CCONJ	Conj	_	22	cc	22:cc	Translit=da
 22	კანონის	კანონი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	conj	20:conj	Translit=kanonis
 23	უზენაესობის	უზენაესობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	24:nmod	Translit=uzenaesobis
-24	არგუმენტებით	არგუმენტი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	9	advmod	9:advmod	SpaceAfter=No|Translit=argumentebitʻ
+24	არგუმენტებით	არგუმენტი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	9	obl	9:obl	SpaceAfter=No|Translit=argumentebitʻ
 25	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00139 
+# sent_id = GLC_00139
 # text = ამდენად, იკვეთებოდა, რომ ხელისუფლების მძაფრი კრიტიკის ფონზე სრულიად არადემოკრატიული ძალები ქმნიდნენ თავად სახელმწიფო უსაფრთხოების სერიოზულ პრობლემას.
 # translit = amdenad, ikvetʻeboda, rom xelisupʻlebis mżapʻri kritikis pʻonze sruliad arademokratiuli żalebi kʻmnidnen tʻavad saxelmcipʻo usapʻrtʻxoebis seriozul problemas.
 1	ამდენად	ამდენად	ADV	Adv	AdvType=Deg	3	advmod	3:advmod	SpaceAfter=No|Translit=amdenad
@@ -2832,7 +2833,7 @@
 19	პრობლემას	პრობლემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obj	14:obj	SpaceAfter=No|Translit=problemas
 20	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00140 
+# sent_id = GLC_00140
 # text = მაგრამ ნათქვამი არ ნიშნავს, რომ რევოლუციური ხელისუფლების კრიტიკას არანაირი საფუძველი არ გააჩნდა.
 # translit = magram natʻkʻvami ar nišnavs, rom revolucʻiuri xelisupʻlebis kritikas aranairi sapʻużveli ar gaačʻnda.
 1	მაგრამ	მაგრამ	CCONJ	Conj	_	4	cc	4:cc	Translit=magram
@@ -2847,10 +2848,10 @@
 10	არანაირი	არანაირი	ADJ	Adj	Case=Nom|Number=Sing	11	amod	11:amod	Translit=aranairi
 11	საფუძველი	საფუძველი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	13:nsubj	Translit=sapʻużveli
 12	არ	არ	PART	Part	PartType=Neg	13	advmod	13:advmod	Translit=ar
-13	გააჩნდა	ჩნდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|Voice=Act	4	ccomp	4:ccomp	SpaceAfter=No|Translit=gaačʻnda
+13	გააჩნდა	ჩნდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	4	ccomp	4:ccomp	SpaceAfter=No|Translit=gaačʻnda
 14	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00141 
+# sent_id = GLC_00141
 # text = სამწუხაროდ, ამ მცდელობებს დაძაბულობის ესკალაცია მოჰყვა.
 # translit = samcuxarod, am mcʻdelobebs dażabulobis eskalacʻia mohqva.
 1	სამწუხაროდ	სამწუხარო	ADV	Adv	_	7	advmod	7:advmod	SpaceAfter=No|Translit=samcuxarod
@@ -2859,10 +2860,10 @@
 4	მცდელობებს	მცდელობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	7	obj	7:obj	Translit=mcʻdelobebs
 5	დაძაბულობის	დაძაბულობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	6:nmod	Translit=dażabulobis
 6	ესკალაცია	ესკალაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	7:nsubj	Translit=eskalacʻia
-7	მოჰყვა	ყვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Aor|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=mohqva
+7	მოჰყვა	ყვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=mohqva
 8	.	.	PUNCT	F	PunctType=Peri	7	punct	7:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00142 
+# sent_id = GLC_00142
 # text = რევოლუციური მთავრობების სარისკო მახასიათებელი იყო და არის არაფორმალური გუნდურობა, დემოკრატიული ჩართულობის, ანგარიშგების თუ შეკავება-გაწონასწორების პრინციპების შესუსტება.
 # translit = revolucʻiuri mtʻavrobebis sarisko maxasiatʻebeli iqo da aris arapʻormaluri gunduroba, demokratiuli čʻartʻulobis, angarišgebis tʻu šekaveba-gaconascorebis princʻipebis šesusteba.
 1	რევოლუციური	რევოლუციური	ADJ	Adj	Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=revolucʻiuri
@@ -2885,7 +2886,7 @@
 18	შესუსტება	შესუსტება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	conj	9:conj	SpaceAfter=No|Translit=šesusteba
 19	.	.	PUNCT	F	PunctType=Peri	4	punct	4:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00143
+# sent_id = GLC_00143
 # text = ხელისუფლების წარმომადგენლები უარყოფდნენ ამ თუ სხვა ბრალდებებს, აღნიშნავდნენ რა, რომ ხშირად საერთაშორისო უფლებადაცვითი ორგანიზაციები გადაუმოწმებელ ინფორმაციას ეყრდნობოდნენ.
 # translit = xelisupʻlebis carmomadgenlebi uarqopʻdnen am tʻu sxva braldebebs, aġnišnavdnen ra, rom xširad saertʻašoriso upʻlebadacʻvitʻi organizacʻiebi gadaumocmebel inpʻormacʻias eqrdnobodnen.
 1	ხელისუფლების	ხელისუფლება	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=xelisupʻlebis
@@ -2909,7 +2910,7 @@
 19	ეყრდნობოდნენ	ეყრდნობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Imp|Voice=Act	9	ccomp	9:ccomp	SpaceAfter=No|Translit=eqrdnobodnen
 20	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00144 
+# sent_id = GLC_00144
 # text = ძირითადად, იგივე იყო ხელისუფლების პასუხი ბრალდებებზე, რომ რეფორმირებული სასამართლო პროკურატურაზე გახდა დამოკიდებული და რომ რეფორმირებული სამართალდამცავი სისტემის წარმომადგენლები რიგ შემთხვევებში დაუსჯელად განაგრძობენ ადამიანის უფლებათა შელახვას.
 # translit = żiritʻadad, igive iqo xelisupʻlebis pasuxi braldebebze, rom repʻormirebuli sasamartʻlo prokuraturaze gaxda damokidebuli da rom repʻormirebuli samartʻaldamcʻavi sistemis carmomadgenlebi rig šemtʻxvevebši dausjelad ganagrżoben adamianis upʻlebatʻa šelaxvas.
 1	ძირითადად	ძირითადად	ADV	Adv	AdvType=Tim	3	advmod	3:advmod	SpaceAfter=No|Translit=żiritʻadad
@@ -2928,7 +2929,7 @@
 13-14	პროკურატურაზე	_	_	_	_	_	_	_	_
 13	პროკურატურა	პროკურატურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	15:obl	Translit=prokuratura
 14	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	13	case	13:case	Translit=ze
-15	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Aor|Voice=Act	7	ccomp	7:ccomp	Translit=gaxda
+15	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	7	ccomp	7:ccomp	Translit=gaxda
 16	დამოკიდებული	დამოკიდებული	ADJ	Adj	Case=Nom|Number=Sing	13	amod	13:amod	Translit=damokidebuli
 17	და	და	CCONJ	Conj	_	27	cc	27:cc	Translit=da
 18	რომ	რომ	SCONJ	Conj	_	27	mark	27:mark	Translit=rom
@@ -2947,7 +2948,7 @@
 30	შელახვას	შელახვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	obj	27:obj	SpaceAfter=No|Translit=šelaxvas
 31	.	.	PUNCT	F	PunctType=Peri	3	punct	3:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00145 
+# sent_id = GLC_00145
 # text = აღსანიშნავია, რომ როგორც სახალხო დამცველი, ისე საერთაშორისო ორგანიზაციები აღნიშნავდნენ ძალადობის აშკარა ფაქტების თანდათანობით კლებას სამართალდამცავი ორგანოების წარმომადგენელთა მხრიდან.
 # translit = aġsanišnavia, rom rogorcʻ saxalxo damcʻveli, ise saertʻašoriso organizacʻiebi aġnišnavdnen żaladobis aškara pʻakʻtebis tʻandatʻanobitʻ klebas samartʻaldamcʻavi organoebis carmomadgeneltʻa mxridan.
 1-2	აღსანიშნავია	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2958,7 +2959,7 @@
 5	როგორც	როგორ	PRON	Pron	Number=Sing|PartType=Emp|PronType=Rel	7	nmod	7:nmod	Translit=rogorcʻ
 6	სახალხო	სახალხო	ADJ	Adj	Case=Nom|Number=Sing	7	amod	7:amod	Translit=saxalxo
 7	დამცველი	დამცველი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	11	amod	11:amod	SpaceAfter=No|Translit=damcʻveli
-8	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
+8	,	,	PUNCT	F	PunctType=Comm	11	punct	11:punct	Translit=,
 9	ისე	ისე	ADV	Adv	AdvType=Man	11	advmod	11:advmod	Translit=ise
 10	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Nom|Number=Sing	7	conj	7:conj	Translit=saertʻašoriso
 11	ორგანიზაციები	ორგანიზაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	12	nsubj	12:nsubj	Translit=organizacʻiebi
@@ -2976,7 +2977,7 @@
 22	დან	დან	ADP	Post	AdpType=Post|Case=Ins	21	case	21:case	Translit=dan
 23	.	.	PUNCT	F	PunctType=Peri	1	punct	1:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00146 
+# sent_id = GLC_00146
 # text = მაგრამ, იმავდროულად, ისინი გამოთქვამდნენ უკმაყოფილებას ძალადობის შესახებ არსებულ საჩივრებზე რეაგირების ტემპებზე.
 # translit = magram, imavdroulad, isini gamotʻkʻvamdnen ukmaqopʻilebas żaladobis šesaxeb arsebul sačʻivrebze reagirebis tempebze.
 1	მაგრამ	მაგრამ	CCONJ	Conj	_	6	cc	6:cc	SpaceAfter=No|Translit=magram
@@ -2998,7 +2999,7 @@
 15	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	14	case	14:case	Translit=ze
 16	.	.	PUNCT	F	PunctType=Peri	6	punct	6:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00147
+# sent_id = GLC_00147
 # text = 2003 წლის რევოლუციამდე საქართველოს ხელისუფლებას უმოქმედობა გამოარჩევდა.
 # translit = 2003 clis revolucʻiamde sakʻartʻvelos xelisupʻlebas umokʻmedoba gamoarčʻevda.
 1	2003	2003	NUM	Num	NumForm=Digit|NumType=Card	2	nummod	2:nummod	Translit=2003
@@ -3012,7 +3013,7 @@
 8	გამოარჩევდა	არჩევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=gamoarčʻevda
 9	.	.	PUNCT	F	PunctType=Peri	8	punct	8:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00148 
+# sent_id = GLC_00148
 # text = უნივერსიტეტის ფინანსური, მატერიალური და ადამიანური რესურსების მართვის სტრატეგიული დაგეგმვისათვის ხშირად გამოიყენება შედარებითი, ანუ კონკურენტების საქმიანობის, ანალიზი, რომელიც წარმოადგენს უნივერსიტეტის საქმიანობის შედარებას სხვა უმაღლეს სასწავლებლებთან.
 # translit = universitetis pʻinansuri, materialuri da adamianuri resursebis martʻvis strategiuli dagegmvisatʻvis xširad gamoiqeneba šedarebitʻi, anu konkurentebis sakʻmianobis, analizi, romelicʻ carmoadgens universitetis sakʻmianobis šedarebas sxva umaġles sascavleblebtʻan.
 1	უნივერსიტეტის	უნივერსიტეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=universitetis
@@ -3049,7 +3050,7 @@
 30	თან	თან	ADP	Post	AdpType=Post|Case=Dat	29	case	29:case	Translit=tʻan
 31	.	.	PUNCT	F	PunctType=Peri	13	punct	13:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00149 
+# sent_id = GLC_00149
 # text = უნივერსიტეტის საქმიანობის შეფასების სანდოობა მოითხოვს ჯეროვანი ბალანსის დაცვას პროცესში დაინტერესებული პირების მონაწილეობასა და დამოუკიდებელ შეფასებას შორის.
 # translit = universitetis sakʻmianobis šepʻasebis sandooba moitʻxovs jerovani balansis dacʻvas procʻesši dainteresebuli pirebis monacileobasa da damoukidebel šepʻasebas šoris.
 1	უნივერსიტეტის	უნივერსიტეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=universitetis
@@ -3072,7 +3073,7 @@
 17	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	16	case	16:case	SpaceAfter=No|Translit=šoris
 18	.	.	PUNCT	F	PunctType=Peri	5	punct	5:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00150 
+# sent_id = GLC_00150
 # text = ანგარიშის წარდგენა დაინტერესებული პირებისათვის მონიტორინგისა და შეფასების პროცესის ერთ-ერთი გადამწყვეტი სტადიაა.
 # translit = angarišis cardgena dainteresebuli pirebisatʻvis monitoringisa da šepʻasebis procʻesis ertʻ-ertʻi gadamcqveti stadiaa.
 1	ანგარიშის	ანგარიში	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=angarišis
@@ -3092,7 +3093,7 @@
 13	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	12	cop	12:cop	Translit=a
 14	.	.	PUNCT	F	PunctType=Peri	12	punct	12:punct	Translit=.
 
-# sent_id = corpora.iliauni.edu.ge-ka-00151 
+# sent_id = GLC_00151
 # text = საყოველთაოდ აღიარებული საზომები, რომელთა საფუძველზეც ხდება უნივერსიტეტის საქმიანობის შედეგების შეფასება, მოიცავს შრომითი ბაზრის, სწავლებისა და ხელმისაწვდომობის ინდიკატორებს.
 # translit = saqoveltʻaod aġiarebuli sazomebi, romeltʻa sapʻużvelzecʻ xdeba universitetis sakʻmianobis šedegebis šepʻaseba, moicʻavs šromitʻi bazris, scavlebisa da xelmisacvdomobis indikatorebs.
 1	საყოველთაოდ	საყოველთაო	ADV	Adv	_	2	advmod	2:advmod	Translit=saqoveltʻaod
