@@ -793,13 +793,13 @@
 # sent_id = GLC_00042
 # text = მაგალითად, ქალმა, რომელსაც უთხრეს, კისრის ოსტეოქონდროზი გაქვსო, ნახა რა ჟურნალ „ზდოროვიეში“ კისრის მალების სურათი, სადაც მალების ყველა ნაწილის სრული მიმოხილვისათვის კისერი გვერდზე მიბრუნებულად იყო დახატული, წარმოიდგინა, რომ ამ დაავადების შედეგად იყო კისერი გვერდზე მიქცეული და, აქედან გამომდინარე, მასაც შეიძლება მოეღრიცოს კისერი მომავალში.
 # translit = magalitʻad, kʻalma, romelsacʻ utʻxres, kisris osteokʻondrozi gakʻvso, naxa ra žurnal „zdorovieši“ kisris malebis suratʻi, sadacʻ malebis qvela nacilis sruli mimoxilvisatʻvis kiseri gverdze mibrunebulad iqo daxatuli, carmoidgina, rom am daavadebis šedegad iqo kiseri gverdze mikʻcʻeuli da, akʻedan gamomdinare, masacʻ šeiżleba moeġricʻos kiseri momavalši.
-1	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	obl	12:obl	SpaceAfter=No|Translit=magalitʻad
+1	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	13	obl	13:obl	SpaceAfter=No|Translit=magalitʻad
 2	,	,	PUNCT	F	PunctType=Comm	13	punct	13:punct	Translit=,
 3	ქალმა	ქალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No|Translit=kʻalma
-4	,	,	PUNCT	F	PunctType=Comm	13	punct	13:punct	Translit=,
+4	,	,	PUNCT	F	PunctType=Comm	3	punct	3:punct	Translit=,
 5	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	3	nmod	3:nmod	Translit=romelsacʻ
 6	უთხრეს	ეუბნება	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	acl	3:acl	SpaceAfter=No|Translit=utʻxres
-7	,	,	PUNCT	F	PunctType=Comm	13	punct	13:punct	Translit=,
+7	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
 8	კისრის	კისერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	9:nmod	Translit=kisris
 9	ოსტეოქონდროზი	ოსტეოქონდროზი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	obj	10:obj	Translit=osteokʻondrozi
 10-11	გაქვსო	_	_	_	_	_	_	_	SpaceAfter=No
