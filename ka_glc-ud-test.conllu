@@ -480,7 +480,7 @@
 11	თურმე	თურმე	PART	Part	PartType=Int	9	advmod	9:advmod	Translit=tʻurme
 12	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	13	nmod	13:nmod	Translit=ramdeni
 13	თოვლი	თოვლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	14:nsubj	Translit=tʻovli
-14	მოსულა	მოდის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=PastPerf	9	acl	0:acl	Translit=mosula
+14	მოსულა	მოდის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=PastPerf	9	acl	9:acl	Translit=mosula
 15	წუხელ	წუხელ	ADV	Adv	AdvType=Tim	14	advmod	14:advmod	SpaceAfter=No|Translit=cuxel
 16	.	.	PUNCT	F	PunctType=Peri	9	punct	9:punct	Translit=.
 
@@ -759,9 +759,9 @@
 3	„	„	PUNCT	F	PunctType=Quot	4	punct	4:punct	SpaceAfter=No|Translit=„
 4	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes	10	nmod	10:nmod	SpaceAfter=No|Translit=tʻavisi
 5	“	“	PUNCT	F	PunctType=Quot	4	punct	4:punct	SpaceAfter=No|Translit=“
-6	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
+6	,	,	PUNCT	F	PunctType=Comm	9	punct	9:punct	Translit=,
 7-8	მოსახლეობისათვის	_	_	_	_	_	_	_	_
-7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	obl	11:obl	Translit=mosaxleobisa
+7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	obl	9:obl	Translit=mosaxleobisa
 8	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	7	case	7:case	Translit=tʻvis
 9	თავზარდამცემი	თავზარდამცემი	ADJ	Adj	Case=Nom|Number=Sing	4	conj	4:conj	Translit=tʻavzardamcʻemi
 10	ავადმყოფობა	ავადმყოფობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	obj	11:obj	Translit=avadmqopʻoba
@@ -794,12 +794,12 @@
 # text = მაგალითად, ქალმა, რომელსაც უთხრეს, კისრის ოსტეოქონდროზი გაქვსო, ნახა რა ჟურნალ „ზდოროვიეში“ კისრის მალების სურათი, სადაც მალების ყველა ნაწილის სრული მიმოხილვისათვის კისერი გვერდზე მიბრუნებულად იყო დახატული, წარმოიდგინა, რომ ამ დაავადების შედეგად იყო კისერი გვერდზე მიქცეული და, აქედან გამომდინარე, მასაც შეიძლება მოეღრიცოს კისერი მომავალში.
 # translit = magalitʻad, kʻalma, romelsacʻ utʻxres, kisris osteokʻondrozi gakʻvso, naxa ra žurnal „zdorovieši“ kisris malebis suratʻi, sadacʻ malebis qvela nacilis sruli mimoxilvisatʻvis kiseri gverdze mibrunebulad iqo daxatuli, carmoidgina, rom am daavadebis šedegad iqo kiseri gverdze mikʻcʻeuli da, akʻedan gamomdinare, masacʻ šeiżleba moeġricʻos kiseri momavalši.
 1	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	obl	12:obl	SpaceAfter=No|Translit=magalitʻad
-2	,	,	PUNCT	F	PunctType=Comm	6	punct	6:punct	Translit=,
+2	,	,	PUNCT	F	PunctType=Comm	13	punct	13:punct	Translit=,
 3	ქალმა	ქალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No|Translit=kʻalma
-4	,	,	PUNCT	F	PunctType=Comm	6	punct	6:punct	Translit=,
+4	,	,	PUNCT	F	PunctType=Comm	13	punct	13:punct	Translit=,
 5	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	3	nmod	3:nmod	Translit=romelsacʻ
-6	უთხრეს	ეუბნება	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	2	acl	2:acl	SpaceAfter=No|Translit=utʻxres
-7	,	,	PUNCT	F	PunctType=Comm	10	punct	10:punct	Translit=,
+6	უთხრეს	ეუბნება	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	acl	3:acl	SpaceAfter=No|Translit=utʻxres
+7	,	,	PUNCT	F	PunctType=Comm	13	punct	13:punct	Translit=,
 8	კისრის	კისერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	9:nmod	Translit=kisris
 9	ოსტეოქონდროზი	ოსტეოქონდროზი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	obj	10:obj	Translit=osteokʻondrozi
 10-11	გაქვსო	_	_	_	_	_	_	_	SpaceAfter=No
