@@ -30,11 +30,11 @@ Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: fiction nonfiction
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted with corrections
+Lemmas: automatic
+UPOS: automatic with corrections
+XPOS: automatic 
+Features: automatic with corrections
+Relations: automatic with corrections
 Contributors: Lobzhanidze, Irina
 Contributing: here
 Contact: irina_lobzhanidze@iliauni.edu.ge
