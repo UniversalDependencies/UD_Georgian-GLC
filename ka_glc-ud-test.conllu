@@ -2668,7 +2668,7 @@
 3	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	4	nmod	4:nmod	Translit=am
 4	კარდინალური	კარდინალური	ADJ	Adj	Case=Gen|Number=Sing	5	nmod	5:nmod	Translit=kardinaluri
 5	ცვლილებების	ცვლილება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	6:nmod	Translit=cʻvlilebebis
-6	განხორციელებისას	განხორციელება	NOUN	Noun	Animacy=Inan|Case=Dat|Case=Gen|Number=Sing	8	nmod	8:nmod	Translit=ganxorcʻielebisas
+6	განხორციელებისას	განხორციელება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	nmod	8:nmod	Translit=ganxorcʻielebisas
 7	შეიძლებოდა	შეუძლია	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	8	aux	8:aux	Translit=šeiżleboda
 8	გაჩენილიყო	ი/ეჩენილა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pqp|Voice=Pass	0	root	0:root	Translit=gačʻeniliqo
 9	კონკრეტული	კონკრეტული	ADJ	Adj	Case=Nom|Number=Sing	12	amod	12:amod	Translit=konkretuli
@@ -2682,7 +2682,7 @@
 # translit = usapʻrtʻxoebis sekʻtoris repʻormirebisas xelisupʻlebisa da samokʻalakʻo sekʻtoris urtʻiertʻobaši konpʻlikʻturobisa da gaurkvevlobis šemomtani xdeboda arasamtʻavrobo sekʻtoris mxridan dauzustebeli inpʻormacʻiebis gavrcʻelebacʻ.
 1	უსაფრთხოების	უსაფრთხოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	2:nmod	Translit=usapʻrtʻxoebis
 2	სექტორის	სექტორი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	3:nmod	Translit=sekʻtoris
-3	რეფორმირებისას	რეფორმირება	NOUN	Noun	Animacy=Inan|Case=Dat|Case=Gen|Number=Sing	4	nmod	4:nmod	Translit=repʻormirebisas
+3	რეფორმირებისას	რეფორმირება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	nmod	4:nmod	Translit=repʻormirebisas
 4	ხელისუფლებისა	ხელისუფლება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	8:nmod	Translit=xelisupʻlebisa
 5	და	და	CCONJ	Conj	_	7	cc	7:cc	Translit=da
 6	სამოქალაქო	სამოქალაქო	ADJ	Adj	Case=Gen|Number=Sing	7	nmod	7:nmod	Translit=samokʻalakʻo

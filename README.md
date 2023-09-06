@@ -10,14 +10,12 @@ The current version of the UD_Georgian-GLC treebank includes 152 utterances (sen
 # Acknowledgments
 
 The UD_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10). The development of the UD_Georgian-GLC initial treebank has been supported by the EU funded programm “Support to Georgia’s Researchers’ Mobility”, 2023 and implemented at the University of Göttingen.
-My special gratitude goes to Prof. Dr. Stavros Skopeteas from the University of Göttingen for his support and valuable comments on the initial data of the UD_Georgian-GLC treebank.
+Special gratitudes goes to Prof. Dr. Stavros Skopeteas from the University of Göttingen for his support and valuable comments on the initial data of the UD_Georgian-GLC treebank.
 
 ## References
 
-https://github.com/UniversalDependencies/UD_Georgian-GLC (development area of this corpus)
-Doborjginidze, N., Lobzhanidze, I., Gunia, I. (2012). Georgian language corpus. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023.
-Doborjginidze, N., Lobzhanidze, I., Mirianashvili, G. (2014). Corpus of Georgian Chronicles. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023.
-Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and Generator for Georgian. Cham: Springer.
+https://github.com/UniversalDependencies/UD_Georgian-GLC (development area of this corpus) Lobzhanidze, I., Magradze, E., Berikashvili, Sv., Gozalishvili, A., Jalagonia, T. Accessed 06 September 2023. 
+Doborjginidze, N., Lobzhanidze, I., Gunia, I. (2012). Georgian language corpus. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. Doborjginidze, N., Lobzhanidze, I., Mirianashvili, G. (2014). Corpus of Georgian Chronicles. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and Generator for Georgian. Cham: Springer.
 
 # Changelog
 
