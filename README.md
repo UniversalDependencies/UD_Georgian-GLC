@@ -5,11 +5,13 @@ The Georgian UD Treebank (UD_Georgian-GLC) is the first syntactically annotated 
 # Introduction
 
 The Georgian UD Treebank (UD_Georgian-GLC) is the first syntactically annotated corpus of Georgian. The annotations have been performed on a representative sample of sentences randomly selected from the GLC (Doborjginidze et al. 2013). The annotations provide information about the grammatical structure and dependencies within the sentences, allowing a better understanding of the syntactic structure of the Georgian language. The tokenization and segmentation principles in the GLC (Google Language Codes) differ slightly from those represented in the UD (Universal Dependencies) specifications, particularly regarding multiword tokens and, the UD specifications' approach has been adopted to avoid the above-mentioned difference. Morpho-syntactic annotation already discussed in Lobzhanidze (2022) was automatically converted to meet the requirements of the UD. Thus, the UD_Georgian-GLC incorporates automatic annotation for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration and tokenization issues (MISC). The heads of the current words (HEADS), dependency relations (DEPREL), and enhanced dependency graph (DEPS) have been automatically converted, reviewed, and manually corrected.
+
 The current version of the UD_Georgian-GLC treebank includes 152 utterances (sentences) or 2123 tokens. In future releases, the UD_Georgian-GLC treebank will expand the available data by incorporating additional texts. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
 
 # Acknowledgments
 
-The UD_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10). The UD_Georgian-GLC initial treebank has been development in 2023 (Project Nos. NEAR/TBS/2021/EARP/0086, FR-22-20496). 
+The UD_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10). The UD_Georgian-GLC initial treebank has been developed in 2023 (Project Nos. NEAR/TBS/2021/EARP/0086, FR-22-20496). 
+
 Special gratitudes goes to Prof. Dr. Stavros Skopeteas from the University of Göttingen for his support and valuable comments on the initial data of the UD_Georgian-GLC treebank and to Prof. Dr. Dan Zeman for his invaluable contributions in making the dataset available on GitHub and offering valuable suggestions.
 
 ## References
