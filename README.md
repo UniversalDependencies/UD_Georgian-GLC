@@ -15,9 +15,9 @@ The UD_Georgian-GLC release is based on the data from the Georgian Language Corp
 Special gratitudes goes to Prof. Dr. Stavros Skopeteas from the University of Göttingen for his support and valuable comments on the initial data of the UD_Georgian-GLC treebank and to Prof. Dr. Dan Zeman for his invaluable contributions in making the dataset available on GitHub and offering valuable suggestions.
 
 ## References
-Doborjginidze, N., Lobzhanidze, I., Gunia, I. (2012). Georgian language corpus. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. 
+Doborjginidze, N., Lobzhanidze, I., Gunia, I. (2012). Georgian language corpus. See, http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. 
 
-Doborjginidze, N., Lobzhanidze, I., Mirianashvili, G. (2014). Corpus of Georgian Chronicles. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. 
+Doborjginidze, N., Lobzhanidze, I., Mirianashvili, G. (2014). Corpus of Georgian Chronicles. See, http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. 
 
 Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and Generator for Georgian. Cham: Springer.
 
