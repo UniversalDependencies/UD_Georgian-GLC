@@ -19,7 +19,9 @@ Development area of UD_Georgian-GLC: https://github.com/UniversalDependencies/UD
 
 Doborjginidze, N., Lobzhanidze, I., Gunia, I. (2012). Georgian language corpus. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. 
 
-Doborjginidze, N., Lobzhanidze, I., Mirianashvili, G. (2014). Corpus of Georgian Chronicles. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and Generator for Georgian. Cham: Springer.
+Doborjginidze, N., Lobzhanidze, I., Mirianashvili, G. (2014). Corpus of Georgian Chronicles. http://corpora.iliauni.edu.ge/. Accessed 15 July 2023. 
+
+Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and Generator for Georgian. Cham: Springer.
 
 # Changelog
 
