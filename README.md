@@ -1,6 +1,6 @@
 # Summary
 
-The Georgian UD Treebank (UD_Georgian-GLC) is the first syntactically annotated corpus of Georgian, based on a collection of annotated sentences selected from the Georgian Language Corpus (GLC) available at http://oldcorpora.iliauni.edu.ge/. 
+The Georgian UD Treebank (UD_Georgian-GLC) is the first syntactically annotated corpus of Georgian, based on a collection of annotated sentences selected from the Georgian Language Corpus (GLC) available at http://corpora.iliauni.edu.ge/. 
 
 # Introduction
 
