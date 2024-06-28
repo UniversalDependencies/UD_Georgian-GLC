@@ -911,7 +911,7 @@
 21	რაზეც	რაზეც	SCONJ	Conj	_	8	mark	_	Translit=razecʻ
 22	ზევით	ზევით	ADV	Adv	AdvType=Loc	24	advmod:lmod	_	Translit=zevitʻ
 23	უკვე	უკვე	ADV	Adv	AdvType=Tim	24	advmod	_	Translit=ukve
-24	გვქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Intr|Tense=Imp	8	parataxis	_	Translit=gvkʻonda
+24	გვქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Intr|Tense=Imp	8	acl:relcl	_	Translit=gvkʻonda
 25	საუბარი	საუბარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	24	obj	_	SpaceAfter=No|Translit=saubari
 26	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 27	არამედ	არამედ	CCONJ	Conj	_	33	cc	_	Translit=aramed
