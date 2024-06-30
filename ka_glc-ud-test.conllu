@@ -759,7 +759,7 @@
 3	„	„	PUNCT	F	PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=„
 4	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes	10	det:poss	_	SpaceAfter=No|Translit=tʻavisi
 5	“	“	PUNCT	F	PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=“
-6	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
+6	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 7-8	მოსახლეობისათვის	_	_	_	_	_	_	_	_
 7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	obl	_	Translit=mosaxleobisa
 8	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=tʻvis
