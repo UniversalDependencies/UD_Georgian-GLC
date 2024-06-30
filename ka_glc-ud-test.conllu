@@ -2875,7 +2875,7 @@
 7	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	conj	_	Translit=aris
 8	არაფორმალური	არაფორმალური	ADJ	Adj	Case=Nom|Number=Sing	9	amod	_	Translit=arapʻormaluri
 9	გუნდურობა	გუნდურობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No|Translit=gunduroba
-10	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+10	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 11	დემოკრატიული	დემოკრატიული	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=demokratiuli
 12	ჩართულობის	ჩართულობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	SpaceAfter=No|Translit=čʻartʻulobis
 13	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
