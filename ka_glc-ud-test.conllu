@@ -2874,15 +2874,15 @@
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 7	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	conj	_	Translit=aris
 8	არაფორმალური	არაფორმალური	ADJ	Adj	Case=Nom|Number=Sing	9	amod	_	Translit=arapʻormaluri
-9	გუნდურობა	გუნდურობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	5	nsubj	_	SpaceAfter=No|Translit=gunduroba
+9	გუნდურობა	გუნდურობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No|Translit=gunduroba
 10	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 11	დემოკრატიული	დემოკრატიული	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=demokratiuli
 12	ჩართულობის	ჩართულობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	SpaceAfter=No|Translit=čʻartʻulobis
 13	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 14	ანგარიშგების	ანგარიშგება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=angarišgebis
 15	თუ	თუ	CCONJ	Conj	_	16	cc	_	Translit=tʻu
-16	შეკავება-გაწონასწორების	შეკავება-გაწონასწორება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	conj	_	Translit=šekaveba-gaconascorebis
-17	პრინციპების	პრინციპი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	conj	_	Translit=princʻipebis
+16	შეკავება-გაწონასწორების	შეკავება-გაწონასწორება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=šekaveba-gaconascorebis
+17	პრინციპების	პრინციპი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	conj	_	Translit=princʻipebis
 18	შესუსტება	შესუსტება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No|Translit=šesusteba
 19	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
