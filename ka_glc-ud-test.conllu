@@ -10,7 +10,7 @@
 6	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=me
 7	მაინც	მაინც	PART	Part	PartType=Emp	8	advmod	_	Translit=maincʻ
 8	არა	არა	PART	Part	PartType=Neg	9	advmod	_	Translit=ara
-9	ვარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres	3	conj	_	SpaceAfter=No|Translit=var
+9	ვარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres	2	conj	_	SpaceAfter=No|Translit=var
 10	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = GLC_00002
