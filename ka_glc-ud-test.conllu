@@ -2277,20 +2277,20 @@
 6	ვაჭრობის	ვაჭრობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=vačrobis
 7	მატერიალურ-ტექნიკური	მატერიალურ-ტექნიკური	ADJ	Adj	Case=Gen|Number=Sing	8	amod	_	Translit=materialur-tekʻnikuri
 8	ბაზის	ბაზა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=bazis
-9	განვითარების	განვითარება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	SpaceAfter=No|Translit=ganvitʻarebis
+9	განვითარების	განვითარება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	nmod	_	SpaceAfter=No|Translit=ganvitʻarebis
 10	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 11	მიმოქცევის	მიმოქცევა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=mimokʻcʻevis
-12	ხარჯების	ხარჯი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	conj	_	SpaceAfter=No|Translit=xarjebis
+12	ხარჯების	ხარჯი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	22	nmod	_	SpaceAfter=No|Translit=xarjebis
 13	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 14	ხელფასის	ხელფასი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	Translit=xelpʻasis
-15	დონისა	დონე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	conj	_	Translit=donisa
+15	დონისა	დონე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=donisa
 16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 17	მეურნეობრივი	მეურნეობრივი	ADJ	Adj	Case=Gen|Number=Sing	18	amod	_	Translit=meurneobrivi
 18	საქმიანობის	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=sakʻmianobis
 19	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	20	nmod	_	Translit=zogiertʻi
 20	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	nmod	_	Translit=sxva
-21	მაჩვენებლის	მაჩვენებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	conj	_	Translit=mačʻveneblis
-22	დამტკიცების	დამტკიცება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	nmod	_	Translit=damtkicʻebis
+21	მაჩვენებლის	მაჩვენებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=mačʻveneblis
+22	დამტკიცების	დამტკიცება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	conj	_	Translit=damtkicʻebis
 23	უფლება	უფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No|Translit=upʻleba
 24	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
