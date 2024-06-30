@@ -358,8 +358,8 @@
 5-6	თავზე	_	_	_	_	_	_	_	SpaceAfter=No
 5	თავ	თავი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	2	obl	_	Translit=tʻav
 6	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	5	case	_	Translit=ze
-7	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
-8	რომ	რომ	SCONJ	Conj	_	2	mark	_	Translit=rom
+7	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
+8	რომ	რომ	SCONJ	Conj	_	13	mark	_	Translit=rom
 9	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Translit=me
 10	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	11	nmod	_	Translit=sxva
 11	გამოცდილება	გამოცდილება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	obj	_	Translit=gamocʻdileba
@@ -367,7 +367,7 @@
 13	მაქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Intr|Tense=Pres	2	ccomp	_	SpaceAfter=No|Translit=makʻvs
 14	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 15	გარდა	გარდა	ADP	Post	AdpType=Post|Case=Gen	19	nmod	_	Translit=garda
-16	ჩემი	ჩემი	PRON	Pron	Case=Gen|Number=Sing|Person=1|Poss=Yes	17	nmod	_	Translit=čʻemi
+16	ჩემი	ჩემი	PRON	Pron	Case=Gen|Number=Sing|Person=1|Poss=Yes	18	det:poss	_	Translit=čʻemi
 17	საკუთარი	საკუთარი	ADJ	Adj	Case=Gen|Number=Sing	18	amod	_	Translit=sakutʻari
 18	სიცოცხლის	სიცოცხლე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=sicʻocʻxlis
 19	შეგრძნებისა	შეგრძნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	SpaceAfter=No|Translit=šegrżnebisa
@@ -410,7 +410,7 @@
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
 14	იძირებიან	იძირება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	3	conj	_	SpaceAfter=No|Translit=iżirebian
 15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
-16	ლაგდებიან	ლაგდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	14	conj	_	SpaceAfter=No|Translit=lagdebian
+16	ლაგდებიან	ლაგდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	3	conj	_	SpaceAfter=No|Translit=lagdebian
 17	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = GLC_00025
@@ -419,7 +419,7 @@
 1	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=es
 2	ენა	ენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No|Translit=ena
 3	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
-4	როგორც	როგორც	SCONJ	Conj	_	2	mark	_	Translit=rogorcʻ
+4	როგორც	როგორც	SCONJ	Conj	_	7	mark	_	Translit=rogorcʻ
 5	ანკარა	ანკარა	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	Translit=ankara
 6	მთის	მთა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=mtʻis
 7	წყარო	წყარო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nmod	_	SpaceAfter=No|Translit=cqaro
@@ -448,7 +448,7 @@
 6	სპეტაკი	სპეტაკი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	Translit=spetaki
 7	თოვლი	თოვლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	acl	_	SpaceAfter=No|Translit=tʻovli
 8	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-9	რომელიც	რომელიც	SCONJ	Conj	_	7	mark	_	Translit=romelicʻ
+9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	Translit=romelicʻ
 10	ეცემა	ეცემა	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	ccomp	_	Translit=ecʻema
 11	თბილ	თბილი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	12	amod	_	Translit=tʻbil
 12	მიწას	მიწა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	_	Translit=micas
@@ -487,12 +487,12 @@
 # sent_id = GLC_00028
 # text = მხოლოდ მეშვიდე დღეს შეთანხმდნენ, რომ მე თომა მქვია.
 # translit = mxolod mešvide dġes šetʻanxmdnen, rom me tʻoma mkʻvia.
-1	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	2	advmod	_	Translit=mxolod
+1	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	4	advmod	_	Translit=mxolod
 2	მეშვიდე	შვიდი	NUM	Num	Case=Dat|Number=Sing|NumType=Ord	3	nummod	_	Translit=mešvide
 3	დღეს	დღე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=dġes
 4	შეთანხმდნენ	თანხმდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=šetʻanxmdnen
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-6	რომ	რომ	SCONJ	Conj	_	4	mark	_	Translit=rom
+6	რომ	რომ	SCONJ	Conj	_	9	mark	_	Translit=rom
 7	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=me
 8	თომა	თომა	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	9	obj	_	Translit=tʻoma
 9	მქვია	(ჰ)ქვია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	4	advcl	_	SpaceAfter=No|Translit=mkʻvia
@@ -562,7 +562,7 @@
 6	ესოდენ	ესოდენ	ADV	Adv	AdvType=Man	7	advmod	_	Translit=esoden
 7	მასშტაბური	მასშტაბური	ADJ	Adj	Case=Gen|Number=Sing	8	amod	_	Translit=masštaburi
 8-9	ფორმაციისათვის	_	_	_	_	_	_	_	_
-8	ფორმაციისა	ფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	obl	_	Translit=pʻormacʻiisa
+8	ფორმაციისა	ფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	obl	_	Translit=pʻormacʻiisa
 9	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=tʻvis
 10	გამოედო	ედება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Subcat=Intr|Tense=Past|Voice=Pass	4	conj	_	Translit=gamoedo
 11	თავი	თავი	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs	10	obj	_	SpaceAfter=No|Translit=tʻavi
@@ -607,7 +607,7 @@
 5	მოითხოვდა	თხოვს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=moitʻxovda
 6	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 7-8	თავისუფლებაზე	_	_	_	_	_	_	_	_
-7	თავისუფლება	თავისუფლება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=tʻavisupʻleba
+7	თავისუფლება	თავისუფლება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	obl	_	Translit=tʻavisupʻleba
 8	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ze
 9	ფიქრი	ფიქრი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	obj	_	Translit=pʻikʻri
 10-11	თავიდან	_	_	_	_	_	_	_	_
@@ -656,7 +656,7 @@
 17	ოცნება	ოცნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=ocʻneba
 18	ში	ში	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ši
 19	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
-20	მაგრამ	მაგრამ	CCONJ	Conj	_	21	cc	_	Translit=magram
+20	მაგრამ	მაგრამ	CCONJ	Conj	_	23	cc	_	Translit=magram
 21	ადამიანი	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	23	nsubj	_	Translit=adamiani
 22	სანახევროდ	სანახევრო	ADV	Adv	_	23	advmod	_	Translit=sanaxevrod
 23-24	შთაგონებაა	_	_	_	_	_	_	_	SpaceAfter=No
@@ -679,7 +679,7 @@
 38-39	თვალში	_	_	_	_	_	_	_	SpaceAfter=No
 38	თვალ	თვალი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	34	obl	_	Translit=tʻval
 39	ში	ში	ADP	Post	AdpType=Post|Case=Dat	38	case	_	Translit=ši
-40	.	.	PUNCT	F	PunctType=Peri	34	punct	_	Translit=.
+40	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id = GLC_00037
 # text = საქართველოში შექმნილი მწვავე (თუ არა საგანგაშო) დემოგრაფიული სიტუაცია, ბუნებრივია, თხოულობს პროცესების ღრმა და კომპლექსურ შესწავლას, სწორი და ეფექტიანი დემოგრაფიული პოლიტიკის გატარებას, ასევე მეცნიერულად დასაბუთებული რეკომენდაციების დაუყოვნებლივ შემუშავებას.
@@ -761,7 +761,7 @@
 5	“	“	PUNCT	F	PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=“
 6	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 7-8	მოსახლეობისათვის	_	_	_	_	_	_	_	_
-7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	obl	_	Translit=mosaxleobisa
+7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	obl	_	Translit=mosaxleobisa
 8	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=tʻvis
 9	თავზარდამცემი	თავზარდამცემი	ADJ	Adj	Case=Nom|Number=Sing	4	conj	_	Translit=tʻavzardamcʻemi
 10	ავადმყოფობა	ავადმყოფობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	obj	_	Translit=avadmqopʻoba
@@ -780,7 +780,7 @@
 5	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ze
 6	საშიშ	საშიში	ADJ	Adj	Case=Ess|Number=Sing	7	amod	_	Translit=sašiš
 7	დაავადებად	დაავადება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	13	obl	_	Translit=daavadebad
-8	(	(	PUNCT	F	PunctType=Brck	9	punct	_	SpaceAfter=No|Translit=(
+8	(	(	PUNCT	F	PunctType=Brck	11	punct	_	SpaceAfter=No|Translit=(
 9	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 10	სავსებით	სავსებით	ADV	Adv	AdvType=Deg	11	advmod	_	Translit=savsebitʻ
 11	სამართლიანად	სამართლიანი	ADV	Adv	_	13	advmod	_	SpaceAfter=No|Translit=samartʻlianad
@@ -793,11 +793,11 @@
 # sent_id = GLC_00042
 # text = მაგალითად, ქალმა, რომელსაც უთხრეს, კისრის ოსტეოქონდროზი გაქვსო, ნახა რა ჟურნალ „ზდოროვიეში“ კისრის მალების სურათი, სადაც მალების ყველა ნაწილის სრული მიმოხილვისათვის კისერი გვერდზე მიბრუნებულად იყო დახატული, წარმოიდგინა, რომ ამ დაავადების შედეგად იყო კისერი გვერდზე მიქცეული და, აქედან გამომდინარე, მასაც შეიძლება მოეღრიცოს კისერი მომავალში.
 # translit = magalitʻad, kʻalma, romelsacʻ utʻxres, kisris osteokʻondrozi gakʻvso, naxa ra žurnal „zdorovieši“ kisris malebis suratʻi, sadacʻ malebis qvela nacilis sruli mimoxilvisatʻvis kiseri gverdze mibrunebulad iqo daxatuli, carmoidgina, rom am daavadebis šedegad iqo kiseri gverdze mikʻcʻeuli da, akʻedan gamomdinare, masacʻ šeiżleba moeġricʻos kiseri momavalši.
-1	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	13	obl	_	SpaceAfter=No|Translit=magalitʻad
-2	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
+1	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	6	obl	_	SpaceAfter=No|Translit=magalitʻad
+2	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
 3	ქალმა	ქალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	13	nsubj	_	SpaceAfter=No|Translit=kʻalma
 4	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
-5	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	3	nmod	_	Translit=romelsacʻ
+5	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	6	iobj	_	Translit=romelsacʻ
 6	უთხრეს	ეუბნება	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	acl	_	SpaceAfter=No|Translit=utʻxres
 7	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 8	კისრის	კისერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=kisris
@@ -805,7 +805,7 @@
 10-11	გაქვსო	_	_	_	_	_	_	_	SpaceAfter=No
 10	გაქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Intr|Tense=Pres	6	ccomp	_	Translit=gakʻvs
 11	ო	თქო	PART	Part	Evident=Nfh	10	ccomp	_	Translit=o
-12	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
+12	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 13	ნახა	ნახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=naxa
 14	რა	რა	PRON	Pron	Number=Sing|PronType=Rel	13	nmod	_	Translit=ra
 15	ჟურნალ	ჟურნალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	obj	_	Translit=žurnal
@@ -847,13 +847,13 @@
 47	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	46	case	_	Translit=ze
 48	მიქცეული	მიქცეული	ADJ	Adj	Case=Nom|Number=Sing	38	ccomp	_	Translit=mikʻcʻeuli
 49	და	და	CCONJ	Conj	_	56	cc	_	SpaceAfter=No|Translit=da
-50	,	,	PUNCT	F	PunctType=Comm	52	punct	_	Translit=,
-51	აქედან	აქედან	ADV	Adv	AdvType=Loc	52	advmod:lmod	_	Translit=akʻedan
-52	გამომდინარე	გამომდინარე	ADJ	Adj	Case=Nom|Number=Sing	48	amod	_	SpaceAfter=No|Translit=gamomdinare
-53	,	,	PUNCT	F	PunctType=Comm	52	punct	_	Translit=,
+50	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
+51	აქედან	აქედან	ADV	Adv	AdvType=Loc	48	advmod:lmod	_	Translit=akʻedan
+52	გამომდინარე	გამომდინარე	ADJ	Adj	Case=Nom|Number=Sing	51	amod	_	SpaceAfter=No|Translit=gamomdinare
+53	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
 54	მასაც	იგი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|Person=3|PronType=Prs	56	obj	_	Translit=masacʻ
 55	შეიძლება	შეუძლია	AUX	Aux	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	56	aux	_	Translit=šeiżleba
-56	მოეღრიცოს	ა/ი/უღრეცს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	38	conj	_	Translit=moeġricʻos
+56	მოეღრიცოს	ა/ი/უღრეცს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	48	conj	_	Translit=moeġricʻos
 57	კისერი	კისერი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	56	nsubj	_	Translit=kiseri
 58-59	მომავალში	_	_	_	_	_	_	_	SpaceAfter=No
 58	მომავალ	მომავალი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	56	obl	_	Translit=momaval
@@ -900,20 +900,20 @@
 12	მარტო	მარტო	ADV	Adv	AdvType=Man	14	advmod	_	Translit=marto
 13	მძიმე	მძიმე	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	14	amod	_	Translit=mżime
 14-15	ავადმყოფთან	_	_	_	_	_	_	_	_
-14	ავადმყოფ	ავადმყოფი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	10	obl	_	Translit=avadmqopʻ
+14	ავადმყოფ	ავადმყოფი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	8	obl	_	Translit=avadmqopʻ
 15	თან	თან	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=tʻan
 16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 17	მის	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes	18	det:poss	_	Translit=mis
 18-19	ჭირისუფალთან	_	_	_	_	_	_	_	SpaceAfter=No
 18	ჭირისუფალ	ჭირისუფალი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	14	obl	_	Translit=čirisupʻal
 19	თან	თან	ADP	Post	AdpType=Post|Case=Dat	18	case	_	Translit=tʻan
-20	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-21	რაზეც	რაზეც	SCONJ	Conj	_	8	mark	_	Translit=razecʻ
+20	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+21	რაზეც	რაზეც	SCONJ	Conj	_	24	mark	_	Translit=razecʻ
 22	ზევით	ზევით	ADV	Adv	AdvType=Loc	24	advmod:lmod	_	Translit=zevitʻ
 23	უკვე	უკვე	ADV	Adv	AdvType=Tim	24	advmod	_	Translit=ukve
 24	გვქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Intr|Tense=Imp	8	acl:relcl	_	Translit=gvkʻonda
 25	საუბარი	საუბარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	24	obj	_	SpaceAfter=No|Translit=saubari
-26	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
+26	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 27	არამედ	არამედ	CCONJ	Conj	_	33	cc	_	Translit=aramed
 28	ჩვეულებრივ	ჩვეულებრივი	ADJ	Adj	Case=Dat|Number=Sing	33	amod	_	SpaceAfter=No|Translit=čʻveulebriv
 29	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
@@ -921,7 +921,7 @@
 31	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 32	ამბულატორულ	ამბულატორული	ADJ	Adj	Case=Dat|Number=Sing	33	amod	_	Translit=ambulatorul
 33-34	ავადმყოფთანაც	_	_	_	_	_	_	_	_
-33	ავადმყოფ	ავადმყოფი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing|PartType=Emp	10	obl	_	Translit=avadmqopʻ
+33	ავადმყოფ	ავადმყოფი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing|PartType=Emp	24	obl	_	Translit=avadmqopʻ
 34	თანაც	თან	ADP	Post	AdpType=Post|Case=Dat	33	case	_	Translit=tʻanacʻ
 35	კი	კი	PART	Part	PartType=Emp	33	advmod	_	SpaceAfter=No|Translit=ki
 36	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
@@ -963,7 +963,7 @@
 16	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 17	რომ	რომ	SCONJ	Conj	_	19	mark	_	Translit=rom
 18	მწერალი	მწერალი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	19	nsubj	_	Translit=mcerali
-19	მონაწილეობდეს	მონაწილეობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	15	ccomp	_	Translit=monacileobdes
+19	მონაწილეობდეს	მონაწილეობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	8	ccomp	_	Translit=monacileobdes
 20	კოსმოსურ	კოსმოსური	ADJ	Adj	Case=Dat|Number=Sing	21	amod	_	Translit=kosmosur
 21-22	ოდისეაში	_	_	_	_	_	_	_	SpaceAfter=No
 21	ოდისეა	ოდისეა	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	19	obl	_	Translit=odisea
@@ -972,7 +972,7 @@
 24	ან	ან	CCONJ	Conj	_	26	cc	_	Translit=an
 25	სამხედრო	სამხედრო	ADJ	Adj	Case=Dat|Number=Sing	26	amod	_	Translit=samxedro
 26-27	ლაშქრობაში	_	_	_	_	_	_	_	SpaceAfter=No
-26	ლაშქრობა	ლაშქრობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	obl	_	Translit=laškʻroba
+26	ლაშქრობა	ლაშქრობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	conj	_	Translit=laškʻroba
 27	ში	ში	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=ši
 28	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 29	ანდა	ანდა	CCONJ	Conj	_	34	cc	_	Translit=anda
@@ -981,7 +981,7 @@
 32	თვალის	თვალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	33	nmod	_	Translit=tʻvalis
 33	სასეირო	სასეირო	ADJ	Adj	Case=Dat|Number=Sing	34	amod	_	Translit=saseiro
 34-35	ამბავში	_	_	_	_	_	_	_	SpaceAfter=No
-34	ამბავ	ამბავი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	obl	_	Translit=ambav
+34	ამბავ	ამბავი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	conj	_	Translit=ambav
 35	ში	ში	ADP	Post	AdpType=Post|Case=Dat	34	case	_	Translit=ši
 36	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
@@ -1001,9 +1001,9 @@
 11	კი	კი	PART	Part	PartType=Emp	10	advmod	_	Translit=ki
 12	საინტერესო	საინტერესო	ADJ	Adj	Case=Ins|Number=Sing	13	amod	_	Translit=saintereso
 13-14	მოულოდნელობებითაა	_	_	_	_	_	_	_	_
-13	მოულოდნელობებითა	მოულოდნელობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	14	obl	_	Translit=moulodnelobebitʻa
-14	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	ccomp	_	Translit=a
-15	აღსავსე	აღსავსე	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	SpaceAfter=No|Translit=aġsavse
+13	მოულოდნელობებითა	მოულოდნელობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	15	obl	_	Translit=moulodnelobebitʻa
+14	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	13	cop	_	Translit=a
+15	აღსავსე	აღსავსე	ADJ	Adj	Case=Nom|Number=Sing	4	ccomp	_	SpaceAfter=No|Translit=aġsavse
 16	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 17	როცა	როცა	SCONJ	Conj	_	28	mark	_	Translit=rocʻa
 18	ის	ის(ი)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	amod	_	Translit=is
