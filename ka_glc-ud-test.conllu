@@ -73,9 +73,9 @@
 2	არა	არა	PART	Part	PartType=Neg	3	advmod	_	Translit=ara
 3	მჯერა	(ს)ჯერა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	0	root	_	Translit=mjera
 4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	nmod	_	SpaceAfter=No|Translit=imatʻi
-5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	4	nsubj	_	Translit=vincʻ
-7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	6	ccomp	_	Translit=daibada
+5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
+6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	7	nsubj	_	Translit=vincʻ
+7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	4	acl	_	Translit=daibada
 8	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 9	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	10	advmod	_	Translit=šemdeg
 10	იძახის	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	7	conj	_	Translit=iżaxis
@@ -188,7 +188,7 @@
 # sent_id = GLC_00014
 # text = თქვენ ალბათ გაინტერესებთ რას მეძახიან.
 # translit = tʻkʻven albatʻ gainteresebtʻ ras meżaxian.
-1	თქვენ	თქვენ	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Translit=tʻkʻven
+1	თქვენ	თქვენ	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=tʻkʻven
 2	ალბათ	ალბათ	PART	Part	PartType=Int	3	advmod	_	Translit=albatʻ
 3	გაინტერესებთ	აინტერესებს	VERB	Verb	Aspect=Imp|Mood=Ind|Person[io]=2|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=gainteresebtʻ
 4	რას	რა	PRON	Pron	Case=Dat|Number=Sing|PronType=Int	3	obj	_	Translit=ras
@@ -198,7 +198,7 @@
 # sent_id = GLC_00015
 # text = მეც მაინტერესებს.
 # translit = mecʻ mainteresebs.
-1	მეც	მე	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|Person=1|PronType=Prs	2	iobj	_	Translit=mecʻ
+1	მეც	მე	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|Person=1|PronType=Prs	2	nsubj	_	Translit=mecʻ
 2	მაინტერესებს	აინტერესებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=mainteresebs
 3	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
@@ -252,8 +252,8 @@
 # sent_id = GLC_00019
 # text = მიუხედავად იმისა, რომ 30 წლითაა ჩემზე უფროსი, მაინც ჩემი მეზობელია.
 # translit = miuxedavad imisa, rom 30 clitʻaa čʻemze upʻrosi, maincʻ čʻemi mezobelia.
-1	მიუხედავად	მიუხედავად	ADV	Adv	AdvType=Man	14	advcl	_	Translit=miuxedavad
-2	იმისა	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	1	det	_	SpaceAfter=No|Translit=imisa
+1	მიუხედავად	მიუხედავად	ADV	Adv	AdvType=Man	2	advmod	_	Translit=miuxedavad
+2	იმისა	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	6	det	_	SpaceAfter=No|Translit=imisa
 3	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
 4	რომ	რომ	SCONJ	Conj	_	2	mark	_	Translit=rom
 5	30	30	NUM	Num	NumForm=Digit|NumType=Card	6	nummod	_	Translit=30
@@ -293,14 +293,14 @@
 16	ასე	ასე	ADV	Adv	AdvType=Man	17	advmod	_	Translit=ase
 17	უბრალოდ	უბრალო	ADV	Adv	_	18	advmod	_	Translit=ubralod
 18	ხვდებიან	ხვდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	14	conj	_	Translit=xvdebian
-19	ერთმანეთს	ერთმანეთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rcp	18	nmod	_	SpaceAfter=No|Translit=ertʻmanetʻs
+19	ერთმანეთს	ერთმანეთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rcp	18	obj	_	SpaceAfter=No|Translit=ertʻmanetʻs
 20	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00021
 # text = ახლა თუმცა დიდი სიყვარულითა და აღტაცებით დასცქერენ მეზობელ-ნათესავები ამ სიცოცხლეს, შემდგომში ყველას ავიწყდება იგი და სწორედ ამ სასწაულს იყენებენ ისინი წამებისათვის, ღალატისათვის, შანტაჟისათვის, ფეხქვეშ გასათელად, გასაუბრალოებლად, ტკივილის მისაყენებლად, მისაჩქმალავად, აბუჩად ასაგდებად...
 # translit = axla tʻumcʻa didi siqvarulitʻa da aġtacʻebitʻ dascʻkʻeren mezobel-natʻesavebi am sicʻocʻxles, šemdgomši qvelas avicqdeba igi da scored am sascauls iqeneben isini camebisatʻvis, ġalatisatʻvis, šantažisatʻvis, pʻexkʻveš gasatʻelad, gasaubraloeblad, tkivilis misaqeneblad, misačʻkʻmalavad, abučʻad asagdebad...
 1	ახლა	ახლა	ADV	Adv	AdvType=Tim	7	advmod	_	Translit=axla
-2	თუმცა	თუმცა	SCONJ	Conj	_	15	mark	_	Translit=tʻumcʻa
+2	თუმცა	თუმცა	SCONJ	Conj	_	1	mark	_	Translit=tʻumcʻa
 3	დიდი	დიდი	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	4	amod	_	Translit=didi
 4	სიყვარულითა	სიყვარული	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	obl	_	Translit=siqvarulitʻa
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
@@ -327,25 +327,25 @@
 24	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=tʻvis
 25	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
 26-27	ღალატისათვის	_	_	_	_	_	_	_	SpaceAfter=No
-26	ღალატისა	ღალატი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	obl	_	Translit=ġalatisa
+26	ღალატისა	ღალატი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	conj	_	Translit=ġalatisa
 27	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	26	case	_	Translit=tʻvis
 28	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 29-30	შანტაჟისათვის	_	_	_	_	_	_	_	SpaceAfter=No
-29	შანტაჟისა	შანტაჟი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	obl	_	Translit=šantažisa
+29	შანტაჟისა	შანტაჟი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	conj	_	Translit=šantažisa
 30	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	29	case	_	Translit=tʻvis
 31	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 32	ფეხქვეშ	ფეხქვეშ	ADV	Adv	AdvType=Loc	33	advmod:lmod	_	Translit=pʻexkʻveš
-33	გასათელად	გასათელი	ADV	Adv	_	21	advmod	_	SpaceAfter=No|Translit=gasatʻelad
+33	გასათელად	გასათელი	ADV	Adv	_	23	conj	_	SpaceAfter=No|Translit=gasatʻelad
 34	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
-35	გასაუბრალოებლად	გასაუბრალოებელი	ADV	Adv	_	21	advmod	_	SpaceAfter=No|Translit=gasaubraloeblad
+35	გასაუბრალოებლად	გასაუბრალოებელი	ADV	Adv	_	23	conj	_	SpaceAfter=No|Translit=gasaubraloeblad
 36	,	,	PUNCT	F	PunctType=Comm	38	punct	_	Translit=,
 37	ტკივილის	ტკივილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	38	nmod	_	Translit=tkivilis
-38	მისაყენებლად	მისაყენებელი	ADV	Adv	_	21	advmod	_	SpaceAfter=No|Translit=misaqeneblad
+38	მისაყენებლად	მისაყენებელი	ADV	Adv	_	23	conj	_	SpaceAfter=No|Translit=misaqeneblad
 39	,	,	PUNCT	F	PunctType=Comm	40	punct	_	Translit=,
-40	მისაჩქმალავად	მისაჩქმალავი	ADV	Adv	_	21	advmod	_	SpaceAfter=No|Translit=misačʻkʻmalavad
+40	მისაჩქმალავად	მისაჩქმალავი	ADV	Adv	_	23	conj	_	SpaceAfter=No|Translit=misačʻkʻmalavad
 41	,	,	PUNCT	F	PunctType=Comm	43	punct	_	Translit=,
 42	აბუჩად	აბუჩი	ADV	Adv	_	43	advmod	_	Translit=abučʻad
-43	ასაგდებად	ასაგდები	ADV	Adv	_	21	advmod	_	SpaceAfter=No|Translit=asagdebad
+43	ასაგდებად	ასაგდები	ADV	Adv	_	23	conj	_	SpaceAfter=No|Translit=asagdebad
 44	...	...	PUNCT	F	PunctType=Elip	7	punct	_	Translit=...
 
 # sent_id = GLC_00022
