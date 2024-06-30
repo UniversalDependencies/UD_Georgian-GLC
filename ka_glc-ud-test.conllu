@@ -781,7 +781,7 @@
 6	საშიშ	საშიში	ADJ	Adj	Case=Ess|Number=Sing	7	amod	_	Translit=sašiš
 7	დაავადებად	დაავადება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	13	obl	_	Translit=daavadebad
 8	(	(	PUNCT	F	PunctType=Brck	11	punct	_	SpaceAfter=No|Translit=(
-9	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
+9	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 10	სავსებით	სავსებით	ADV	Adv	AdvType=Deg	11	advmod	_	Translit=savsebitʻ
 11	სამართლიანად	სამართლიანი	ADV	Adv	_	13	advmod	_	SpaceAfter=No|Translit=samartʻlianad
 12	)	)	PUNCT	F	PunctType=Brck	11	punct	_	Translit=)
