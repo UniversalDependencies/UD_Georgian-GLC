@@ -44,8 +44,8 @@
 4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 5	სულ	სულ	ADV	Adv	AdvType=Man	6	advmod	_	Translit=sul
 6	ღრმად	ღრმა	ADV	Adv	_	12	advmod	_	SpaceAfter=No|Translit=ġrmad
-7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-8	სულ	სულ	ADV	Adv	AdvType=Man	9	advmod	_	Translit=sul
+7	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
+8	სულ	სულ	ADV	Adv	AdvType=Man	12	advmod	_	Translit=sul
 9-10	ჩემში	_	_	_	_	_	_	_	_
 9	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	12	obl	_	Translit=čʻem
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ši
