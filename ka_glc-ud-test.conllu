@@ -1011,7 +1011,7 @@
 20	მცირე	მცირე	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	24	amod	_	SpaceAfter=No|Translit=mcʻire
 21	“	“	PUNCT	F	PunctType=Quot	20	punct	_	Translit=“
 22	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
-23	ჩვეულებრივი	ჩვეულებრივი	ADJ	Adj	Case=Gen|Number=Sing	24	amod	_	Translit=čʻveulebrivi
+23	ჩვეულებრივი	ჩვეულებრივი	ADJ	Adj	Case=Gen|Number=Sing	20	conj	_	Translit=čʻveulebrivi
 24	სათქმელის	სათქმელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	Translit=satʻkʻmelis
 25-26	ლექსიდან	_	_	_	_	_	_	_	_
 25	ლექსი	ლექსი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	27	obl	_	Translit=lekʻsi
@@ -1026,7 +1026,7 @@
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=igi
 2	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	3	det	_	Translit=am
 3	დროსაც	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing|PartType=Emp	5	obj	_	Translit=drosacʻ
-4	კი	კი	PART	Part	PartType=Emp	3	advmod	_	Translit=ki
+4	კი	კი	PART	Part	PartType=Emp	5	advmod	_	Translit=ki
 5	განირიდებს	არიდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=ganiridebs
 6	დაშტამპულ	დაშტამპული	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=daštampul
 7	სახეებს	სახე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	5	obj	_	Translit=saxeebs
@@ -1051,7 +1051,7 @@
 11	ხელმეორედ	ხელმეორე	ADV	Adv	_	12	advmod	_	Translit=xelmeored
 12	იბადება	იბადება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	9	conj	_	SpaceAfter=No|Translit=ibadeba
 13	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
-14	მანამდე	მანამდე	ADV	Adv	AdvType=Tim	15	advmod	_	Translit=manamde
+14	მანამდე	მანამდე	ADV	Adv	AdvType=Tim	18	advmod	_	Translit=manamde
 15	უქონელი	უქონელი	ADJ	Adj	Case=Gen|Number=Sing	16	amod	_	Translit=ukʻoneli
 16	ფერის	ფერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=pʻeris
 17	სამოსელს	სამოსელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obj	_	Translit=samosels
@@ -1101,7 +1101,7 @@
 10-11	ავტორთან	_	_	_	_	_	_	_	_
 10	ავტორ	ავტორი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	14	obl	_	Translit=avtor
 11	თან	თან	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=tʻan
-12	ერთად	ერთად	ADV	Adv	AdvType=Man	10	advmod	_	Translit=ertʻad
+12	ერთად	ერთად	ADV	Adv	AdvType=Man	14	advmod	_	Translit=ertʻad
 13	მთარგმნელსაც	მთარგმნელი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing|PartType=Emp	14	iobj	_	Translit=mtʻargmnelsacʻ
 14	მიუძღვის	უძღვნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	1	acl	_	Translit=miużġvis
 15	საჩინო	საჩინო	ADJ	Adj	Case=Nom|Number=Sing	16	amod	_	Translit=sačʻino
@@ -1142,7 +1142,7 @@
 4	დადებითი	დადებითი	ADJ	Adj	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=dadebitʻi
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 6	რომელიც	რომელი	SCONJ	Conj	_	7	mark	_	Translit=romelicʻ
-7	ქმნის	ქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	3	csubj	_	Translit=kʻmnis
+7	ქმნის	ქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	1	csubj	_	Translit=kʻmnis
 8	თარგმანების	თარგმანება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=tʻargmanebis
 9	საერთო	საერთო	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=saertʻo
 10	სახეს	სახე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=saxes
@@ -1203,13 +1203,13 @@
 13	გადარჩენა	გადარჩენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=gadarčʻena
 14	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	13	case	_	Translit=ze
 15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
-16	რომელიც	რომელიც	SCONJ	Conj	_	12	mark	_	Translit=romelicʻ
+16	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	Translit=romelicʻ
 17	„	„	PUNCT	F	PunctType=Quot	18	punct	_	SpaceAfter=No|Translit=„
 18-19	სულიერებადაა	_	_	_	_	_	_	_	SpaceAfter=No
-18	სულიერებადა	სულიერება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	acl	_	Translit=sulierebada
+18	სულიერებადა	სულიერება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	21	advmod	_	Translit=sulierebada
 19	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	18	cop	_	Translit=a
 20	“	“	PUNCT	F	PunctType=Quot	18	punct	_	Translit=“
-21	მონათლული	მონათლული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	18	amod	_	SpaceAfter=No|Translit=monatʻluli
+21	მონათლული	მონათლული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	SpaceAfter=No|Translit=monatʻluli
 22	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = GLC_00058
