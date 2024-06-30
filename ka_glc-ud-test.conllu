@@ -1141,8 +1141,8 @@
 3	ის	ის(ი)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	4	det	_	Translit=is
 4	დადებითი	დადებითი	ADJ	Adj	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=dadebitʻi
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-6	რომელიც	რომელი	SCONJ	Conj	_	7	mark	_	Translit=romelicʻ
-7	ქმნის	ქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	1	csubj	_	Translit=kʻmnis
+6	რომელიც	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	Translit=romelicʻ
+7	ქმნის	ქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	4	acl	_	Translit=kʻmnis
 8	თარგმანების	თარგმანება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=tʻargmanebis
 9	საერთო	საერთო	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=saertʻo
 10	სახეს	სახე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=saxes
