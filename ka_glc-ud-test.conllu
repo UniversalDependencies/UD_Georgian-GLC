@@ -996,7 +996,7 @@
 6	რომ	რომ	SCONJ	Conj	_	13	mark	_	Translit=rom
 7	მაძიებელი	მაძიებელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	9	nsubj	_	Translit=mażiebeli
 8	პოეტური	პოეტური	ADJ	Adj	Case=Nom|Number=Sing	9	amod	_	Translit=poeturi
-9	ენერგია	ენერგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	Translit=energia
+9	ენერგია	ენერგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	nsubj	_	Translit=energia
 10	მაშინაც	მაშინ	ADV	Adv	AdvType=Tim|PartType=Emp	15	advmod	_	Translit=mašinacʻ
 11	კი	კი	PART	Part	PartType=Emp	10	advmod	_	Translit=ki
 12	საინტერესო	საინტერესო	ADJ	Adj	Case=Ins|Number=Sing	13	amod	_	Translit=saintereso
