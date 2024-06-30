@@ -1017,7 +1017,7 @@
 25	ლექსი	ლექსი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	27	obl	_	Translit=lekʻsi
 26	დან	დან	ADP	Post	AdpType=Post|Case=Ins	25	case	_	Translit=dan
 27	განსხეულებას	განსხეულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	iobj	_	Translit=gansxeulebas
-28	ეწირება	ეწირება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	14	ccomp	_	SpaceAfter=No|Translit=ecireba
+28	ეწირება	ეწირება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	15	ccomp	_	SpaceAfter=No|Translit=ecireba
 29	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00048
