@@ -1270,7 +1270,7 @@
 15	მელექსეთა	მელექსე	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	9	obl	_	Translit=melekʻsetʻa
 16	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	15	case	_	SpaceAfter=No|Translit=šoris
 17	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-18	რომ	რომ	SCONJ	Conj	_	9	mark	_	Translit=rom
+18	რომ	რომ	SCONJ	Conj	_	27	mark	_	Translit=rom
 19	მან	იგი	PRON	Pron	Case=Erg|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	Translit=man
 20	მშობლიურ	მშობლიური	ADJ	Adj	Case=Gen|Number=Sing	21	amod	_	Translit=mšobliur
 21	მთათა	მთა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	22	nmod	_	Translit=mtʻatʻa
@@ -1328,7 +1328,7 @@
 15	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	14	cop	_	Translit=a
 16	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 17	ამიტომ	ამიტომ	SCONJ	Conj	_	29	mark	_	Translit=amitom
-18	პოეტის	პოეტი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	23	nmod	_	Translit=poetis
+18	პოეტის	პოეტი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	19	nmod	_	Translit=poetis
 19	შემოქმედების	შემოქმედება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=šemokʻmedebis
 20	ამსახველი	ამსახველი	ADJ	Adj	Case=Nom|Number=Sing	23	amod	_	Translit=amsaxveli
 21	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	23	nmod	_	Translit=qoveli
@@ -1416,7 +1416,7 @@
 10	ნადირიც	ნადირი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing|PartType=Emp	12	nsubj:pass	_	Translit=nadiricʻ
 11	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	iobj	_	Translit=mas
 12	ეტანება	ეტანება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	6	parataxis	_	SpaceAfter=No|Translit=etaneba
-13	.	.	PUNCT	F	PunctType=Peri	12	punct	_	Translit=.
+13	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = GLC_00068
 # text = შემოდგომით ქარისაგან დამფრთხალი ფოთლები თავშესაფარს ვეხის კედლებში ეძებენ.
@@ -1484,14 +1484,14 @@
 14	მის	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes	15	det:poss	_	Translit=mis
 15	საოცარ	საოცარი	ADJ	Adj	Case=Dat|Number=Sing	16	amod	_	Translit=saocʻar
 16	ჰარმონიას	ჰარმონია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obj	_	SpaceAfter=No|Translit=harmonias
-17	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
+17	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00072
 # text = ეკლესიის თაღის ქვეშ მეზობელი სახლის ქალები ისხდნენ და გულმოდგინედ აპრიალებდნენ რკინის შანდლებს.
 # translit = eklesiis tʻaġis kʻveš mezobeli saxlis kʻalebi isxdnen da gulmodgined aprialebdnen rkinis šandlebs.
 1	ეკლესიის	ეკლესია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=eklesiis
-2	თაღის	თაღი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=tʻaġis
-3	ქვეშ	ქვეშ	ADV	Adv	AdvType=Loc	2	advmod:lmod	_	Translit=kʻveš
+2	თაღის	თაღი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=tʻaġis
+3	ქვეშ	ქვეშ	ADV	Adv	AdvType=Loc	7	advmod:lmod	_	Translit=kʻveš
 4	მეზობელი	მეზობელი	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=mezobeli
 5	სახლის	სახლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=saxlis
 6	ქალები	ქალი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	7	nsubj	_	Translit=kʻalebi
@@ -1522,7 +1522,7 @@
 13	ძალაუნებურად	ძალაუნებურად	ADV	Adv	AdvType=Man	15	advmod	_	Translit=żalauneburad
 14	ყური	ყური	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	_	Translit=quri
 15	მივუგდეთ	უგდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|Voice=Act	6	parataxis	_	SpaceAfter=No|Translit=mivugdetʻ
-16	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
+16	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = GLC_00074
 # text = ერთ კვირა დღეს გავემგზავრეთ წინანდლისაკენ, ალექსანდრე ჭავჭავაძის ყოფილ მამულში.
@@ -1551,11 +1551,11 @@
 3	გარშემორტყმულ	გარშემორტყმული	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	Translit=garšemortqmul
 4	ველს	ველი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	iobj	_	Translit=vels
 5	მიჰყვება	ყვება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=mihqveba
-6	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
+6	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 7	სადაც	სადაც	ADV	Adv	AdvType=Rel	4	advmod	_	Translit=sadacʻ
 8	მაისის	მაისი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=maisis
 9	მზით	მზე	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=mzitʻ
-10	გამთბარ	გამთბარი	VERB	VerbalAdj	Case=Dat|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Part	11	nsubj	_	Translit=gamtʻbar
+10	გამთბარ	გამთბარი	ADJ	Adj	Case=Dat|Number=Sing	11	amod	_	Translit=gamtʻbar
 11	ვაზს	ვაზი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	nsubj	_	Translit=vazs
 12	ყვავილობა	ყვავილობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	obj	_	Translit=qvaviloba
 13	დაეწყო	ა/ი/უწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	7	advcl	_	SpaceAfter=No|Translit=daecqo
@@ -1588,8 +1588,8 @@
 1	გზა	გზა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obl	_	Translit=gza
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
 3	ხშირად	ხშირად	ADV	Adv	AdvType=Deg	10	advmod	_	Translit=xširad
-4	ახალგაზრდებით	ახალგაზრდა	ADJ	Adj	Case=Ins|Number=Plur	7	amod	_	Translit=axalgazrdebitʻ
-5	სავსე	სავსე	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=savse
+4	ახალგაზრდებით	ახალგაზრდა	ADJ	Adj	Case=Ins|Number=Plur	5	amod	_	Translit=axalgazrdebitʻ
+5	სავსე	სავსე	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	Translit=savse
 6	სატვირთო	სატვირთო	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=satvirtʻo
 7	მანქანები	მანქანა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	10	nsubj	_	Translit=mankʻanebi
 8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
@@ -1598,8 +1598,8 @@
 11	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 12	როგორც	როგორც	SCONJ	Conj	_	13	mark	_	Translit=rogorcʻ
 13	ჩანს	ჩანს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	10	parataxis	_	SpaceAfter=No|Translit=čʻans
-14	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-15	რაღაც	რაღაც	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	10	nmod	_	Translit=raġacʻ
+14	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+15	რაღაც	რაღაც	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	17	nmod	_	Translit=raġacʻ
 16	სპორტულ	სპორტული	ADJ	Adj	Case=Dat|Number=Sing	17	amod	_	Translit=sportul
 17-18	ღონისძიებაზე	_	_	_	_	_	_	_	_
 17	ღონისძიება	ღონისძიება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obl	_	Translit=ġonisżieba
@@ -1610,7 +1610,7 @@
 # sent_id = GLC_00079
 # text = ჩვენს ყურადღებას მოხუცი გლეხები იპყრობდნენ, რომლებიც დარბაისლურად მიაბიჯებდნენ შარაზე, პატარა ბარგით დატვირთულ სახედრების თანხლებით.
 # translit = čʻvens quradġebas moxucʻi glexebi ipqrobdnen, romlebicʻ darbaislurad miabijebdnen šaraze, patara bargitʻ datvirtʻul saxedrebis tʻanxlebitʻ.
-1	ჩვენს	ჩვენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	obj	_	Translit=čʻvens
+1	ჩვენს	ჩვენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=čʻvens
 2	ყურადღებას	ყურადღება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obj	_	Translit=quradġebas
 3	მოხუცი	მოხუცი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=moxucʻi
 4	გლეხები	გლეხი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	5	nsubj	_	Translit=glexebi
@@ -1627,7 +1627,7 @@
 14	ბარგით	ბარგი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	15	obl	_	Translit=bargitʻ
 15	დატვირთულ	დატვირთული	ADJ	Adj	Case=Gen|Number=Sing	16	amod	_	Translit=datvirtʻul
 16	სახედრების	სახედარი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	17	nmod	_	Translit=saxedrebis
-17	თანხლებით	თანხლებით	ADV	Adv	AdvType=Man	4	advcl	_	SpaceAfter=No|Translit=tʻanxlebitʻ
+17	თანხლებით	თანხლებით	ADV	Adv	AdvType=Man	5	advcl	_	SpaceAfter=No|Translit=tʻanxlebitʻ
 18	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = GLC_00080
@@ -1741,7 +1741,7 @@
 5	ენით	ენა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	obl	_	Translit=enitʻ
 6	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	7	cop	_	Translit=aris
 7	დაინტერესებული	დაინტერესებული	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=dainteresebuli
-8	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
+8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 9-10	ცნობილია	_	_	_	_	_	_	_	SpaceAfter=No
 9	ცნობილი	ცნობილი	ADJ	Adj	Case=Nom|Number=Sing	7	parataxis	_	Translit=cʻnobili
 10	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	9	cop	_	Translit=a
@@ -1782,7 +1782,7 @@
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 10	მუშაობის	მუშაობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=mušaobis
 11	მეორე	ორი	NUM	Num	Case=Dat|Number=Sing|NumType=Ord	12	nummod	_	Translit=meore
-12	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	iobj	_	Translit=mxares
+12	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obj	_	Translit=mxares
 13	–	–	PUNCT	F	PunctType=Dash	21	punct	_	Translit=–
 14	საშუალო	საშუალო	ADJ	Adj	Case=Gen|Number=Sing	17	nmod	_	Translit=sašualo
 15	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
@@ -1792,7 +1792,7 @@
 18	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=tʻvis
 19	გრამატიკული	გრამატიკული	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=gramatikuli
 20	სახელმძღვანელოს	სახელმძღვანელო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=saxelmżġvanelos
-21	შედგენას	შედგენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	iobj	_	SpaceAfter=No|Translit=šedgenas
+21	შედგენას	შედგენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	parataxis	_	SpaceAfter=No|Translit=šedgenas
 22	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = GLC_00090
@@ -1877,9 +1877,9 @@
 20	ერთად	ერთად	ADV	Adv	AdvType=Man	18	advmod	_	SpaceAfter=No|Translit=ertʻad
 21	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 22	იმ	ის	PRON	Pron	Case=Ins|Number=Sing|Person=3|PronType=Dem	23	det	_	Translit=im
-23	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	SpaceAfter=No|Translit=miznitʻ
-24	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
-25	რომ	რომ	SCONJ	Conj	_	23	mark	_	Translit=rom
+23	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	31	obl	_	SpaceAfter=No|Translit=miznitʻ
+24	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
+25	რომ	რომ	SCONJ	Conj	_	31	mark	_	Translit=rom
 26	მრავალმხრივი	მრავალმხრივი	ADJ	Adj	Case=Nom|Number=Sing	28	amod	_	Translit=mravalmxrivi
 27	სამეცნიერო-კვლევითი	სამეცნიერო-კვლევითი	ADJ	Adj	Case=Nom|Number=Sing	28	amod	_	Translit=samecʻniero-kvlevitʻi
 28	მუშაობა	მუშაობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	31	nsubj:pass	_	Translit=mušaoba
@@ -1909,7 +1909,7 @@
 # text = ამ გეგმიანი თანამშრომლობის სარგებლობა და დადებითი მხარეები ამ დაწესებულების საყურადღებო გამოცემებში ჩანს.
 # translit = am gegmiani tʻanamšromlobis sargebloba da dadebitʻi mxareebi am dacesebulebis saquradġebo gamocʻemebši čʻans.
 1	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=am
-2	გეგმიანი	გეგმიანი	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=gegmiani
+2	გეგმიანი	გეგმიანი	ADJ	Adj	Case=Gen|Number=Sing	3	amod	_	Translit=gegmiani
 3	თანამშრომლობის	თანამშრომლობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=tʻanamšromlobis
 4	სარგებლობა	სარგებლობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	Translit=sargebloba
 5	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
@@ -1960,7 +1960,7 @@
 5	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	Translit=didi
 6	მნიშვნელობა	მნიშვნელობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	obj	_	Translit=mnišvneloba
 7	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp	0	root	_	SpaceAfter=No|Translit=hkʻonda
-8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
+8	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 9	თუმცა	თუმცა	SCONJ	Conj	_	19	mark	_	Translit=tʻumcʻa
 10	სირიულ	სირიული	ADJ	Adj	Case=Dat|Number=Sing	15	amod	_	SpaceAfter=No|Translit=siriul
 11	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
