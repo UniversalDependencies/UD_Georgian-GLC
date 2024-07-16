@@ -72,7 +72,7 @@
 1	რატომღაც	რატომ	ADV	Adv	AdvType=Rel|PartType=Emp	3	advmod	_	Translit=ratomġacʻ
 2	არა	არა	PART	Part	PartType=Neg	3	advmod	_	Translit=ara
 3	მჯერა	(ს)ჯერა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	0	root	_	Translit=mjera
-4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	det	_	SpaceAfter=No|Translit=imatʻi
+4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	det:poss	_	SpaceAfter=No|Translit=imatʻi
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	7	nsubj:pass	_	Translit=vincʻ
 7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	4	acl	_	Translit=daibada
