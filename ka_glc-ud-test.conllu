@@ -1375,7 +1375,7 @@
 2	კი	კი	PART	Part	PartType=Emp	3	advmod	_	Translit=ki
 3	დაინახა	ხედავს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=dainaxa
 4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
-5	როგორ	როგორ	PRON	Pron	Number=Sing|PronType=Rel	6	mark	_	Translit=rogor
+5	როგორ	როგორ	SCONJ	Conj	_	6	mark	_	Translit=rogor
 6	გაჩერდა	ჩერდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	3	ccomp	_	Translit=gačʻerda
 7	ქვემოთ	ქვემოთ	ADV	Adv	AdvType=Loc	6	advmod:lmod	_	SpaceAfter=No|Translit=kʻvemotʻ
 8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
@@ -2767,7 +2767,7 @@
 12-13	ადვოკატებისგან	_	_	_	_	_	_	_	_
 12	ადვოკატების	ადვოკატი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	conj	_	Translit=advokatebis
 13	გან	გან	ADP	Post	AdpType=Post|Case=Gen	12	case	_	Translit=gan
-14	როგორც	როგორ	PRON	Pron	Number=Sing|PartType=Emp|PronType=Rel	15	nmod	_	Translit=rogorcʻ
+14	როგორც	როგორც	SCONJ	Conj	_	15	mark	_	Translit=rogorcʻ
 15-16	საქართველოში	_	_	_	_	_	_	_	SpaceAfter=No
 15	საქართველო	საქართველო	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	3	obl	_	Translit=sakʻartʻvelo
 16	ში	ში	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=ši
@@ -2956,7 +2956,7 @@
 2	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	1	cop	_	Translit=a
 3	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 4	რომ	რომ	SCONJ	Conj	_	12	mark	_	Translit=rom
-5	როგორც	როგორ	PRON	Pron	Number=Sing|PartType=Emp|PronType=Rel	7	nmod	_	Translit=rogorcʻ
+5	როგორც	როგორ	SCONJ	Conj	_	7	mark	_	Translit=rogorcʻ
 6	სახალხო	სახალხო	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=saxalxo
 7	დამცველი	დამცველი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	12	nsubj	_	SpaceAfter=No|Translit=damcʻveli
 8	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
