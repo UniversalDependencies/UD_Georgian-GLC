@@ -49,7 +49,7 @@
 9-10	ჩემში	_	_	_	_	_	_	_	_
 9	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	12	obl	_	Translit=čʻem
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ši
-11	რაღაც	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nmod	_	Translit=raġacʻ
+11	რაღაც	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nsubj	_	Translit=raġacʻ
 12	აფართხალდა	აფართხალდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	_	Translit=apʻartʻxalda
 13-14	მტრედივით	_	_	_	_	_	_	_	SpaceAfter=No
 13	მტრედი	მტრედი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	12	obl	_	Translit=mtredi
@@ -122,7 +122,7 @@
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
 3	საშინლად	საშინელი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	4	amod	_	Translit=sašinlad
 4	ჭყავიან	ჭყავის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=čqavian
-5	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	6	nmod	_	Translit=sxva
+5	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	6	det	_	Translit=sxva
 6	ბავშვები	ბავშვი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No|Translit=bavšvebi
 7	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
@@ -361,7 +361,7 @@
 7	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 8	რომ	რომ	SCONJ	Conj	_	13	mark	_	Translit=rom
 9	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Translit=me
-10	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	11	nmod	_	Translit=sxva
+10	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	11	det	_	Translit=sxva
 11	გამოცდილება	გამოცდილება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	obj	_	Translit=gamocʻdileba
 12	არა	არა	PART	Part	PartType=Neg	13	advmod	_	Translit=ara
 13	მაქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Intr|Tense=Pres	2	ccomp	_	SpaceAfter=No|Translit=makʻvs
@@ -432,7 +432,7 @@
 13	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	18	nsubj:pass	_	Translit=me
 14	არ	არ	PART	Part	PartType=Neg	18	advmod	_	Translit=ar
 15	მინდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	18	aux	_	Translit=minda
-16	სხვა	სხვა	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	17	nmod	_	Translit=sxva
+16	სხვა	სხვა	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	17	det	_	Translit=sxva
 17	ენით	ენა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	18	obl	_	Translit=enitʻ
 18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Pass	9	parataxis	_	SpaceAfter=No|Translit=avivso
 19	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
@@ -976,7 +976,7 @@
 27	ში	ში	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=ši
 28	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 29	ანდა	ანდა	CCONJ	Conj	_	34	cc	_	Translit=anda
-30	სხვა	სხვა	PRON	Pron	Case=Erg|Number=Sing|PronType=Tot	34	nmod	_	Translit=sxva
+30	სხვა	სხვა	PRON	Pron	Case=Erg|Number=Sing|PronType=Tot	34	det	_	Translit=sxva
 31	რამ	რა	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	34	nmod	_	Translit=ram
 32	თვალის	თვალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	33	nmod	_	Translit=tʻvalis
 33	სასეირო	სასეირო	ADJ	Adj	Case=Dat|Number=Sing	34	amod	_	Translit=saseiro
@@ -2288,7 +2288,7 @@
 17	მეურნეობრივი	მეურნეობრივი	ADJ	Adj	Case=Gen|Number=Sing	18	amod	_	Translit=meurneobrivi
 18	საქმიანობის	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=sakʻmianobis
 19	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	20	nmod	_	Translit=zogiertʻi
-20	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	nmod	_	Translit=sxva
+20	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	det	_	Translit=sxva
 21	მაჩვენებლის	მაჩვენებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=mačʻveneblis
 22	დამტკიცების	დამტკიცება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	conj	_	Translit=damtkicʻebis
 23	უფლება	უფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No|Translit=upʻleba
@@ -3043,7 +3043,7 @@
 24	უნივერსიტეტის	უნივერსიტეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	Translit=universitetis
 25	საქმიანობის	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=sakʻmianobis
 26	შედარებას	შედარება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	23	obj	_	Translit=šedarebas
-27	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	29	nmod	_	Translit=sxva
+27	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	29	det	_	Translit=sxva
 28	უმაღლეს	მაღალი	ADJ	Adj	Case=Dat|Degree=Sup|Number=Sing	29	amod	_	Translit=umaġles
 29-30	სასწავლებლებთან	_	_	_	_	_	_	_	SpaceAfter=No
 29	სასწავლებლებ	სასწავლებელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	26	obl	_	Translit=sascavlebleb
