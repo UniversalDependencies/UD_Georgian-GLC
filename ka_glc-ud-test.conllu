@@ -261,7 +261,7 @@
 6	წლითა	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	0	root	_	Translit=clitʻa
 7	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	6	cop	_	Translit=a
 8-9	ჩემზე	_	_	_	_	_	_	_	_
-8	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	10	obl:poss	_	Translit=čʻem
+8	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	10	det:poss	_	Translit=čʻem
 9	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ze
 10	უფროსი	უფროსი	ADJ	Adj	Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=upʻrosi
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
