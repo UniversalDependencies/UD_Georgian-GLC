@@ -72,7 +72,7 @@
 1	რატომღაც	რატომ	ADV	Adv	AdvType=Rel|PartType=Emp	3	advmod	_	Translit=ratomġacʻ
 2	არა	არა	PART	Part	PartType=Neg	3	advmod	_	Translit=ara
 3	მჯერა	(ს)ჯერა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	0	root	_	Translit=mjera
-4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	nmod	_	SpaceAfter=No|Translit=imatʻi
+4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	det	_	SpaceAfter=No|Translit=imatʻi
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	7	nsubj:pass	_	Translit=vincʻ
 7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	4	acl	_	Translit=daibada
@@ -261,7 +261,7 @@
 6	წლითა	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	0	root	_	Translit=clitʻa
 7	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	6	cop	_	Translit=a
 8-9	ჩემზე	_	_	_	_	_	_	_	_
-8	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	10	obl	_	Translit=čʻem
+8	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	10	obl:poss	_	Translit=čʻem
 9	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ze
 10	უფროსი	უფროსი	ADJ	Adj	Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=upʻrosi
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
@@ -478,7 +478,7 @@
 9	აღმოაჩენ	ა/ი/უჩენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|Voice=Act	2	parataxis	_	SpaceAfter=No|Translit=aġmoačʻen
 10	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 11	თურმე	თურმე	PART	Part	PartType=Int	9	advmod	_	Translit=tʻurme
-12	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	13	nmod	_	Translit=ramdeni
+12	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	13	det	_	Translit=ramdeni
 13	თოვლი	თოვლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	Translit=tʻovli
 14	მოსულა	მოდის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=PastPerf	9	acl	_	Translit=mosula
 15	წუხელ	წუხელ	ADV	Adv	AdvType=Tim	14	advmod	_	SpaceAfter=No|Translit=cuxel
@@ -638,7 +638,7 @@
 1	დავითი	დავითი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	10	obj	_	Translit=davitʻi
 2	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 3	საერთოდ	საერთოდ	ADV	Adv	AdvType=Man	4	advmod	_	Translit=saertʻod
-4	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	6	nmod	_	Translit=qvela
+4	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	6	det	_	Translit=qvela
 5	ღირსეული	ღირსეული	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	Translit=ġirseuli
 6	მეფე	მეფე	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=mepʻe
 7	ქართველ	ქართველი	ADJ	Adj	Case=Dat|Number=Sing	8	amod	_	Translit=kʻartʻvel
@@ -747,14 +747,14 @@
 1	ნათქვამის	ნათქვამი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=natʻkʻvamis
 2	საილუსტრაციოდ	საილუსტრაციო	ADV	Adv	_	3	advmod	_	Translit=sailustracʻiod
 3	მოვიყვან	იყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moviqvan
-4	რამდენიმე	რამდენიმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	5	nmod	_	Translit=ramdenime
+4	რამდენიმე	რამდენიმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	5	det	_	Translit=ramdenime
 5	ფაქტს	ფაქტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	SpaceAfter=No|Translit=pʻakʻts
 6	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = GLC_00040
 # text = ყველა ეპოქას „თავისი“, მოსახლეობისათვის თავზარდამცემი ავადმყოფობა აქვს.
 # translit = qvela epokʻas „tʻavisi“, mosaxleobisatʻvis tʻavzardamcʻemi avadmqopʻoba akʻvs.
-1	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	2	nmod	_	Translit=qvela
+1	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	2	det	_	Translit=qvela
 2	ეპოქას	ეპოქა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	nsubj	_	Translit=epokʻas
 3	„	„	PUNCT	F	PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=„
 4	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes	10	det:poss	_	SpaceAfter=No|Translit=tʻavisi
@@ -820,7 +820,7 @@
 23	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 24	სადაც	სადაც	ADV	Adv	AdvType=Rel	22	advmod	_	Translit=sadacʻ
 25	მალების	მალა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	29	nmod	_	Translit=malebis
-26	ყველა	ყველა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	27	nmod	_	Translit=qvela
+26	ყველა	ყველა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	27	det	_	Translit=qvela
 27	ნაწილის	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	29	nmod	_	Translit=nacilis
 28	სრული	სრული	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	29	amod	_	Translit=sruli
 29-30	მიმოხილვისათვის	_	_	_	_	_	_	_	_
@@ -1256,10 +1256,10 @@
 2	ფშაველა	ფშაველა	PROPN	Prop	Case=Nom|NameType=Sur|Number=Sing	1	flat:name	_	Translit=pʻšavela
 3	ხომ	ხომ	PART	Part	PartType=Int	4	advmod	_	Translit=xom
 4	სწორედ	სწორედ	ADV	Adv	AdvType=Man	6	advmod	_	Translit=scored
-5	იმით	ის	PRON	Pron	Case=Ins|Number=Sing|Person=3|PronType=Dem	6	nmod	_	Translit=imitʻ
+5	იმით	ის	PRON	Pron	Case=Ins|Number=Sing|Person=3|PronType=Dem	6	obl	_	Translit=imitʻ
 6	გამოირჩა	ირჩევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	_	Translit=gamoirčʻa
 7	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
-8	იმით	ის	PRON	Pron	Case=Ins|Number=Sing|Person=3|PronType=Dem	9	nmod	_	Translit=imitʻ
+8	იმით	ის	PRON	Pron	Case=Ins|Number=Sing|Person=3|PronType=Dem	9	obl	_	Translit=imitʻ
 9	ამაღლდა	მაღლდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	6	conj	_	Translit=amaġlda
 10	მის	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes	11	det:poss	_	Translit=mis
 11-12	კილოზე	_	_	_	_	_	_	_	_
@@ -1331,7 +1331,7 @@
 18	პოეტის	პოეტი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	19	nmod	_	Translit=poetis
 19	შემოქმედების	შემოქმედება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=šemokʻmedebis
 20	ამსახველი	ამსახველი	ADJ	Adj	Case=Nom|Number=Sing	23	amod	_	Translit=amsaxveli
-21	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	23	nmod	_	Translit=qoveli
+21	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	23	det	_	Translit=qoveli
 22	მაღალკვალიფიციური	მაღალკვალიფიციური	ADJ	Adj	Case=Nom|Number=Sing	23	amod	_	Translit=maġalkvalipʻicʻiuri
 23	წერილი	წერილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	29	nsubj	_	Translit=cerili
 24	თუ	თუ	SCONJ	Conj	_	25	mark	_	Translit=tʻu
@@ -1375,7 +1375,7 @@
 2	კი	კი	PART	Part	PartType=Emp	3	advmod	_	Translit=ki
 3	დაინახა	ხედავს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=dainaxa
 4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
-5	როგორ	როგორ	PRON	Pron	Number=Sing|PronType=Rel	6	nmod	_	Translit=rogor
+5	როგორ	როგორ	PRON	Pron	Number=Sing|PronType=Rel	6	mark	_	Translit=rogor
 6	გაჩერდა	ჩერდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	3	ccomp	_	Translit=gačʻerda
 7	ქვემოთ	ქვემოთ	ADV	Adv	AdvType=Loc	6	advmod:lmod	_	SpaceAfter=No|Translit=kʻvemotʻ
 8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
@@ -1599,7 +1599,7 @@
 12	როგორც	როგორც	SCONJ	Conj	_	13	mark	_	Translit=rogorcʻ
 13	ჩანს	ჩანს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	10	parataxis	_	SpaceAfter=No|Translit=čʻans
 14	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
-15	რაღაც	რაღაც	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	17	nmod	_	Translit=raġacʻ
+15	რაღაც	რაღაც	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	17	det	_	Translit=raġacʻ
 16	სპორტულ	სპორტული	ADJ	Adj	Case=Dat|Number=Sing	17	amod	_	Translit=sportul
 17-18	ღონისძიებაზე	_	_	_	_	_	_	_	_
 17	ღონისძიება	ღონისძიება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obl	_	Translit=ġonisżieba
@@ -1660,7 +1660,7 @@
 # translit = cinandali ġvinis ertʻertʻi udidesi meurneobaa, romelicʻ jer kidev mis qopʻil mpʻlobelebs 100.000 botʻl ġvinos ażlevda celicadši.
 1	წინანდალი	წინანდალი	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	5	nsubj	_	Translit=cinandali
 2	ღვინის	ღვინო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=ġvinis
-3	ერთერთი	ერთერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	5	nmod	_	Translit=ertʻertʻi
+3	ერთერთი	ერთერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	5	det	_	Translit=ertʻertʻi
 4	უდიდესი	დიდი	ADJ	Adj	Case=Nom|Degree=Sup|Number=Sing	5	amod	_	Translit=udidesi
 5-6	მეურნეობაა	_	_	_	_	_	_	_	SpaceAfter=No
 5	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=meurneoba
@@ -2287,7 +2287,7 @@
 16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 17	მეურნეობრივი	მეურნეობრივი	ADJ	Adj	Case=Gen|Number=Sing	18	amod	_	Translit=meurneobrivi
 18	საქმიანობის	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=sakʻmianobis
-19	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	20	nmod	_	Translit=zogiertʻi
+19	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	20	det	_	Translit=zogiertʻi
 20	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	det	_	Translit=sxva
 21	მაჩვენებლის	მაჩვენებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=mačʻveneblis
 22	დამტკიცების	დამტკიცება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	conj	_	Translit=damtkicʻebis
@@ -2500,7 +2500,7 @@
 3	მოსწავლეებს	მოსწავლე	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	2	iobj	_	SpaceAfter=No|Translit=moscavleebs
 4	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 5	თუ	თუ	SCONJ	Conj	_	8	mark	_	Translit=tʻu
-6	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	7	nmod	_	Translit=ramdeni
+6	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	7	det	_	Translit=ramdeni
 7	ქულა	ქულა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	_	Translit=kʻula
 8	დააგროვეს	აგროვებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	2	ccomp	_	Translit=daagroves
 9-10	ტესტში	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2548,7 +2548,7 @@
 8	მინისტრი	მინისტრი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	9	nsubj	_	Translit=ministri
 9	გამოიცვალა	ცვლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	2	ccomp	_	Translit=gamoicʻvala
 10	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
-11	ყოველ	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	12	nmod	_	Translit=qovel
+11	ყოველ	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	12	det	_	Translit=qovel
 12	მინისტრის	მინისტრი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	13	nmod	_	Translit=ministris
 13-14	გამოცვლაზე	_	_	_	_	_	_	_	_
 13	გამოცვლა	გამოცვლა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=gamocʻvla
@@ -2563,7 +2563,7 @@
 # sent_id = GLC_00129
 # text = ყველა დარწმუნებული იყო, რომ ახალი მინისტრი თავის დაპირებულს აღასრულებს და საზოგადოების დახმარებით განაგებს სახელმწიფოს შინაგან საქმეებსაო.
 # translit = qvela darcmunebuli iqo, rom axali ministri tʻavis dapirebuls aġasrulebs da sazogadoebis daxmarebitʻ ganagebs saxelmcipʻos šinagan sakʻmeebsao.
-1	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	2	nmod	_	Translit=qvela
+1	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	2	det	_	Translit=qvela
 2	დარწმუნებული	დარწმუნებული	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=darcmunebuli
 3	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	2	cop	_	SpaceAfter=No|Translit=iqo
 4	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
@@ -2598,7 +2598,7 @@
 7	მართვა	მართვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=martʻva
 8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
 9	არსებული	არსებული	ADJ	Adj	Case=Nom|Number=Sing	12	amod	_	Translit=arsebuli
-10	რამოდენიმე	რამოდენიმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nmod	_	Translit=ramodenime
+10	რამოდენიმე	რამოდენიმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	det	_	Translit=ramodenime
 11	პრობლემური	პრობლემური	ADJ	Adj	Case=Nom|Number=Sing	12	amod	_	Translit=problemuri
 12	არე	არე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj:pass	_	SpaceAfter=No|Translit=are
 13	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
@@ -2752,7 +2752,7 @@
 # sent_id = GLC_00137
 # text = ყოველივე ამას მოსდევდა კრიტიკა ადამიანის უფლებათა დამცავი წრეებიდან და ბრალდებულთა ადვოკატებისგან როგორც საქართველოში, ისე ქვეყნის ფარგლებს გარეთ.
 # translit = qovelive amas mosdevda kritika adamianis upʻlebatʻa damcʻavi creebidan da braldebultʻa advokatebisgan rogorcʻ sakʻartʻveloši, ise kʻveqnis pʻarglebs garetʻ.
-1	ყოველივე	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	2	nmod	_	Translit=qovelive
+1	ყოველივე	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	2	det	_	Translit=qovelive
 2	ამას	ეს(ე)	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	Translit=amas
 3	მოსდევდა	სდევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=mosdevda
 4	კრიტიკა	კრიტიკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=kritika
@@ -3086,7 +3086,7 @@
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
 8	შეფასების	შეფასება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	conj	_	Translit=šepʻasebis
 9	პროცესის	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=procʻesis
-10	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nmod	_	Translit=ertʻ-ertʻi
+10	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	det	_	Translit=ertʻ-ertʻi
 11	გადამწყვეტი	გადამწყვეტი	ADJ	Adj	Case=Nom|Number=Sing	12	amod	_	Translit=gadamcqveti
 12-13	სტადიაა	_	_	_	_	_	_	_	SpaceAfter=No
 12	სტადია	სტადია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=stadia
