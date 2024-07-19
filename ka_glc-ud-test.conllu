@@ -2181,7 +2181,7 @@
 5	ბაქო-ბათუმის	ბაქო-ბათუმი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	6	nmod	_	Translit=bakʻo-batʻumis
 6	ნავთობსადენი	ნავთობსადენი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No|Translit=navtʻobsadeni
 7	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-8	რომლითაც	რომელი	PRON	Pron	Case=Ins|Number=Sing|PartType=Emp|PronType=Int	12	nmod	_	Translit=romlitʻacʻ
+8	რომლითაც	რომელი	PRON	Pron	Case=Ins|Number=Sing|PartType=Emp|PronType=Int	12	obl	_	Translit=romlitʻacʻ
 9	1907	1907	NUM	Num	NumForm=Digit|NumType=Card	10	nummod	_	Translit=1907
 10-11	წლიდან	_	_	_	_	_	_	_	_
 10	წლი	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	12	obl	_	Translit=cli
