@@ -258,17 +258,17 @@
 4	რომ	რომ	SCONJ	Conj	_	2	mark	_	Translit=rom
 5	30	30	NUM	Num	NumForm=Digit|NumType=Card	6	nummod	_	Translit=30
 6-7	წლითაა	_	_	_	_	_	_	_	_
-6	წლითა	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	0	root	_	Translit=clitʻa
+6	წლითა	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=clitʻa
 7	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	6	cop	_	Translit=a
 8-9	ჩემზე	_	_	_	_	_	_	_	_
 8	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	10	det:poss	_	Translit=čʻem
 9	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ze
-10	უფროსი	უფროსი	ADJ	Adj	Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=upʻrosi
+10	უფროსი	უფროსი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=upʻrosi
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 12	მაინც	მაინც	PART	Part	PartType=Emp	14	advmod	_	Translit=maincʻ
 13	ჩემი	ჩემი	PRON	Pron	Case=Nom|Number=Sing|Person=1|Poss=Yes	14	det:poss	_	Translit=čʻemi
 14-15	მეზობელია	_	_	_	_	_	_	_	SpaceAfter=No
-14	მეზობელი	მეზობელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	6	advcl	_	Translit=mezobeli
+14	მეზობელი	მეზობელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	10	parataxis	_	Translit=mezobeli
 15	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	14	cop	_	Translit=a
 16	.	.	PUNCT	F	PunctType=Peri	14	punct	_	Translit=.
 
