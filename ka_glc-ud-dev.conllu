@@ -3140,7 +3140,7 @@
 7	აქტუალური	აქტუალური	ADJ	Adj	Case=Nom|Number=Sing	8	nsubj	_	Translit=akʻtualuri
 8	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	0	root	_	Translit=gaxda
 9	ინტერნეტ	ინტერნეტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	nmod	_	Translit=internet
-10	ტელევიზია	ტელევიზია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	_	SpaceAfter=No|Translit=televizia
+10	ტელევიზია	ტელევიზია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	xcomp	_	SpaceAfter=No|Translit=televizia
 11	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = wiki_theater_02853
@@ -3367,7 +3367,7 @@
 3	დან	დან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=dan
 4	თეატრი	თეატრი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=tʻeatri
 5	ხდება	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	0	root	_	Translit=xdeba
-6	ლიტერატურული	ლიტერატურული	ADJ	Adj	Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No|Translit=literaturuli
+6	ლიტერატურული	ლიტერატურული	ADJ	Adj	Case=Nom|Number=Sing	5	xcomp	_	SpaceAfter=No|Translit=literaturuli
 7	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 8-9	ამასთან	_	_	_	_	_	_	_	_
 8	ამას	ეს(ე)	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl	_	Translit=amas
@@ -5077,7 +5077,7 @@
 2	მომსახურება	მომსახურება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=momsaxureba
 3	ძირითადად	ძირითადად	ADV	Adv	AdvType=Man	4	advmod	_	Translit=żiritʻadad
 4	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	0	root	_	Translit=gaxda
-5	ფასიანი	ფასიანი	ADJ	Adj	Case=Nom|Number=Sing	4	obj	_	SpaceAfter=No|Translit=pʻasiani
+5	ფასიანი	ფასიანი	ADJ	Adj	Case=Nom|Number=Sing	4	xcomp	_	SpaceAfter=No|Translit=pʻasiani
 6	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 7	ცხოველთა	ცხოველი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	8	nmod	_	Translit=cʻxoveltʻa
 8	დაავადებების	დაავადება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=daavadebebis
