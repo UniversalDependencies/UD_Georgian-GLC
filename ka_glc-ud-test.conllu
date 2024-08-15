@@ -534,7 +534,7 @@
 13	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 14	გამხდარიყო	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pqp|Voice=Act	4	conj	_	Translit=gamxdariqo
 15	დამოუკიდებელი	დამოუკიდებელი	ADJ	Adj	Case=Nom|Number=Sing	14	xcomp	_	SpaceAfter=No|Translit=damoukidebeli
-16	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+16	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00031
 # text = ამ მიზნის სამსახურში იდგა ილია ჭავჭავაძე თავისი თანამებრძოლებით.
