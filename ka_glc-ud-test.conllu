@@ -518,11 +518,11 @@
 # sent_id = GLC_00030
 # text = მას თავისი ამოცანა ჰქონდა გადასაწყვეტი – ეროვნულ-გამათავისუფლებელი მოძრაობა უნდა მიეყვანა ბოლომდე, გამხდარიყო დამოუკიდებელი.
 # translit = mas tʻavisi amocʻana hkʻonda gadasacqveti – erovnul-gamatʻavisupʻlebeli możraoba unda mieqvana bolomde, gamxdariqo damoukidebeli.
-1	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=mas
+1	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=mas
 2	თავისი	თავისი	PRON	Pron	Case=Nom|Number=Sing|Poss=Yes	3	det:poss	_	Translit=tʻavisi
-3	ამოცანა	ამოცანა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	Translit=amocʻana
-4	ჰქონდა	აქვს	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp	5	cop	_	Translit=hkʻonda
-5	გადასაწყვეტი	გადასაწყვეტი	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	Translit=gadasacqveti
+3	ამოცანა	ამოცანა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	obj	_	Translit=amocʻana
+4	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp	0	root	_	Translit=hkʻonda
+5	გადასაწყვეტი	გადასაწყვეტი	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Part	4	xcomp	_	Translit=gadasacqveti
 6	–	–	PUNCT	F	PunctType=Dash	8	punct	_	Translit=–
 7	ეროვნულ-გამათავისუფლებელი	ეროვნულ-გამათავისუფლებელი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=erovnul-gamatʻavisupʻlebeli
 8	მოძრაობა	მოძრაობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	obj	_	Translit=możraoba
@@ -532,8 +532,8 @@
 11	ბოლო	ბოლო	ADJ	Adj	Case=Ess|Number=Sing	10	obl	_	Translit=bolo
 12	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	11	case	_	Translit=mde
 13	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-14	გამხდარიყო	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pqp|Voice=Act	10	acl	_	Translit=gamxdariqo
-15	დამოუკიდებელი	დამოუკიდებელი	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	SpaceAfter=No|Translit=damoukidebeli
+14	გამხდარიყო	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pqp|Voice=Act	4	conj	_	Translit=gamxdariqo
+15	დამოუკიდებელი	დამოუკიდებელი	ADJ	Adj	Case=Nom|Number=Sing	14	xcomp	_	SpaceAfter=No|Translit=damoukidebeli
 16	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = GLC_00031
