@@ -2702,7 +2702,7 @@
 18	დან	დან	ADP	Post	AdpType=Post|Case=Ins	17	case	_	Translit=dan
 19	დაუზუსტებელი	დაუზუსტებელი	VERB	VerbalAdj	Case=Gen|Number=Sing|VerbForm=Part	20	nmod	_	Translit=dauzustebeli
 20	ინფორმაციების	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	_	Translit=inpʻormacʻiebis
-21	გავრცელებაც	გავრცელება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing|PartType=Emp	14	obj	_	SpaceAfter=No|Translit=gavrcʻelebacʻ
+21	გავრცელებაც	გავრცელება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing|PartType=Emp	14	xcomp	_	SpaceAfter=No|Translit=gavrcʻelebacʻ
 22	.	.	PUNCT	F	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id = GLC_00135
@@ -2930,7 +2930,7 @@
 13	პროკურატურა	პროკურატურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=prokuratura
 14	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	13	case	_	Translit=ze
 15	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	7	ccomp	_	Translit=gaxda
-16	დამოკიდებული	დამოკიდებული	ADJ	Adj	Case=Nom|Number=Sing	15	obj	_	Translit=damokidebuli
+16	დამოკიდებული	დამოკიდებული	ADJ	Adj	Case=Nom|Number=Sing	15	xcomp	_	Translit=damokidebuli
 17	და	და	CCONJ	Conj	_	27	cc	_	Translit=da
 18	რომ	რომ	SCONJ	Conj	_	27	mark	_	Translit=rom
 19	რეფორმირებული	რეფორმირებული	ADJ	Adj	Case=Gen|Number=Sing	21	amod	_	Translit=repʻormirebuli
@@ -3104,7 +3104,7 @@
 6-7	საფუძველზეც	_	_	_	_	_	_	_	_
 6	საფუძველ	საფუძველი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing|PartType=Emp	8	obl	_	Translit=sapʻużvel
 7	ზეც	ზე	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=zecʻ
-8	ხდება	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	3	ccomp	_	Translit=xdeba
+8	ხდება	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	3	acl	_	Translit=xdeba
 9	უნივერსიტეტის	უნივერსიტეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=universitetis
 10	საქმიანობის	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=sakʻmianobis
 11	შედეგების	შედეგი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	nmod	_	Translit=šedegebis
