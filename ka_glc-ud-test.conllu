@@ -71,7 +71,7 @@
 # translit = ratomġacʻ ara mjera imatʻi, vincʻ daibada da šemdeg iżaxis – me xom ar mitʻxovia dabadebao.
 1	რატომღაც	რატომ	ADV	Adv	AdvType=Rel|PartType=Emp	3	advmod	_	Translit=ratomġacʻ
 2	არა	არა	PART	Part	PartType=Neg	3	advmod	_	Translit=ara
-3	მჯერა	(ს)ჯერა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	0	root	_	Translit=mjera
+3	მჯერა	სჯერა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	0	root	_	Translit=mjera
 4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	det:poss	_	SpaceAfter=No|Translit=imatʻi
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	7	nsubj:pass	_	Translit=vincʻ
@@ -278,7 +278,7 @@
 1	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	4	advmod	_	Translit=šemdeg
 2	შენს	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obj	_	Translit=šens
 3	გარშემო	გარშემო	ADV	Adv	AdvType=Loc	4	advmod:lmod	_	Translit=garšemo
-4	აღმოაჩენ	ა/ი/უჩენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=aġmoačʻen
+4	აღმოაჩენ	აჩენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=aġmoačʻen
 5	შენს	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	obj	_	Translit=šens
 6	მაგვარ	მაგვარი	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=magvar
 7	არსებებს	არსება	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	4	obj	_	SpaceAfter=No|Translit=arsebebs
@@ -475,7 +475,7 @@
 6	აცივდება	აცივდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	2	conj	_	Translit=acʻivdeba
 7	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 8	უეცრად	უეცრად	ADV	Adv	AdvType=Tim	9	advmod	_	Translit=uecʻrad
-9	აღმოაჩენ	ა/ი/უჩენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|Voice=Act	2	parataxis	_	SpaceAfter=No|Translit=aġmoačʻen
+9	აღმოაჩენ	აჩენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|Voice=Act	2	parataxis	_	SpaceAfter=No|Translit=aġmoačʻen
 10	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 11	თურმე	თურმე	PART	Part	PartType=Int	9	advmod	_	Translit=tʻurme
 12	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	13	det	_	Translit=ramdeni
@@ -495,7 +495,7 @@
 6	რომ	რომ	SCONJ	Conj	_	9	mark	_	Translit=rom
 7	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=me
 8	თომა	თომა	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	9	obj	_	Translit=tʻoma
-9	მქვია	(ჰ)ქვია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	4	advcl	_	SpaceAfter=No|Translit=mkʻvia
+9	მქვია	ჰქვია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	4	advcl	_	SpaceAfter=No|Translit=mkʻvia
 10	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00029
@@ -593,7 +593,7 @@
 5	სოციალიზმისა	სოციალიზმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	obl	_	Translit=socʻializmisa
 6	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=tʻvis
 7	არა	არა	PART	Part	PartType=Neg	8	advmod	_	Translit=ara
-8	სცხელოდა	(ს)ცხელა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Imp|Voice=Mid	0	root	_	SpaceAfter=No|Translit=scʻxeloda
+8	სცხელოდა	ცხელა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Imp|Voice=Mid	0	root	_	SpaceAfter=No|Translit=scʻxeloda
 9	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = GLC_00034
@@ -613,7 +613,7 @@
 10-11	თავიდან	_	_	_	_	_	_	_	_
 10	თავი	თავი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	12	obl	_	Translit=tʻavi
 11	დან	დან	ADP	Post	AdpType=Post|Case=Ins	10	case	_	Translit=dan
-12	ამოეგდო	ა/ი/უგდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	5	ccomp	_	SpaceAfter=No|Translit=amoegdo
+12	ამოეგდო	აგდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	5	ccomp	_	SpaceAfter=No|Translit=amoegdo
 13	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = GLC_00035
@@ -853,7 +853,7 @@
 53	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
 54	მასაც	იგი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|Person=3|PronType=Prs	56	obj	_	Translit=masacʻ
 55	შეიძლება	შეუძლია	AUX	Aux	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	56	aux	_	Translit=šeiżleba
-56	მოეღრიცოს	ა/ი/უღრეცს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	48	conj	_	Translit=moeġricʻos
+56	მოეღრიცოს	ღრეცს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	48	conj	_	Translit=moeġricʻos
 57	კისერი	კისერი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	56	nsubj	_	Translit=kiseri
 58-59	მომავალში	_	_	_	_	_	_	_	SpaceAfter=No
 58	მომავალ	მომავალი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	56	obl	_	Translit=momaval
@@ -1558,7 +1558,7 @@
 10	გამთბარ	გამთბარი	ADJ	Adj	Case=Dat|Number=Sing	11	amod	_	Translit=gamtʻbar
 11	ვაზს	ვაზი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	nsubj	_	Translit=vazs
 12	ყვავილობა	ყვავილობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	obj	_	Translit=qvaviloba
-13	დაეწყო	ა/ი/უწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	7	advcl	_	SpaceAfter=No|Translit=daecqo
+13	დაეწყო	აწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	7	advcl	_	SpaceAfter=No|Translit=daecqo
 14	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = GLC_00076
@@ -1568,7 +1568,7 @@
 2	სოფლები	სოფელი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	5	obj	_	Translit=sopʻlebi
 3	კვირადღის	კვირადღე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=kviradġis
 4	სიმშვიდეს	სიმშვიდე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	nsubj	_	Translit=simšvides
-5	მოეცვა	ა/ი/უცვამს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	0	root	_	SpaceAfter=No|Translit=moecʻva
+5	მოეცვა	იცვამს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	0	root	_	SpaceAfter=No|Translit=moecʻva
 6	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = GLC_00077
@@ -1634,7 +1634,7 @@
 # text = წყალი გვწყუროდა და ერთი გლეხის სახლთან შევჩერდით.
 # translit = cqali gvcquroda da ertʻi glexis saxltʻan ševčʻerditʻ.
 1	წყალი	წყალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	_	Translit=cqali
-2	გვწყუროდა	(ს)წყურია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Imp|Voice=Mid	0	root	_	Translit=gvcquroda
+2	გვწყუროდა	წყურია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Imp|Voice=Mid	0	root	_	Translit=gvcquroda
 3	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
 4	ერთი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	5	nmod	_	Translit=ertʻi
 5	გლეხის	გლეხი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	6	nmod	_	Translit=glexis
@@ -2273,7 +2273,7 @@
 2	თან	თან	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=tʻan
 3	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 4	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Translit=matʻ
-5	მიეცათ	ა/ი/უსცემს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	0	root	_	Translit=miecʻatʻ
+5	მიეცათ	სცემს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	0	root	_	Translit=miecʻatʻ
 6	ვაჭრობის	ვაჭრობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=vačrobis
 7	მატერიალურ-ტექნიკური	მატერიალურ-ტექნიკური	ADJ	Adj	Case=Gen|Number=Sing	8	amod	_	Translit=materialur-tekʻnikuri
 8	ბაზის	ბაზა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=bazis
