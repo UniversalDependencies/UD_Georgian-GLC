@@ -849,11 +849,11 @@
 49	და	და	CCONJ	Conj	_	56	cc	_	SpaceAfter=No|Translit=da
 50	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
 51	აქედან	აქედან	ADV	Adv	AdvType=Loc	48	advmod:lmod	_	Translit=akʻedan
-52	გამომდინარე	გამომდინარე	ADJ	Adj	Case=Nom|Number=Sing	51	amod	_	SpaceAfter=No|Translit=gamomdinare
+52	გამომდინარე	გამომდინარე	ADJ	Adj	Case=Nom|Number=Sing	51	advmod	_	SpaceAfter=No|Translit=gamomdinare
 53	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
 54	მასაც	იგი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|Person=3|PronType=Prs	56	obj	_	Translit=masacʻ
-55	შეიძლება	შეუძლია	AUX	Aux	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	56	aux	_	Translit=šeiżleba
-56	მოეღრიცოს	ღრეცს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	48	conj	_	Translit=moeġricʻos
+55	შეიძლება	შეუძლია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	45	conj	_	Translit=šeiżleba
+56	მოეღრიცოს	ღრეცს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	55	ccomp	_	Translit=moeġricʻos
 57	კისერი	კისერი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	56	nsubj	_	Translit=kiseri
 58-59	მომავალში	_	_	_	_	_	_	_	SpaceAfter=No
 58	მომავალ	მომავალი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	56	obl	_	Translit=momaval
@@ -874,12 +874,12 @@
 8	თან	თან	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=tʻan
 9	დაკავშირებულმა	დაკავშირებული	ADJ	Adj	Case=Erg|Number=Sing	10	amod	_	Translit=dakavširebulma
 10	ინფორმაციამ	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	15	nsubj	_	Translit=inpʻormacʻiam
-11	შეიძლება	შეუძლია	AUX	Aux	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	15	aux	_	Translit=šeiżleba
+11	შეიძლება	შეუძლია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=šeiżleba
 12	არასასურველ	არასასურველი	ADJ	Adj	Case=Ess|Number=Sing	13	amod	_	Translit=arasasurvel
 13-14	შედეგებამდე	_	_	_	_	_	_	_	_
 13	შედეგება	შედეგი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	15	obl	_	Translit=šedegeba
 14	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	13	case	_	Translit=mde
-15	მიგვიყვანოს	იყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=migviqvanos
+15	მიგვიყვანოს	იყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	11	ccomp	_	SpaceAfter=No|Translit=migviqvanos
 16	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id = GLC_00044
@@ -2669,8 +2669,8 @@
 4	კარდინალური	კარდინალური	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=kardinaluri
 5	ცვლილებების	ცვლილება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	Translit=cʻvlilebebis
 6	განხორციელებისას	განხორციელება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	nmod	_	Translit=ganxorcʻielebisas
-7	შეიძლებოდა	შეუძლია	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	8	aux	_	Translit=šeiżleboda
-8	გაჩენილიყო	ი/ეჩენილა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pqp|Voice=Pass	0	root	_	Translit=gačʻeniliqo
+7	შეიძლებოდა	შეუძლია	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	_	Translit=šeiżleboda
+8	გაჩენილიყო	ჩნდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pqp|Voice=Pass	7	ccomp	_	Translit=gačʻeniliqo
 9	კონკრეტული	კონკრეტული	ADJ	Adj	Case=Nom|Number=Sing	12	amod	_	Translit=konkretuli
 10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 11	არგუმენტირებული	არგუმენტირებული	ADJ	Adj	Case=Nom|Number=Sing	9	conj	_	Translit=argumentirebuli
