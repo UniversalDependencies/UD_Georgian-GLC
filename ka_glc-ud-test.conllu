@@ -2664,7 +2664,7 @@
 # text = თავისთავად, ამ კარდინალური ცვლილებების განხორციელებისას შეიძლებოდა გაჩენილიყო კონკრეტული და არგუმენტირებული კითხვები.
 # translit = tʻavistʻavad, am kardinaluri cʻvlilebebis ganxorcʻielebisas šeiżleboda gačʻeniliqo konkretuli da argumentirebuli kitʻxvebi.
 1	თავისთავად	თავისთავად	ADV	Adv	AdvType=Man	8	advmod	_	SpaceAfter=No|Translit=tʻavistʻavad
-2	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+2	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 3	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	4	det	_	Translit=am
 4	კარდინალური	კარდინალური	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=kardinaluri
 5	ცვლილებების	ცვლილება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	Translit=cʻvlilebebis
@@ -2675,7 +2675,7 @@
 10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 11	არგუმენტირებული	არგუმენტირებული	ADJ	Adj	Case=Nom|Number=Sing	9	conj	_	Translit=argumentirebuli
 12	კითხვები	კითხვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	8	nsubj:pass	_	SpaceAfter=No|Translit=kitʻxvebi
-13	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+13	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id = GLC_00134
 # text = უსაფრთხოების სექტორის რეფორმირებისას ხელისუფლებისა და სამოქალაქო სექტორის ურთიერთობაში კონფლიქტურობისა და გაურკვევლობის შემომტანი ხდებოდა არასამთავრობო სექტორის მხრიდან დაუზუსტებელი ინფორმაციების გავრცელებაც.
