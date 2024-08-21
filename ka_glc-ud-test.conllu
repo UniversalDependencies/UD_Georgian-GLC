@@ -11777,3 +11777,518 @@
 21	ეტიკეტი	ეტიკეტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	nsubj	_	SpaceAfter=No|Translit=etiketi
 22	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
 
+# sent_id = wiki_automatic_00301
+# text = სამუშაოს დაშლის სტრუქტურა წარმოადგენს პროექტის ზოგადი დაგეგმვის და კონტროლის სტანდარტულ ჩარჩოს.
+# translit = samušaos dašlis strukʻtura carmoadgens proekʻtis zogadi dagegmvis da kontrolis standartul čʻarčʻos.
+1	სამუშაოს	სამუშაო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=samušaos
+2	დაშლის	დაშლა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=dašlis
+3	სტრუქტურა	სტრუქტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=strukʻtura
+4	წარმოადგენს	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=carmoadgens
+5	პროექტის	პროექტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=proekʻtis
+6	ზოგადი	ზოგადი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	Translit=zogadi
+7	დაგეგმვის	დაგეგმვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=dagegmvis
+8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
+9	კონტროლის	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	conj	_	Translit=kontrolis
+10	სტანდარტულ	სტანდარტული	ADJ	Adj	Case=Gen|Number=Sing	11	amod	_	Translit=standartul
+11	ჩარჩოს	ჩარჩო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	obj	_	SpaceAfter=No|Translit=čʻarčʻos
+12	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00302
+# text = ამ პრობლემის აღმოსაფრქვევად ჭურვებში მონტაჟდება ფრენის კონტროლის სისტემა, რომელიც ფრენისას ჭურვის კოორდინატებს კორექტირებას უკეთებს.
+# translit = am problemis aġmosapʻrkʻvevad čurvebši montaždeba pʻrenis kontrolis sistema, romelicʻ pʻrenisas čurvis koordinatebs korekʻtirebas uketʻebs.
+1	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=am
+2	პრობლემის	პრობლემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=problemis
+3	აღმოსაფრქვევად	აღმოსაფრქვევად	ADV	Adv	AdvType=Man	6	advmod	_	Translit=aġmosapʻrkʻvevad
+4-5	ჭურვებში	_	_	_	_	_	_	_	_
+4	ჭურვებ	ჭურვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	6	obl	_	Translit=čurvebši
+5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
+6	მონტაჟდება	მონტაჟდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	0	root	_	Translit=montaždeba
+7	ფრენის	ფრენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=pʻrenis
+8	კონტროლის	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=kontrolis
+9	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj:pass	_	SpaceAfter=No|Translit=sistema
+10	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+11	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=romelicʻ
+12	ფრენისას	ფრენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	_	Translit=pʻrenisas
+13	ჭურვის	ჭურვი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=čurvis
+14	კოორდინატებს	კოორდინატი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	15	nmod	_	Translit=koordinatebs
+15	კორექტირებას	კორექტირება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	_	Translit=korekʻtirebas
+16	უკეთებს	აკეთებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	9	acl	_	SpaceAfter=No|Translit=uketʻebs
+17	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00303
+# text = წამკითხავი მოწყობილობა, წამკითხავი აპარატი — ავტომატური მოწყობილობა, რომელიც არჩევს ქაღალდზე დაწერილ ან დაბეჭდილ ასოებს, ციფრებსა და სხვა ნიშნებს.
+# translit = camkitʻxavi mocqobiloba, camkitʻxavi aparati — avtomaturi mocqobiloba, romelicʻ arčʻevs kʻaġaldze daceril an dabečdil asoebs, cʻipʻrebsa da sxva nišnebs.
+1	წამკითხავი	წამკითხავი	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Part	2	amod	_	Translit=camkitʻxavi
+2	მოწყობილობა	მოწყობილობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No|Translit=mocqobiloba
+3	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+4	წამკითხავი	წამკითხავი	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Part	1	parataxis	_	Translit=camkitʻxavi
+5	აპარატი	აპარატი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	1	conj	_	Translit=aparati
+6	—	—	PUNCT	F	PunctType=Dash	8	punct	_	Translit=—
+7	ავტომატური	ავტომატური	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=avtomaturi
+8	მოწყობილობა	მოწყობილობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=mocqobiloba
+9	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
+10	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	11	nsubj	_	Translit=romelicʻ
+11	არჩევს	არჩევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	8	acl	_	Translit=arčʻevs
+12-13	ქაღალდზე	_	_	_	_	_	_	_	_
+12	ქაღალდ	ქაღალდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	obl	_	Translit=kʻaġald
+13	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ze
+14	დაწერილ	დაწერილი	ADJ	Adj	Case=Dat|Number=Sing	17	amod	_	Translit=daceril
+15	ან	ან	CCONJ	Conj	_	16	cc	_	Translit=an
+16	დაბეჭდილ	დაბეჭდილი	ADJ	Adj	Case=Dat|Number=Sing	14	conj	_	Translit=dabečdil
+17	ასოებს	ასო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	11	obj	_	SpaceAfter=No|Translit=asoebs
+18	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+19	ციფრებსა	ციფრი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	17	conj	_	Translit=cʻipʻrebsa
+20	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
+21	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	19	det	_	Translit=sxva
+22	ნიშნებს	ნიშანი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	17	conj	_	SpaceAfter=No|Translit=nišnebs
+23	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00304
+# text = წამკითხავ მოწყობილობას უმეტესწილად იყენებენ გამომთვლელ მანქანებში ან მონაცემების დამუშავების სხვა ავტომატურ მოწყობილობებში ინფორმაციის შესატანად „ქაღალდის ფურცლიდან“ პირდაპირ ინფორმაციის მატარებელზე (მაგ., პერფორირებულ ბარათზე) გადატანის გარეშე.
+# translit = camkitʻxav mocqobilobas umetescilad iqeneben gamomtʻvlel mankʻanebši an monacʻemebis damušavebis sxva avtomatur mocqobilobebši inpʻormacʻiis šesatanad „kʻaġaldis pʻurcʻlidan“ pirdapir inpʻormacʻiis matarebelze (mag: perpʻorirebul baratʻze) gadatanis gareše.
+1	წამკითხავ	წამკითხავი	ADJ	Adj	Case=Dat|Number=Sing	2	amod	_	Translit=camkitʻxav
+2	მოწყობილობას	მოწყობილობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	nsubj	_	Translit=mocqobilobas
+3	უმეტესწილად	უმეტესწილად	ADV	Adv	AdvType=Deg	4	advmod	_	Translit=umetescilad
+4	იყენებენ	აყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=iqeneben
+5	გამომთვლელ	გამომთვლელი	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=gamomtʻvlel
+6-7	მანქანებში	_	_	_	_	_	_	_	_
+6	მანქანებ	მანქანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	obl	_	Translit=mankʻaneb
+7	ში	ში	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=ši
+8	ან	ან	CCONJ	Conj	_	13	cc	_	Translit=an
+9	მონაცემების	მონაცემი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	10	nmod	_	Translit=monacʻemebis
+10	დამუშავების	დამუშავება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=damušavebis
+11	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	13	det	_	Translit=sxva
+12	ავტომატურ	ავტომატური	ADJ	Adj	Case=Dat|Number=Sing	13	amod	_	Translit=avtomatur
+13-14	მოწყობილობებში	_	_	_	_	_	_	_	_
+13	მოწყობილობებ	მოწყობილობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	6	conj	_	Translit=mocqobilobeb
+14	ში	ში	ADP	Post	AdpType=Post|Case=Dat	13	case	_	Translit=ši
+15	ინფორმაციის	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	nmod	_	Translit=inpʻormacʻiis
+16	შესატანად	შესატანი	ADV	Adv	AdvType=Man	4	advmod	_	Translit=šesatanad
+17	„	„	PUNCT	F	PunctType=Quot	19	punct	_	SpaceAfter=No|Translit=„
+18	ქაღალდის	ქაღალდი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=kʻaġaldis
+19-20	ფურცლიდან	_	_	_	_	_	_	_	SpaceAfter=No
+19	ფურცლი	ფურცელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	Translit=pʻurcʻli
+20	დან	დან	ADP	Post	AdpType=Post|Case=Ins	19	case	_	Translit=dan
+21	“	“	PUNCT	F	PunctType=Quot	19	punct	_	Translit=“
+22	პირდაპირ	პირდაპირი	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=pirdapir
+23	ინფორმაციის	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=inpʻormacʻiis
+24-25	მატარებელზე	_	_	_	_	_	_	_	_
+24	მატარებელ	მატარებელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=matarebel
+25	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	24	case	_	Translit=ze
+26	(	(	PUNCT	F	PunctType=Brck	27	punct	_	SpaceAfter=No|Translit=(
+27	მაგ.	მაგალითად	NOUN	Noun	Abbr=Yes	30	parataxis	_	SpaceAfter=No|Translit=mag.
+28	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
+29	პერფორირებულ	პერფორირებული	ADJ	Adj	Case=Dat|Number=Sing	30	amod	_	Translit=perpʻorirebul
+30-31	ბარათზე	_	_	_	_	_	_	_	SpaceAfter=No
+30	ბარათ	ბარათი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	parataxis	_	Translit=baratʻ
+31	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	30	case	_	Translit=ze
+32	)	)	PUNCT	F	PunctType=Brck	30	punct	_	Translit=)
+33	გადატანის	გადატანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	34	nmod	_	Translit=gadatanis
+34	გარეშე	გარეშე	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	SpaceAfter=No|Translit=gareše
+35	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00305
+# text = წამკითხავი მოწყობილობის აპარატურა შედგება გამოსახულების გაშლისა და გამოსახულების გამოცნობის ბლოკებისაგან.
+# translit = camkitʻxavi mocqobilobis aparatura šedgeba gamosaxulebis gašlisa da gamosaxulebis gamocʻnobis blokebisagan.
+1	წამკითხავი	წამკითხავი	VERB	VerbalAdj	Case=Gen|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Part	3	amod	_	Translit=camkitʻxavi
+2	მოწყობილობის	მოწყობილობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=mocqobilobis
+3	აპარატურა	აპარატურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=aparatura
+4	შედგება	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Act	0	root	_	Translit=šedgeba
+5	გამოსახულების	გამოსახულება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=gamosaxulebis
+6	გაშლისა	გაშლა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=gašlisa
+7	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
+8	გამოსახულების	გამოსახულება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=gamosaxulebis
+9	გამოცნობის	გამოცნობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	conj	_	Translit=gamocʻnobis
+10-11	ბლოკებისაგან	_	_	_	_	_	_	_	SpaceAfter=No
+10	ბლოკებისა	ბლოკი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	4	obl	_	Translit=blokebisa
+11	გან	გან	ADP	Post	AdpType=Post|Case=Gen	10	case	_	Translit=gan
+12	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00306
+# text = შეიარაღების კონტროლი გულისხმობს გარკვეული სახის სამხედრო თანამშრომლობას კონკურენტულ ან ანტაგონისტურ სახელმწიფოებს შორის, რათა თავიდან აიცილონ ომის დაწყების საშიშროება ან ომის და საომარ მოქმედებების დაწყების შემთხვევაში, მინიმუმამდე დაიყვანონ მისი დამანგრეველი შედეგები.
+# translit = šeiaraġebis kontroli gulisxmobs garkveuli saxis samxedro tʻanamšromlobas konkurentul an antagonistur saxelmcipʻoebs šoris, ratʻa tʻavidan aicʻilon omis dacqebis sašišroeba an omis da saomar mokʻmedebebis dacqebis šemtʻxvevaši, minimumamde daiqvanon misi damangreveli šedegebi.
+1	შეიარაღების	შეიარაღება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=šeiaraġebis
+2	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=kontroli
+3	გულისხმობს	გულისხმობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=gulisxmobs
+4	გარკვეული	გარკვეული	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=garkveuli
+5	სახის	სახე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=saxis
+6	სამხედრო	სამხედრო	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=samxedro
+7	თანამშრომლობას	თანამშრომლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=tʻanamšromlobas
+8	კონკურენტულ	კონკურენტული	ADJ	Adj	Case=Dat|Number=Sing	11	amod	_	Translit=konkurentul
+9	ან	ან	CCONJ	Conj	_	10	cc	_	Translit=an
+10	ანტაგონისტურ	ანტაგონისტური	ADJ	Adj	Case=Dat|Number=Sing	8	conj	_	Translit=antagonistur
+11	სახელმწიფოებს	სახელმწიფო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	7	nmod	_	Translit=saxelmcipʻoebs
+12	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	7	case	_	SpaceAfter=No|Translit=šoris
+13	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+14	რათა	რათა	SCONJ	Conj	_	17	mark	_	Translit=ratʻa
+15-16	თავიდან	_	_	_	_	_	_	_	_
+15	თავი	თავი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	obl	_	Translit=tʻavi
+16	დან	დან	ADP	Post	AdpType=Post|Case=Ins	15	case	_	Translit=dan
+17	აიცილონ	აცილებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	advcl	_	Translit=aicʻilon
+18	ომის	ომი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=omis
+19	დაწყების	დაწყება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=dacqebis
+20	საშიშროება	საშიშროება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	obj	_	Translit=sašišroeba
+21	ან	ან	CCONJ	Conj	_	27	cc	_	Translit=an
+22	ომის	ომი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	nmod	_	Translit=omis
+23	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
+24	საომარ	საომარი	ADJ	Adj	Case=Gen|Number=Sing	25	amod	_	Translit=saomar
+25	მოქმედებების	მოქმედება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	26	nmod	_	Translit=mokʻmedebebis
+26	დაწყების	დაწყება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	22	conj	_	Translit=dacqebis
+27-28	შემთხვევაში	_	_	_	_	_	_	_	SpaceAfter=No
+27	შემთხვევა	შემთხვევა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	conj	_	Translit=šemtʻxveva
+28	ში	ში	ADP	Post	AdpType=Post|Case=Dat	27	case	_	Translit=ši
+29	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
+30-31	მინიმუმამდე	_	_	_	_	_	_	_	_
+30	მინიმუმა	მინიმუმი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	32	obl	_	Translit=minimuma
+31	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	30	case	_	Translit=mde
+32	დაიყვანონ	იყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	17	conj	_	Translit=daiqvanon
+33	მისი	მისი	PRON	Pron	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det:poss	_	Translit=misi
+34	დამანგრეველი	დამანგრეველი	ADJ	Adj	Case=Nom|Number=Sing	35	amod	_	Translit=damangreveli
+35	შედეგები	შედეგი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	32	nsubj	_	SpaceAfter=No|Translit=šedegebi
+36	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00307
+# text = ფართო გაგებით, შეიარაღების კონტროლი სათავეს იღებს განიარაღების სფეროში არსებული სახელმწიფოების პრაქტიკიდან, რომელსაც XX საუკუნის განმავლობაში ჰქონდა ადგილი.
+# translit = pʻartʻo gagebitʻ, šeiaraġebis kontroli satʻaves iġebs ganiaraġebis spʻeroši arsebuli saxelmcipʻoebis prakʻtikidan, romelsacʻ XX saukunis ganmavlobaši hkʻonda adgili.
+1	ფართო	ფართო	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	2	amod	_	Translit=pʻartʻo
+2	გაგებით	გაგება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	obl	_	SpaceAfter=No|Translit=gagebitʻ
+3	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
+4	შეიარაღების	შეიარაღება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=šeiaraġebis
+5	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=kontroli
+6	სათავეს	სათავე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	Translit=satʻaves
+7	იღებს	იღებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=iġebs
+8	განიარაღების	განიარაღება	VERB	VerbalNoun	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Vnoun	9	nmod	_	Translit=ganiaraġebis
+9-10	სფეროში	_	_	_	_	_	_	_	_
+9	სფერო	სფერო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	Translit=spʻero
+10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ši
+11	არსებული	არსებული	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=arsebuli
+12	სახელმწიფოების	სახელმწიფო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	13	nmod	_	Translit=saxelmcipʻoebis
+13-14	პრაქტიკიდან	_	_	_	_	_	_	_	SpaceAfter=No
+13	პრაქტიკი	პრაქტიკა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	obl	_	Translit=prakʻtiki
+14	დან	დან	ADP	Post	AdpType=Post|Case=Ins	13	case	_	Translit=dan
+15	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
+16	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	21	obj	_	Translit=romelsacʻ
+17	XX	20	NUM	Num	NumForm=Roman|NumType=Card	18	nummod	_	Translit=XX
+18	საუკუნის	საუკუნე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=saukunis
+19-20	განმავლობაში	_	_	_	_	_	_	_	_
+19	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	obl	_	Translit=ganmavloba
+20	ში	ში	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=ši
+21	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp	7	acl	_	Translit=hkʻonda
+22	ადგილი	ადგილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	21	nsubj	_	SpaceAfter=No|Translit=adgili
+23	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00308
+# text = აეროპორტი — საწარმო, რომელიც ახორციელებს საერთაშორისო საჰაერო გადაყვანა-გადაზიდვების მომსახურებას და უზრუნველყოფილია საბაჟო, სასაზღვრო და სანიტარიულ-საკარანტინო კონტროლით.
+# translit = aeroporti — sacarmo, romelicʻ axorcʻielebs saertʻašoriso sahaero gadaqvana-gadazidvebis momsaxurebas da uzrunvelqopʻilia sabažo, sasazġvro da sanitariul-sakarantino kontrolitʻ.
+1	აეროპორტი	აეროპორტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=aeroporti
+2	—	—	PUNCT	F	PunctType=Dash	3	punct	_	Translit=—
+3	საწარმო	საწარმო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=sacarmo
+4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+5	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	Translit=romelicʻ
+6	ახორციელებს	ახორციელებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	3	acl	_	Translit=axorcʻielebs
+7	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Gen|Number=Sing	8	amod	_	Translit=saertʻašoriso
+8	საჰაერო	საჰაერო	ADJ	Adj	Case=Gen|Number=Sing	9	amod	_	Translit=sahaero
+9	გადაყვანა-გადაზიდვების	გადაყვანა-გადაზიდვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	10	nmod	_	Translit=gadaqvana-gadazidvebis
+10	მომსახურებას	მომსახურება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obj	_	Translit=momsaxurebas
+11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
+12-13	უზრუნველყოფილია	_	_	_	_	_	_	_	_
+12	უზრუნველყოფილი	უზრუნველყოფილი	ADJ	Adj	Case=Nom|Number=Sing	6	conj	_	Translit=uzrunvelqopʻili
+13	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	12	cop	_	Translit=a
+14	საბაჟო	საბაჟო	ADJ	Adj	Case=Ins|Number=Sing	19	amod	_	SpaceAfter=No|Translit=sabažo
+15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+16	სასაზღვრო	სასაზღვრო	ADJ	Adj	Case=Ins|Number=Sing	14	conj	_	Translit=sasazġvro
+17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
+18	სანიტარიულ-საკარანტინო	სანიტარიულ-საკარანტინო	ADJ	Adj	Case=Ins|Number=Sing	14	conj	_	Translit=sanitariul-sakarantino
+19	კონტროლით	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	5	obl	_	SpaceAfter=No|Translit=kontrolitʻ
+20	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00309
+# text = აეროპორტში საერთაშორისო რეისების მგზავრებთან დაკავშირებით ეროვნული წესები ითვალისწინებს საბაჟო-ადმინისტრაციული ფორმალობის დაცვას, რომელსაც წარმოადგენს საბაჟო შემოწმება; სანიტარული-საკარანტინო კონტროლი, საპასპორტო კონტროლი; სპეციალური კონტროლი.
+# translit = aeroportši saertʻašoriso reisebis mgzavrebtʻan dakavširebitʻ erovnuli cesebi itʻvaliscinebs sabažo-administracʻiuli pʻormalobis dacʻvas, romelsacʻ carmoadgens sabažo šemocmeba; sanitaruli-sakarantino kontroli, sapasporto kontroli; specʻialuri kontroli.
+1-2	აეროპორტში	_	_	_	_	_	_	_	_
+1	აეროპორტ	აეროპორტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obl	_	Translit=aeroport
+2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
+3	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=saertʻašoriso
+4	რეისების	რეისი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	nmod	_	Translit=reisebis
+5-6	მგზავრებთან	_	_	_	_	_	_	_	_
+5	მგზავრებ	მგზავრი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	10	obl	_	Translit=mgzavreb
+6	თან	თან	ADP	Post	AdpType=Post|Case=Dat	5	case	_	Translit=tʻan
+7	დაკავშირებით	დაკავშირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=dakavširebitʻ
+8	ეროვნული	ეროვნული	ADJ	Adj	Case=Nom|Number=Sing	9	amod	_	Translit=erovnuli
+9	წესები	წესი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	10	nsubj	_	Translit=cesebi
+10	ითვალისწინებს	ითვალისწინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=itʻvaliscinebs
+11	საბაჟო-ადმინისტრაციული	საბაჟო-ადმინისტრაციული	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=sabažo-administracʻiuli
+12	ფორმალობის	ფორმალობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=pʻormalobis
+13	დაცვას	დაცვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	_	SpaceAfter=No|Translit=dacʻvas
+14	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+15	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	16	obj	_	Translit=romelsacʻ
+16	წარმოადგენს	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	10	conj	_	Translit=carmoadgens
+17	საბაჟო	საბაჟო	ADJ	Adj	Case=Nom|Number=Sing	18	amod	_	Translit=sabažo
+18	შემოწმება	შემოწმება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	nsubj	_	SpaceAfter=No|Translit=šemocmeba
+19	;	;	PUNCT	F	PunctType=Semi	21	punct	_	Translit=;
+20	სანიტარული-საკარანტინო	სანიტარული-საკარანტინო	ADJ	Adj	Case=Nom|Number=Sing	21	amod	_	Translit=sanitaruli-sakarantino
+21	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	conj	_	SpaceAfter=No|Translit=kontroli
+22	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
+23	საპასპორტო	საპასპორტო	ADJ	Adj	Case=Nom|Number=Sing	24	amod	_	Translit=sapasporto
+24	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	conj	_	SpaceAfter=No|Translit=kontroli
+25	;	;	PUNCT	F	PunctType=Semi	27	punct	_	Translit=;
+26	სპეციალური	სპეციალური	ADJ	Adj	Case=Nom|Number=Sing	27	amod	_	Translit=specʻialuri
+27	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	conj	_	SpaceAfter=No|Translit=kontroli
+28	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00310
+# text = საბაჟო კონტროლი შედგება საბაჟო დეკლარაციის შევსებისაგან და საკუთარი ტვირთის წარმოდგენისაგან საბაჟო დეკლარაციაში და პასპორტის შემოწმება საბაჟო ინსპექტორის მიერ.
+# translit = sabažo kontroli šedgeba sabažo deklaracʻiis ševsebisagan da sakutʻari tvirtʻis carmodgenisagan sabažo deklaracʻiaši da pasportis šemocmeba sabažo inspekʻtoris mier.
+1	საბაჟო	საბაჟო	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=sabažo
+2	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=kontroli
+3	შედგება	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Act	0	root	_	Translit=šedgeba
+4	საბაჟო	საბაჟო	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=sabažo
+5	დეკლარაციის	დეკლარაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=deklaracʻiis
+6-7	შევსებისაგან	_	_	_	_	_	_	_	_
+6	შევსებისა	შევსება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	obl	_	Translit=ševsebisa
+7	გან	გან	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=gan
+8	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
+9	საკუთარი	საკუთარი	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=sakutʻari
+10	ტვირთის	ტვირთი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=tvirtʻis
+11-12	წარმოდგენისაგან	_	_	_	_	_	_	_	_
+11	წარმოდგენისა	წარმოდგენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	conj	_	Translit=carmodgenisa
+12	გან	გან	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=gan
+13	საბაჟო	საბაჟო	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=sabažo
+14-15	დეკლარაციაში	_	_	_	_	_	_	_	_
+14	დეკლარაცია	დეკლარაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obl	_	Translit=deklaracʻia
+15	ში	ში	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ši
+16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
+17	პასპორტის	პასპორტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	nmod	_	Translit=pasportis
+18	შემოწმება	შემოწმება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	conj	_	Translit=šemocmeba
+19	საბაჟო	საბაჟო	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=sabažo
+20	ინსპექტორის	ინსპექტორი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	18	obl	_	Translit=inspekʻtoris
+21	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	20	case	_	SpaceAfter=No|Translit=mier
+22	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00311
+# text = სანიტარული-საკარანტინო კონტროლი შედგება პირადი შემოწმებისაგან, ჩამოფრენილი და გასაფრენი მგზავრების შემოწმებისაგან (სამედიცინო სერტიფიკატი, რომელიც აუცილებელია ქვეყანაში ტრანზიტის შეტანისათვის).
+# translit = sanitaruli-sakarantino kontroli šedgeba pirad šemocmebisagan, čʻamopʻrenili da gasapʻreni mgzavrebis šemocmebas (samedicʻino sertipʻikati, romelicʻ aucʻilebelia kʻveqanaši tranzitis šetanisatʻvis).
+1	სანიტარული-საკარანტინო	სანიტარული-საკარანტინო	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=sanitaruli-sakarantino
+2	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=kontroli
+3	შედგება	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Act	0	root	_	Translit=šedgeba
+4	პირადი	პირადი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	Translit=pirad
+5-6	შემოწმებისაგან	_	_	_	_	_	_	_	SpaceAfter=No
+5	შემოწმებისა	შემოწმება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	obl	_	Translit=šemocmebisa
+6	გან	გან	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=gan
+7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+8	ჩამოფრენილი	ჩამოფრენილი	VERB	VerbalAdj	Case=Gen|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	Translit=čʻamopʻrenili
+9	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
+10	გასაფრენი	გასაფრენი	VERB	VerbalAdj	Case=Gen|Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Part	8	conj	_	Translit=gasapʻreni
+11	მგზავრების	მგზავრი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	12	nmod	_	Translit=mgzavrebis
+12-13	შემოწმებისაგან	_	_	_	_	_	_	_	_
+12	შემოწმებისა	შემოწმება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	conj	_	Translit=šemocmebisa
+13	გან	გან	ADP	Post	AdpType=Post|Case=Gen	12	case	_	Translit=gan
+14	(	(	PUNCT	F	PunctType=Brck	16	punct	_	SpaceAfter=No|Translit=(
+15	სამედიცინო	სამედიცინო	ADJ	Adj	Case=Nom|Number=Sing	16	amod	_	Translit=samedicʻino
+16	სერტიფიკატი	სერტიფიკატი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	19	nsubj	_	SpaceAfter=No|Translit=sertipʻikati
+17	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+18	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	16	conj	_	Translit=romelicʻ
+19-20	აუცილებელია	_	_	_	_	_	_	_	_
+19	აუცილებელი	აუცილებელი	ADJ	Adj	Case=Nom|Number=Sing	12	acl	_	Translit=aucʻilebeli
+20	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	19	cop	_	Translit=a
+21-22	ქვეყანაში	_	_	_	_	_	_	_	_
+21	ქვეყანა	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=kʻveqana
+22	ში	ში	ADP	Post	AdpType=Post|Case=Dat	21	case	_	Translit=ši
+23	ტრანზიტის	ტრანზიტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=tranzitis
+24-25	შეტანისათვის	_	_	_	_	_	_	_	SpaceAfter=No|
+24	შეტანისა	შეტანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	conj	_	Translit=šetanisa
+25	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	24	case	_	Translit=tʻvis
+26	)	)	PUNCT	F	PunctType=Brck	19	punct	_	SpaceAfter=No|Translit=)
+27	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00312
+# text = ცენზურა (ლათ. censura) — ბეჭდვითი, მუსიკალური თუ სასცენარო ნაწარმოებების, სახვითი ხელოვნების, კინო - და ფოტონამუშევრების, ტელე - და რადიოგადაცემების, ვებ-საიტებისა თუ პორტალების და ზოგიერთ შემთხვევაში, კერძო მიმოწერის შინაარსსა და გავრცელებაზე კონტროლი სახელმწიფო ზედამხედველობითი ორგანოს მიერ, რათა არ მოხდეს იმ იდეებისა თუ ცნობების გავრცელება, რომლებიც ამა თუ იმ ხელისუფლებას საზიანოდ ან არასასურველად მიაჩნია.
+# translit = cʻenzura (latʻ. censura) — bečdvitʻi, musikaluri tʻu sascʻenaro nacarmoebebis, saxvitʻi xelovnebis, kino - da pʻotonamuševrebis, tele- da radiogadacʻemebis, veb-saitebisa tʻu portalebis da zogiertʻ šemtʻxvevaši, kerżo mimoceris šinaarssa da gavrcʻelebaze kontroli saxelmcipʻo zedamxedvelobitʻi organos mier, ratʻa ar moxdes im ideebisa tʻu cʻnobebis gavrcʻeleba, romlebicʻ ama tʻu im xelisupʻlebas sazianod an arasasurvelad miačʻnia.
+1	ცენზურა	ცენზურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	41	nsubj	_	Translit=cʻenzura
+2	(	(	PUNCT	F	PunctType=Brck	4	punct	_	SpaceAfter=No|Translit=(
+3	ლათ.	ლათინური	ADJ	Adj	Abbr=Yes	4	amod	_	Translit=latʻ.
+4	censura	censura	X	Foreign	Foreign=Yes	1	appos	_	SpaceAfter=No|Translit=censura
+5	)	)	PUNCT	F	PunctType=Brck	4	punct	_	Translit=)
+6	—	—	PUNCT	F	PunctType=Dash	7	punct	_	Translit=—
+7	ბეჭდვითი	ბეჭდვითი	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	SpaceAfter=No|Translit=bečdvitʻi
+8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
+9	მუსიკალური	მუსიკალური	ADJ	Adj	Case=Gen|Number=Sing	7	conj	_	Translit=musikaluri
+10	თუ	თუ	CCONJ	Conj	_	11	cc	_	Translit=tʻu
+11	სასცენარო	სასცენარო	ADJ	Adj	Case=Gen|Number=Sing	7	conj	_	Translit=sascʻenaro
+12	ნაწარმოებების	ნაწარმოები	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	41	nmod	_	SpaceAfter=No|Translit=nacarmoebebis
+13	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+14	სახვითი	სახვითი	ADJ	Adj	Case=Gen|Number=Sing	15	amod	_	Translit=saxvitʻi
+15	ხელოვნების	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	SpaceAfter=No|Translit=xelovnebis
+16	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+17	კინო	კინო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	conj	_	Translit=kino
+18	-	-	PUNCT	F	PunctType=Dash	20	punct	_	Translit=-
+19	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
+20	ფოტონამუშევრების	ფოტონამუშევარი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	17	conj	_	SpaceAfter=No|Translit=pʻotonamuševrebis
+21	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+22	ტელე	ტელე	ADJ	Adj	Case=Gen|Number=Plur	12	conj	_	Translit=tele
+23	-	-	PUNCT	F	PunctType=Dash	25	punct	_	Translit=-
+24	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
+25	რადიოგადაცემების	რადიოგადაცემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	22	conj	_	SpaceAfter=No|Translit=radiogadacʻemebis
+26	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
+27	ვებ-საიტებისა	ვებ-საიტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	17	conj	_	Translit=veb-saitebisa
+28	თუ	თუ	CCONJ	Conj	_	29	cc	_	Translit=tʻu
+29	პორტალების	პორტალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	27	conj	_	Translit=portalebis
+30	და	და	CCONJ	Conj	_	32	cc	_	Translit=da
+31	ზოგიერთ	ზოგიერთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	32	det	_	Translit=zogiertʻ
+32-33	შემთხვევაში	_	_	_	_	_	_	_	SpaceAfter=No
+32	შემთხვევა	შემთხვევა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	conj	_	Translit=šemtʻxveva
+33	ში	ში	ADP	Post	AdpType=Post|Case=Dat	32	case	_	Translit=ši
+34	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
+35	კერძო	კერძო	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	36	amod	_	Translit=kerżo
+36	მიმოწერის	მიმოწერა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	37	nmod	_	Translit=mimoceris
+37	შინაარსსა	შინაარსი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	conj	_	Translit=šinaarssa
+38	და	და	CCONJ	Conj	_	39	cc	_	Translit=da
+39-40	გავრცელებაზე	_	_	_	_	_	_	_	_
+39	გავრცელება	გავრცელება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	36	conj	_	Translit=gavrcʻeleba
+40	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	39	case	_	Translit=ze
+41	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=kontroli
+42	სახელმწიფო	სახელმწიფო	ADJ	Adj	Case=Gen|Number=Sing	43	amod	_	Translit=saxelmcipʻo
+43	ზედამხედველობითი	ზედამხედველობითი	ADJ	Adj	Case=Gen|Number=Sing	44	amod	_	Translit=zedamxedvelobitʻi
+44	ორგანოს	ორგანო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	41	obl	_	Translit=organos
+45	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	44	case	_	SpaceAfter=No|Translit=mier
+46	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
+47	რათა	რათა	SCONJ	Conj	_	49	mark	_	Translit=ratʻa
+48	არ	არ	PART	Part	PartType=Neg	49	advmod	_	Translit=ar
+49	მოხდეს	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Fut|Voice=Act	41	acl	_	Translit=moxdes
+50	იმ	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	51	det	_	Translit=im
+51	იდეებისა	იდეა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	54	nmod	_	Translit=ideebisa
+52	თუ	თუ	CCONJ	Conj	_	53	cc	_	Translit=tʻu
+53	ცნობების	ცნობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	51	conj	_	Translit=cʻnobebis
+54	გავრცელება	გავრცელება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	49	obj	_	SpaceAfter=No|Translit=gavrcʻeleba
+55	,	,	PUNCT	F	PunctType=Comm	64	punct	_	Translit=,
+56	რომლებიც	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	64	obj	_	Translit=romlebicʻ
+57	ამა	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	64	det	_	Translit=ama
+58	თუ	თუ	CCONJ	Conj	_	59	cc	_	Translit=tʻu
+59	იმ	ის	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	57	conj	_	Translit=im
+60	ხელისუფლებას	ხელისუფლება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	64	nsubj	_	Translit=xelisupʻlebas
+61	საზიანოდ	საზიანო	ADV	Adv	AdvType=Man	64	advmod	_	Translit=sazianod
+62	ან	ან	CCONJ	Conj	_	63	cc	_	Translit=an
+63	არასასურველად	არასასურველი	ADV	Adv	AdvType=Man	61	conj	_	Translit=arasasurvelad
+64	მიაჩნია	აჩნია	VERB	Verb	Aspect=Perf|Mood=Ind|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Pass	49	acl	_	SpaceAfter=No|Translit=miačʻnia
+65	.	.	PUNCT	F	PunctType=Peri	41	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00313
+# text = ადგილობრივი თვითმმართველობის კომპეტენციას განეკუთვნება: ადგილობრივი თვითმმართველობის ორგანოების დებულების მიღება, მასში ცვლილებების შეტანა და კონტროლი მის შესრულებაზე; დადგენილი წესით ადგილობრივი თვითმმართველობის ქონების ფლობა, სარგებლობა და განკარგვა; ადგილობრივი ბიუჯეტის ფორმირება, შესრულება და კონტროლი; ადგილობრივი სამსახურებისა და შესაბამისი საწარმოების შექმნა და ლიკვიდაცია; კომუნალური მეურნეობა და ა.შ.
+# translit = adgilobrivi tʻvitʻmmartʻvelobis kompetencʻias ganekutʻvneba: adgilobrivi tʻvitʻmmartʻvelobis organoebis debulebis miġeba, masši cʻvlilebebis šetana da kontroli mis šesrulebaze; dadgenili cesitʻ adgilobrivi tʻvitʻmmartʻvelobis kʻonebis pʻloba, sargebloba da gankargva; adgilobrivi biujetis pʻormireba, šesruleba da kontroli; adgilobrivi samsaxurebisa da šesabamisi sacarmoebis šekʻmna da likvidacʻia; komunaluri meurneoba da a.š.
+1	ადგილობრივი	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=adgilobrivi
+2	თვითმმართველობის	თვითმმართველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=tʻvitʻmmartʻvelobis
+3	კომპეტენციას	კომპეტენცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	Translit=kompetencʻias
+4	განეკუთვნება	ეკუთვნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganekutʻvneba
+5	:	:	PUNCT	F	PunctType=Colo	4	punct	_	Translit=:
+6	ადგილობრივი	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=adgilobrivi
+7	თვითმმართველობის	თვითმმართველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=tʻvitʻmmartʻvelobis
+8	ორგანოების	ორგანო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=organoebis
+9	დებულების	დებულება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=debulebis
+10	მიღება	მიღება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No|Translit=miġeba
+11	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+12-13	მასში	_	_	_	_	_	_	_	_
+12	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	15	obl	_	Translit=mas
+13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
+14	ცვლილებების	ცვლილება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	15	nmod	_	Translit=cʻvlilebebis
+15	შეტანა	შეტანა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	Translit=šetana
+16	და	და	CCONJ	Conj	_	17	cc	_	Translit=da
+17	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	Translit=kontroli
+18	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	det	_	Translit=mis
+19-20	შესრულებაზე	_	_	_	_	_	_	_	SpaceAfter=No
+19	შესრულება	შესრულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	26	obl	_	Translit=šesruleba
+20	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=ze
+21	;	;	PUNCT	F	PunctType=Semi	26	punct	_	Translit=;
+22	დადგენილი	დადგენილი	ADJ	Adj	Case=Ins|Number=Sing	23	amod	_	Translit=dadgenili
+23	წესით	წესი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	obl	_	Translit=cesitʻ
+24	ადგილობრივი	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	25	amod	_	Translit=adgilobrivi
+25	თვითმმართველობის	თვითმმართველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=kʻonebis
+26	ქონების	ქონება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	nmod	_	Translit=kʻonebis
+27	ფლობა	ფლობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	SpaceAfter=No|Translit=pʻloba
+28	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
+29	სარგებლობა	სარგებლობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	Translit=sargebloba
+30	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
+31	განკარგვა	განკარგვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	29	conj	_	SpaceAfter=No|Translit=gankargva
+32	;	;	PUNCT	F	PunctType=Semi	35	punct	_	Translit=;
+33	ადგილობრივი	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	35	amod	_	Translit=adgilobrivi
+34	ბიუჯეტის	ბიუჯეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	35	nmod	_	Translit=biujetis
+35	ფორმირება	ფორმირება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	SpaceAfter=No|Translit=pʻormireba
+36	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
+37	შესრულება	შესრულება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	Translit=šesruleba
+38	და	და	CCONJ	Conj	_	39	cc	_	Translit=da
+39	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	37	conj	_	SpaceAfter=No|Translit=kontroli
+40	;	;	PUNCT	F	PunctType=Semi	46	punct	_	Translit=;
+41	ადგილობრივი	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	42	amod	_	Translit=adgilobrivi
+42	სამსახურებისა	სამსახური	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	46	nmod	_	Translit=samsaxurebisa
+43	და	და	CCONJ	Conj	_	45	cc	_	Translit=da
+44	შესაბამისი	შესაბამისი	ADJ	Adj	Case=Gen|Number=Sing	45	amod	_	Translit=šesabamisi
+45	საწარმოების	საწარმო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	42	conj	_	Translit=sacarmoebis
+46	შექმნა	ქმნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	10	conj	_	Translit=šekʻmna
+47	და	და	CCONJ	Conj	_	48	cc	_	Translit=da
+48	ლიკვიდაცია	ლიკვიდაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	46	conj	_	SpaceAfter=No|Translit=likvidacʻia
+49	;	;	PUNCT	F	PunctType=Semi	51	punct	_	Translit=;
+50	კომუნალური	კომუნალური	ADJ	Adj	Case=Nom|Number=Sing	51	amod	_	Translit=komunaluri
+51	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	Translit=meurneoba
+52	და	და	CCONJ	Conj	_	53	cc	_	Translit=da
+53	ა.შ	ასე_შემდეგ	NOUN	Noun	Abbr=Yes	10	conj	_	SpaceAfter=No|Translit=a.š.
+54	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00314
+# text = შვეიცარია 25-ე ქვეყანა გახდა, რომელმაც შენგენის შეთანხმებას მოაწერა ხელი და საპასპორტო კონტროლი გააუქმა ამ ხელშეკრულების დანარჩენ წევრებთან.
+# translit = šveicʻaria 25-e kʻveqana gaxda, romelmacʻ šengenis šetʻanxmebas moacera xeli da sapasporto kontroli gaaukʻma am xelšekrulebis danarčʻen cevrebtʻan.
+1	შვეიცარია	შვეიცარია	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	4	nsubj	_	Translit=šveicʻaria
+2	25-ე	25	NUM	Num	NumForm=Digit|NumType=Card	3	nummod	_	Translit=25-e
+3	ქვეყანა	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	xcomp	_	Translit=kʻveqana
+4	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=gaxda
+5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+6	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing	9	nsubj	_	Translit=romelmacʻ
+7	შენგენის	შენგენი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	8	nmod	_	Translit=šengenis
+8	შეთანხმებას	შეთანხმება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	iobj	_	Translit=šetʻanxmebas
+9	მოაწერა	წერს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	acl	_	Translit=moacera
+10	ხელი	ხელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	13	obj	_	Translit=xeli
+11	და	და	CCONJ	Conj	_	13	cc	_	Translit=da
+12	საპასპორტო	საპასპორტო	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	Translit=sapasporto
+13	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	obj	_	Translit=kontroli
+14	გააუქმა	აუქმებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	9	conj	_	Translit=gaaukʻma
+15	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	16	det	_	Translit=am
+16	ხელშეკრულების	ხელშეკრულება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=xelšekrulebis
+17	დანარჩენ	დანარჩენი	ADJ	Adj	Case=Dat|Number=Sing	18	amod	_	Translit=danarčʻen
+18-19	წევრებთან	_	_	_	_	_	_	_	SpaceAfter=No
+18	წევრებ	წევრი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	14	obl	_	Translit=cevreb
+19	თან	თან	ADP	Post	AdpType=Post|Case=Dat	18	case	_	Translit=tʻan
+20	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00315
+# text = სააგენტოს კომპეტენციას მიკუთვნებულ სფეროში მოქმედი ნორმატიული აქტების სრულყოფის შესახებ წინადადებების პერიოდულად მომზადება და თავისი კომპეტენციის ფარგლებში კონტროლი ამ სფეროებში მოქმედი კანონმდებლობის შესრულებაზე.
+# translit = saagentos kompetencʻias mikutʻvnebul spʻeroši mokʻmedi normatiuli akʻtebis srulqopʻis šesaxeb cinadadebebis periodulad momzadeba da tʻavisi kompetencʻiis pʻarglebši kontroli am spʻeroebši mokʻmedi kanonmdeblobis šesrulebaze.
+1	სააგენტოს	სააგენტო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	2	nmod	_	Translit=saagentos
+2	კომპეტენციას	კომპეტენცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obj	_	Translit=kompetencʻias
+3	მიკუთვნებულ	მიკუთვნებული	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	Translit=mikutʻvnebul
+4-5	სფეროში	_	_	_	_	_	_	_	_
+4	სფერო	სფერო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl	_	Translit=spʻero
+5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
+6	მოქმედი	მოქმედი	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=mokʻmedi
+7	ნორმატიული	ნორმატიული	ADJ	Adj	Case=Gen|Number=Sing	8	amod	_	Translit=normatiuli
+8	აქტების	აქტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=akʻtebis
+9	სრულყოფის	სრულყოფა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=srulqopʻis
+10	შესახებ	შესახებ	ADP	Post	AdpType=Post|Case=Gen	9	case	_	Translit=šesaxeb
+11	წინადადებების	წინადადება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	13	nmod	_	Translit=cinadadebebis
+12	პერიოდულად	პერიოდულად	ADV	Adv	AdvType=Man	13	advmod	_	Translit=periodulad
+13	მომზადება	მომზადება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=momzadeba
+14	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
+15	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	Translit=tʻavisi
+16	კომპეტენციის	კომპეტენცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=kompetencʻiis
+17-18	ფარგლებში	_	_	_	_	_	_	_	_
+17	ფარგლებ	ფარგალი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	19	obl	_	Translit=pʻargleb
+18	ში	ში	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ši
+19	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	conj	_	Translit=kontroli
+20	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	21	det	_	Translit=am
+21-22	სფეროებში	_	_	_	_	_	_	_	_
+21	სფეროებ	სფერო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	19	obl	_	Translit=spʻeroeb
+22	ში	ში	ADP	Post	AdpType=Post|Case=Dat	21	case	_	Translit=ši
+23	მოქმედი	მოქმედი	ADJ	Adj	Case=Gen|Number=Sing	24	amod	_	Translit=mokʻmedi
+24	კანონმდებლობის	კანონმდებლობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	Translit=kanonmdeblobis
+25-26	შესრულებაზე	_	_	_	_	_	_	_	SpaceAfter=No
+25	შესრულება	შესრულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl	_	Translit=šesruleba
+26	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	25	case	_	Translit=ze
+27	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
+
