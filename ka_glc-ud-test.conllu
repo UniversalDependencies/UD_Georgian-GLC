@@ -10022,3 +10022,122 @@
 33	გამოსახულებები	გამოსახულება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	30	obj	_	SpaceAfter=No|Translit=gamosaxulebebi
 34	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
+# sent_id = wiki_astronomy_00239
+# text = უკანასკნელ დროს დიდი გამოყენება ჰპოვა რადიოტელესკოპებმა (რადიოასტრონომია).
+# translit = ukanasknel dros didi gamoqeneba hpova radioteleskopebma (radioastronomia).
+1	უკანასკნელ	უკანასკნელი	ADJ	Adj	Case=Dat|Number=Sing	2	amod	_	Translit=ukanasknel
+2	დროს	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=dros
+3	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=didi
+4	გამოყენება	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	Translit=gamoqeneba
+5	ჰპოვა	იპოვის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	_	Translit=hpova
+6	რადიოტელესკოპებმა	რადიოტელესკოპი	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Plur	5	nsubj	_	Translit=radioteleskopebma
+7	(	(	PUNCT	F	PunctType=Brck	8	punct	_	SpaceAfter=No|Translit=(
+8	რადიოასტრონომია	რადიოასტრონომია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	appos	_	SpaceAfter=No|Translit=radioastronomia
+9	)	)	PUNCT	F	PunctType=Brck	8	punct	_	SpaceAfter=No|Translit=)
+10	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+
+# sent_id = wiki_astronomy_00240
+# text = მნათობის რადიოტალღები ანტენაში იწვევს ელექტრომაგბიტურ რხევას, რომელიც ტალღსადენით მიმღებსა და ჩამწერ ხელსაწყოებამდე აღწევს.
+# translit = mnatʻobis radiotalġebi antenaši icvevs elekʻtromagbitur rxevas, romelicʻ talġsadenitʻ mimġebsa da čʻamcer xelsacqoebamde aġcevs.
+1	მნათობის	მნათობი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=mnatʻobis
+2	რადიოტალღები	რადიოტალღა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	5	nsubj	_	Translit=radiotalġebi
+3-4	ანტენაში	_	_	_	_	_	_	_	_
+3	ანტენა	ანტენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=antena
+4	ში	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=ši
+5	იწვევს	იწვევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=icvevs
+6	ელექტრომაგბიტურ	ელექტრომაგბიტური	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=elekʻtromagbitur
+7	რხევას	რხევა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obj	_	SpaceAfter=No|Translit=rxevas
+8	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=romelicʻ
+10	ტალღსადენით	ტალღსადენი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	11	obl	_	Translit=talġsadenitʻ
+11	მიმღებსა	მიმღები	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	16	obl	_	Translit=mimġebsa
+12	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
+13	ჩამწერ	ჩამწერი	ADJ	Adj	Case=Ess|Number=Sing	14	amod	_	Translit=čʻamcer
+14-15	ხელსაწყოებამდე	_	_	_	_	_	_	_	_
+14	ხელსაწყოება	ხელსაწყო	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	11	conj	_	Translit=xelsacqoeba
+15	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	14	case	_	Translit=mde
+16	აღწევს	აღწევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	7	acl	_	SpaceAfter=No|Translit=aġcevs
+17	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+
+# sent_id = wiki_astronomy_00241
+# text = რადიოლოკატორად წოდებული, განსაკუთრებულად მოწყობილი რადიოაპარატურა იმის საშუალებას იძლევა, რომ დედამიწიდან მნათობისაკენ გაიგზავნოს რადიოიმპულსი, რომელიც მნათობის ზედაპირიდან აირეკლება, იმავე პუნქტში დაბრუნდება და მიმღები აპარატურით ჩაიწერება.
+# translit = radiolokatorad codebuli, gansakutʻrebulad mocqobili radioaparatura imis sašualebas iżleva, rom dedamicidan mnatʻobisaken gaigzavnos radioimpulsi, romelicʻ mnatʻobis zedapiridan airekleba, imave punkʻtši dabrundeba da mimġebi aparaturitʻ čʻaicereba.
+1	რადიოლოკატორად	რადიოლოკატორი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	2	obl	_	Translit=radiolokatorad
+2	წოდებული	წოდებული	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	SpaceAfter=No|Translit=codebuli
+3	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+4	განსაკუთრებულად	განსაკუთრებული	ADV	Adv	AdvType=Man	6	advmod	_	Translit=gansakutʻrebulad
+5	მოწყობილი	მოწყობილი	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	Translit=mocqobili
+6	რადიოაპარატურა	რადიოაპარატურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	Translit=radioaparatura
+7	იმის	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	8	det	_	Translit=imis
+8	საშუალებას	საშუალება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obj	_	Translit=sašualebas
+9	იძლევა	იძლევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No|Translit=iżleva
+10	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+11	რომ	რომ	SCONJ	Conj	_	16	mark	_	Translit=rom
+12-13	დედამიწიდან	_	_	_	_	_	_	_	_
+12	დედამიწი	დედამიწა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	16	obl	_	Translit=dedamici
+13	დან	დან	ADP	Post	AdpType=Post|Case=Ins	12	case	_	Translit=dan
+14-15	მნათობისაკენ	_	_	_	_	_	_	_	_
+14	მნათობისა	მნათობი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	obl	_	Translit=mnatʻobisa
+15	კენ	კენ	ADP	Post	AdpType=Post|Case=Gen	14	case	_	Translit=ken
+16	გაიგზავნოს	იგზავნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	9	advcl	_	Translit=gaigzavnos
+17	რადიოიმპულსი	რადიოიმპულსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	nsubj	_	SpaceAfter=No|Translit=radioimpulsi
+18	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+19	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	23	nsubj:pass	_	Translit=romelicʻ
+20	მნათობის	მნათობი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=mnatʻobis
+21-22	ზედაპირიდან	_	_	_	_	_	_	_	_
+21	ზედაპირი	ზედაპირი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	23	obl	_	Translit=zedapiri
+22	დან	დან	ADP	Post	AdpType=Post|Case=Ins	21	case	_	Translit=dan
+23	აირეკლება	ირეკლება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Pass	17	acl	_	SpaceAfter=No|Translit=airekleba
+24	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
+25	იმავე	ის	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	26	det	_	Translit=imave
+26-27	პუნქტში	_	_	_	_	_	_	_	_
+26	პუნქტ	პუნქტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	obl	_	Translit=punkʻt
+27	ში	ში	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=ši
+28	დაბრუნდება	ბრუნდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Act	23	conj	_	Translit=dabrundeba
+29	და	და	CCONJ	Conj	_	32	cc	_	Translit=da
+30	მიმღები	მიმღები	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	31	amod	_	Translit=mimġebi
+31	აპარატურით	აპარატურა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	32	obl	_	Translit=aparaturitʻ
+32	ჩაიწერება	იწერება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Pass	23	conj	_	SpaceAfter=No|Translit=čʻaicereba
+33	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
+
+# sent_id = wiki_astronomy_00242
+# text = შიგაატომური ენერგიის ხელოვნურად წარმოქმნისა და გამოყენების საკითხების დამუშავება მზისა და ვარსკვლავთა შიგა აგებულების კვლევის პროცესში დაიწყო, და პლანეტების თანამგზავრების, საპლანეტათაშორისო სადგურებისა და ხომალდების გაშვება მთლიანად ცის სხეულების ტრაექტორიების გამოთვლის ასტრონომიულ მეთოდებს ემყარება.
+# translit = šigaatomuri energiis xelovnurad carmokʻmnisa da gamoqenebis sakitʻxebis damušaveba mzisa da varskvlavtʻa šiga agebulebis kvlevis procʻesši daicqo, da planetebis tʻanamgzavrebis, saplanetatʻašoriso sadgurebisa da xomaldebis gašveba mtʻlianad cʻis sxeulebis traekʻtoriebis gamotʻvlis astronomiul metʻodebs emqareba.
+1	შიგაატომური	შიგაატომური	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=šigaatomuri
+2	ენერგიის	ენერგია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=energiis
+3	ხელოვნურად	ხელოვნური	ADV	Adv	AdvType=Man	4	advmod	_	Translit=xelovnurad
+4	წარმოქმნისა	წარმოქმნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=carmokʻmnisa
+5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
+6	გამოყენების	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	conj	_	Translit=gamoqenebis
+7	საკითხების	საკითხი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	nmod	_	Translit=sakitʻxebis
+8	დამუშავება	დამუშავება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	nsubj	_	Translit=damušaveba
+9	მზისა	მზე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=mzisa
+10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
+11	ვარსკვლავთა	ვარსკვლავი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	conj	_	Translit=varskvlavtʻa
+12	შიგა	შიგა	ADJ	Adj	Case=Gen|Number=Sing	13	amod	_	Translit=šiga
+13	აგებულების	აგებულება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=agebulebis
+14	კვლევის	კვლევა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	Translit=kvlevis
+15-16	პროცესში	_	_	_	_	_	_	_	_
+15	პროცეს	პროცესი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	17	obl	_	Translit=procʻes
+16	ში	ში	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=ši
+17	დაიწყო	იწყებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=daicqo
+18	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+19	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
+20	პლანეტების	პლანეტა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	_	Translit=planetebis
+21	თანამგზავრების	თანამგზავრი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	17	conj	_	SpaceAfter=No|Translit=tʻanamgzavrebis
+22	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
+23	საპლანეტათაშორისო	საპლანეტათაშორისო	ADJ	Adj	Case=Gen|Number=Sing	24	amod	_	Translit=saplanetatʻašoriso
+24	სადგურებისა	სადგური	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	_	Translit=sadgurebisa
+25	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
+26	ხომალდების	ხომალდი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	conj	_	Translit=xomaldebis
+27	გაშვება	გაშვება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	35	nsubj	_	Translit=gašveba
+28	მთლიანად	მთლიანად	ADV	Adv	AdvType=Man	35	advmod	_	Translit=mtʻlianad
+29	ცის	ცა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	30	nmod	_	Translit=cʻis
+30	სხეულების	სხეული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	31	nmod	_	Translit=sxeulebis
+31	ტრაექტორიების	ტრაექტორია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	32	nmod	_	Translit=traekʻtoriebis
+32	გამოთვლის	გამოთვლა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	34	nmod	_	Translit=gamotʻvlis
+33	ასტრონომიულ	ასტრონომიული	ADJ	Adj	Case=Dat|Number=Sing	34	amod	_	Translit=astronomiul
+34	მეთოდებს	მეთოდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	35	obj	_	Translit=metʻodebs
+35	ემყარება	ემყარება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	17	conj	_	SpaceAfter=No|Translit=emqareba
+36	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
+
