@@ -12292,3 +12292,312 @@
 26	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	25	case	_	Translit=ze
 27	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
 
+# sent_id = wiki_automatic_00316
+# text = მენეჯმენტის მთავარი ხუთი ფუნქციაა: დაგეგმვა, ორგანიზება, ბრძანება, კორდინირება, კონტროლი.
+# translit = menejmentis mtʻavari xutʻi pʻunkʻcʻiaa: dagegmva, organizeba, brżaneba, kordinireba, kontroli.
+1	მენეჯმენტის	მენეჯმენტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=menejmentis
+2	მთავარი	მთავარი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=mtʻavari
+3	ხუთი	ხუთი	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	Translit=xutʻi
+4-5	ფუნქციაა	_	_	_	_	_	_	_	SpaceAfter=No
+4	ფუნქცია	ფუნქცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=pʻunkʻcʻia
+5	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	cop	_	Translit=a
+6	:	:	PUNCT	F	PunctType=Colo	4	punct	_	Translit=:
+7	დაგეგმვა	დაგეგმვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No|Translit=dagegmva
+8	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
+9	ორგანიზება	ორგანიზება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No|Translit=organizeba
+10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
+11	ბრძანება	ბრძანება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No|Translit=brżaneba
+12	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
+13	კორდინირება	კორდინირება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No|Translit=kordinireba
+14	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+15	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No|Translit=kontroli
+16	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00317
+# text = საბჭოთა ოკუპაციის შემდეგ სახელმწიფო კონტროლიორის ინსტიტუტმა ფუნქციონირება შეწყვიტა.
+# translit = sabčotʻa okupacʻiis šemdeg saxelmcipʻo kontrolioris institutma pʻunkʻcʻionireba šecqvita.
+1	საბჭოთა	საბჭო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	2	nmod	_	Translit=sabčotʻa
+2	ოკუპაციის	ოკუპაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=okupacʻiis
+3	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	8	advmod	_	Translit=šemdeg
+4	სახელმწიფო	სახელმწიფო	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=saxelmcipʻo
+5	კონტროლიორის	კონტროლიორი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	6	nmod	_	Translit=kontrolioris
+6	ინსტიტუტმა	ინსტიტუტი	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	8	nsubj	_	Translit=institutma
+7	ფუნქციონირება	ფუნქციონირება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	_	Translit=pʻunkʻcʻionireba
+8	შეწყვიტა	წყვეტს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=šecqvita
+9	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00318
+# text = კომუნისტური მმართველობის პერიოდში უმაღლესი აუდიტორული ორგანოს ნაცვლად ჩამოყალიბდა სსრკ სახალხო კონტროლის სისტემა, რომელიც დროთა განმავლობაში იცვლიდა სახელწოდებას და ფუნქციას.
+# translit = komunisturi mmartʻvelobis periodši umaġlesi auditoruli organos nacʻvlad čʻamoqalibda ssrk saxalxo kontrolis sistema, romelicʻ drotʻa ganmavlobaši icʻvlida saxelcodebas da pʻunkʻcʻias.
+1	კომუნისტური	კომუნისტური	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=komunisturi
+2	მმართველობის	მმართველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=mmartʻvelobis
+3-4	პერიოდში	_	_	_	_	_	_	_	_
+3	პერიოდ	პერიოდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=period
+4	ში	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=ši
+5	უმაღლესი	მაღალი	ADJ	Adj	Case=Gen|Degree=Sup|Number=Sing	6	amod	_	Translit=umaġlesi
+6	აუდიტორული	აუდიტორული	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=auditoruli
+7	ორგანოს	ორგანო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=organos
+8	ნაცვლად	ნაცვლად	ADV	Adv	AdvType=Man	9	advmod	_	Translit=nacʻvlad
+9	ჩამოყალიბდა	ყალიბდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	_	Translit=čʻamoqalibda
+10	სსრკ	საბჭოთა_სოციალისტური_რესპუბლიკების_კავშირი	NOUN	Noun	Abbr=Yes|Case=Nom|Number=Sing	13	nmod	_	Translit=ssrk
+11	სახალხო	სახალხო	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=saxalxo
+12	კონტროლის	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=kontrolis
+13	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj:pass	_	SpaceAfter=No|Translit=sistema
+14	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
+15	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	19	nsubj	_	Translit=romelicʻ
+16	დროთა	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	19	obj	_	Translit=drotʻa
+17-18	განმავლობაში	_	_	_	_	_	_	_	_
+17	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=ganmavloba
+18	ში	ში	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ši
+19	იცვლიდა	იცვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	13	acl	_	Translit=icʻvlida
+20	სახელწოდებას	სახელწოდება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obj	_	Translit=saxelcodebas
+21	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
+22	ფუნქციას	ფუნქცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	conj	_	SpaceAfter=No|Translit=pʻunkʻcʻias
+23	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00319
+# text = ტოტალიტარიზმი (ლათ. Totalis - მთელი, სავსე; “Totаlitas” – მთლიანობა, სისავსე) — ტერმინი პოლიტიკურ მეცნიერებაში, რომელსაც იყენებენ პოლიტიკური რეჟიმების აღსაწერად, სადაც სახელმწიფოს აბსოლუტური კონტროლი აქვს ცხოვრების ყველა ასპექტზე, იქნება ეს საჯარო თუ კერძო.
+# translit = totalitarizmi (latʻ. Totalis - mtʻeli, savse; “Totаlitas” – mtʻlianoba, sisavse) — termini politikur mecʻnierebaši, romelsacʻ iqeneben politikuri režimebis aġsacerad, sadacʻ saxelmcipʻos absoluturi kontroli akʻvs cʻxovrebis qvela aspekʻtze, ikʻneba es sajaro tʻu kerżo.
+1	ტოტალიტარიზმი	ტოტალიტარიზმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	19	nsubj	_	Translit=totalitarizmi
+2	(	(	PUNCT	F	PunctType=Brck	4	punct	_	SpaceAfter=No|Translit=(
+3	ლათ.	ლათინური	ADJ	Adj	Abbr=Yes	4	amod	_	Translit=latʻ.
+4	Totalis	Totalis	X	Foreign	Foreign=Yes	1	appos	_	Translit=Totalis
+5	-	-	PUNCT	F	PunctType=Dash	6	punct	_	Translit=-
+6	მთელი	მთელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	appos	_	SpaceAfter=No|Translit=mtʻeli
+7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+8	სავსე	სავსე	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	conj	_	SpaceAfter=No|Translit=savse
+9	;	;	PUNCT	F	PunctType=Semi	11	punct	_	Translit=;
+10	“	“	PUNCT	F	PunctType=Quot	11	punct	_	SpaceAfter=No|Translit=“
+11	Totаlitas	Totаlitas	X	Foreign	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No|Translit=Totаlitas
+12	”	”	PUNCT	F	PunctType=Quot	14	punct	_	Translit=”
+13	–	–	PUNCT	F	PunctType=Dash	14	punct	_	Translit=–
+14	მთლიანობა	მთლიანობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	appos	_	SpaceAfter=No|Translit=mtʻlianoba
+15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+16	სისავსე	სისავსე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	conj	_	SpaceAfter=No|Translit=sisavse
+17	)	)	PUNCT	F	PunctType=Brck	4	punct	_	Translit=)
+18	—	—	PUNCT	F	PunctType=Dash	19	punct	_	Translit=—
+19	ტერმინი	ტერმინი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=termini
+20	პოლიტიკურ	პოლიტიკური	ADJ	Adj	Case=Dat|Number=Sing	21	amod	_	Translit=politikur
+21-22	მეცნიერებაში	_	_	_	_	_	_	_	SpaceAfter=No
+21	მეცნიერება	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=mecʻniereba
+22	ში	ში	ADP	Post	AdpType=Post|Case=Dat	21	case	_	Translit=ši
+23	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
+24	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	25	obj	_	Translit=romelsacʻ
+25	იყენებენ	აყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	19	acl	_	Translit=iqeneben
+26	პოლიტიკური	პოლიტიკური	ADJ	Adj	Case=Gen|Number=Sing	27	amod	_	Translit=politikuri
+27	რეჟიმების	რეჟიმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	28	nmod	_	Translit=režimebis
+28	აღსაწერად	აღსაწერი	ADV	Adv	AdvType=Man	25	advmod	_	SpaceAfter=No|Translit=aġsacerad
+29	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
+30	სადაც	სადაც	SCONJ	Conj	_	34	mark	_	Translit=sadacʻ
+31	სახელმწიფოს	სახელმწიფო	ADJ	Adj	Case=Gen|Number=Sing	32	amod	_	Translit=saxelmcipʻos
+32	აბსოლუტური	აბსოლუტური	ADJ	Adj	Case=Nom|Number=Sing	33	amod	_	Translit=absoluturi
+33	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	34	nsubj	_	Translit=kontroli
+34	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	25	advcl	_	Translit=akʻvs
+35	ცხოვრების	ცხოვრება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	37	nmod	_	Translit=cʻxovrebis
+36	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	37	det	_	Translit=qvela
+37-38	ასპექტზე	_	_	_	_	_	_	_	SpaceAfter=No
+37	ასპექტ	ასპექტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	34	obl	_	Translit=aspekʻt
+38	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	37	case	_	Translit=ze
+39	,	,	PUNCT	F	PunctType=Comm	40	punct	_	Translit=,
+40	იქნება	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	34	conj	_	Translit=ikʻneba
+41	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	42	det	_	Translit=es
+42	საჯარო	საჯარო	ADJ	Adj	Case=Nom|Number=Sing	33	amod	_	Translit=sajaro
+43	თუ	თუ	CCONJ	Conj	_	44	cc	_	Translit=tʻu
+44	კერძო	კერძო	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	42	conj	_	SpaceAfter=No|Translit=kerżo
+45	.	.	PUNCT	F	PunctType=Peri	19	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00320
+# text = ტოტალიტარული რეჟიმების საერთო მახასიათებლებია ძლიერი პოლიტიკური რეპრესია, სრული კონტროლი ეკონომიკაზე, მას-მედიაზე, საკომუნიკაციო საშუალებებზე, აღმასრულებელი და სასამართლო ხელისუფლებებზე სრული გავლენა, სიტყვის თავისუფლების შეზღუდვა და დემოკრატიის არარსებობა, თვალთვალი და მოსმენა და საზოგადოებრივი ცხოვრების იდეოლოგიზაცია.
+# translit = totalitaruli režimebis saertʻo maxasiatʻeblebia żlieri politikuri represia, sruli kontroli ekonomikaze, mas-mediaze, sakomunikacʻio sašualebebze, aġmasrulebeli da sasamartʻlo xelisupʻlebebze sruli gavlena, sitqvis tʻavisupʻlebis šezġudva da demokratiis ararseboba, tʻvaltʻvali da mosmena da sazogadoebrivi cʻxovrebis ideologizacʻia.
+1	ტოტალიტარული	ტოტალიტარული	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=totalitaruli
+2	რეჟიმების	რეჟიმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	3	nmod	_	Translit=režimebis
+3	საერთო	საერთო	ADJ	Adj	Case=Nom|Number=Sing	4	amod	_	Translit=saertʻo
+4-5	მახასიათებლებია	_	_	_	_	_	_	_	_
+4	მახასიათებლები	მახასიათებელი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	Translit=maxasiatʻeblebi
+5	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	cop	_	Translit=a
+6	ძლიერი	ძლიერი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	Translit=żlieri
+7	პოლიტიკური	პოლიტიკური	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=politikuri
+8	რეპრესია	რეპრესია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No|Translit=represia
+9	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+10	სრული	სრული	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	Translit=sruli
+11	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	Translit=kontroli
+12-13	ეკონომიკაზე	_	_	_	_	_	_	_	SpaceAfter=No
+12	ეკონომიკა	ეკონომიკა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obl	_	Translit=ekonomika
+13	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ze
+14	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+15-16	მას-მედიაზე	_	_	_	_	_	_	_	SpaceAfter=No
+15	მას-მედია	მას-მედია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	conj	_	Translit=mas-media
+16	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=ze
+17	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
+18	საკომუნიკაციო	საკომუნიკაციო	ADJ	Adj	Case=Dat|Number=Sing	19	amod	_	Translit=sakomunikacʻio
+19-20	საშუალებებზე	_	_	_	_	_	_	_	SpaceAfter=No
+19	საშუალებებ	საშუალება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	conj	_	Translit=sašualebeb
+20	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=ze
+21	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+22	აღმასრულებელი	აღმასრულებელი	ADJ	Adj	Case=Dat|Number=Sing	4	conj	_	Translit=aġmasrulebeli
+23	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
+24	სასამართლო	სასამართლო	ADJ	Adj	Case=Dat|Number=Sing	25	amod	_	Translit=sasamartʻlo
+25-26	ხელისუფლებებზე	_	_	_	_	_	_	_	_
+25	ხელისუფლებებ	ხელისუფლება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	conj	_	Translit=xelisupʻlebeb
+26	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	25	case	_	Translit=ze
+27	სრული	სრული	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	28	amod	_	Translit=sruli
+28	გავლენა	გავლენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No|Translit=gavlena
+29	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
+30	სიტყვის	სიტყვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	31	nmod	_	Translit=sitqvis
+31	თავისუფლების	თავისუფლება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	32	nmod	_	Translit=tʻavisupʻlebis
+32	შეზღუდვა	შეზღუდვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	Translit=šezġudva
+33	და	და	CCONJ	Conj	_	34	cc	_	Translit=da
+34	დემოკრატიის	დემოკრატია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	conj	_	Translit=demokratiis
+35	არარსებობა	არარსებობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No|Translit=ararseboba
+36	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
+37	თვალთვალი	თვალთვალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	Translit=tʻvaltʻvali
+38	და	და	CCONJ	Conj	_	39	cc	_	Translit=da
+39	მოსმენა	მოსმენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	Translit=mosmena
+40	და	და	CCONJ	Conj	_	43	cc	_	Translit=da
+41	საზოგადოებრივი	საზოგადოებრივი	ADJ	Adj	Case=Gen|Number=Sing	42	amod	_	Translit=sazogadoebrivi
+42	ცხოვრების	ცხოვრება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	43	nmod	_	Translit=cʻxovrebis
+43	იდეოლოგიზაცია	იდეოლოგიზაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No|Translit=ideologizacʻia
+44	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00321
+# text = დღეისათვის ევროპარლამენტის უფლებამოსილებისა და კომპეტენციის სფეროს განეკუთვნება: კანონმდებლობა, ბიუჯეტი და აღმასრულებელ ორგანოებზე კონტროლი.
+# translit = dġeisatʻvis evroparlamentis upʻlebamosilebisa da kompetencʻiis spʻeros ganekutʻvneba: kanonmdebloba, biujeti da aġmasrulebel organoebze kontroli.
+1	დღეისათვის	დღეისათვის	ADV	Adv	AdvType=Tim	7	advmod	_	Translit=dġeisatʻvis
+2	ევროპარლამენტის	ევროპარლამენტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=evroparlamentis
+3	უფლებამოსილებისა	უფლებამოსილება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=upʻlebamosilebisa
+4	და	და	CCONJ	Conj	_	5	cc	_	Translit=da
+5	კომპეტენციის	კომპეტენცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	conj	_	Translit=kompetencʻiis
+6	სფეროს	სფერო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	Translit=spʻeros
+7	განეკუთვნება	ეკუთვნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganekutʻvneba
+8	:	:	PUNCT	F	PunctType=Colo	7	punct	_	Translit=:
+9	კანონმდებლობა	კანონმდებლობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	SpaceAfter=No|Translit=kanonmdebloba
+10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
+11	ბიუჯეტი	ბიუჯეტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	Translit=biujeti
+12	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
+13	აღმასრულებელ	აღმასრულებელი	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=aġmasrulebel
+14-15	ორგანოებზე	_	_	_	_	_	_	_	_
+14	ორგანოებ	ორგანო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	16	obl	_	Translit=organoeb
+15	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ze
+16	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No|Translit=kontroli
+17	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
+
+# sent_id = wiki_automatic_00322
+# text = ვატიკანის სამმართველო ასევე აკონტროლებს პაპის ჟანდარმერიას, ვატიკანის პოლიციას.
+# translit = vatikanis sammartʻvelo aseve akontrolebs papis žandarmerias, vatikanis policʻias.
+1	ვატიკანის	ვატიკანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=vatikanis
+2	სამმართველო	სამმართველო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=sammartʻvelo
+3	ასევე	ასევე	ADV	Adv	AdvType=Man	4	advmod	_	Translit=aseve
+4	აკონტროლებს	აკონტროლებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=akontrolebs
+5	პაპის	პაპი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	6	nmod	_	Translit=papis
+6	ჟანდარმერიას	ჟანდარმერია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	SpaceAfter=No|Translit=žandarmerias
+7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
+8	ვატიკანის	ვატიკანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=vatikanis
+9	პოლიციას	პოლიცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	conj	_	SpaceAfter=No|Translit=policʻias
+10	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automotive_00323
+# text = გენური ინჟინერია არ წარმოადგენს მეცნიერებას ფართო გაგებით, მაგრამ წარმოადგენს ბიოტექნოლოგიების ინსტრუმენტს და იყენებს ისეთი ბიოლოგიური მეცნიერებების ინსტრუმენტებს, როგორებიცაა მოლეკულური ბიოლოგია, ციტოლოგია, გენეტიკა, მიკრობიოლოგია, ვირუსოლოგია.
+# translit = genuri inžineria ar carmoadgens mecʻnierebas pʻartʻo gagebitʻ, magram carmoadgens biotekʻnologiebis instruments da iqenebs isetʻi biologiuri mecʻnierebebis instrumentebs, rogorebicʻaa molekuluri biologia, cʻitologia, genetika, mikrobiologia, virusologia.
+1	გენური	გენური	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=genuri
+2	ინჟინერია	ინჟინერია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=inžineria
+3	არ	არ	PART	Part	PartType=Neg	4	advmod	_	Translit=ar
+4	წარმოადგენს	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=carmoadgens
+5	მეცნიერებას	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	Translit=mecʻnierebas
+6	ფართო	ფართო	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	7	amod	_	Translit=pʻartʻo
+7	გაგებით	გაგება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	SpaceAfter=No|Translit=gagebitʻ
+8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
+9	მაგრამ	მაგრამ	CCONJ	Conj	_	10	cc	_	Translit=magram
+10	წარმოადგენს	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	4	conj	_	Translit=carmoadgens
+11	ბიოტექნოლოგიების	ბიოტექნოლოგია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	nmod	_	Translit=biotekʻnologiebis
+12	ინსტრუმენტს	ინსტრუმენტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	_	Translit=instruments
+13	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
+14	იყენებს	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	4	conj	_	Translit=iqenebs
+15	ისეთი	ისეთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	17	det	_	Translit=isetʻi
+16	ბიოლოგიური	ბიოლოგიური	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=biologiuri
+17	მეცნიერებების	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	18	nmod	_	Translit=mecʻnierebebis
+18	ინსტრუმენტებს	ინსტრუმენტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	14	obj	_	SpaceAfter=No|Translit=instrumentebs
+19	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
+20-21	როგორებიცაა	_	_	_	_	_	_	_	_
+20	როგორებიცა	როგორი	SCONJ	Conj	_	18	acl	_	Translit=rogoricʻa
+21	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	20	cop	_	Translit=a
+22	მოლეკულური	მოლეკულური	ADJ	Adj	Case=Nom|Number=Sing	23	amod	_	Translit=molekuluri
+23	ბიოლოგია	ბიოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	nsubj	_	SpaceAfter=No|Translit=biologia
+24	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
+25	ციტოლოგია	ციტოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	23	conj	_	SpaceAfter=No|Translit=cʻitologia
+26	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
+27	გენეტიკა	გენეტიკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	23	conj	_	SpaceAfter=No|Translit=genetika
+28	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
+29	მიკრობიოლოგია	მიკრობიოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	23	conj	_	SpaceAfter=No|Translit=mikrobiologia
+30	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
+31	ვირუსოლოგია	ვირუსოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	23	conj	_	SpaceAfter=No|Translit=virusologia
+32	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_automotive_00324
+# text = სოციალური ინჟინერია ეს არის ფსიქოლოგიური მანიპულაცია და შეტევა, რომლის დროსაც გარეშე პირი სისტემაზე ან ქსელზე მონოპოლირების მოპოვების მიზნით ახორციელებს მოტყუების გზით მომხმარებლის გამოკითხვას და ამისათვის იყენებს e-mail-ს, სატელეფონო ზარს, პირად მიმოწერას ან პირზე ფსიქოლოგიურ დაკვირვებას.
+# translit = socʻialuri inžineria socʻialuri inžineria es aris pʻsikʻologiuri manipulacʻia da šeteva, romlis drosacʻ gareše piri sistemaze an kʻselze monopolirebis mopovebis miznitʻ axorcʻielebs motquebis gzitʻ momxmareblis gamokitʻxvas da amisatʻvis iqenebs e-mail-s, satelepʻono zars, pirad mimoceras an pirze pʻsikʻologiur dakvirvebas.
+1	სოციალური	სოციალური	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=socʻialuri
+2	ინჟინერია	ინჟინერია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=inžineria
+3	ეს	ეს(ე)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	det	_	Translit=es
+4	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	6	cop	_	Translit=aris
+5	ფსიქოლოგიური	ფსიქოლოგიური	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	Translit=pʻsikʻologiuri
+6	მანიპულაცია	მანიპულაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=manipulacʻia
+7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
+8	შეტევა	შეტევა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	conj	_	SpaceAfter=No|Translit=šeteva
+9	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+10	რომლის	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	11	det	_	Translit=romlis
+11	დროსაც	დრო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing|PartType=Emp	24	obl	_	Translit=drosacʻ
+12	გარეშე	გარეშე	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	Translit=gareše
+13	პირი	პირი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	22	nsubj	_	Translit=piri
+14-15	სისტემაზე	_	_	_	_	_	_	_	_
+14	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	obl	_	Translit=sistema
+15	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ze
+16	ან	ან	CCONJ	Conj	_	18	cc	_	Translit=an
+17-18	ქსელზე	_	_	_	_	_	_	_	_
+17	ქსელ	ქსელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	conj	_	Translit=kʻsel
+18	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ze
+19	მონოპოლირების	მონოპოლირება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=monopolirebis
+20	მოპოვების	მოპოვება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=mopovebis
+21	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	22	obl	_	Translit=miznitʻ
+22	ახორციელებს	ახორციელებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	5	acl	_	Translit=axorcʻielebs
+23	მოტყუების	მოტყუება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=motquebis
+24	გზით	გზა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	22	obl	_	Translit=gzitʻ
+25	მომხმარებლის	მომხმარებელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	26	nmod	_	Translit=momxmareblis
+26	გამოკითხვას	გამოკითხვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	obj	_	Translit=gamokitʻxvas
+27	და	და	CCONJ	Conj	_	30	cc	_	Translit=da
+28-29	ამისათვის	_	_	_	_	_	_	_	_
+28	ამისა	ეს(ე)	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	30	obl	_	Translit=amisa
+29	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	30	case	_	Translit=tʻvis
+30	იყენებს	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	22	conj	_	Translit=iqenebs
+31	e-mail-ს	e-mailს	X	Foreign	Foreign=Yes	30	obj	_	SpaceAfter=No|Translit=e-mail-s
+32	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
+33	სატელეფონო	სატელეფონო	ADJ	Adj	Case=Dat|Number=Sing	34	amod	_	Translit=satelepʻono
+34	ზარს	ზარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	31	conj	_	SpaceAfter=No|Translit=zars
+35	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
+36	პირად	პირადი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	37	amod	_	Translit=pirad
+37	მიმოწერას	მიმოწერა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	31	conj	_	Translit=mimoceras
+38	ან	ან	CCONJ	Conj	_	42	cc	_	Translit=an
+39-40	პირზე	_	_	_	_	_	_	_	_
+39	პირ	პირი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	42	obl	_	Translit=pir
+40	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	41	case	_	Translit=ze
+41	ფსიქოლოგიურ	ფსიქოლოგიური	ADJ	Adj	Case=Dat|Number=Sing	42	amod	_	Translit=pʻsikʻologiur
+42	დაკვირვებას	დაკვირვება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	31	conj	_	SpaceAfter=No|Translit=dakvirvebas
+43	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
+
+# sent_id = wiki_automotive_00325
+# text = კომპიუტერული ინჟინერია — დისციპლინა, რომელიც გარკვეულწილად უკავშირდება კომპიუტერულ მეცნიერებასა და ელექტრო ინჟინერიას.
+# translit = kompiuteruli inžineria — discʻiplina, romelicʻ garkveulcilad ukavširdeba kompiuterul mecʻnierebasa da elekʻtro inžinerias.
+1	კომპიუტერული	კომპიუტერული	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=kompiuteruli
+2	ინჟინერია	ინჟინერია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=inžineria
+3	—	—	PUNCT	F	PunctType=Dash	4	punct	_	Translit=—
+4	დისციპლინა	დისციპლინა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=discʻiplina
+5	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+6	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	_	Translit=romelicʻ
+7	გარკვეულწილად	გარკვეულწილად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=garkveulcilad
+8	უკავშირდება	კავშირდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	4	acl	_	Translit=ukavširdeba
+9	კომპიუტერულ	კომპიუტერული	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=kompiuterul
+10	მეცნიერებასა	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obj	_	Translit=mecʻnierebasa
+11	და	და	CCONJ	Conj	_	13	cc	_	Translit=da
+12	ელექტრო	ელექტრო	ADJ	Adj	Case=Dat|Number=Sing	13	amod	_	Translit=elekʻtro
+13	ინჟინერიას	ინჟინერია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	conj	_	SpaceAfter=No|Translit=inžinerias
+14	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
