@@ -10141,3 +10141,95 @@
 35	ემყარება	ემყარება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	17	conj	_	SpaceAfter=No|Translit=emqareba
 36	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
 
+# sent_id = wiki_astronomy_00243
+# text = რაკი ცნობილია ელექტრომაგნიტურ ტალღათა გავრცელების სიჩქარე, შესაძლებელია მნათობამდე მანძილის გაზომვაც.
+# translit = raki cʻnobilia elekʻtromagnitur talġatʻa gavrcʻelebis sičʻkʻare, šesażlebelia mnatʻobamde manżilis gazomvacʻ.
+1	რაკი	რაკი	SCONJ	Conj	_	2	mark	_	Translit=raki
+2-3	ცნობილია	_	_	_	_	_	_	_	_
+2	ცნობილი	ცნობილი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=cʻnobili
+3	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	2	cop	_	Translit=a
+4	ელექტრომაგნიტურ	ელექტრომაგნიტური	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=elekʻtromagnitur
+5	ტალღათა	ტალღა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	Translit=talġatʻa
+6	გავრცელების	გავრცელება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=gavrcʻelebis
+7	სიჩქარე	სიჩქარე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No|Translit=sičʻkʻare
+8	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
+9-10	შესაძლებელია	_	_	_	_	_	_	_	_
+9	შესაძლებელი	შესაძლებელი	ADJ	Adj	Case=Nom|Number=Sing	2	advcl	_	Translit=šesażlebeli
+10	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	9	cop	_	Translit=a
+11-12	მნათობამდე	_	_	_	_	_	_	_	_
+11	მნათობა	მნათობი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	9	obl	_	Translit=mnatʻoba
+12	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	11	case	_	Translit=mde
+13	მანძილის	მანძილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=manżilis
+14	გაზომვაც	გაზომვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing|PartType=Emp	9	nsubj	_	SpaceAfter=No|Translit=gazomvacʻ
+15	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
+
+# sent_id = wiki_astronomy_00244
+# text = ოთხ საუკუნეზე მეტია, რაც იგი განუწყვეტლივ ვითარდება — გალილეის მიერ პირველად გამოყენებული პატარა პრიმიტიული ჭოგრიდან თანამედროვე გიგანტ ტელესკოპებამდე, რომლებიც მნათობთა გამოსხივების ანალიზისათვის აღჭურვილია მრავალნაირი დამატებითი ტექნიკური და ფიზიკური საშუალებებით.
+# translit = otʻx saukuneze metia, racʻ igi ganucqvetliv vitʻardeba — galileis mier pirvelad gamoqenebuli patara primitiuli čogridan tʻanamedrove gigant teleskopebamde, romlebicʻ mnatʻobtʻa gamosxivebis analizisatʻvis aġčurvilia mravalnairi damatebitʻi tekʻnikuri da pʻizikuri sašualebebitʻ.
+1	ოთხ	ოთხი	NUM	Num	Case=Dat|Number=Sing|NumType=Card	2	nummod	_	Translit=otʻx
+2-3	საუკუნეზე	_	_	_	_	_	_	_	_
+2	საუკუნე	საუკუნე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=saukune
+3	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ze
+4-5	მეტია	_	_	_	_	_	_	_	SpaceAfter=No
+4	მეტი	მეტი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	0	root	_	Translit=meti
+5	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	cop	_	Translit=a
+6	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
+7	რაც	რაც	SCONJ	Conj	_	10	mark	_	Translit=racʻ
+8	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Translit=igi
+9	განუწყვეტლივ	განუწყვეტლივ	ADV	Adv	AdvType=Man	10	advmod	_	Translit=ganucqvetliv
+10	ვითარდება	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	4	acl	_	Translit=vitʻardeba
+11	—	—	PUNCT	F	PunctType=Dash	10	punct	_	Translit=—
+12	გალილეის	გალილეი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	15	obl	_	Translit=galileis
+13	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	12	case	_	Translit=mier
+14	პირველად	პირველად	ADV	Adv	AdvType=Tim	15	advmod	_	Translit=pirvelad
+15	გამოყენებული	გამოყენებული	ADJ	Adj	Case=Ins|Number=Sing	18	amod	_	Translit=gamoqenebuli
+16	პატარა	პატარა	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	18	amod	_	Translit=patara
+17	პრიმიტიული	პრიმიტიული	ADJ	Adj	Case=Ins|Number=Sing	18	amod	_	Translit=primitiuli
+18-19	ჭოგრიდან	_	_	_	_	_	_	_	_
+18	ჭოგრი	ჭოგრი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=čogri
+19	დან	დან	ADP	Post	AdpType=Post|Case=Ins	18	case	_	Translit=dan
+20	თანამედროვე	თანამედროვე	ADJ	Adj	Case=Ess|Number=Sing	21	amod	_	Translit=tʻanamedrove
+21	გიგანტ	გიგანტი	ADJ	Adj	Case=Ess|Number=Sing	22	amod	_	Translit=gigant
+22-23	ტელესკოპებამდე	_	_	_	_	_	_	_	SpaceAfter=No
+22	ტელესკოპება	ტელესკოპი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	10	obl	_	Translit=teleskopeba
+23	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	22	case	_	Translit=mde
+24	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
+25	რომლებიც	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	30	nsubj	_	Translit=romlebicʻ
+26	მნათობთა	მნათობი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	27	nmod	_	Translit=mnatʻobtʻa
+27	გამოსხივების	გამოსხივება	VERB	VerbalNoun	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Vnoun	28	nmod	_	Translit=gamosxivebis
+28-29	ანალიზისათვის	_	_	_	_	_	_	_	_
+28	ანალიზისა	ანალიზი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	30	obl	_	Translit=analizisa
+29	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	28	case	_	Translit=tʻvis
+30-31	აღჭურვილია	_	_	_	_	_	_	_	_
+30	აღჭურვილი	აღჭურვილი	ADJ	Adj	Case=Nom|Number=Sing	22	acl	_	Translit=aġčurvili
+31	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	30	cop	_	Translit=a
+32	მრავალნაირი	მრავალნაირი	ADJ	Adj	Case=Ins|Number=Sing	33	amod	_	Translit=mravalnairi
+33	დამატებითი	დამატებითი	ADJ	Adj	Case=Ins|Number=Sing	37	amod	_	Translit=damatebitʻi
+34	ტექნიკური	ტექნიკური	ADJ	Adj	Case=Ins|Number=Sing	37	amod	_	Translit=tekʻnikuri
+35	და	და	CCONJ	Conj	_	36	cc	_	Translit=da
+36	ფიზიკური	ფიზიკური	ADJ	Adj	Case=Ins|Number=Sing	34	conj	_	Translit=pʻizikuri
+37	საშუალებებით	საშუალება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	30	obl	_	SpaceAfter=No|Translit=sašualebebitʻ
+38	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+# sent_id = wiki_astronomy_00245
+# text = ამ უკანასკნელთა წყალობით უკვე XIX საუკუნის შუა წლებიდან დაიწყო ცის სხეულების ფიზიკური ბუნების სისტემატური კვლევა.
+# translit = am ukanaskneltʻa cqalobitʻ ukve XIX saukunis šua clebidan daicqo cʻis sxeulebis pʻizikuri bunebis sistematuri kvleva.
+1	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=am
+2	უკანასკნელთა	უკანასკნელი	ADJ	Adj	Case=Gen|Number=Plur	3	amod	_	Translit=ukanaskneltʻa
+3	წყალობით	წყალობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=cqalobitʻ
+4	უკვე	უკვე	ADV	Adv	AdvType=Tim	10	advmod	_	Translit=ukve
+5	XIX	19	NUM	Num	NumForm=Roman|NumType=Card	6	nummod	_	Translit=XIX
+6	საუკუნის	საუკუნე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=saukunis
+7	შუა	შუა	ADJ	Adj	Case=Ins|Number=Sing	8	amod	_	Translit=šua
+8-9	წლებიდან	_	_	_	_	_	_	_	_
+8	წლები	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	10	obl:tmod	_	Translit=clebi
+9	დან	დან	ADP	Post	AdpType=Post|Case=Ins	8	case	_	Translit=dan
+10	დაიწყო	იწყებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=daicqo
+11	ცის	ცა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=cʻis
+12	სხეულების	სხეული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	14	nmod	_	Translit=sxeulebis
+13	ფიზიკური	ფიზიკური	ADJ	Adj	Case=Gen|Number=Sing	14	amod	_	Translit=pʻizikuri
+14	ბუნების	ბუნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	nmod	_	Translit=bunebis
+15	სისტემატური	სისტემატური	ADJ	Adj	Case=Nom|Number=Sing	16	amod	_	Translit=sistematuri
+16	კვლევა	კვლევა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	nsubj	_	SpaceAfter=No|Translit=kvleva
+17	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
+
