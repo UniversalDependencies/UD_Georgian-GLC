@@ -2023,7 +2023,7 @@
 7	ისტორია	ისტორია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	obj	_	SpaceAfter=No|Translit=istoria
 8	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	Translit=romelicʻ
-10	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	2	ccomp	_	Translit=moicʻavs
+10	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	2	ccomp	_	Translit=moicʻavs
 11	უძველეს	ძველი	ADJ	Adj	Case=Dat|Degree=Sup|Number=Sing	12	amod	_	Translit=użveles
 12	დროს	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	_	Translit=dros
 13	კლასიკურ	კლასიკური	ADJ	Adj	Case=Ess|Number=Sing	14	amod	_	Translit=klasikur
@@ -3110,7 +3110,7 @@
 11	შედეგების	შედეგი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	nmod	_	Translit=šedegebis
 12	შეფასება	შეფასება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No|Translit=šepʻaseba
 13	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
-14	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+14	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 15	შრომითი	შრომითი	ADJ	Adj	Case=Gen|Number=Sing	16	amod	_	Translit=šromitʻi
 16	ბაზრის	ბაზარი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	SpaceAfter=No|Translit=bazris
 17	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
@@ -5639,7 +5639,7 @@
 # translit = agronomiuli madnebi šeicʻaven pʻospʻoris, kaliumis, azotis, kalcʻiumis, gogirdis da sxv. naertʻebs.
 1	აგრონომიული	აგრონომიული	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=agronomiuli
 2	მადნები	მადანი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	3	nsubj	_	Translit=madnebi
-3	შეიცავენ	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻaven
+3	შეიცავენ	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻaven
 4	ფოსფორის	ფოსფორი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	obj	_	SpaceAfter=No|Translit=pʻospʻoris
 5	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 6	კალიუმის	კალიუმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	conj	_	SpaceAfter=No|Translit=kaliumis
@@ -6059,7 +6059,7 @@
 43-44	ჯაჭვში	_	_	_	_	_	_	_	_
 43	ჯაჭვ	ჯაჭვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	45	obl	_	Translit=jačv
 44	ში	ში	ADP	Post	AdpType=Post|Case=Dat	43	case	_	Translit=ši
-45	შეიცავენ	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	37	conj	_	Translit=šeicʻaven
+45	შეიცავენ	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	37	conj	_	Translit=šeicʻaven
 46	ნახშირბადის	ნახშირბადი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	54	nmod	_	SpaceAfter=No|Translit=naxširbadis
 47	,	,	PUNCT	F	PunctType=Comm	46	punct	_	Translit=,
 48	ასევე	ასევე	ADV	Adv	AdvType=Man	49	advmod	_	Translit=aseve
@@ -7557,7 +7557,7 @@
 7	ლითონის	ლითონი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=litʻonis
 8	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	9	det	_	Translit=sxva
 9	ნივთებსაც	ნივთი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur|PartType=Emp	10	obj	_	Translit=nivtʻebsacʻ
-10	შეიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeicʻavs
+10	შეიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeicʻavs
 11	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 12	ჩვეულებრივ	ჩვეულებრივი	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=čʻveulebriv
 13	შერეულ	შერეული	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=šereul
@@ -7593,7 +7593,7 @@
 3	გაგებით	გაგება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	Translit=gagebitʻ
 4	არქიტექტურა	არქიტექტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=arkʻitekʻtura
 5	ასევე	ასევე	ADV	Adv	AdvType=Man	6	advmod	_	Translit=aseve
-6	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+6	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 7	მთელი	მთელი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	Translit=mtʻeli
 8	სამშენებლო	სამშენებლო	ADJ	Adj	Case=Gen|Number=Sing	9	amod	_	Translit=samšeneblo
 9	კომპლექსისა	კომპლექსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=komplekʻsisa
@@ -9294,7 +9294,7 @@
 4	რეგიონული	რეგიონული	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=regionuli
 5	ცენტრების	ცენტრი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	1	conj	_	Translit=cʻentrebis
 6	კოლექცია	კოლექცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=kolekʻcʻia
-7	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+7	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 8	17,000	17,000	NUM	Num	NumForm=Digit|NumType=Card	9	nummod	_	Translit=17,000
 9	ხელოვნების	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=xelovnebis
 10	ექსპონატს	ექსპონატი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=ekʻsponats
@@ -10531,7 +10531,7 @@
 5	ასტრონომიული	ასტრონომიული	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	Translit=astronomiuli
 6	კვლევები	კვლევა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	8	nsubj	_	Translit=kvlevebi
 7	ხშირად	ხშირად	ADV	Adv	AdvType=Deg	8	advmod	_	Translit=xširad
-8	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+8	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 9	თეორიული	თეორიული	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=tʻeoriuli
 10	ფიზიკის	ფიზიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=pʻizikis
 11	დიდ	დიდი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	12	amod	_	Translit=did
@@ -10543,7 +10543,7 @@
 # translit = zogiertʻi dakvirveba moicʻavs šavi materiis, šavi energiisa da šavi xvrelis tʻvisebebis gamokvlevis mcʻdelobebs ratʻa dadgindes šesażlebelia tʻu ara droši mogzauroba, šesażlebelia tʻu ara čiis xvrelebis carmokʻmna da arsebobs tʻu ara multisamqaro.
 1	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	2	det	_	Translit=zogiertʻi
 2	დაკვირვება	დაკვირვება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=dakvirveba
-3	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+3	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 4	შავი	შავი	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=šavi
 5	მატერიის	მატერია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	SpaceAfter=No|Translit=materiis
 6	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
@@ -12648,7 +12648,7 @@
 8-9	კურიკულუმში	_	_	_	_	_	_	_	_
 8	კურიკულუმ	კურიკულუმი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obl	_	Translit=kurikulum
 9	ში	ში	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ši
-10	შეიცავენ	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻaven
+10	შეიცავენ	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻaven
 11	ანალოგური	ანალოგური	ADJ	Adj	Case=Gen|Number=Sing	14	amod	_	Translit=analoguri
 12	და	და	CCONJ	Conj	_	13	cc	_	Translit=da
 13	ციფრული	ციფრული	ADJ	Adj	Case=Gen|Number=Sing	11	conj	_	Translit=cʻipʻruli

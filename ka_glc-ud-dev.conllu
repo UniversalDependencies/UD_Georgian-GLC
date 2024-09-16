@@ -390,7 +390,7 @@
 21	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	23	det	_	Translit=sxva
 22	მრავალ	მრავალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	23	amod	_	Translit=mraval
 23	ავტომარკას	ავტომარკა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	24	obj	_	Translit=avtomarkas
-24	მოიცავდა	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	6	advcl	_	SpaceAfter=No|Translit=moicʻavda
+24	მოიცავდა	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	6	advcl	_	SpaceAfter=No|Translit=moicʻavda
 25	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 26	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	27	obl	_	Translit=matʻ
 27	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	32	case	_	Translit=šoris
@@ -944,7 +944,7 @@
 # text = ინფრასტრუქტურა მოიცავს ტრანსპორტისთვის საჭირო უძრავ კონსტრუქციებს, მათ შორის საავტომობილო გზებს, რკინიგზებს, საჰაერო გზებს, არხებს, სადენებს ან ტერმინალებს, როგორიცაა აეროპორტები, რკინიგზის, საავტომობილო და საზღვაო სადგურები.
 # translit = inpʻrastrukʻtura moicʻavs transportistʻvis sačiro użrav konstrukʻcʻiebs, matʻ šoris saavtomobilo gzebs, rkinigzebs, sahaero gzebs, arxebs, sadenebs an terminalebs, rogoricʻaa aeroportebi, rkinigzis, saavtomobilo da sazġvao sadgurebi.
 1	ინფრასტრუქტურა	ინფრასტრუქტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=inpʻrastrukʻtura
-2	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+2	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 3-4	ტრანსპორტისთვის	_	_	_	_	_	_	_	_
 3	ტრანსპორტის	ტრანსპორტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	obl	_	Translit=transportis
 4	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	3	case	_	Translit=tʻvis
@@ -1322,7 +1322,7 @@
 7	სახეობა	სახეობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=saxeoba
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	Translit=romelicʻ
-10	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	7	acl	_	Translit=moicʻavs
+10	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	7	acl	_	Translit=moicʻavs
 11	საფრენ	საფრენი	ADJ	Adj	Case=Dat|Number=Sing	12	amod	_	Translit=sapʻren
 12	აპარატთა	აპარატი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	13	nmod	_	Translit=aparattʻa
 13	კონსტრუირებასა	კონსტრუირება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	_	Translit=konstruirebasa
@@ -1612,12 +1612,12 @@
 12	როდესაც	როდესაც	SCONJ	Conj	_	15	mark	_	Translit=rodesacʻ
 13	ბანკებს	ბანკი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	15	nsubj	_	Translit=bankebs
 14	უფლება	უფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	_	Translit=upʻleba
-15	მიეცათ	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	10	advcl	_	Translit=miecʻatʻ
+15	მიეცათ	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	10	advcl	_	Translit=miecʻatʻ
 16	რისკიანი	რისკიანი	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=riskiani
 17-18	მომხმარებლებისთვის	_	_	_	_	_	_	_	_
 17	მომხმარებლების	მომხმარებელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	19	obl	_	Translit=momxmareblebis
 18	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=tʻvis
-19	გაეცათ	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	14	acl	_	Translit=gaecʻatʻ
+19	გაეცათ	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	14	acl	_	Translit=gaecʻatʻ
 20	იპოთეკური	იპოთეკური	ADJ	Adj	Case=Nom|Number=Sing	21	amod	_	Translit=ipotʻekuri
 21	სესხი	სესხი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	19	obj	_	SpaceAfter=No|Translit=sesxi
 22	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
@@ -2283,7 +2283,7 @@
 1	ბიოქიმიის	ბიოქიმია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=biokʻimiis
 2	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	3	det	_	Translit=sxva
 3	ასპექტი	ასპექტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=aspekʻti
-4	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+4	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 5	გენეტიკით	გენეტიკა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	Translit=genetikitʻ
 6	კოდს	კოდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	Translit=kods
 7	(	(	PUNCT	F	PunctType=Brck	8	punct	_	SpaceAfter=No|Translit=(
@@ -3538,7 +3538,7 @@
 # translit = is xširad moicʻavs mikrobebis — pacacina, ertʻujrediani arsebebis, magalitʻad, bakʻteriebisa da sapʻuvris - gamoqenebas.
 1	ის	ის(ი)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=is
 2	ხშირად	ხშირად	ADV	Adv	AdvType=Deg	3	advmod	_	Translit=xširad
-3	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+3	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 4	მიკრობების	მიკრობი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	17	nmod	_	Translit=mikrobebis
 5	—	—	PUNCT	F	PunctType=Dash	6	punct	_	Translit=—
 6	პაწაწინა	პაწაწინა	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	SpaceAfter=No|Translit=pacacina
@@ -3873,7 +3873,7 @@
 23	პროცესებს	პროცესი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	21	conj	_	SpaceAfter=No|Translit=procʻesebs
 24	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
 25	რომლებიც	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	26	nsubj	_	Translit=romlebicʻ
-26	მოიცავენ	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	21	acl	_	Translit=moicʻaven
+26	მოიცავენ	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	21	acl	_	Translit=moicʻaven
 27-28	როგორიცაა	_	_	_	_	_	_	_	_
 27	როგორიცა	როგორი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	26	acl	_	Translit=rogoricʻa
 28	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	27	cop	_	Translit=a
@@ -3979,7 +3979,7 @@
 # text = იგი მოიცავს სიცოცხლის შემსწავლელ მრავალ სხვა მეცნიერებას.
 # translit = igi moicʻavs sicʻocʻxlis šemscavlel mraval sxva mecʻnierebas.
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=igi
-2	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+2	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 3	სიცოცხლის	სიცოცხლე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=sicʻocʻxlis
 4	შემსწავლელ	შემსწავლელი	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=šemscavlel
 5	მრავალ	მრავალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	7	nmod	_	Translit=mraval
@@ -4671,7 +4671,7 @@
 22	საწვავი	საწვავი	ADJ	Adj	Case=Nom|Number=Sing	23	amod	_	Translit=sacvavi
 23	თითქმის	თითქმის	ADV	Adv	AdvType=Man	25	advmod	_	Translit=tʻitʻkʻmis
 24	არ	არ	PART	Part	PartType=Neg	25	advmod	_	Translit=ar
-25	შეიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	13	conj	_	Translit=šeicʻavs
+25	შეიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	13	conj	_	Translit=šeicʻavs
 26	ნახშირბადის	ნახშირბადი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	28	nmod	_	Translit=naxširbadis
 27	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	28	det	_	Translit=am
 28	იზოტოპს	იზოტოპი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	25	obj	_	SpaceAfter=No|Translit=izotops
@@ -4729,7 +4729,7 @@
 41	ში	ში	ADP	Post	AdpType=Post|Case=Dat	40	case	_	Translit=ši
 42	ორჯერ	ორი	NUM	Num	NumType=Mult	43	nummod	_	Translit=orjer
 43	მეტს	მეტი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	44	amod	_	Translit=mets
-44	შეიცავდა	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	33	advcl	_	Translit=šeicʻavda
+44	შეიცავდა	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	33	advcl	_	Translit=šeicʻavda
 45	ატმოსფერო	ატმოსფერო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	44	nsubj	_	SpaceAfter=No|Translit=atmospʻero
 46	,	,	PUNCT	F	PunctType=Comm	48	punct	_	Translit=,
 47	ვიდრე	ვიდრე	SCONJ	Conj	_	48	mark	_	Translit=vidre
@@ -5124,7 +5124,7 @@
 # translit = qoveli sinapʻsi šeicʻavs mxolod ertʻi saxis mediators, xolo am ukanasknelis mokʻmedeba ganpirobebulia postsinapʻsuri membranis kʻimiuri tʻaviseburebebitʻ.
 1	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	2	det	_	Translit=qoveli
 2	სინაფსი	სინაფსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=sinapʻsi
-3	შეიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻavs
+3	შეიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻavs
 4	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	7	advmod	_	Translit=mxolod
 5	ერთი	ერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	6	det	_	Translit=ertʻi
 6	სახის	სახე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=saxis
@@ -5148,7 +5148,7 @@
 # translit = is xširad moicʻavs mikrobebis — pacacina, ertʻujrediani arsebebis, magalitʻad, bakʻteriebisa da sapʻuvris - gamoqenebas.
 1	ის	ის(ი)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=is
 2	ხშირად	ხშირად	ADV	Adv	AdvType=Deg	3	advmod	_	Translit=xširad
-3	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+3	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 4	მიკრობების	მიკრობი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	17	nmod	_	Translit=mikrobebis
 5	—	—	PUNCT	F	PunctType=Dash	6	punct	_	Translit=—
 6	პაწაწინა	პაწაწინა	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	SpaceAfter=No|Translit=pacacina
@@ -5238,7 +5238,7 @@
 20	ინსულინის	ინსულინი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	22	nmod	_	Translit=insulinis
 21	დასამზადებელ	დასამზადებელი	ADJ	Adj	Case=Dat|Number=Sing	22	amod	_	Translit=dasamzadebel
 22	ინსტრუქციებსაც	ინსტრუქცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur|PartType=Emp	23	obj	_	Translit=instrukʻcʻiebsacʻ
-23	შეიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	13	acl	_	SpaceAfter=No|Translit=šeicʻavs
+23	შეიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	13	acl	_	SpaceAfter=No|Translit=šeicʻavs
 24	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = wiki_biotechnology_00534
@@ -5985,7 +5985,7 @@
 # translit = zogiertʻi ojaxi moicʻavs xe-mcʻenaretʻa mxolod ramdenime saxeobas.
 1	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	2	det	_	Translit=zogiertʻi
 2	ოჯახი	ოჯახი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=ojaxi
-3	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
+3	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
 4	ხე-მცენარეთა	ხე-მცენარე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	7	nmod	_	Translit=xe-mcʻenaretʻa
 5	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	7	advmod	_	Translit=mxolod
 6	რამდენიმე	რამდენიმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	7	det	_	Translit=ramdenime
@@ -6090,7 +6090,7 @@
 26	მთელ	მთელი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	28	amod	_	Translit=mtʻel
 27	ბოტანიკურ	ბოტანიკური	ADJ	Adj	Case=Dat|Number=Sing	28	amod	_	Translit=botanikur
 28	გეოგრაფიას	გეოგრაფია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	29	obj	_	Translit=geograpʻias
-29	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	14	acl	_	SpaceAfter=No|Translit=moicʻavs
+29	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	14	acl	_	SpaceAfter=No|Translit=moicʻavs
 30	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
 
 # sent_id = wiki_botany_00563
@@ -6504,7 +6504,7 @@
 5	ცხოველთა	ცხოველი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	7	nmod	_	Translit=cʻxoveltʻa
 6	ემბრიონული	ემბრიონული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=embrionul
 7	განვითარება	განვითარება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=ganvitʻareba
-8	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	2	acl	_	Translit=moicʻavs
+8	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	2	acl	_	Translit=moicʻavs
 9	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	2	cop	_	SpaceAfter=No|Translit=aris
 10	:	:	PUNCT	F	PunctType=Colo	2	punct	_	Translit=:
 11	ემბრიონული	ემბრიონული	ADJ	Adj	Case=Nom|Number=Sing	12	amod	_	Translit=embrionuli
@@ -8268,7 +8268,7 @@
 3	სამოქალაქო	სამოქალაქო	ADJ	Adj	Case=Dat|Number=Sing	5	amod	_	Translit=samokʻalakʻo
 4	სამართლებრივ	სამართლებრივი	ADJ	Adj	Case=Dat|Number=Sing	5	amod	_	Translit=samartʻlebriv
 5	ნორმებს	ნორმა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	6	obj	_	Translit=normebs
-6	შეიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻavs
+6	შეიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻavs
 7	საქართველოს	საქართველო	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	9	nmod	_	Translit=sakʻartʻvelos
 8	სამოქალაქო	სამოქალაქო	ADJ	Adj	Case=Gen|Number=Sing	9	amod	_	Translit=samokʻalakʻo
 9	კოდექსი	კოდექსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=kodekʻsi
@@ -10281,7 +10281,7 @@
 4	ისტორია	ისტორია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	Translit=istoria
 5	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	Translit=akʻvs
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
-7	მოიცავს	ცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	5	conj	_	Translit=moicʻavs
+7	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	5	conj	_	Translit=moicʻavs
 8	მეცნიერებას	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=mecʻnierebas
 9	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 10	ფილოსოფიას	ფილოსოფია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	conj	_	SpaceAfter=No|Translit=pʻilosopʻias
