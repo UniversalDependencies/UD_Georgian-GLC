@@ -396,8 +396,8 @@
 27	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	32	case	_	Translit=šoris
 28	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	24	det	_	Translit=sxva
 29-30	მრავალთან	_	_	_	_	_	_	_	_
-29	მრავალ	მრავალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	28	obl	_	Translit=mraval
-30	თან	თან	ADP	Post	AdpType=Post|Case=Dat	28	case	_	Translit=tʻan
+29	მრავალ	მრავალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	24	obl	_	Translit=mraval
+30	თან	თან	ADP	Post	AdpType=Post|Case=Dat	29	case	_	Translit=tʻan
 31	ერთად	ერთად	ADV	Adv	AdvType=Man	29	advmod	_	Translit=ertʻad
 32	ჰამერი	ჰამერი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	23	nsubj	_	SpaceAfter=No|Translit=hameri
 33	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
