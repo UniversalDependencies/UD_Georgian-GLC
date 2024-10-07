@@ -3995,7 +3995,7 @@
 24	რაციონალური	რაციონალური	ADJ	Adj	Case=Gen|Number=Sing	25	amod	_	Translit=racʻionaluri
 25	მეურნეობის	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=meurneobis
 26	მიღწევების	მიღწევა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	27	nmod	_	Translit=miġcevebis
-27	გადმონერგვის	გადმონერგვა	VERB	VerbalNoun	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Vnoun	28	nmod	_	Translit=gadmonergvis
+27	გადმონერგვის	გადმონერგვა	VERB	VerbalNoun	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Vnoun	32	nmod	_	Translit=gadmonergvis
 28	მათი	მათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	det:poss	_	Translit=matʻi
 29	„	„	PUNCT	F	PunctType=Quot	30	punct	_	SpaceAfter=No|Translit=„
 30	კაზიონური	კაზიონური	ADJ	Adj	Case=Nom|Number=Sing	32	amod	_	SpaceAfter=No|Translit=kazionuri
@@ -5128,7 +5128,7 @@
 2	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=meurneoba
 3	—	—	PUNCT	F	PunctType=Dash	8	punct	_	Translit=—
 4	მატერიალური	მატერიალური	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=materialuri
-5	წარმოების	წარმოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=carmoebis
+5	წარმოების	წარმოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=carmoebis
 6	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	8	det	_	Translit=ertʻ-ertʻi
 7	ძირითადი	ძირითადი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=żiritʻadi
 8	დარგი	დარგი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=dargi
@@ -5177,7 +5177,7 @@
 24	საფუძველი	საფუძველი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=sapʻużveli
 25	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
 26	სოფლის	სოფელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	nmod	_	Translit=sopʻlis
-27	მეურნეობის	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	28	nmod	_	Translit=meurneobis
+27	მეურნეობის	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	31	nmod	_	Translit=meurneobis
 28	ყველა	ყველა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	29	det	_	Translit=qvela
 29	დარგის	დარგი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	30	nmod	_	Translit=dargis
 30	ცოდნის	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	31	nmod	_	Translit=cʻodnis
