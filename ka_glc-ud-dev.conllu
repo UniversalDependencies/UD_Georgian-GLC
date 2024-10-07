@@ -8230,7 +8230,7 @@
 # translit = samokʻalakʻo samartʻali samartʻlis ertʻ-ertʻi dargia da gansxvavdeba sajaro samartʻalisa da sisxlis samartʻlisagan.
 1	სამოქალაქო	სამოქალაქო	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=samokʻalakʻo
 2	სამართალი	სამართალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=samartʻali
-3	სამართლის	სამართალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=samartʻlis
+3	სამართლის	სამართალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=samartʻlis
 4	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	5	det	_	Translit=ertʻ-ertʻi
 5-6	დარგია	_	_	_	_	_	_	_	_
 5	დარგი	დარგი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=dargi
@@ -9289,7 +9289,7 @@
 18	თან	თან	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=tʻan
 19	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 20	საზოგადოებრივ	საზოგადოებრივი	ADJ	Adj	Case=Gen|Number=Sing	21	amod	_	Translit=sazogadoebriv
-21	ურთიერთობათა	ურთიერთობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	22	nmod	_	Translit=urtʻiertʻobatʻa
+21	ურთიერთობათა	ურთიერთობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	23	nmod	_	Translit=urtʻiertʻobatʻa
 22	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	23	det	_	Translit=sxva
 23-24	სუბიექტებთან	_	_	_	_	_	_	_	SpaceAfter=No
 23	სუბიექტებ	სუბიექტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	17	conj	_	Translit=subiekʻteb
@@ -9791,7 +9791,7 @@
 16	უპირატესი	უპირატესი	ADJ	Adj	Case=Nom|Number=Sing	18	amod	_	Translit=upiratesi
 17	იურიდიული	იურიდიული	ADJ	Adj	Case=Nom|Number=Sing	18	amod	_	Translit=iuridiuli
 18	ძალა	ძალა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	_	Translit=żala
-19	ყველა	ყველა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	20	det	_	Translit=qvela
+19	ყველა	ყველა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	det	_	Translit=qvela
 20	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	det	_	Translit=sxva
 21	ნორმატიული	ნორმატიული	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=normatiuli
 22	აქტის	აქტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	obl	_	Translit=akʻtis
