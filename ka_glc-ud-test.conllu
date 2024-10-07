@@ -72,10 +72,10 @@
 1	რატომღაც	რატომ	ADV	Adv	AdvType=Rel|PartType=Emp	3	advmod	_	Translit=ratomġacʻ
 2	არა	არა	PART	Part	PartType=Neg	3	advmod	_	Translit=ara
 3	მჯერა	სჯერა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	0	root	_	Translit=mjera
-4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	det:poss	_	SpaceAfter=No|Translit=imatʻi
+4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	obl	_	SpaceAfter=No|Translit=imatʻi
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	7	nsubj:pass	_	Translit=vincʻ
-7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	6	acl	_	Translit=daibada
+7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	4	acl	_	Translit=daibada
 8	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 9	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	10	advmod	_	Translit=šemdeg
 10	იძახის	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	7	conj	_	Translit=iżaxis
@@ -255,7 +255,7 @@
 1	მიუხედავად	მიუხედავად	ADV	Adv	AdvType=Man	2	advmod	_	Translit=miuxedavad
 2	იმისა	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	10	det	_	SpaceAfter=No|Translit=imisa
 3	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
-4	რომ	რომ	SCONJ	Conj	_	2	mark	_	Translit=rom
+4	რომ	რომ	SCONJ	Conj	_	10	mark	_	Translit=rom
 5	30	30	NUM	Num	NumForm=Digit|NumType=Card	6	nummod	_	Translit=30
 6-7	წლითაა	_	_	_	_	_	_	_	_
 6	წლითა	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=clitʻa
