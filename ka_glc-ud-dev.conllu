@@ -1223,7 +1223,7 @@
 36	ძალების	ძალა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	37	nmod	_	Translit=żalebis
 37	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	40	det	_	Translit=sxva
 38-39	სახეობებთან	_	_	_	_	_	_	_	_
-38	სახეობებ	სახეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	37	obl	_	Translit=saxeobeb
+38	სახეობებ	სახეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	40	obl	_	Translit=saxeobeb
 39	თან	თან	ADP	Post	AdpType=Post|Case=Dat	38	case	_	Translit=tʻan
 40	ურთიერთქმედებით	ურთიერთქმედება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	32	conj	_	SpaceAfter=No|Translit=urtʻiertʻkʻmedebitʻ
 41	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
