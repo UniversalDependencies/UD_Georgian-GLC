@@ -8052,7 +8052,7 @@
 20	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 21	არქიტექტურამ	არქიტექტურა	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	19	conj	_	Translit=arkʻitekʻturam
 22	ზოგადი	ზოგადი	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=zogadi
-23	კონსენსუსის	კონსენსუსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=konsensusis
+23	კონსენსუსის	კონსენსუსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	Translit=konsensusis
 24	რამდენიმე	რამდენიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	25	det	_	Translit=ramdenime
 25	სტადია	სტადია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	26	obj	_	Translit=stadia
 26	გაიარა	გაივლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	_	SpaceAfter=No|Translit=gaiara
@@ -9135,7 +9135,7 @@
 1	მუზეუმი	მუზეუმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=muzeumi
 2	მუდმივად	მუდმივი	ADV	Adv	AdvType=Tim	3	advmod	_	Translit=mudmivad
 3	თანამშრომლობს	თანამშრომლობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=tʻanamšromlobs
-4	ხელოვნების	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=xelovnebis
+4	ხელოვნების	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=xelovnebis
 5	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	6	det	_	Translit=sxva
 6-7	ინსტიტუტებთან	_	_	_	_	_	_	_	_
 6	ინსტიტუტებ	ინსტიტუტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	8	obl	_	Translit=instituteb
@@ -9211,7 +9211,7 @@
 24	თან	თან	ADP	Post	AdpType=Post|Case=Dat	23	case	_	Translit=tʻan
 25	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
 26-27	რისთვისაც	_	_	_	_	_	_	_	_
-26	რის	რა	PRON	Pron	Case=Gen|Number=Sing|PronType=Int	35	det	_	Translit=ris
+26	რის	რა	PRON	Pron	Case=Gen|Number=Sing|PronType=Int	35	obl	_	Translit=ris
 27	თვისაც	თვის	ADP	Post	AdpType=Post|Case=Gen	26	case	_	Translit=tʻvisacʻ
 28	მუზეუმი	მუზეუმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	35	nsubj	_	Translit=muzeumi
 29	როგორც	როგორც	SCONJ	Conj	_	30	mark	_	Translit=rogorcʻ
@@ -9729,7 +9729,7 @@
 30	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 31	მუზეუმი	მუზეუმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	32	nsubj	_	Translit=muzeumi
 32	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	24	conj	_	Translit=gaxda
-33	ქვეყნის	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	34	nmod	_	Translit=kʻveqnis
+33	ქვეყნის	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	36	nmod	_	Translit=kʻveqnis
 34	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	36	det	_	Translit=ertʻ-ertʻi
 35	უდიდესი	დიდი	ADJ	Adj	Case=Gen|Degree=Sup|Number=Sing	36	amod	_	Translit=udidesi
 36	კოლექციის	კოლექცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	38	nmod	_	Translit=kolekʻcʻiis
@@ -11549,7 +11549,7 @@
 21	მოცემული	მოცემული	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=mocʻemuli
 22	სუბიექტის	სუბიექტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	nmod	_	Translit=subiekʻtis
 23	პირადული	პირადული	ADJ	Adj	Case=Gen|Number=Sing	24	amod	_	Translit=piraduli
-24	დეტალების	დეტალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	25	nmod	_	Translit=detalebis
+24	დეტალების	დეტალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	26	nmod	_	Translit=detalebis
 25	ისეთი	ისეთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	26	det	_	Translit=isetʻi
 26	სიღრმის	სიღრმე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	nmod	_	Translit=siġrmis
 27	გადმოცემით	გადმოცემა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	obl	_	SpaceAfter=No|Translit=gadmocʻemitʻ
@@ -11856,7 +11856,7 @@
 7	ში	ში	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=ši
 8	ან	ან	CCONJ	Conj	_	13	cc	_	Translit=an
 9	მონაცემების	მონაცემი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	10	nmod	_	Translit=monacʻemebis
-10	დამუშავების	დამუშავება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=damušavebis
+10	დამუშავების	დამუშავება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=damušavebis
 11	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	13	det	_	Translit=sxva
 12	ავტომატურ	ავტომატური	ADJ	Adj	Case=Dat|Number=Sing	13	amod	_	Translit=avtomatur
 13-14	მოწყობილობებში	_	_	_	_	_	_	_	_
