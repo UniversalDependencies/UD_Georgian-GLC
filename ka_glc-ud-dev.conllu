@@ -8250,7 +8250,7 @@
 # text = სამოქალაქო სამართლის ერთ-ერთი ძირითადი ცნებაა გარიგება.
 # translit = samokʻalakʻo samartʻlis ertʻ-ertʻi żiritʻadi cʻnebaa garigeba.
 1	სამოქალაქო	სამოქალაქო	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=samokʻalakʻo
-2	სამართლის	სამართალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=samartʻlis
+2	სამართლის	სამართალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=samartʻlis
 3	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	5	det	_	Translit=ertʻ-ertʻi
 4	ძირითადი	ძირითადი	ADJ	Adj	Case=Nom|Number=Sing	5	amod	_	Translit=żiritʻadi
 5-6	ცნებაა	_	_	_	_	_	_	_	_
@@ -10525,7 +10525,7 @@
 30	განაწილებული	განაწილებული	ADJ	Adj	Case=Nom|Number=Sing	19	acl	_	SpaceAfter=No|Translit=ganacilebuli
 31	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 32	ხოლო	ხოლო	CCONJ	Conj	_	35	cc	_	Translit=xolo
-33	სივრცის	სივრცე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	34	nmod	_	Translit=sivrcʻis
+33	სივრცის	სივრცე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	35	nmod	_	Translit=sivrcʻis
 34	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	35	det	_	Translit=qvela
 35	მიმართულება	მიმართულება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	36	nsubj	_	Translit=mimartʻuleba
 36-37	ეკვივალენტურია	_	_	_	_	_	_	_	SpaceAfter=No
@@ -10916,7 +10916,7 @@
 13	არიან	არის	AUX	Aux	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres	12	cop	_	Translit=arian
 14	სისხლის	სისხლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	Translit=sisxlis
 15	სამართლის	სამართალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	nmod	_	Translit=samartʻlis
-16	პროცესის	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=procʻesis
+16	პროცესის	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	nmod	_	Translit=procʻesis
 17	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	18	det	_	Translit=qvela
 18-19	სტადიაზე	_	_	_	_	_	_	_	_
 18	სტადია	სტადია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	obl	_	Translit=stadia
@@ -12067,7 +12067,7 @@
 10	იმ	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	11	det	_	Translit=im
 11	დროის	დრო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=drois
 12	ხელოვნებათმცოდნეობის	ხელოვნებათმცოდნეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=xelovnebatʻmcʻodneobis
-13	უმეტესობისა	უმეტესობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	1	appos	_	SpaceAfter=No|Translit=umetesobisa
+13	უმეტესობისა	უმეტესობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	appos	_	SpaceAfter=No|Translit=umetesobisa
 14	)	)	PUNCT	F	PunctType=Brck	13	punct	_	SpaceAfter=No|Translit=)
 15	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
