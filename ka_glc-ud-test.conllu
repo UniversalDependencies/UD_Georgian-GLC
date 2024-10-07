@@ -3263,7 +3263,7 @@
 11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 12	ინტეგრალურ	ინტეგრალური	ADJ	Adj	Case=Dat|Number=Sing	10	conj	_	Translit=integralur
 13	აღრიცხვას	აღრიცხვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obj	_	Translit=aġricʻxvas
-14	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	6	acl	_	SpaceAfter=No|Translit=šeiscavlis
+14	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	6	acl	_	SpaceAfter=No|Translit=šeiscavlis
 15	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id = wiki_accounting_00006
@@ -3530,7 +3530,7 @@
 2	აღრიცხვა	აღრიცხვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=aġricʻxva
 3	ასახავს	სახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=asaxavs
 4	და	და	CCONJ	Conj	_	5	cc	_	Translit=da
-5	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	3	conj	_	Translit=šeiscavlis
+5	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	3	conj	_	Translit=šeiscavlis
 6	სამეურნეო	სამეურნეო	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=sameurneo
 7	პროცესებს	პროცესი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	5	obj	_	Translit=procʻesebs
 8-9	ურთიერთკავშირში	_	_	_	_	_	_	_	_
@@ -4467,7 +4467,7 @@
 6	მეცნიერება	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=mecʻniereba
 7	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 8	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=romelicʻ
-9	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	6	acl	_	Translit=šeiscavlis
+9	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	6	acl	_	Translit=šeiscavlis
 10	ნიადაგსა	ნიადაგი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=niadagsa
 11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 12-13	მცენარეში	_	_	_	_	_	_	_	_
@@ -5965,7 +5965,7 @@
 1	ამჟამად	ამჟამად	ADV	Adv	AdvType=Tim	4	advmod	_	Translit=amžamad
 2	ბირთვული	ბირთვული	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=birtʻvuli
 3	ქიმია	ქიმია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=kʻimia
-4	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+4	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 5	ატომებისა	ატომი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=atomebisa
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 7	მოლეკულების	მოლეკულა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	conj	_	Translit=molekulebis
@@ -9764,7 +9764,7 @@
 21	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	20	cop	_	Translit=a
 22	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 23	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	24	nsubj	_	Translit=romelicʻ
-24	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	20	acl	_	Translit=šeiscavlis
+24	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	20	acl	_	Translit=šeiscavlis
 25	ცის	ცა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=cʻis
 26	მნათობებს	მნათობი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	24	obj	_	SpaceAfter=No|Translit=mnatʻobebs
 27	:	:	PUNCT	F	PunctType=Colo	26	punct	_	Translit=:
@@ -9830,7 +9830,7 @@
 # text = ასტრონომია შეისწავლის დედამიწასაც, როგორც ერთიან მთლიან ციურ სხეულს, წარმოშობით, აგებულებითა და მოძრაობით ცის სხვა სხეულებთან დაკავშირებულს.
 # translit = astronomia šeiscavlis dedamicasacʻ, rogorcʻ ertʻian mtʻlian cʻiur sxeuls, carmošobitʻ, agebulebitʻa da możraobitʻ cʻis sxva sxeulebtʻan dakavširebuls.
 1	ასტრონომია	ასტრონომია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=astronomia
-2	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+2	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 3	დედამიწასაც	დედამიწა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing|PartType=Emp	2	obj	_	SpaceAfter=No|Translit=dedamicasacʻ
 4	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 5	როგორც	როგორც	SCONJ	Conj	_	9	mark	_	Translit=rogorcʻ
@@ -10587,7 +10587,7 @@
 # translit = astropʻizika aseve šeiscavlis mzis sistemis pʻormacʻiasa da evolucʻias, steralur dinamikas, galakʻtikebis pʻormacʻiasa da evolucʻias, magnetohidrodinamikas, materiis did strukʻturebs samqaroši, kosmosuri radiacʻiis carmošobas, zogad pʻardobitʻobas simebiani kosmologiisa da astronacilakuri pʻizikis čʻatʻvlitʻ.
 1	ასტროფიზიკა	ასტროფიზიკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=astropʻizika
 2	ასევე	ასევე	ADV	Adv	AdvType=Man	3	advmod	_	Translit=aseve
-3	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+3	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 4	მზის	მზე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=mzis
 5	სისტემის	სისტემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=sistemis
 6	ფორმაციასა	ფორმაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	Translit=pʻormacʻiasa
@@ -10836,7 +10836,7 @@
 # text = რადიოასტრონომია შეისწავლის რადიაციას, რომლის გამოსხივებაც რამდენიმე მილიმეტრს უდრის.
 # translit = radioastronomia šeiscavlis radiacʻias, romlis gamosxivebacʻ ramdenime milimetrs udris.
 1	რადიოასტრონომია	რადიოასტრონომია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=radioastronomia
-2	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+2	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 3	რადიაციას	რადიაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	2	obj	_	SpaceAfter=No|Translit=radiacʻias
 4	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 5	რომლის	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	6	det	_	Translit=romlis
@@ -10851,7 +10851,7 @@
 # translit = inpʻracitʻeli astronomia šeiscavlis isetʻ radiacʻiul gamosxivebas, romelicʻ imdenad didia, rom šeuiaraġebeli tʻvalitʻacʻ ki šesamčʻnevia, magram aseve es gamosxivebebi radiotalġebze pataraa.
 1	ინფრაწითელი	ინფრაწითელი	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=inpʻracitʻeli
 2	ასტრონომია	ასტრონომია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=astronomia
-3	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+3	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 4	ისეთ	ისეთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	5	det	_	Translit=isetʻ
 5	რადიაციულ	რადიაციული	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=radiacʻiul
 6	გამოსხივებას	გამოსხივება	VERB	VerbalNoun	Aspect=Perf|Case=Dat|Number=Sing|VerbForm=Vnoun	3	obj	_	SpaceAfter=No|Translit=gamosxivebas
@@ -10984,7 +10984,7 @@
 2	ზოგადად	ზოგადი	ADV	Adv	AdvType=Man	5	advmod	_	Translit=zogadad
 3	აღიარებულ	აღიარებული	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	Translit=aġiarebul
 4	თეორიას	თეორია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obj	_	Translit=tʻeorias
-5	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeiscavlis
+5	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeiscavlis
 6	;	;	PUNCT	F	PunctType=Semi	5	punct	_	Translit=;
 7	თეორიული	თეორიული	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=tʻeoriuli
 8	ასტროფიზიკა	ასტროფიზიკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	SpaceAfter=No|Translit=astropʻizika

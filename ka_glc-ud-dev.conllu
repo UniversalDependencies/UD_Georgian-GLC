@@ -394,11 +394,11 @@
 25	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 26	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	27	obl	_	Translit=matʻ
 27	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	32	case	_	Translit=šoris
-28	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	29	det	_	Translit=sxva
+28	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	24	det	_	Translit=sxva
 29-30	მრავალთან	_	_	_	_	_	_	_	_
-29	მრავალ	მრავალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	24	obl	_	Translit=mraval
+29	მრავალ	მრავალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	28	obl	_	Translit=mraval
 30	თან	თან	ADP	Post	AdpType=Post|Case=Dat	28	case	_	Translit=tʻan
-31	ერთად	ერთად	ADV	Adv	AdvType=Man	32	advmod	_	Translit=ertʻad
+31	ერთად	ერთად	ADV	Adv	AdvType=Man	29	advmod	_	Translit=ertʻad
 32	ჰამერი	ჰამერი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	23	nsubj	_	SpaceAfter=No|Translit=hameri
 33	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 34	სატურნი	სატურნი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	32	conj	_	SpaceAfter=No|Translit=saturni
@@ -3951,7 +3951,7 @@
 17	მეცნიერება	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=mecʻniereba
 18	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
 19	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	_	Translit=romelicʻ
-20	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	17	acl	_	Translit=šeiscavlis
+20	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	17	acl	_	Translit=šeiscavlis
 21	ცოცხალ	ცოცხალი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	22	amod	_	Translit=cʻocʻxal
 22	არსებათა	არსება	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	23	nmod	_	Translit=arsebatʻa
 23	აგებულებას	აგებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	obj	_	SpaceAfter=No|Translit=agebulebas
@@ -4062,7 +4062,7 @@
 31	მეცნიერება	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=mecʻniereba
 32	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 33	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	34	nsubj	_	Translit=romelicʻ
-34	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	31	acl	_	Translit=šeiscavlis
+34	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	31	acl	_	Translit=šeiscavlis
 35	ორგანიზმისა	ორგანიზმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	39	nmod	_	Translit=organizmisa
 36	და	და	CCONJ	Conj	_	38	cc	_	Translit=da
 37	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	38	det:poss	_	Translit=misi
@@ -4092,7 +4092,7 @@
 14	მეცნიერება	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=mecʻniereba
 15	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 16	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	17	nsubj	_	Translit=romelicʻ
-17	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	14	acl	_	Translit=šeiscavlis
+17	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	14	acl	_	Translit=šeiscavlis
 18	მემკვიდრეობითობას	მემკვიდრეობითობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	17	obj	_	SpaceAfter=No|Translit=memkvidreobitʻobas
 19	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 20	ანუ	ანუ	CCONJ	Conj	_	22	cc	_	Translit=anu
@@ -4289,7 +4289,7 @@
 10	დარგი	დარგი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=dargi
 11	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 12	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	Translit=romelicʻ
-13	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	10	acl	_	Translit=šeiscavlis
+13	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	10	acl	_	Translit=šeiscavlis
 14	ვირუსებს	ვირუსი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	13	obj	_	SpaceAfter=No|Translit=virusebs
 15	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
@@ -4364,7 +4364,7 @@
 # text = მიკრობიოლოგია შეისწავლის მიკროორგანიზმთა სიცოცხლის და განვითარების კანონზომიერებებს, იმ ცვლილებებს, რომლებსაც იწვევენ ადამიანის, ცხოველის, მცენარის ორგანიზმში და არაცოცხალ ბუნებაში.
 # translit = mikrobiologia šeiscavlis mikroorganizmtʻa sicʻocʻxlis da ganvitʻarebis kanonzomierebebs, im cʻvlilebebs, romlebsacʻ icveven adamianis, cʻxovelis, mcʻenaris organizmši da aracʻocʻxal bunebaši.
 1	მიკრობიოლოგია	მიკრობიოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=mikrobiologia
-2	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+2	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 3	მიკროორგანიზმთა	მიკროორგანიზმი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	4	nmod	_	Translit=mikroorganizmtʻa
 4	სიცოცხლის	სიცოცხლე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=sicʻocʻxlis
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
@@ -4517,7 +4517,7 @@
 19	სისტემების	სისტემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	20	nmod	_	Translit=sistemebis
 20	ფიზიკა	ფიზიკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No|Translit=pʻizika
 21	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
-22	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+22	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 23	ცოცხალ	ცოცხალი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	24	amod	_	Translit=cʻocʻxal
 24	სისტემათა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	25	nmod	_	Translit=sistematʻa
 25	ფუნქციონირების	ფუნქციონირება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	nmod	_	Translit=pʻunkʻcʻionirebis
@@ -5799,7 +5799,7 @@
 # sent_id = wiki_botany_00554
 # text = შეისწავლის მცენარეთა გარეგანი და შინაგანი აგებულების კანონზომირებებს (მორფოლოგია, ანატომია), მცენარეთა სისტემატიკას, მათ განვითარებას გეოლოგიურ დროში (ევოლუცია), ნათესაურ კავშირებს (ფილოგენია), წარსულსა და აწმყოში დედამიწაზე მათ გავრცელებას (მცენარეთა გეოგრაფია), მცენარეული ორგანიზმების სასიცოცხლო პროცესებს (მცენარეთა ფიზიოლოგია), გარემოსთან მათ ურთიერთდამოკიდებულებას (მცენარეთა ეკოლოგია), მცენარეული საფარის აგებულებას (გეობოტანიკა, ანუ ფიტოცენოლოგია), მცენარეთა სამეურნეო გამოყენების შესაძლებლობას (გამოყენებითი ბოტანიკა).
 # translit = šeiscavlis mcʻenaretʻa garegani da šinagani agebulebis kanonzomirebebs (morpʻologia, anatomia), mcʻenaretʻa sistematikas, matʻ ganvitʻarebas geologiur droši (evolucʻia), natʻesaur kavširebs (pʻilogenia), carsulsa da acmqoši dedamicaze matʻ gavrcʻelebas (mcʻenaretʻa geograpʻia), mcʻenareuli organizmebis sasicʻocʻxlo procʻesebs (mcʻenaretʻa pʻiziologia), garemostʻan matʻ urtʻiertʻdamokidebulebas (mcʻenaretʻa ekologia), mcʻenareuli sapʻaris agebulebas (geobotanika, anu pʻitocʻenologia), mcʻenaretʻa sameurneo gamoqenebis šesażleblobas (gamoqenebitʻi botanika).
-1	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+1	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 2	მცენარეთა	მცენარე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	Translit=mcʻenaretʻa
 3	გარეგანი	გარეგანი	ADJ	Adj	Case=Gen|Number=Sing	6	amod	_	Translit=garegani
 4	და	და	CCONJ	Conj	_	5	cc	_	Translit=da
@@ -6155,7 +6155,7 @@
 55	ამისა	ეს(ე)	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	58	parataxis	_	SpaceAfter=No|Translit=amisa
 56	,	,	PUNCT	F	PunctType=Comm	58	punct	_	Translit=,
 57	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	58	nsubj	_	Translit=igi
-58	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	5	conj	_	Translit=šeiscavlis
+58	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	5	conj	_	Translit=šeiscavlis
 59	დამოკიდებულებას	დამოკიდებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	58	obj	_	Translit=damokidebulebas
 60	ფიტოცენოზების	ფიტოცენოზი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	61	nmod	_	Translit=pʻitocʻenozebis
 61	აგებულებასა	აგებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	59	obl	_	Translit=agebulebasa
@@ -6472,7 +6472,7 @@
 1	თანამედროვე	თანამედროვე	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=tʻanamedrove
 2	განვითარების	განვითარება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=ganvitʻarebis
 3	ბიოლოგია	ბიოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=biologia
-4	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeiscavlis
+4	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeiscavlis
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	სხვადასხვა	სხვადასხვა	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=sxvadasxva
 7	ფორმაწარმოშობის	ფორმაწარმოშობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=pʻormacarmošobis
@@ -9986,7 +9986,7 @@
 9	“	“	PUNCT	F	PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=“
 10	)	)	PUNCT	F	PunctType=Brck	4	punct	_	Translit=)
 11	—	—	PUNCT	F	PunctType=Dash	12	punct	_	Translit=—
-12	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+12	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 13	სამყაროს	სამყარო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	obj	_	SpaceAfter=No|Translit=samqaros
 14	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 15	როგორც	როგორც	SCONJ	Conj	_	20	mark	_	Translit=rogorcʻ
@@ -10018,7 +10018,7 @@
 12	განშტოება	განშტოება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=ganštoeba
 13	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	12	cop	_	Translit=a
 14	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
-15	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	12	conj	_	Translit=šeiscavlis
+15	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	12	conj	_	Translit=šeiscavlis
 16	კოსმოსის	კოსმოსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=kosmosis
 17	სტრუქტურას	სტრუქტურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obj	_	SpaceAfter=No|Translit=strukʻturas
 18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
@@ -11559,7 +11559,7 @@
 6	რეკომენდაციების	რეკომენდაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=rekomendacʻiebis
 7	გარდა	გარდა	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=garda
 8	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Translit=igi
-9	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
+9	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeiscavlis
 10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 11	ქმნის	ქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	9	conj	_	SpaceAfter=No|Translit=kʻmnis
 12	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
@@ -11948,7 +11948,7 @@
 7	კომპლექსი	კომპლექსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=komplekʻsi
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	Translit=romelicʻ
-10	შეისწავლის	სწავლის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	7	acl	_	Translit=šeiscavlis
+10	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	7	acl	_	Translit=šeiscavlis
 11	ხელოვნებას	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=xelovnebas
 12	–	–	PUNCT	F	PunctType=Dash	15	punct	_	Translit=–
 13	საზოგადოების	საზოგადოება	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	15	nmod	_	Translit=sazogadoebis
