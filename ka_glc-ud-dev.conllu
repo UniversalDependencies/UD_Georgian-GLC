@@ -3025,7 +3025,7 @@
 10	პერიოდ	პერიოდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=period
 11	ში	ში	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ši
 12	ადრეული	ადრეულა	ADJ	Adj	Case=Gen|Number=Sing	13	amod	_	Translit=adreuli
-13	ისტორიის	ისტორია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=istoriis
+13	ისტორიის	ისტორია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	nmod	_	Translit=istoriis
 14	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	16	det	_	Translit=ertʻ-ertʻi
 15	მთავარი	მთავარი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	16	amod	_	Translit=mtʻavari
 16	ჟამთააღმწერი	ჟამთააღმწერი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	19	nsubj	_	Translit=žamtʻaaġmceri
@@ -6082,7 +6082,7 @@
 18	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 19	ზოგის	ზოგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	24	det	_	Translit=zogis
 20	(	(	PUNCT	F	PunctType=Brck	21	punct	_	SpaceAfter=No|Translit=(
-21	ვიქტორ	ვიქტორ	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	19	appos	_	Translit=vikʻtor
+21	ვიქტორ	ვიქტორ	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	24	appos	_	Translit=vikʻtor
 22	სოჩავა	სოჩავა	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	21	flat:name	_	SpaceAfter=No|Translit=sočʻava
 23	)	)	PUNCT	F	PunctType=Brck	21	punct	_	Translit=)
 24	აზრით	აზრი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	29	obl	_	Translit=azritʻ
