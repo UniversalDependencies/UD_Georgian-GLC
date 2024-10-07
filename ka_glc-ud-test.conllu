@@ -7480,7 +7480,7 @@
 3	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ze
 4	ლითონის	ლითონი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=litʻonis
 5-6	ყველაზე	_	_	_	_	_	_	_	_
-5	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	8	det	_	Translit=qvela
+5	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	8	obl	_	Translit=qvela
 6	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	5	case	_	Translit=ze
 7	ადრეული	ადრეული	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=adreuli
 8	ცულები	ცული	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	11	nsubj	_	Translit=cʻulebi
@@ -7743,7 +7743,7 @@
 5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
 6	შეინიშნება	ინიშნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Pass	0	root	_	Translit=šeinišneba
 7	მსგავსება	მსგავსება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj:pass	_	Translit=msgavseba
-8	ხელოვნებისა	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=xelovnebisa
+8	ხელოვნებისა	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=xelovnebisa
 9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 10	არქიტექტურის	არქიტექტურა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	conj	_	Translit=arkʻitekʻturis
 11	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	12	det	_	Translit=sxva
