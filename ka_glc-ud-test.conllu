@@ -261,7 +261,7 @@
 6	წლითა	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=clitʻa
 7	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	6	cop	_	Translit=a
 8-9	ჩემზე	_	_	_	_	_	_	_	_
-8	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	10	det:poss	_	Translit=čʻem
+8	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	10	obl	_	Translit=čʻem
 9	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ze
 10	უფროსი	უფროსი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=upʻrosi
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
@@ -2287,7 +2287,7 @@
 16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 17	მეურნეობრივი	მეურნეობრივი	ADJ	Adj	Case=Gen|Number=Sing	18	amod	_	Translit=meurneobrivi
 18	საქმიანობის	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=sakʻmianobis
-19	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	20	det	_	Translit=zogiertʻi
+19	ზოგიერთი	ზოგიერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	21	det	_	Translit=zogiertʻi
 20	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	det	_	Translit=sxva
 21	მაჩვენებლის	მაჩვენებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=mačʻveneblis
 22	დამტკიცების	დამტკიცება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	conj	_	Translit=damtkicʻebis
@@ -3085,7 +3085,7 @@
 6	მონიტორინგისა	მონიტორინგი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=monitoringisa
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
 8	შეფასების	შეფასება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	conj	_	Translit=šepʻasebis
-9	პროცესის	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=procʻesis
+9	პროცესის	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=procʻesis
 10	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	det	_	Translit=ertʻ-ertʻi
 11	გადამწყვეტი	გადამწყვეტი	ADJ	Adj	Case=Nom|Number=Sing	12	amod	_	Translit=gadamcqveti
 12-13	სტადიაა	_	_	_	_	_	_	_	SpaceAfter=No
@@ -3707,7 +3707,7 @@
 7	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	6	cop	_	Translit=a
 8	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 9	რომლის	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	13	det	_	Translit=romlis
-10	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	9	case	_	Translit=mier
+10	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	13	case	_	Translit=mier
 11	მომზადებული	მომზადებული	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	Translit=momzadebuli
 12	ინფორმაცია	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	Translit=inpʻormacʻia
 13-14	განკუთვნილია	_	_	_	_	_	_	_	_
@@ -3865,8 +3865,8 @@
 2	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=meurneoba
 3	—	—	PUNCT	F	PunctType=Dash	8	punct	_	Translit=—
 4	მატერიალური	მატერიალური	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=materialuri
-5	წარმოების	წარმოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=carmoebis
-6	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	det	_	Translit=ertʻ-ertʻi
+5	წარმოების	წარმოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=carmoebis
+6	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	8	det	_	Translit=ertʻ-ertʻi
 7	ძირითადი	ძირითადი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=żiritʻadi
 8-9	დარგია	_	_	_	_	_	_	_	SpaceAfter=No
 8	დარგი	დარგი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=dargi
