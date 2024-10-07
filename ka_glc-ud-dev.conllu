@@ -8061,8 +8061,8 @@
 11	ადგილობრივ	ადგილობრივი	ADJ	Adj	Case=Dat|Number=Sing	12	amod	_	Translit=adgilobriv
 12	მონოპოლისტებსა	მონოპოლისტი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	5	obl	_	Translit=monopolistebsa
 13	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
-14	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	16	det	_	Translit=matʻ
-15	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=šoris
+14	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	15	obl	_	Translit=matʻ
+15	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	16	case	_	Translit=šoris
 16	მთავარს	მთავარი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	12	conj	_	SpaceAfter=No|Translit=mtʻavars
 17	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 18	ბატონ	ბატონი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	appos	_	Translit=baton
