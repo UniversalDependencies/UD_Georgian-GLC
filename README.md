@@ -10,7 +10,7 @@ The treebank's annotations align with the Universal Dependencies (UD) specificat
 
 Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
 
-The current version of the UD_Georgian-GLC treebank includes 151 utterances (sentences) or 2123 tokens. By the end of August, the UD_Georgian-GLC will expand to include 3,000 additional sentences selected from geo_wikipedia data. These sentences will serve as a training set, enriching the treebank and offering a more comprehensive representation of the Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
+The current version of the UD_Georgian-GLC treebank includes 151 utterances (sentences) or 2123 tokens and 3013 sentences or 44030 tokens from Wikipedia arranged in accordance with the 131 scientific domains. These sentences served as a training set, enriching the treebank and offering a more comprehensive representation of the Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
 
 # Acknowledgments
 
