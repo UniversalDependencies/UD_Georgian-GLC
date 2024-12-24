@@ -527,7 +527,7 @@
 7	ეროვნულ-გამათავისუფლებელი	ეროვნულ-გამათავისუფლებელი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=erovnul-gamatʻavisupʻlebeli
 8	მოძრაობა	მოძრაობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	obj	_	Translit=możraoba
 9	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	conj	_	Translit=unda
-10	მიეყვანა	ყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	10	ccomp	_	Translit=mieqvana
+10	მიეყვანა	ყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	9	ccomp	_	Translit=mieqvana
 11-12	ბოლომდე	_	_	_	_	_	_	_	SpaceAfter=No
 11	ბოლო	ბოლო	ADJ	Adj	Case=Ess|Number=Sing	10	obl	_	Translit=bolo
 12	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	11	case	_	Translit=mde
