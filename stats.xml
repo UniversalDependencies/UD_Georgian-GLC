@@ -6,11 +6,11 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>3164</sentences><tokens>56174</tokens><words>60173</words><fused>3969</fused></total>
-    <train><sentences>2710</sentences><tokens>49369</tokens><words>52817</words><fused>3421</fused></train>
-    <dev><sentences>303</sentences><tokens>4653</tokens><words>5021</words><fused>365</fused></dev>
-    <test><sentences>151</sentences><tokens>2152</tokens><words>2335</words><fused>183</fused></test>
+    <train><sentences>2214</sentences><tokens>37875</tokens><words>40525</words><fused>2630</fused></train>
+    <dev><sentences>469</sentences><tokens>9016</tokens><words>9609</words><fused>588</fused></dev>
+    <test><sentences>481</sentences><tokens>9283</tokens><words>10039</words><fused>751</fused></test>
   </size>
-  <lemmas unique="8927" /><!-- ,, ., და, ში, არის, (, ), ზე, —, რომელიც, რომელი, თან, წელი, იგი, „ -->
+  <lemmas unique="8924" /><!-- ,, ., და, ში, არის, (, ), ზე, —, რომელიც, რომელი, თან, წელი, იგი, „ -->
   <forms unique="15248" /><!-- ,, ., და, ში, ა, (, ), ზე, —, რომელიც, თან, „, “, დან, თვის -->
   <fusions unique="2163" /><!-- საქართველოში, წლებში, ყველაზე, განმავლობაში, საუკუნეში, მიზანია, რომელშიც, როგორიცაა, საფუძველზე, დარგია, პერიოდში, ტერიტორიაზე, შემთხვევაში, წლიდან, პროცესში -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">9175</tag><!-- ძველი, სხვადასხვა, ქიმიური, დიდი, საერთაშორისო, ბერძნული, ძირითადი, ახალი, თანამედროვე, ფიზიკური -->
     <tag name="ADP">3452</tag><!-- ში, ზე, თან, დან, თვის, გან, შესახებ, შორის, მიერ, მდე -->
     <tag name="ADV">1724</tag><!-- ასევე, აგრეთვე, შემდეგ, მიხედვით, მხოლოდ, ძირითადად, ხშირად, ერთად, პირველად, შესაბამისი -->
-    <tag name="AUX">1332</tag><!-- არის, უნდა, შეუძლია, აქვს -->
+    <tag name="AUX">1328</tag><!-- არის, უნდა -->
     <tag name="CCONJ">2729</tag><!-- და, ან, ხოლო, მაგრამ, ანუ, თუ, არამედ, ანდა, თუნდ, რა -->
     <tag name="INTJ">2</tag><!-- დე, სუ -->
     <tag name="NOUN">20604</tag><!-- წელი, მეცნიერება, საუკუნე, ადამიანი, დარგი, განვითარება, სისტემა, პროცესი, დრო, ენა -->
@@ -29,7 +29,7 @@
     <tag name="PUNCT">10428</tag><!-- ,, ., (, ), —, „, “, :, -, ; -->
     <tag name="SCONJ">699</tag><!-- როგორც, რომ, რაც, თუმცა, თუ, როგორი, როდესაც, სადაც, რომელი, ამიტომ -->
     <tag name="SYM">34</tag><!-- %, +, /, &, =, |, °С, °С-მდე, ±, – -->
-    <tag name="VERB">3866</tag><!-- სწავლის, ადგენს, აქვს, ცავს, ხდება, შეუძლია, აყენებს, იქმნება, იღებს, იყენებაა -->
+    <tag name="VERB">3870</tag><!-- სწავლობს, ადგენს, აქვს, იცავს, ხდება, შეუძლია, აყენებს, იქმნება, იღებს, იყენებაა -->
     <tag name="X">432</tag><!-- the, logos, λόγος, of, de, art, fantasy, βίος, νόμος, -λογία -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -45,7 +45,7 @@
     <feat name="AdvType" value="Tim" upos="ADV">315</feat><!-- შემდეგ, პირველად, ზოგჯერ, ჯერ, ამჟამად, უკვე, თავდაპირველად, დღეს, მოგვიანებით, ბოლოს -->
     <feat name="Animacy" value="Anim" upos="NOUN">1178</feat><!-- ადამიანის, საზოგადოების, ცხოველთა, ადამიანთა, საზოგადოება, ადამიანი, ავტორი, ხალხის, ცხოველების, მეცნიერმა -->
     <feat name="Animacy" value="Inan" upos="NOUN">19122</feat><!-- წელს, მეცნიერება, საუკუნის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის, ტერმინი -->
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">1716</feat><!-- შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება, უწოდებენ -->
+    <feat name="Aspect" value="Imp" upos="VERB">1716</feat><!-- შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება, უწოდებენ -->
     <feat name="Aspect" value="Perf" upos="VERB">1728</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, ჩამოყალიბდა, დაიწყო, შედგება, შეიქმნა, გახდა, განსაზღვრავს, მიიღო -->
     <feat name="Case" value="Dat" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">10036</feat><!-- ში, ზე, თან, წელს, შორის, მათ, საქართველო, მას, რომლის, სხვა -->
     <feat name="Case" value="Erg" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">475</feat><!-- მან, მეცნიერმა, რომელმაც, ამ, განვითარებამ, გერმანელმა, რამაც, მანვე, მექანიკამ, ქიმიკოსმა -->
@@ -123,30 +123,30 @@
     <feat name="Tense" value="Pres" upos="AUX,VERB">2849</feat><!-- ა, არის, აქვს, შეიძლება, გამოიყენება, არსებობს, უნდა, სწავლობს, იყენებენ, იკვლევს -->
     <feat name="VerbForm" value="Part" upos="VERB">138</feat><!-- დანალექი, ასახული, დამუხტული, დამზადებული, სარწყავი, წამკითხავი, წამყვან, არაევკლიდური, გარემოსდაცვითი, დამსახურებული -->
     <feat name="VerbForm" value="Vnoun" upos="VERB">96</feat><!-- გამოსხივების, დარაიონება, გამოსხივებას, დაგეგმარების, დაკრისტალების, დაპროექტებისა, მოკვლევისა, მორწყვის, შეკავშირების, შესიტყვება -->
-    <feat name="Voice" value="Act" upos="AUX,VERB">2806</feat><!-- შეისწავლის, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, იყენებენ, იკვლევს, დაიწყო -->
+    <feat name="Voice" value="Act" upos="VERB">2806</feat><!-- შეისწავლის, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, იყენებენ, იკვლევს, დაიწყო -->
     <feat name="Voice" value="Mid" upos="VERB">9</feat><!-- ავიწყდება, ახსოვდა, გვწყუროდა, დამავიწყდა, მიეჩქარებოდათ, მქვია, მჯერა, სცხელოდა, წაადგებოდა -->
     <feat name="Voice" value="Pass" upos="VERB">618</feat><!-- ჩამოყალიბდა, შეიქმნა, ეწოდება, გააჩნია, ითვლება, იძლევა, დაარსდა, წარმოიქმნება, წარმოიშვა, ჩაისახა -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="39">
-    <dep name="acl">930</dep>
+    <dep name="acl">931</dep>
     <dep name="acl:relcl">14</dep>
     <dep name="advcl">257</dep>
-    <dep name="advmod">1868</dep>
-    <dep name="advmod:lmod">36</dep>
-    <dep name="amod">7797</dep>
+    <dep name="advmod">1864</dep>
+    <dep name="advmod:lmod">43</dep>
+    <dep name="amod">7796</dep>
     <dep name="appos">962</dep>
-    <dep name="aux">38</dep>
+    <dep name="aux">35</dep>
     <dep name="case">3441</dep>
     <dep name="cc">2731</dep>
-    <dep name="ccomp">248</dep>
+    <dep name="ccomp">251</dep>
     <dep name="compound">1</dep>
     <dep name="conj">4885</dep>
-    <dep name="cop">1277</dep>
+    <dep name="cop">1276</dep>
     <dep name="csubj">8</dep>
     <dep name="dep">18</dep>
-    <dep name="det">1107</dep>
-    <dep name="det:poss">325</dep>
+    <dep name="det">1101</dep>
+    <dep name="det:poss">323</dep>
     <dep name="discourse">3</dep>
     <dep name="expl">1</dep>
     <dep name="fixed">13</dep>
@@ -155,13 +155,13 @@
     <dep name="flat:name">379</dep>
     <dep name="iobj">188</dep>
     <dep name="mark">657</dep>
-    <dep name="nmod">7262</dep>
+    <dep name="nmod">7263</dep>
     <dep name="nsubj">4019</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">180</dep>
     <dep name="nummod">904</dep>
     <dep name="obj">2163</dep>
-    <dep name="obl">3913</dep>
+    <dep name="obl">3918</dep>
     <dep name="obl:tmod">290</dep>
     <dep name="orphan">19</dep>
     <dep name="parataxis">413</dep>
