@@ -313,9 +313,9 @@
 12-13	შემდგომში	_	_	_	_	_	_	_	_
 12	შემდგომ	შემდგომი	ADJ	Adj	Case=Dat|Number=Sing	15	obl	_	Translit=šemdgom
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
-14	ყველას	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	15	obj	_	Translit=qvelas
+14	ყველას	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	15	nsubj	_	Translit=qvelas
 15	ავიწყდება	ავიწყდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Mid	10	ccomp	_	Translit=avicqdeba
-16	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Translit=igi
+16	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	obj	_	Translit=igi
 17	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 18	სწორედ	სწორედ	ADV	Adv	AdvType=Man	20	advmod	_	Translit=scored
 19	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	20	det	_	Translit=am
