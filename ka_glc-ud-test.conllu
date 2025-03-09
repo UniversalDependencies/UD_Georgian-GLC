@@ -24,7 +24,7 @@
 5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	_	Translit=aris
 6	ო	თქო	PART	Part	Evident=Nfh	3	ccomp	_	Translit=o
 7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-8	სანამ	სანამ	SCONJ	Conj	_	1	mark	_	Translit=sanam
+8	სანამ	სანამ	SCONJ	Conj	_	9	mark	_	Translit=sanam
 9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	1	cop	_	Translit=xar
 10	სულ	სულ	ADV	Adv	AdvType=Man	1	advmod	_	Translit=sul
 11-12	შენთან	_	_	_	_	_	_	_	_
@@ -434,7 +434,7 @@
 15	მინდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	18	aux	_	Translit=minda
 16	სხვა	სხვა	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	17	det	_	Translit=sxva
 17	ენით	ენა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	18	obl	_	Translit=enitʻ
-18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Pass	9	parataxis	_	SpaceAfter=No|Translit=avivso
+18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Fut|Voice=Pass	9	parataxis	_	SpaceAfter=No|Translit=avivso
 19	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id = GLC_00026
