@@ -24,8 +24,8 @@
 5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	_	Translit=aris
 6	ო	თქო	PART	Part	Evident=Nfh	3	ccomp	_	Translit=o
 7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-8	სანამ	სანამ	SCONJ	Conj	_	1	mark	_	Translit=sanam
-9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	1	cop	_	Translit=xar
+8	სანამ	სანამ	SCONJ	Conj	_	1	ccomp	_	Translit=sanam
+9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	8	cop	_	Translit=xar
 10	სულ	სულ	ADV	Adv	AdvType=Man	1	advmod	_	Translit=sul
 11-12	შენთან	_	_	_	_	_	_	_	_
 11	შენ	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	Translit=šen
