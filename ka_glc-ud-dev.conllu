@@ -12006,8 +12006,8 @@
 9	გან	გან	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=gan
 10	განსხვავებით	განსხვავებითი	ADJ	Adj	Case=Ins|Number=Sing	15	amod	_	SpaceAfter=No|Translit=gansxvavebitʻ
 11	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-12	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	nsubj	_	Translit=pop
-13	კულტურა	კულტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	fixed	_	Translit=kultura
+12	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	amod	_	Translit=pop
+13	კულტურა	კულტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	Translit=kultura
 14	ტრადიციულად	ტრადიციული	ADV	Adv	AdvType=Man	15	advmod	_	Translit=tradicʻiulad
 15	ასოცირებული	ასოცირებული	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=asocʻirebuli
 16	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	15	cop	_	Translit=iqo
