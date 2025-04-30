@@ -11858,7 +11858,7 @@
 2	გავლენის	გავლენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=gavlenis
 3	დამსახურებით	დამსახურება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	Translit=damsaxurebitʻ
 4	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=pop
-5	კულტურა	კულტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	fixed	_	Translit=kultura
+5	კულტურა	კულტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	ExtPos	_	Translit=kultura
 6	აღწევს	აღწევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=aġcevs
 7	ინდივიდების	ინდივიდი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	9	nmod	_	Translit=individebis
 8	ყოველდღიურ	ყოველდღიური	ADJ	Adj	Case=Dat|Number=Sing	9	amod	_	Translit=qoveldġiur
