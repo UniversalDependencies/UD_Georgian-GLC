@@ -11857,7 +11857,7 @@
 1	მასმედიის	მასმედია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=masmediis
 2	გავლენის	გავლენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=gavlenis
 3	დამსახურებით	დამსახურება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	Translit=damsaxurebitʻ
-4	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	amod	_	Translit=pop
+4	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	compound	_	Translit=pop
 5	კულტურა	კულტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=kultura
 6	აღწევს	აღწევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=aġcevs
 7	ინდივიდების	ინდივიდი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	9	nmod	_	Translit=individebis
@@ -12006,7 +12006,7 @@
 9	გან	გან	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=gan
 10	განსხვავებით	განსხვავებითი	ADJ	Adj	Case=Ins|Number=Sing	15	amod	_	SpaceAfter=No|Translit=gansxvavebitʻ
 11	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-12	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	amod	_	Translit=pop
+12	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	compound	_	Translit=pop
 13	კულტურა	კულტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	Translit=kultura
 14	ტრადიციულად	ტრადიციული	ADV	Adv	AdvType=Man	15	advmod	_	Translit=tradicʻiulad
 15	ასოცირებული	ასოცირებული	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=asocʻirebuli
