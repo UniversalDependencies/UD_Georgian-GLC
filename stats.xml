@@ -115,9 +115,9 @@
     <feat name="Subcat" value="Indir" upos="VERB">191</feat><!-- ხდება, გახდა, გვხვდება, შედგება, ხდებოდა, ვხვდებით, მოხდა, ჰქვია, ეყრდნობა, რჩება -->
     <feat name="Subcat" value="Intr" upos="AUX,VERB">2677</feat><!-- ა, არის, იყო, აქვს, შეიძლება, გამოიყენება, არსებობს, ჩამოყალიბდა, შეიქმნა, იყოს -->
     <feat name="Subcat" value="Tran" upos="AUX,VERB">2057</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, უნდა, სწავლობს, იყენებენ, იკვლევს, დაიწყო, იყენებს, განსაზღვრავს -->
-    <feat name="Tense" value="Fut" upos="AUX,VERB">775</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">776</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ -->
     <feat name="Tense" value="Imp" upos="AUX,VERB">244</feat><!-- ჰქონდა, ხდებოდა, გამოიყენებოდა, იყენებდნენ, ვითარდებოდა, თვლიდა, არსებობდა, გულისხმობდა, იყენებდა, მდებარეობდა -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">1122</feat><!-- იყო, ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, იყოს, მიიღო, იქნა, დაარსდა, ჩაისახა -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">1121</feat><!-- იყო, ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, იყოს, მიიღო, იქნა, დაარსდა, ჩაისახა -->
     <feat name="Tense" value="PastPerf" upos="AUX,VERB">42</feat><!-- უკავია, შეუძლია, შეუძლიათ, უკავიათ, შექმნილა, აღმოუჩენია, გადაჭრილიყო, გამოჩენილა, დადგენილა, დამკვიდრებულა -->
     <feat name="Tense" value="Pqp" upos="AUX,VERB">61</feat><!-- ჩაეყარა, გამოეყო, მიეცა, დაედო, მიეცათ, მიეძღვნა, ყოფილიყო, აეყვანა, აეხსნათ, ამოეგდო -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">2849</feat><!-- ა, არის, აქვს, შეიძლება, გამოიყენება, არსებობს, უნდა, სწავლობს, იყენებენ, იკვლევს -->
@@ -128,34 +128,33 @@
     <feat name="Voice" value="Pass" upos="VERB">618</feat><!-- ჩამოყალიბდა, შეიქმნა, ეწოდება, გააჩნია, ითვლება, იძლევა, დაარსდა, წარმოიქმნება, წარმოიშვა, ჩაისახა -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="39">
-    <dep name="acl">931</dep>
+  <deps unique="38">
+    <dep name="acl">932</dep>
     <dep name="acl:relcl">14</dep>
     <dep name="advcl">257</dep>
     <dep name="advmod">1864</dep>
     <dep name="advmod:lmod">43</dep>
     <dep name="amod">7796</dep>
     <dep name="appos">962</dep>
-    <dep name="aux">35</dep>
+    <dep name="aux">34</dep>
     <dep name="case">3441</dep>
     <dep name="cc">2731</dep>
-    <dep name="ccomp">251</dep>
-    <dep name="compound">1</dep>
+    <dep name="ccomp">254</dep>
+    <dep name="compound">13</dep>
     <dep name="conj">4885</dep>
     <dep name="cop">1276</dep>
     <dep name="csubj">8</dep>
     <dep name="dep">18</dep>
-    <dep name="det">1101</dep>
+    <dep name="det">1102</dep>
     <dep name="det:poss">323</dep>
     <dep name="discourse">3</dep>
     <dep name="expl">1</dep>
-    <dep name="fixed">13</dep>
     <dep name="flat">11</dep>
     <dep name="flat:foreign">175</dep>
     <dep name="flat:name">379</dep>
     <dep name="iobj">188</dep>
-    <dep name="mark">657</dep>
-    <dep name="nmod">7263</dep>
+    <dep name="mark">655</dep>
+    <dep name="nmod">7262</dep>
     <dep name="nsubj">4019</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">180</dep>
