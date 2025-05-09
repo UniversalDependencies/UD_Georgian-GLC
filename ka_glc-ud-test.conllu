@@ -24,8 +24,8 @@
 5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	_	Translit=aris
 6	ო	თქო	PART	Part	Evident=Nfh	3	ccomp	_	Translit=o
 7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-8	სანამ	სანამ	SCONJ	Conj	_	1	mark	_	Translit=sanam
-9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	1	cop	_	Translit=xar
+8	სანამ	სანამ	SCONJ	Conj	_	1	ccomp	_	Translit=sanam
+9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	8	cop	_	Translit=xar
 10	სულ	სულ	ADV	Adv	AdvType=Man	1	advmod	_	Translit=sul
 11-12	შენთან	_	_	_	_	_	_	_	_
 11	შენ	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	Translit=šen
@@ -313,9 +313,9 @@
 12-13	შემდგომში	_	_	_	_	_	_	_	_
 12	შემდგომ	შემდგომი	ADJ	Adj	Case=Dat|Number=Sing	15	obl	_	Translit=šemdgom
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
-14	ყველას	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	15	obj	_	Translit=qvelas
+14	ყველას	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	15	nsubj	_	Translit=qvelas
 15	ავიწყდება	ავიწყდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Mid	10	ccomp	_	Translit=avicqdeba
-16	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Translit=igi
+16	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	obj	_	Translit=igi
 17	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 18	სწორედ	სწორედ	ADV	Adv	AdvType=Man	20	advmod	_	Translit=scored
 19	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	20	det	_	Translit=am
@@ -434,7 +434,7 @@
 15	მინდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	18	aux	_	Translit=minda
 16	სხვა	სხვა	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	17	det	_	Translit=sxva
 17	ენით	ენა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	18	obl	_	Translit=enitʻ
-18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Pass	9	parataxis	_	SpaceAfter=No|Translit=avivso
+18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Fut|Voice=Pass	9	parataxis	_	SpaceAfter=No|Translit=avivso
 19	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id = GLC_00026
@@ -480,7 +480,7 @@
 11	თურმე	თურმე	PART	Part	PartType=Int	9	advmod	_	Translit=tʻurme
 12	რამდენი	რამდენი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	13	det	_	Translit=ramdeni
 13	თოვლი	თოვლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	Translit=tʻovli
-14	მოსულა	მოდის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=PastPerf	9	acl	_	Translit=mosula
+14	მოსულა	მოდის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=PastPerf	9	ccomp	_	Translit=mosula
 15	წუხელ	წუხელ	ADV	Adv	AdvType=Tim	14	advmod	_	SpaceAfter=No|Translit=cuxel
 16	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
 
@@ -526,13 +526,13 @@
 6	–	–	PUNCT	F	PunctType=Dash	8	punct	_	Translit=–
 7	ეროვნულ-გამათავისუფლებელი	ეროვნულ-გამათავისუფლებელი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=erovnul-gamatʻavisupʻlebeli
 8	მოძრაობა	მოძრაობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	obj	_	Translit=możraoba
-9	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	10	aux	_	Translit=unda
-10	მიეყვანა	ყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	4	conj	_	Translit=mieqvana
+9	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	conj	_	Translit=unda
+10	მიეყვანა	ყვანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	9	ccomp	_	Translit=mieqvana
 11-12	ბოლომდე	_	_	_	_	_	_	_	SpaceAfter=No
 11	ბოლო	ბოლო	ADJ	Adj	Case=Ess|Number=Sing	10	obl	_	Translit=bolo
 12	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	11	case	_	Translit=mde
 13	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-14	გამხდარიყო	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pqp|Voice=Act	4	conj	_	Translit=gamxdariqo
+14	გამხდარიყო	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pqp|Voice=Act	10	conj	_	Translit=gamxdariqo
 15	დამოუკიდებელი	დამოუკიდებელი	ADJ	Adj	Case=Nom|Number=Sing	14	xcomp	_	SpaceAfter=No|Translit=damoukidebeli
 16	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
