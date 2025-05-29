@@ -4680,7 +4680,7 @@
 # sent_id = wiki_biophysics_00512
 # text = იზოტოპი ყოველთვის არსებობდა ატმოსფეროში, მაგრამ მისი კონცენტრაციის შემცირება იწყება XIX საუკუნის ბოლოდან, თუმცა მეოცე საუკუნეში გახშირებულმა ბირთვულმა ტესტირებებმა მკვეთრად გაზარდა მისი შემცველობა ატმოსფეროში, ხოლო პიკს მიაღწია დაახლოებით 1965 წლისთვის, ამ პერიოდში ორჯერ მეტს შეიცავდა ატმოსფერო, ვიდრე ეს იყო ტესტირებების დაწყებამდე.
 # translit = izotopi qoveltʻvis arsebobda atmospʻeroši, magram misi koncʻentracʻiis šemcʻireba icqeba XIX saukunis bolodan, tʻumcʻa meocʻe saukuneši gaxširebulma birtʻvulma testirebebma mkvetʻrad gazarda misi šemcʻveloba atmospʻeroši, xolo piks miaġcia daaxloebitʻ 1965 clistʻvis, am periodši orjer mets šeicʻavda atmospʻero, vidre es iqo testirebebis dacqebamde.
-1	იზოტოპი	იზოტოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=izotopi
+1	იზოტოპი	იზოტოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=izotopi
 2-3	ყოველთვის	_	_	_	_	_	_	_	_
 2	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	4	obl	_	Translit=qoveli
 3	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=tʻvis
@@ -9580,7 +9580,7 @@
 # sent_id = wiki_constitutional_00706
 # text = ეპოქა ყოველთვის ახდენდა ზეგავლენას კონსტიტუციის შინაარსზე.
 # translit = epokʻa qoveltʻvis axdenda zegavlenas konstitucʻiis šinaarsze.
-1	ეპოქა	ეპოქა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=epokʻa
+1	ეპოქა	ეპოქა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=epokʻa
 2-3	ყოველთვის	_	_	_	_	_	_	_	_
 2	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	4	obl	_	Translit=qoveli
 3	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=tʻvis
