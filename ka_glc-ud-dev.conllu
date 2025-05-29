@@ -904,7 +904,7 @@
 6	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	5	cop	_	Translit=a
 7	აშშ	ამერიკის_შეერთებული_შტატები	NOUN	Noun	Abbr=Yes	5	nsubj	_	SpaceAfter=No|Translit=ašš
 8	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
-9	რომელზეც	რომელი	PRON	Pron	Case=Dat|Number=Sing	17	obl	_	Translit=romelzecʻ
+9	რომელზეც	რომელი	SCONJ	Conj	_	17	mark	_	Translit=romelzecʻ
 10	მსოფლიოს	მსოფლიო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=msopʻlios
 11	მანქანათმშენებლობის	მანქანათმშენებლობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=mankʻanatʻmšeneblobis
 12	მთელი	მთელი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	13	amod	_	Translit=mtʻeli
