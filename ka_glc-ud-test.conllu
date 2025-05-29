@@ -2045,7 +2045,7 @@
 8	მაგრამ	მაგრამ	CCONJ	Conj	_	11	cc	_	Translit=magram
 9	ჩვენ	ჩვენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	Translit=čʻven
 10-11	ყოველთვის	_	_	_	_	_	_	_	_
-10	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	12	obl	_	Translit=qoveli
+10	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	12	obl	_	Translit=qoveli
 11	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	10	case	_	Translit=tʻvis
 12	ვგრძნობდით	გრძნობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Imp|Voice=Act	6	parataxis	_	SpaceAfter=No|Translit=vgrżnobditʻ
 13	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
@@ -4571,7 +4571,7 @@
 3	გერმანელმა	გერმანელი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	4	amod	_	Translit=germanelma
 4	აგროქიმიკოსმა	აგროქიმიკოსი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	8	nsubj	_	Translit=agrokʻimikosma
 5	ჰ.	ჰ.	NOUN	Noun	Abbr=Yes	4	flat:name	_	Translit=h.
-6	ჰელრიგელმა	ჰელრიგელი	PROPN	Prop	Case=Erg|Number=Sing|NameType=Sur|Number=Sing	5	flat:name	_	Translit=helrigelma
+6	ჰელრიგელმა	ჰელრიგელი	PROPN	Prop	Case=Erg|NameType=Sur|Number=Sing	5	flat:name	_	Translit=helrigelma
 7	პირველმა	ერთი	NUM	Num	Case=Erg|NumType=Ord	8	amod	_	Translit=pirvelma
 8	დაამტკიცა	უმტკიცებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=daamtkicʻa
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
@@ -11544,7 +11544,7 @@
 15	წერილებს	წერილი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	11	conj	_	SpaceAfter=No|Translit=cerilebs
 16	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 17-18	პირველთაგანია	_	_	_	_	_	_	_	_
-17	პირველთაგანი	ერთი	NUM	Num	Case=Gen|Number=Sing|Number=Plur|NumType=Ord	0	root	_	Translit=pirveltʻagani
+17	პირველთაგანი	ერთი	NUM	Num	Case=Gen|Number=Plur|NumType=Ord	0	root	_	Translit=pirveltʻagani
 18	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	17	cop	_	Translit=a
 19-20	მკითხველთათვის	_	_	_	_	_	_	_	_
 19	მკითხველთა	მკითხველი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	17	obl	_	Translit=mkitʻxveltʻa
