@@ -2041,9 +2041,9 @@
 4	მაღალფარდოვან	მაღალფარდოვანი	ADJ	Adj	Case=Dat|Number=Sing	5	amod	_	Translit=maġalpʻardovan
 5	სიტყვებს	სიტყვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	6	obj	_	Translit=sitqvebs
 6	გაურბოდნენ	ურბის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	0	root	_	SpaceAfter=No|Translit=gaurbodnen
-7	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-8	მაგრამ	მაგრამ	CCONJ	Conj	_	11	cc	_	Translit=magram
-9	ჩვენ	ჩვენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	Translit=čʻven
+7	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
+8	მაგრამ	მაგრამ	CCONJ	Conj	_	10	cc	_	Translit=magram
+9	ჩვენ	ჩვენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	Translit=čʻven
 10-11	ყოველთვის	_	_	_	_	_	_	_	_
 10	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	12	obl	_	Translit=qoveli
 11	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	10	case	_	Translit=tʻvis
@@ -2065,7 +2065,7 @@
 26	გულ	გული	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	obl	_	Translit=gul
 27	თან	თან	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=tʻan
 28	ახლოს	ახლოს	ADV	Adv	AdvType=Loc	29	advmod:lmod	_	Translit=axlos
-29	მიქონდათ	მიაქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Imp	11	ccomp	_	SpaceAfter=No|Translit=mikʻondatʻ
+29	მიქონდათ	მიაქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Imp	12	ccomp	_	SpaceAfter=No|Translit=mikʻondatʻ
 30	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = GLC_00103
