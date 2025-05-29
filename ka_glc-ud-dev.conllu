@@ -4682,7 +4682,7 @@
 # translit = izotopi qoveltʻvis arsebobda atmospʻeroši, magram misi koncʻentracʻiis šemcʻireba icqeba XIX saukunis bolodan, tʻumcʻa meocʻe saukuneši gaxširebulma birtʻvulma testirebebma mkvetʻrad gazarda misi šemcʻveloba atmospʻeroši, xolo piks miaġcia daaxloebitʻ 1965 clistʻvis, am periodši orjer mets šeicʻavda atmospʻero, vidre es iqo testirebebis dacqebamde.
 1	იზოტოპი	იზოტოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=izotopi
 2-3	ყოველთვის	_	_	_	_	_	_	_	_
-2	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	4	obl	_	Translit=qoveli
+2	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	4	obl	_	Translit=qoveli
 3	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=tʻvis
 4	არსებობდა	არსებობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	0	root	_	Translit=arsebobda
 5-6	ატმოსფეროში	_	_	_	_	_	_	_	SpaceAfter=No
@@ -9582,7 +9582,7 @@
 # translit = epokʻa qoveltʻvis axdenda zegavlenas konstitucʻiis šinaarsze.
 1	ეპოქა	ეპოქა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=epokʻa
 2-3	ყოველთვის	_	_	_	_	_	_	_	_
-2	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	4	obl	_	Translit=qoveli
+2	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	4	obl	_	Translit=qoveli
 3	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=tʻvis
 4	ახდენდა	ახდენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	0	root	_	Translit=axdenda
 5	ზეგავლენას	ზეგავლენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	nmod	_	Translit=zegavlenas
@@ -10056,8 +10056,8 @@
 9	±	±	SYM	_	_	10	dep	_	SpaceAfter=No|Translit=±
 10	0,2	0,2	NUM	Num	NumForm=Digit|NumType=Card	12	nummod	_	Translit=0,2
 11	მილიარდ	მილიარდი	NUM	Num	Case=Dat|NumType=Card	12	nummod	_	Translit=miliard
-12	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl:tmod	_	SpaceAfter=No|Translit=cels
-13	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+12	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=cels
+13	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id = wiki_cosmology_00724
 # text = სივრცე — სამგანზომილებიანი უსაზღვრო არე რომელშიც მდებარეობენ სხეულები და მოვლენები, რომლებსაც აქვთ ერთმანეთის მიმართ გარკვეული მდებარეობა.
