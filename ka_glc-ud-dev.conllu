@@ -9250,7 +9250,7 @@
 35	(	(	PUNCT	F	PunctType=Brck	36	punct	_	SpaceAfter=No|Translit=(
 36	ინსტიტუციონალისტები	ინსტიტუციონალისტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	34	appos	_	SpaceAfter=No|Translit=institucʻionalistebi
 37	)	)	PUNCT	F	PunctType=Brck	36	punct	_	Translit=)
-38	ხედავენ	ხედავს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=xedaven
+38	ხედავენ	ხედავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=xedaven
 39	.	.	PUNCT	F	PunctType=Peri	38	punct	_	Translit=.
 
 # sent_id = wiki_constitutional_00693
