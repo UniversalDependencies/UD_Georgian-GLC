@@ -11240,7 +11240,7 @@
 28	და	და	CCONJ	Conj	_	30	cc	_	Translit=da
 29	გონივრული	გონივრული	ADJ	Adj	Case=Gen|Number=Sing	30	amod	_	Translit=gonivruli
 30	ეჭვის	ეჭვი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	conj	_	Translit=ečvis
-31	მიღმა	მიღმა	ADV	Adv	AdvType=Loc	36	amod	_	Translit=miġma
+31	მიღმა	მიღმა	ADV	Adv	AdvType=Loc	14	advmod	_	Translit=miġma
 32	(	(	PUNCT	F	PunctType=Brck	34	punct	_	SpaceAfter=No|Translit=(
 33	უტყუარი	უტყუარი	ADJ	Adj	Case=Gen|Number=Sing	34	amod	_	Translit=utquari
 34	მტკიცებულების	მტკიცებულება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	30	appos	_	SpaceAfter=No|Translit=mtkicʻebulebis
