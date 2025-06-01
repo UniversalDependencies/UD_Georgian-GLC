@@ -13648,7 +13648,7 @@
 4	დროს	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl:tmod	_	_
 5	(	(	PUNCT	F	PunctType=Brck	9	punct	_	SpaceAfter=No
 6	შემთხვევების	შემთხვევა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	7	nmod	_	_
-7	დაახლოებით	დაახლოება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	15	obl	_	_
+7	დაახლოებით	დაახლოება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	9	obl	_	_
 8	1-5	1-5	NUM	Num	NumForm=Digit|NumType=Card	9	nummod	_	SpaceAfter=No
 9	%	%	SYM	_	_	4	appos	_	SpaceAfter=No
 10	)	)	PUNCT	F	PunctType=Brck	9	punct	_	_
@@ -13907,7 +13907,7 @@
 10	ჩვენი	ჩვენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	det:poss	_	_
 11	დაკვირვებადი	დაკვირვებადი	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	_
 12	ჰორიზონტის	ჰორიზონტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	_
-13	მიღმა	მიღმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	_
+13	მიღმა	მიღმა	ADV	Adv	AdvType=Loc	14	advmod	_	_
 14	გაიტანდა	იტანს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	F	PunctType=Peri	14	punct	_	SpaceAfter=No
 
@@ -14197,7 +14197,7 @@
 6	დაარსდა	არსდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	_
 8	როგორც	როგორც	SCONJ	Conj	_	9	mark	_	_
-9	FC	FC	X	Foreign	Foreign=Yes	6	nsubj	_	_
+9	FC	FC	X	Foreign	Foreign=Yes	6	xcomp	_	_
 10	Olympia	Olympia	X	Foreign	Foreign=Yes	9	flat:foreign	_	_
 11	Darmstadt	Darmstadt	X	Foreign	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
 12	.	.	PUNCT	F	PunctType=Peri	6	punct	_	SpaceAfter=No
@@ -15603,7 +15603,7 @@
 5	კუნძულის	კუნძული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	_
 6	მოლდოვას	მოლდოვა	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	7	nmod	_	_
 7	ვეჩეს	ვეჩე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	_
-8	მიღმა	მიღმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	_
+8	მიღმა	მიღმა	ADV	Adv	AdvType=Loc	9	advmod	_	_
 9	მდებარეობს	მდებარეობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	_
 10	და	და	CCONJ	Conj	_	11	cc	_	_
 11-12	ცნობილია	_	_	_	_	_	_	_	_
