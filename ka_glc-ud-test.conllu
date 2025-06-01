@@ -16234,7 +16234,7 @@
 22-23	ბოჰემიიდან	_	_	_	_	_	_	_	SpaceAfter=No
 22	ბოჰემიი	ბოჰემია	PROPN	Prop	Case=Ins|NameType=Geo|Number=Sing	19	conj	_	_
 23	დან	დან	ADP	Post	AdpType=Post|Case=Ins	22	case	_	_
-24	.	.	PUNCT	F	PunctType=Peri	15	punct	_	SpaceAfter=No
+24	.	.	PUNCT	F	PunctType=Peri	17	punct	_	SpaceAfter=No
 
 # text = 1450 წელს მან მიიღო ნებართვა ეხალმძღვანელა ლომბარდიაში არმიას ნეაპოლის მეფე ალფონსოსთვის, იმ მიზნით, რომ გარკვეული ქონება მიეღო.
 # sent_id = 1917.ka
