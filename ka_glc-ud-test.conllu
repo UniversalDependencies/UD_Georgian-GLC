@@ -16332,7 +16332,7 @@
 4	ედიმ	ედი	PROPN	Prop	Case=Erg|NameType=Sur|Number=Sing	3	flat:name	_	_
 5	დაწერა	წერს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	_
 6	წერილი	წერილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No
-7	,	,	PUNCT	F	PunctType=Comm	17	punct	_	_
+7	,	,	PUNCT	F	PunctType=Comm	16	punct	_	_
 8	რომელიც	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	_
 9	საჯარო	საჯარო	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	_
 10	ფორუმის	ფორუმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	_
@@ -16351,7 +16351,7 @@
 1	იმავე	ის	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	2	det	_	_
 2	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl:tmod	_	_
 3	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-4	Saturday	Saturday	X	Foreign	Foreign=Yes	7	nsubj	_	_
+4	Saturday	Saturday	X	Foreign	Foreign=Yes	7	obj	_	_
 5	Night	Night	X	Foreign	Foreign=Yes	4	flat:foreign	_	_
 6	Live-ს	Live	X	Foreign	Foreign=Yes	7	obj	_	_
 7	უძღვებოდა	უძღვება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	0	root	_	SpaceAfter=No
