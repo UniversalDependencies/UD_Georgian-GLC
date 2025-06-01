@@ -17507,15 +17507,15 @@
 5-6	ფრენჩაიზია	_	_	_	_	_	_	_	SpaceAfter=No
 5	ფრენჩაიზი	ფრენჩაიზი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	_
 6	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	5	cop	_	_
-6	,	,	PUNCT	F	PunctType=Comm	8	punct	_	_
-7	რომელიც	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	8	nsubj:pass	_	_
-8	შეიქმნა	იქმნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	5	acl	_	_
-9	ფინური	ფინური	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	_
-10	კომპანიის	კომპანია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	_
-11	Rovio	Rovio	X	Foreign	Foreign=Yes	8	obl	_	_
-12	Entertainment-ის	Entertainment-ის	X	Foreign	Foreign=Yes	11	obl	_	_
-13	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	11	case	_	SpaceAfter=No
-14	.	.	PUNCT	F	PunctType=Peri	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	_
+8	რომელიც	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	9	nsubj:pass	_	_
+9	შეიქმნა	იქმნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	5	acl	_	_
+10	ფინური	ფინური	ADJ	Adj	Case=Gen|Number=Sing	11	amod	_	_
+11	კომპანიის	კომპანია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	_
+12	Rovio	Rovio	X	Foreign	Foreign=Yes	9	obl	_	_
+13	Entertainment-ის	Entertainment-ის	X	Foreign	Foreign=Yes	12	obl	_	_
+14	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	12	case	_	SpaceAfter=No
+15	.	.	PUNCT	F	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # text = მეათე საუკუნის შუა ხანებიდან ბენედიქტელი ქალი მონაზვნები საეკლესიო სამართლის დოქტორების კოლეგიურმა კათედრამ შეცვალა.
 # sent_id = 1985.ka
