@@ -15227,8 +15227,8 @@
 18	გრძელდება	გრძელდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	7	acl	_	SpaceAfter=No
 19	,	,	PUNCT	F	PunctType=Comm	21	punct	_	_
 20	სულ	სულ	ADV	Adv	AdvType=Man	21	advmod	_	_
-21	მცირე	მცირე	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	24	amod	_	SpaceAfter=No
-22	,	,	PUNCT	F	PunctType=Comm	25	punct	_	_
+21	მცირე	მცირე	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	25	amod	_	SpaceAfter=No
+22	,	,	PUNCT	F	PunctType=Comm	21	punct	_	_
 23	ორი	ორი	NUM	Num	Case=Gen|NumType=Card	24	nummod	_	_
 24	წლის	წელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	_
 25-26	განმავლობაში	_	_	_	_	_	_	_	SpaceAfter=No
@@ -15284,7 +15284,7 @@
 5	და	და	CCONJ	Conj	_	12	cc	_	_
 6	მეორე	ორი	NUM	Num	Case=Nom|NumType=Ord	7	nummod	_	_
 7	არქიტექტორი	არქიტექტორი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	12	obj	_	_
-8	ვინჩენცო	ვინჩენცო	PROPN	Prop	Case=Erg|NameType=Prs|Number=Sing	11	appos	_	_
+8	ვინჩენცო	ვინჩენცო	PROPN	Prop	Case=Erg|NameType=Prs|Number=Sing	7	appos	_	_
 9	სკამოცი	სკამოცი	PROPN	Prop	Case=Nom|NameType=Sur|Number=Sing	8	flat:name	_	_
 10	ახალმა	ახალი	ADJ	Adj	Case=Erg|Number=Sing	11	amod	_	_
 11	მფლობელებმა	მფლობელი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Plur	12	nsubj	_	_
