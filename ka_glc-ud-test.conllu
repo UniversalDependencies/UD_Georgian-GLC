@@ -16341,7 +16341,7 @@
 12	განყოფილება	განყოფილება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obl	_	_
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	_
 14-15	mamboserver.com-ზე	_	_	_	_	_	_	_	_
-14	mamboserver.com-	mamboserver.com	X	Foreign	Foreign=Yes	17	obl	_	_
+14	mamboserver.com-	mamboserver.com	X	Foreign	Foreign=Yes	16	obl	_	_
 15	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	14	case	_	_
 16	გამოჩნდა	ჩნდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	6	acl	_	SpaceAfter=No
 17	.	.	PUNCT	F	PunctType=Peri	5	punct	_	SpaceAfter=No
