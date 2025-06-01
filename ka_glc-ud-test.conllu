@@ -16850,7 +16850,7 @@
 13	არასოდეს	არასოდეს	ADV	Adv	AdvType=Tim	16	advmod	_	_
 14	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
 15	ადგილი	ადგილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	obj	_	_
-16	დაუკავებია	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	9	advcl	_	SpaceAfter=No
+16	დაუკავებია	უკავია	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	9	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	F	PunctType=Peri	9	punct	_	SpaceAfter=No
 
 # text = იტალიის ალბანეთში შეჭრა იტალიის სამეფოს ხანმოკლე სამხედრო კამპანია ალბანეთის სამეფოს წინააღმდეგ იყო.
@@ -16920,7 +16920,7 @@
 2	განდევნის	განდევნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	_
 3	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	20	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	F	PunctType=Comm	20	punct	_	_
-5	ძალაუფლება	ძალაუფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	nsubj	_	_
+5	ძალაუფლება	ძალაუფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	ობჯ	_	_
 6	1805	1805	NUM	Num	NumForm=Digit|NumType=Card	7	nummod	_	_
 7	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	obl:tmod	_	_
 8-9	ეგვიპტეში	_	_	_	_	_	_	_	_
@@ -16964,7 +16964,7 @@
 # text = ორივე მახარებელი, რომლებიც ახლა ქმნიან Codex Eyckensis-ს, სავარაუდოდ, წმინდა ვილიბრორდმა ეხტერნახის სააბატოდან ალდენეიკში ჩამოიყვანა.
 # sent_id = 1953.ka
 1	ორივე	ორი	NUM	Num	Case=Nom|NumType=Ord	2	nummod	_	_
-2	მახარებელი	მახარებელი	ADJ	Adj	Case=Nom|Number=Sing	19	nsubj	_	SpaceAfter=No
+2	მახარებელი	მახარებელი	ADJ	Adj	Case=Nom|Number=Sing	19	obj	_	SpaceAfter=No
 3	,	,	PUNCT	F	PunctType=Comm	6	punct	_	_
 4	რომლებიც	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	6	nsubj	_	_
 5	ახლა	ახლა	ADV	Adv	AdvType=Loc	6	advmod	_	_
@@ -17312,7 +17312,7 @@
 # sent_id = 1974.ka
 1	გუსტაფ	გუსტაფი	PROPN	Prop	Case=Erg|NameType=Prs|Number=Sing	5	nsubj	_	_
 2	VI	16	NUM	Num	NumForm=Roman|NumType=Card	1	nummod	_	_
-3	ადოლფმა	ადოლფი	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	5	nsubj	_	_
+3	ადოლფმა	ადოლფი	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	1	appos	_	_
 4	მონაწილეობა	მონაწილეობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	_
 5	მიიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	_
 6	არქეოლოგიურ	არქეოლოგიური	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	_
