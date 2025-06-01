@@ -13190,7 +13190,7 @@
 5	ეს	ეს(ე)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 6	ძირითადად	ძირითადად	ADV	Adv	AdvType=Man	8	advmod	_	_
 7	რადიო	რადიო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nmod	_	_
-8	გადაცემა	გადაცემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	advmod	_	_
+8	გადაცემა	გადაცემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	advcl	_	_
 9	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	8	cop	_	SpaceAfter=No
 10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	_
 11-12	სტუდიაში	_	_	_	_	_	_	_	_
@@ -13389,16 +13389,16 @@
 13	"	"	PUNCT	F	PunctType=Quot	14	punct	_	SpaceAfter=No
 14	Year	Year	X	Foreign	Foreign=Yes	11	appos	_	_
 15	3000	3000	NUM	Num	NumForm=Digit|NumType=Card	14	nummod	_	SpaceAfter=No
-16	"	"	PUNCT	F	PunctType=Quot	15	punct	_	_
+16	"	"	PUNCT	F	PunctType=Quot	14	punct	_	_
 17	და	და	CCONJ	Conj	_	19	cc	_	_
 18	"	"	PUNCT	F	PunctType=Quot	19	punct	_	SpaceAfter=No
-19	What	what	X	Foreign	Foreign=Yes	11	appos	_	_
+19	What	what	X	Foreign	Foreign=Yes	14	conj	_	_
 20	I	I	X	Foreign	Foreign=Yes	19	flat:foreign	_	_
 21	Go	go	X	Foreign	Foreign=Yes	19	flat:foreign	_	_
-22	to	to	X	Foreign	Foreign=Yes	20	flat:foreign	_	_
+22	to	to	X	Foreign	Foreign=Yes	19	flat:foreign	_	_
 23	School	School	X	Foreign	Foreign=Yes	19	flat:foreign	_	_
-24	For	For	X	Foreign	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
-25	"	"	PUNCT	F	PunctType=Quot	20	punct	_	_
+24	For	For	X	Foreign	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No
+25	"	"	PUNCT	F	PunctType=Quot	19	punct	_	_
 26	გააშუქა	აშუქებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 27	.	.	PUNCT	F	PunctType=Peri	26	punct	_	SpaceAfter=No
 
