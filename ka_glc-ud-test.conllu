@@ -14717,9 +14717,9 @@
 2-3	წლიდან	_	_	_	_	_	_	_	_
 2	წლი	წელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	8	obl:tmod	_	_
 3	დან	დან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	_
-4	ტურნირი	ტურნირი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	_
-5	WTA	WTA	X	Foreign	Foreign=Yes	8	obj	_	_
-6	Elite	Elite	X	Foreign	Foreign=Yes	8	nsubj	_	_
+4	ტურნირი	ტურნირი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	_	_
+5	WTA	WTA	X	Foreign	Foreign=Yes	8	nsubj	_	_
+6	Elite	Elite	X	Foreign	Foreign=Yes	6	flat:foreign	_	_
 7	Trophy-მა	Trophy	X	Foreign	Foreign=Yes	6	flat:foreign	_	_
 8	ჩაანაცვლა	ანაცვლებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	F	PunctType=Peri	8	punct	_	SpaceAfter=No
@@ -14770,7 +14770,7 @@
 1	დენგეს	დენგე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	nsubj	_	_
 2	ზოგჯერ	ზოგჯერ	ADV	Adv	AdvType=Tim	3	advmod	_	_
 3	შეუძლია	შეუძლია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	_
-4	გავლენა	გავლენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	_
+4	გავლენა	გავლენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	_	_
 5	სხეულის	სხეული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	_
 6	რამდენიმე	რამდენიმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	8	det	_	_
 7	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	8	det	_	_
@@ -15098,8 +15098,8 @@
 # text = სახელი 99U თომას ედისონის ციტატიდან მომდინარეობს, რომ "გენიოსი არის 1% შთაგონება, 99% ოფლისღვრა".
 # sent_id = 1856.ka
 1	სახელი	სახელი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	_
-2	99U	99u	NUM	Num	NumForm=Digit|NumType=Card	3	nummod	_	_
-3	თომას	თომასი	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	7	obj	_	_
+2	99U	99u	NUM	Num	NumForm=Digit|NumType=Card	1	appos	_	_
+3	თომას	თომასი	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	4	nmod	_	_
 4	ედისონის	ედისონი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	5	nmod	_	_
 5-6	ციტატიდან	_	_	_	_	_	_	_	_
 5	ციტატი	ციტატა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	obl	_	_
@@ -15108,7 +15108,7 @@
 8	,	,	PUNCT	F	PunctType=Comm	11	punct	_	_
 9	რომ	რომ	SCONJ	Conj	_	11	mark	_	_
 10	"	"	PUNCT	F	PunctType=Quot	11	punct	_	SpaceAfter=No
-11	გენიოსი	გენიოსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	_
+11	გენიოსი	გენიოსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	parataxis	_	_
 12	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	11	cop	_	_
 13	1	1	NUM	Num	NumForm=Digit|NumType=Card	14	nummod	_	SpaceAfter=No
 14	%	%	SYM	_	_	15	amod	_	_
