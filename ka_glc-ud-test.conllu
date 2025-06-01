@@ -15303,7 +15303,7 @@
 1	ქალაქის	ქალაქი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	_
 2	არქიტექტურა	არქიტექტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	_
 3	სტილის	სტილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	_
-4-5	ნაზავია	_	_	_	_	_	_	_	SpaceAfter=No	
+4-5	ნაზავია	_	_	_	_	_	_	_	SpaceAfter=No
 4	ნაზავი	ნაზავი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	_
 5	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	cop	_	_
 6	.	.	PUNCT	F	PunctType=Peri	4	punct	_	SpaceAfter=No
@@ -15443,7 +15443,7 @@
 
 # text = ანკო მეფობის მესამე წელს მოკლა მაიოვა ნო ოკიმმა (პრინცმა მაიოვამ), მაიოვას მამის სიკვდილით დასჯის საპასუხოდ.
 # sent_id = 1873.ka
-1	ანკო	ანკო	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	5	nsubj	_	_
+1	ანკო	ანკო	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	5	obj	_	_
 2	მეფობის	მეფობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	_
 3	მესამე	სამი	NUM	Num	Case=Dat|NumType=Ord	4	nummod	_	_
 4	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl:tmod	_	_
@@ -15655,7 +15655,7 @@
 3	და	და	CCONJ	Conj	_	4	cc	_	_
 4	ტექნიკური	ტექნიკური	ADJ	Adj	Case=Gen|Number=Sing	2	conj	_	_
 5	მენეჯმენტის	მენეჯმენტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	_
-6	პოზიციები	პოზიცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	16	nsubj	_	_
+6	პოზიციები	პოზიცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	16	obj	_	_
 7	Digital	Digital	X	Foreign	Foreign=Yes	8	nmod	_	_
 8-9	Equipment-თან	_	_	_	_	_	_	_	_
 8	Equipment-	Equipment-	X	Foreign	Foreign=Yes	11	obl	_	_
@@ -15900,7 +15900,7 @@
 15	,	,	PUNCT	F	PunctType=Comm	18	punct	_	_
 16	თუმცა	თუმცა	SCONJ	Conj	_	18	mark	_	_
 17	ოპერაციულად	ოპერაციულად	ADV	Adv	AdvType=Man	18	advmod	_	_
-18-19	STOVL-ია	_	_	_	_	_	_	_	SpaceAfter=No	
+18-19	STOVL-ია	_	_	_	_	_	_	_	SpaceAfter=No
 18	Stovl	Stovl	X	Foreign	Foreign=Yes	9	advcl	_	_
 19	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	18	cop	_	_
 20	.	.	PUNCT	F	PunctType=Peri	2	punct	_	SpaceAfter=No
