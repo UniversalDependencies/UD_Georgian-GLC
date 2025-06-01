@@ -16156,14 +16156,14 @@
 29	გამოიცემოდა	სცემს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	17	acl	_	SpaceAfter=No
 30	.	.	PUNCT	F	PunctType=Peri	10	punct	_	SpaceAfter=No
 
-# text = მეორეს მხრივ, რესპირატორული სინციციალური ვირუსი (RSV) დაინფიცირება პირდაპირი კონტაქტითა და ჰაერის წვეთებით ხდება.
+# text = მეორეს მხრივ, რესპირატორული სინციციალური ვირუსით (RSV) დაინფიცირება პირდაპირი კონტაქტითა და ჰაერის წვეთებით ხდება.
 # sent_id = 1913.ka
 1	მეორეს	ორი	NUM	Num	Case=Gen|NumType=Ord	2	nummod	_	_
 2	მხრივ	მხრივ	ADV	Adv	AdvType=Man	16	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	F	PunctType=Comm	6	punct	_	_
 4	რესპირატორული	რესპირატორული	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	_
 5	სინციციალური	სინციციალური	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	_
-6	ვირუსი	ვირუსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	nsubj	_	_
+6	ვირუსით	ვირუსი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	16	obl	_	_
 7	(	(	PUNCT	F	PunctType=Brck	8	punct	_	SpaceAfter=No
 8	RSV	RSV	X	Foreign	Foreign=Yes	6	appos	_	SpaceAfter=No
 9	)	)	PUNCT	F	PunctType=Brck	8	punct	_	_
@@ -16234,7 +16234,7 @@
 22-23	ბოჰემიიდან	_	_	_	_	_	_	_	SpaceAfter=No
 22	ბოჰემიი	ბოჰემია	PROPN	Prop	Case=Ins|NameType=Geo|Number=Sing	19	conj	_	_
 23	დან	დან	ADP	Post	AdpType=Post|Case=Ins	22	case	_	_
-24	.	.	PUNCT	F	PunctType=Peri	11	punct	_	SpaceAfter=No
+24	.	.	PUNCT	F	PunctType=Peri	14	punct	_	SpaceAfter=No
 
 # text = 1450 წელს მან მიიღო ნებართვა ეხალმძღვანელა ლომბარდიაში არმიას ნეაპოლის მეფე ალფონსოსთვის, იმ მიზნით, რომ გარკვეული ქონება მიეღო.
 # sent_id = 1917.ka
