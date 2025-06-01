@@ -18223,3 +18223,4 @@
 14	ფედერალისტები	ფედერალისტი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	10	conj	_	_
 15	მიიწვია	იწვევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	4	advcl	_	SpaceAfter=No
 16	.	.	PUNCT	F	PunctType=Peri	4	punct	_	SpaceAfter=No
+
