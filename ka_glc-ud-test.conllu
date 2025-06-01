@@ -18159,7 +18159,7 @@
 # text = ყველა უბრალოდ ზომბებივით აგრძელებს სიარულს.
 # sent_id = 2020.ka
 1	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	5	nsubj	_	_
-5	უბრალოდ	უბრალოდ	ADV	Adv	AdvType=Man	4	advmod	_	_
+2	უბრალოდ	უბრალოდ	ADV	Adv	AdvType=Man	5	advmod	_	_
 3-4	ზომბებივით	_	_	_	_	_	_	_	_
 3	ზომბები	ზომბი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	5	obl	_	_
 4	ვით	ვით	ADP	Post	AdpType=Post|Case=Nom	3	case	_	_
