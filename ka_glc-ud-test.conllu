@@ -16920,7 +16920,7 @@
 2	განდევნის	განდევნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	_
 3	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	20	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	F	PunctType=Comm	20	punct	_	_
-5	ძალაუფლება	ძალაუფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	ობჯ	_	_
+5	ძალაუფლება	ძალაუფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	obj	_	_
 6	1805	1805	NUM	Num	NumForm=Digit|NumType=Card	7	nummod	_	_
 7	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	obl:tmod	_	_
 8-9	ეგვიპტეში	_	_	_	_	_	_	_	_
