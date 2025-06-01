@@ -14273,7 +14273,7 @@
 
 # text = Monty Python-ის წევრები დიდად აღტაცებულნი იყვნენ მისით.
 # sent_id = 1806.ka
-1	Monty	Monty	X	Foreign	Foreign=Yes	5	nsubj	_	_
+1	Monty	Monty	X	Foreign	Foreign=Yes	2	nmod	_	_
 2	Python-ის	Python	X	Foreign	Foreign=Yes	3	nmod	_	_
 3	წევრები	წევრი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	5	nsubj	_	_
 4	დიდად	დიდად	ADV	Adv	AdvType=Man	5	advmod	_	_
@@ -14315,7 +14315,7 @@
 # sent_id = 1809.ka
 1	ომმა	ომი	PROPN	Prop	Case=Erg|NameType=Prs|Number=Sing	7	nsubj	_	_
 2	იუგოსლავიის	იუგოსლავია	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	3	nmod	_	_
-3	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	nsubj	_	_
+3	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	_
 4	მნიშვნელოვან	მნიშვნელოვანი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	_
 5	ცვლილებათა	ცვლილება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	_
 6	სერია	სერია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	obj	_	_
@@ -14356,7 +14356,7 @@
 
 # text = მართლაც, მათ ბუდისტური და ტაოისტური რელიგიები უარყვეს.
 # sent_id = 1813.ka
-1	მართლაც	მართალი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing|PartType=Emp	8	nsubj	_	SpaceAfter=No
+1	მართლაც	მართალი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing|PartType=Emp	8	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	F	PunctType=Comm	8	punct	_	_
 3	მათ	იგინი	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 4	ბუდისტური	ბუდისტური	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	_
@@ -14546,7 +14546,7 @@
 7	ში	ში	ADP	Post	AdpType=Post|Case=Dat	6	case	_	_
 8	და	და	CCONJ	Conj	_	10	cc	_	_
 9	ყურის	ყური	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	_
-10	ინფექცია	ინფექცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	_
+10	ინფექცია	ინფექცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	_
 11-12	30%-ში	_	_	_	_	_	_	_	_
 11	30%-	30%	NUM	Num	Case=Ins|NumForm=Digit|NumType=Card	13	obl	_	_
 12	ში	ში	ADP	Post	AdpType=Post|Case=Dat	11	case	_	_
