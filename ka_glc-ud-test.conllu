@@ -16510,7 +16510,7 @@
 12	,	,	PUNCT	F	PunctType=Comm	18	punct	_	_
 13	დედას	დედა	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	18	nsubj	_	_
 14	ხელშეკრულების	ხელშეკრულება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	_
-15	გაფორმება	გაფორმება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	nsubj	_	_
+15	გაფორმება	გაფორმება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	obj	_	_
 16	მისი	მისი	PRON	Pron	Case=Ins|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det:poss	_	_
 17	სახელით	სახელი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	18	obl	_	_
 18	მოუწია	მოუწია	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	10	parataxis	_	SpaceAfter=No
@@ -16592,11 +16592,11 @@
 6	პარიზს	პარიზი	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	5	obj	_	SpaceAfter=No
 7	,	,	PUNCT	F	PunctType=Comm	11	punct	_	_
 8	სადაც	სადაც	SCONJ	Conj	_	11	mark	_	_
-9	პაბლო	პაბლო	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	11	nsubj	_	_
+9	პაბლო	პაბლო	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	11	iobj	_	_
 10	პიკასოს	პიკასო	PROPN	Prop	Case=Dat|NameType=Sur|Number=Sing	9	flat:name	_	_
-11	შეხვდა	ხვდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	5	advcl	_	SpaceAfter=No
+11	შეხვდა	ხვდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	5	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	F	PunctType=Comm	17	punct	_	_
-13	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	17	nsubj	_	_
+13	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	17	obj	_	_
 14	ახალგაზრდა	ახალგაზრდა	ADJ	Adj	Case=Nom|Number=Sing	15	amod	_	_
 15	დალი	დალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	nsubj	_	_
 16	პატივს	პატივი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	17	obj	_	_
