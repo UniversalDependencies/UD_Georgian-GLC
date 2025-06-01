@@ -16851,7 +16851,7 @@
 14	თავისი	თავისი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
 15	ადგილი	ადგილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	obj	_	_
 16	დაუკავებია	უკავია	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|Voice=Act	9	advcl	_	SpaceAfter=No
-18	.	.	PUNCT	F	PunctType=Peri	9	punct	_	SpaceAfter=No
+17	.	.	PUNCT	F	PunctType=Peri	9	punct	_	SpaceAfter=No
 
 # text = იტალიის ალბანეთში შეჭრა იტალიის სამეფოს ხანმოკლე სამხედრო კამპანია ალბანეთის სამეფოს წინააღმდეგ იყო.
 # sent_id = 1947.ka
