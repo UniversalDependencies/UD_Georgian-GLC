@@ -17974,7 +17974,7 @@
 17	გან	გან	ADP	Post	AdpType=Post|Case=Gen	16	case	_	_
 18	და	და	CCONJ	Conj	_	20	cc	_	_
 19	ერთი	ერთი	NUM	Num	Case=Nom|Number=Sing|NumType=Card	20	nummod	_	_
-20	ნაწილი	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	23	nsubj	_	_
+20	ნაწილი	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	_
 21-22	ჟანგბადისგან	_	_	_	_	_	_	_	_
 21	ჟანგბადის	ჟანგბადი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	obl	_	_
 22	გან	გან	ADP	Post	AdpType=Post|Case=Gen	21	case	_	_
