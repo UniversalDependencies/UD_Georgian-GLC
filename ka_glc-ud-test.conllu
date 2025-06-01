@@ -12882,7 +12882,7 @@
 15	პეიტი	პეიტი	PROPN	Prop	Case=Nom|NameType=Sur|Number=Sing	14	flat:name	_	SpaceAfter=No
 16	,	,	PUNCT	F	PunctType=Comm	18	punct	_	_
 17	თავს	თავი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obj	_	_
-18	დაესხა	ესხმევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	7	conj	_	SpaceAfter=No
+18	დაესხა	ესხმევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	advcl	_	SpaceAfter=No
 19	.	.	PUNCT	F	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # text = მსგავს თავდასხმაში, უმუშევარმა ირლანდიელმა უილიამ ჰამილტონმა ფხვნილით სავსე პისტოლეტით ვიქტორიას ვაგონს მაშინ ესროლა, როდესაც ის კონსტიტუციის ბორცვზე, ლონდონში, გადიოდა.
