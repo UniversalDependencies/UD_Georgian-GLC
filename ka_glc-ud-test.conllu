@@ -17830,7 +17830,7 @@
 
 # text = AH-1 შეერთებული შტატების არმიის თავდასხმითი შვეულმფრენების ფლოტის ხერხემალი იყო, თუმცა საჯარო სამსახურში AH-64 Apache-ით ჩანაცვლდა.
 # sent_id = 2003.ka
-1	AH-1	1	X	Foreign	Foreign=Yes	3	nummod	_	_
+1	AH-1	1	X	Foreign	Foreign=Yes	8	nsubj	_	_
 2	შეერთებული	შეერთებული	ADJ	Adj	Case=Gen|Number=Sing	3	amod	_	_
 3	შტატების	შტატი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	4	nmod	_	_
 4	არმიის	არმია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	_
@@ -17887,13 +17887,13 @@
 2-3	შესაძლოა	_	_	_	_	_	_	_	_
 2	შესაძლო	შესაძლო	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|VerbForm=Part	0	root	_	_
 3	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	2	cop	_	_
-4	ყოფილიყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	2	cop	_	_
+4	ყოფილიყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	10	cop	_	_
 5	თანამედროვე	თანამედროვე	ADJ	Adj	Case=Gen|Number=Sing	6	amod	_	_
 6	ბერძენი	ბერძენი	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	_
 7	ასტრონომების	ასტრონომი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	nmod	_	_
 8	თეორიის	თეორია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	_
 9	ახსნის	ახსნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	_
-10	მცდელობა	მცდელობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+10	მცდელობა	მცდელობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	ccomp	_	SpaceAfter=No
 11	,	,	PUNCT	F	PunctType=Comm	12	punct	_	_
 12-13	როგორიცაა	_	_	_	_	_	_	_	_
 12	როგორიცა	როგორი	SCONJ	Conj	_	10	acl	_	_
@@ -17918,24 +17918,20 @@
 6	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	5	cop	_	_
 7	.	.	PUNCT	F	PunctType=Peri	5	punct	_	SpaceAfter=No
 
-# text = ასეთი ქარიშხალი რამდენიმე საათის განმავლობაში ან გაგრძელდეს საუკუნეების განმავლობაში შეიძლება გაგრძელდეს.
+# text = ასეთი ქარიშხლები შეიძლება რამდენიმე საათით გაგრძელდეს ან საუკუნეებზე გაიწელოს.
 # sent_id = 2008.ka
 1	ასეთი	ასეთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
-2	ქარიშხალი	ქარიშხალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	_
-3	რამდენიმე	რამდენიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	4	det	_	_
-4	საათის	საათი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	_
-5-6	განმავლობაში	_	_	_	_	_	_	_	_
-5	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	obl	_	_
-6	ში	ში	ADP	Post	AdpType=Post|Case=Dat	5	case	_	_
+2	ქარიშხლები	ქარიშხლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	3	nsubj	_	_
+3	შეიძლება	შეუძლია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	_
+4	რამდენიმე	რამდენიმე	PRON	Pron	Case=Ins|Number=Sing|PronType=Ind	5	det	_	_
+5	საათით	საათი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	_
+6	გაგრძელდეს	გრძელდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	3	ccomp	_	_
 7	ან	ან	CCONJ	Conj	_	8	cc	_	_
-8	გაგრძელდეს	გრძელდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	12	conj	_	_
-9	საუკუნეების	საუკუნე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	10	nmod	_	_
-10-11	განმავლობაში	_	_	_	_	_	_	_	_
-10	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	obl	_	_
-11	ში	ში	ADP	Post	AdpType=Post|Case=Dat	10	case	_	_
-12	შეიძლება	შეუძლია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	_
-13	გაგრძელდეს	გრძელდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	12	ccomp	_	SpaceAfter=No
-14	.	.	PUNCT	F	PunctType=Peri	12	punct	_	SpaceAfter=No
+8-9	საუკუნეებზე	_	_	_	_	_	_	_	_
+8	საუკუნეებ	საუკუნე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	10	obl	_	_
+9	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	8	case	_	_
+10	გაიწელოს	აიწელება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	F	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # text = მან თავი უნდა აარიდოს ენობრივ სიჭარბეს და არ უნდა ენდოს მის ასაკს ან მის ღვთისმოსაობას.
 # sent_id = 2009.ka
