@@ -12864,7 +12864,7 @@
 
 # text = დედოფალმა ტრავმა მიიღო, როდესაც მას შესაძლოა გიჟი არმიის ყოფილი ოფიცერი, რობერტ პეიტი, თავს დაესხა.
 # sent_id = 1726.ka
-1	დედოფალმა	დედოფალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	3	nsubj	_	_
+1	დედოფალმა	დედოფლი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	3	nsubj	_	_
 2	ტრავმა	ტრავმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	_	_
 3	მიიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	F	PunctType=Comm	7	punct	_	_
