@@ -13457,9 +13457,9 @@
 1	ესპანეთის	ესპანეთი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	3	nmod	_	_
 2	საბოლოო	საბოლოო	ADJ	Adj	Case=Gen|Number=Sing	3	amod	_	_
 3	დაპყრობის	დაპყრობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	_
-4	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	12	obl	_	SpaceAfter=No
-5	,	,	PUNCT	F	PunctType=Comm	12	punct	_	_
-6	ნაპოლეონი	ნაპოლეონი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	12	nsubj	_	_
+4	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	11	obl	_	SpaceAfter=No
+5	,	,	PUNCT	F	PunctType=Comm	11	punct	_	_
+6	ნაპოლეონი	ნაპოლეონი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	11	nsubj	_	_
 7	40000	40000	NUM	Num	NumForm=Digit|NumType=Card	8	nummod	_	_
 8	კაცით	კაცა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	11	obl	_	_
 9-10	მადრიდში	_	_	_	_	_	_	_	_
@@ -13555,8 +13555,8 @@
 4	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	6	obl	_	_
 5	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	4	case	_	_
 6	წარმატებული	წარმატებული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	_
-7-8	ჯგუფია	_	_	_	_	_	_	_	_
-7	ჯგუფი	ჯგუფი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+7-8	ჯგუფია	_	_	_	_	_	_	_	SpaceAfter=No
+7	ჯგუფი	ჯგუფი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	_
 8	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	7	cop	_	_
 9	.	.	PUNCT	F	PunctType=Peri	7	punct	_	SpaceAfter=No
 
