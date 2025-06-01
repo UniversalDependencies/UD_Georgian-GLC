@@ -12867,7 +12867,7 @@
 1	დედოფალმა	დედოფალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	3	nsubj	_	_
 2	ტრავმა	ტრავმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	_	_
 3	მიიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	_
+4	,	,	PUNCT	F	PunctType=Comm	5	punct	_	_
 5	როდესაც	როდესაც	SCONJ	Conj	_	18	mark	_	_
 6	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
 7-8	შესაძლოა	_	_	_	_	_	_	_	_
@@ -13166,7 +13166,7 @@
 
 # text = მასშტაბურობა: სისტემა ეფექტურად უნდა ფუნქციონირებდეს ათასობით ან მილიონობით კვანძთანაც კი.
 # sent_id = 1745.ka
-1	მასშტაბურობა	მასშტაბურობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
+1	მასშტაბურობა	მასშტაბურობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	discourse	_	SpaceAfter=No
 2	:	:	PUNCT	F	PunctType=Colo	1	punct	_	_
 3	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	_
 4	ეფექტურად	ეფექტურად	ADV	Adv	AdvType=Man	6	advmod	_	_
@@ -13190,13 +13190,13 @@
 5	ეს	ეს(ე)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 6	ძირითადად	ძირითადად	ADV	Adv	AdvType=Man	8	advmod	_	_
 7	რადიო	რადიო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nmod	_	_
-8	გადაცემა	გადაცემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	_
+8	გადაცემა	გადაცემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	advmod	_	_
 9	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	8	cop	_	SpaceAfter=No
 10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	_
 11-12	სტუდიაში	_	_	_	_	_	_	_	_
 11	სტუდია	სტუდია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl	_	_
 12	ში	ში	ADP	Post	AdpType=Post|Case=Dat	11	case	_	_
-13	კამერებიც	კამერა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur|PartType=Emp	8	nsubj	_	_
+13	კამერებიც	კამერა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur|PartType=Emp	0	root	_	_
 14	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	13	cop	_	_
 15	იმ	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	17	det	_	_
 16	რამდენიმე	რამდენიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	17	det	_	_
