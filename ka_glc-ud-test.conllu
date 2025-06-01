@@ -12864,11 +12864,11 @@
 
 # text = დედოფალმა ტრავმა მიიღო, როდესაც მას შესაძლოა გიჟი არმიის ყოფილი ოფიცერი, რობერტ პეიტი, თავს დაესხა.
 # sent_id = 1726.ka
-1	დედოფალმა	დედოფლი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	3	nsubj	_	_
+1	დედოფალმა	დედოფალი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	3	nsubj	_	_
 2	ტრავმა	ტრავმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	_	_
 3	მიიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	F	PunctType=Comm	7	punct	_	_
-5	როდესაც	როდესაც	SCONJ	Conj	_	7	mark	_	_
+4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	_
+5	როდესაც	როდესაც	SCONJ	Conj	_	18	mark	_	_
 6	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
 7-8	შესაძლოა	_	_	_	_	_	_	_	_
 7	შესაძლო	შესაძლო	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|VerbForm=Part	12	acl	_	_
@@ -13135,7 +13135,7 @@
 1	რუმინეთის	რუმინეთი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	2	nmod	_	_
 2	არმიამ	არმია	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	4	nsubj	_	_
 3	მაინც	მაინც	PART	Part	PartType=Emp	4	advmod	_	_
-4	შეუტია	უტევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	_
+4	შეუტია	უტევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	F	PunctType=Peri	4	punct	_	SpaceAfter=No
 
 # text = ყველა ეროვნების მგზავრს, რომლებსაც უწევთ ტრანზიტით ყატარში ყოფნა Qatar Airways-ის ფრენით, შეუძლიათ უფასო 96 საათიანი სატრანზიტო ვიზის აღება.
@@ -13175,7 +13175,7 @@
 7	ათასობით	ათასობით	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	_
 8	ან	ან	CCONJ	Conj	_	9	cc	_	_
 9	მილიონობით	მილიონობით	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	conj	_	_
-10-11	კვანძთანაც	_	_	_	_	_	_	_	_	
+10-11	კვანძთანაც	_	_	_	_	_	_	_	_
 10	კვანძ	კვანძი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing|PartType=Emp	6	obl	_	_
 11	თან	თან	ADP	Post	AdpType=Post|Case=Dat	10	case	_	_
 12	კი	კი	PART	Part	PartType=Emp	10	advmod	_	SpaceAfter=No
