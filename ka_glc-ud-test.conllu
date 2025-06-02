@@ -12715,3 +12715,19 @@
 19	შესაქმნელად	შესაქმნლად	ADV	Adv	AdvType=Man	5	advmod	_	SpaceAfter=No|Translit=šesakʻmnelad
 20	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
+
+# text = ჰოლანდიური კოლონიური დასახლება ნიუ – ამსტერდამი მოგვიანებით ნიუ – იორკად იქცა.
+# sent_id = 1702.ka
+1	ჰოლანდიური	ჰოლანდიური	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	_
+2	კოლონიური	კოლონიური	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	_
+3	დასახლება	დასახლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	_
+4	ნიუ	ნიუ	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	3	appos	_	NER=LOC
+5	–	–	PUNCT	F	PunctType=Dash	6	punct	_	_
+6	ამსტერდამი	ამსტერდამი	PROPN	Prop	Case=Ess|NameType=Geo|Number=Sing	4	flat:name	_	NER=LOC
+7	მოგვიანებით	მოგვიანებით	ADV	Adv	AdvType=Tim	8	advmod	_	_
+8	ნიუ	ნიუ	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	4	appos	_	NER=LOC
+9	–	–	PUNCT	F	PunctType=Dash	11	punct	_	_
+10	იორკად	იორკი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	11	obl	_	_
+11	იქცა	იქცევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	F	PunctType=Peri	11	punct	_	SpaceAfter=No
+
