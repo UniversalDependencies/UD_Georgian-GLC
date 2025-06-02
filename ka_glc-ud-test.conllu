@@ -12715,3 +12715,29 @@
 19	შესაქმნელად	შესაქმნლად	ADV	Adv	AdvType=Man	5	advmod	_	SpaceAfter=No|Translit=šesakʻmnelad
 20	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
+# text = გზად ძმები ხვდებიან რუბის, "კარგ" დემონს, რომელსაც ინტერესდება სემით და აცხადებს, რომ შეუძლია დინის გადარჩენაში დახმარება.
+# sent_id = 1540.ka
+1	გზად	გზად	ADV	Adv	AdvType=Man	3	obl	_	_
+2	ძმები	ძმა	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	3	nsubj	_	_
+3	ხვდებიან	ხვდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	_
+4	რუბის	რუბი	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	9	nmod	_	NER=PER|SpaceAfter=No
+5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	_
+6	"	"	PUNCT	F	PunctType=Quot	7	punct	_	SpaceAfter=No
+7	კარგ	კარგი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	NER=PER|SpaceAfter=No
+8	"	"	PUNCT	F	PunctType=Quot	7	punct	_	_
+9	დემონს	დემონი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	SpaceAfter=No
+10	,	,	PUNCT	F	PunctType=Comm	12	punct	_	_
+11	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	12	obj	_	_
+12	ინტერესდება	ინტერესდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	4	acl	_	_
+13	სემით	სემი	PROPN	Prop	Case=Ins|NameType=Prs|Number=Sing	12	obl	_	NER=PER
+14	და	და	CCONJ	Conj	_	15	cc	_	_
+15	აცხადებს	აცხადებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	12	conj	_	SpaceAfter=No
+16	,	,	PUNCT	F	PunctType=Comm	18	punct	_	_
+17	რომ	რომ	SCONJ	Conj	_	18	mark	_	_
+18	შეუძლია	შეუძლია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	15	ccomp	_	_
+19	დინის	დინი	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	20	nmod	_	NER=PER
+20-21	გადარჩენაში	_	_	_	_	_	_	_	_
+20	გადარჩენა	გადარჩენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	obl	_	_
+21	ში	ში	ADP	Post	AdpType=Post|Case=Dat	20	case	_	_
+22	დახმარება	დახმარება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	nsubj	_	SpaceAfter=No
+23	.	.	PUNCT	F	PunctType=Peri	3	punct	_	SpaceAfter=No
