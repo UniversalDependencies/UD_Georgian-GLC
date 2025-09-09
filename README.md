@@ -35,6 +35,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: fiction nonfiction
 Lemmas: automatic
 UPOS: automatic with corrections
