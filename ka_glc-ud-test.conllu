@@ -2765,9 +2765,9 @@
 8	წრეები	წრე	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	3	obl	_	Translit=creebi
 9	დან	დან	ADP	Post	AdpType=Post|Case=Ins	8	case	_	Translit=dan
 10	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
-11	ბრალდებულთა	ბრალდებული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	nmod	_	Translit=braldebultʻa
+11	ბრალდებულთა	ბრალდებული	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	12	nmod	_	Translit=braldebultʻa
 12-13	ადვოკატებისგან	_	_	_	_	_	_	_	_
-12	ადვოკატების	ადვოკატი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	conj	_	Translit=advokatebis
+12	ადვოკატების	ადვოკატი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	8	conj	_	Translit=advokatebis
 13	გან	გან	ADP	Post	AdpType=Post|Case=Gen	12	case	_	Translit=gan
 14	როგორც	როგორც	SCONJ	Conj	_	15	mark	_	Translit=rogorcʻ
 15-16	საქართველოში	_	_	_	_	_	_	_	SpaceAfter=No

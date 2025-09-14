@@ -2937,7 +2937,7 @@
 8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
 9	ახალი	ახალი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	Translit=axali
 10	განზომილება	განზომილება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	obj	_	Translit=ganzomileba
-11	შეიტანეს	იტანს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=šeitanes
+11	შეიტანეს	შეაქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=šeitanes
 12	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 13	ის	ის(ი)	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Translit=is
 14	რაც	რაც	SCONJ	Conj	_	13	mark	_	Translit=racʻ
@@ -8642,7 +8642,7 @@
 15	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det:poss	_	Translit=misi
 16	სამოქმედო	სამოქმედო	ADJ	Adj	Case=Nom|Number=Sing	17	amod	_	Translit=samokʻmedo
 17	დებულებანი	დებულება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	18	nsubj	_	Translit=debulebani
-18	შეიტანეს	იტანს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	7	parataxis	_	Translit=šeitanes
+18	შეიტანეს	შეაქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	7	parataxis	_	Translit=šeitanes
 19	რუსეთის	რუსეთი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	20	nmod	_	Translit=rusetʻis
 20	კანონთა	კანონი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	_	Translit=kanontʻa
 21	კრებულის	კრებული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	nmod	_	Translit=krebulis
