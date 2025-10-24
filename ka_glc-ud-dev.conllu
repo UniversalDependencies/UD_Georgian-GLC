@@ -3463,7 +3463,7 @@
 2	განვითარებას	განვითარება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	iobj	_	Translit=ganvitʻarebas
 3	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=didi
 4	სტიმული	სტიმული	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	Translit=stimuli
-5	მისცა	მისცემს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miscʻa
+5	მისცა	აძლევს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miscʻa
 6	კომპიუტერის	კომპიუტერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=kompiuteris
 7	გამოგონებამ	გამოგონება	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	5	nsubj	_	Translit=gamogonebam
 8	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
@@ -8949,7 +8949,7 @@
 2	განვითარებას	განვითარება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	iobj	_	Translit=ganvitʻarebas
 3	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=didi
 4	სტიმული	სტიმული	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	Translit=stimuli
-5	მისცა	მისცემს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miscʻa
+5	მისცა	აძლევს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miscʻa
 6	კომპიუტერის	კომპიუტერი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=kompiuteris
 7	გამოგონებამ	გამოგონება	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	5	nsubj	_	Translit=gamogonebam
 8	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
@@ -10358,7 +10358,7 @@
 4	მეცნიერებას	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	1	acl	_	SpaceAfter=No|Translit=mecʻnierebas
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 6	დასაბამი	დასაბამი	ADJ	Adj	Case=Nom|Number=Sing	7	obj	_	Translit=dasabami
-7	მისცა	მისცემს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miscʻa
+7	მისცა	აძლევს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miscʻa
 8	კოპერნიკის	კოპერნიკი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	9	nmod	_	Translit=kopernikis
 9	პრინციპმა	პრინციპი	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	7	nsubj	_	SpaceAfter=No|Translit=princʻipma
 10	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
@@ -10380,7 +10380,7 @@
 25	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 26	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing	28	nsubj	_	Translit=romelmacʻ
 27	საშუალება	საშუალება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	28	obj	_	Translit=sašualeba
-28	მისცა	მისცემს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	24	acl	_	Translit=miscʻa
+28	მისცა	აძლევს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	24	acl	_	Translit=miscʻa
 29	ადამიანებს	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	30	iobj	_	Translit=adamianebs
 30	გარკვეულიყვნენ	ერკვევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pqp|Voice=Pass	27	acl	_	Translit=garkveuliqvnen
 31	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	32	det	_	Translit=am

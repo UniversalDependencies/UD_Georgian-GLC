@@ -3454,7 +3454,7 @@
 10	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	11	det	_	Translit=mis
 11	მომხმარებელს	მომხმარებელი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	13	iobj	_	Translit=momxmarebels
 12	საშუალებას	საშუალება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obj	_	Translit=sašualebas
-13	აძლევს	მისცემს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	6	acl	_	Translit=ażlevs
+13	აძლევს	აძლევს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	6	acl	_	Translit=ażlevs
 14	ეფექტურად	ეფექტურად	ADV	Adv	_	15	advmod	_	Translit=epʻekʻturad
 15	მართოს	მართავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	13	advcl	_	Translit=martʻos
 16	ფინანსების	ფინანსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	17	nmod	_	Translit=pʻinansebis
@@ -9722,7 +9722,7 @@
 20	მუზეუმის	მუზეუმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=muzeumis
 21	კურატორებს	კურატორი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	23	iobj	_	Translit=kuratorebs
 22	შესაძლებლობა	შესაძლებლობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	23	obj	_	Translit=šesażlebloba
-23	მისცა	მისცემს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	13	parataxis	_	Translit=miscʻa
+23	მისცა	აძლევს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	13	parataxis	_	Translit=miscʻa
 24	ეყიდა	ყიდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	23	xcomp	_	Translit=eqida
 25	ძვირფასი	ძვირფასი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	27	amod	_	Translit=żvirpʻasi
 26	მხატვრული	მხატვრული	ADJ	Adj	Case=Nom|Number=Sing	27	amod	_	Translit=mxatvruli
