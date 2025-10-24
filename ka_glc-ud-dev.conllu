@@ -40,7 +40,7 @@
 9	გამოცდილება	გამოცდილება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	conj	_	SpaceAfter=No|Translit=gamocʻdileba
 10	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 11	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	12	obj	_	Translit=romelsacʻ
-12	იყენებენ	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	6	acl	_	Translit=iqeneben
+12	იყენებენ	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	Translit=iqeneben
 13	გარკვეული	გარკვეული	ADJ	Adj	Case=Gen|Number=Sing	14	amod	_	Translit=garkveuli
 14	საგნების	საგანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	18	obl	_	Translit=sagnebis
 15	და	და	CCONJ	Conj	_	17	cc	_	Translit=da
