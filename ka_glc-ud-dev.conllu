@@ -294,7 +294,7 @@
 12	ფორმის	ფორმა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=pʻormis
 13	(	(	PUNCT	F	PunctType=Brck	15	punct	_	SpaceAfter=No|Translit=(
 14	ღერძული	ღერძული	ADJ	Adj	Case=Ins|Number=Sing	15	amod	_	Translit=ġerżuli
-15	სიმეტრიით	სიმეტრია	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	12	obl	_	SpaceAfter=No|Translit=simetriitʻ
+15	სიმეტრიით	სიმეტრია	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	12	nmod	_	SpaceAfter=No|Translit=simetriitʻ
 16	)	)	PUNCT	F	PunctType=Brck	15	punct	_	Translit=)
 17	საგნის	საგანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	conj	_	Translit=sagnis
 18	დეტალი	დეტალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=detali
