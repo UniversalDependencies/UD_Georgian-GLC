@@ -7088,7 +7088,7 @@
 7	ერთიან	ერთიანი	ADJ	Adj	Case=Dat|Number=Sing	9	amod	_	Translit=ertʻian
 8	ტექნოლოგიურ	ტექნოლოგიური	ADJ	Adj	Case=Dat|Number=Sing	9	amod	_	Translit=tekʻnologiur
 9-10	სისტემაში	_	_	_	_	_	_	_	_
-9	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=sistema
+9	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=sistema
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ši
 11	სხვადასხვა	სხვადასხვა	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=sxvadasxva
 12	სახის	სახე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=saxis
@@ -7389,7 +7389,7 @@
 7	ნივთიერები	ნივთიერება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	Translit=nivtʻierebi
 8	დან	დან	ADP	Post	AdpType=Post|Case=Ins	7	case	_	Translit=dan
 9-10	მეორეზე	_	_	_	_	_	_	_	_
-9	მეორე	ორი	NUM	Num	Case=Dat|NumType=Ord	11	obl	_	Translit=meore
+9	მეორე	ორი	NUM	Num	Case=Dat|NumType=Ord	4	obl	_	Translit=meore
 10	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ze
 11	გარდაქმნისას	გარდაქმნა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	SpaceAfter=No|Translit=gardakʻmnisas
 12	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
@@ -7401,7 +7401,7 @@
 2	ნივთიერებების	ნივთიერება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	10	nmod	_	Translit=nivtʻierebebis
 3	(	(	PUNCT	F	PunctType=Brck	4	punct	_	SpaceAfter=No|Translit=(
 4-5	დროზოფილებზე	_	_	_	_	_	_	_	_
-4	დროზოფილებ	დროზოფილა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	7	obl	_	Translit=drozopʻileb
+4	დროზოფილებ	დროზოფილა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	7	nmod	_	Translit=drozopʻileb
 5	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ze
 6	იოდის	იოდი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=iodis
 7	მოქმედება	მოქმედება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	obl	_	SpaceAfter=No|Translit=mokʻmedeba
@@ -7611,7 +7611,7 @@
 28	უმცირესი	მცირე	ADJ	Adj	Case=Nom|Degree=Sup|Number=Sing	29	amod	_	Translit=umcʻiresi
 29	ერთეული	ერთეული	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=ertʻeuli
 30	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
-31	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	35	obj	_	Translit=romelsacʻ
+31	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	35	iobj	_	Translit=romelsacʻ
 32	ქიმიური	ქიმიური	ADJ	Adj	Case=Gen|Number=Sing	33	amod	_	Translit=kʻimiuri
 33	ელემენტის	ელემენტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	34	nmod	_	Translit=elementis
 34	თვისებები	თვისება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	35	obj	_	Translit=tʻvisebebi
