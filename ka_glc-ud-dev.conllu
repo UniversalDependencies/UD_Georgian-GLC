@@ -885,7 +885,7 @@
 11	სრულდება	სრულდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	8	acl	_	Translit=sruldeba
 12	სინათლის	სინათლე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=sinatʻlis
 13-14	სიჩქარესთან	_	_	_	_	_	_	_	_
-13	სიჩქარეს	სიჩქარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=sičʻkʻares
+13	სიჩქარეს	სიჩქარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	nmod	_	Translit=sičʻkʻares
 14	თან	თან	ADP	Post	AdpType=Post|Case=Dat	13	case	_	Translit=tʻan
 15	შედარებით	შედარება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	11	obl	_	Translit=šedarebitʻ
 16	მცირე	მცირე	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	17	amod	_	Translit=mcʻire
@@ -952,7 +952,7 @@
 6	უძრავ	უძრავი	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=użrav
 7	კონსტრუქციებს	კონსტრუქცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	2	obj	_	SpaceAfter=No|Translit=konstrukʻcʻiebs
 8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-9	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	obl	_	Translit=matʻ
+9	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	nmod	_	Translit=matʻ
 10	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=šoris
 11	საავტომობილო	საავტომობილო	ADJ	Adj	Case=Dat|Number=Sing	12	amod	_	Translit=saavtomobilo
 12	გზებს	გზა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	7	obj	_	SpaceAfter=No|Translit=gzebs
