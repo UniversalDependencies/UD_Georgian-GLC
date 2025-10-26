@@ -4490,7 +4490,7 @@
 19	არისტოტელეს	არისტოტელე	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	16	conj	_	Translit=aristoteles
 20	თან	თან	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=tʻan
 21	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
-22	სხვ	სხვა	NOUN	Noun	Abbr=Yes|PronType=Tot	16	conj	_	SpaceAfter=No|Translit=sxv
+22	სხვ	სხვა	PRON	Pron	Abbr=Yes|PronType=Tot	16	conj	_	SpaceAfter=No|Translit=sxv
 23	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = wiki_biophysics_00507
