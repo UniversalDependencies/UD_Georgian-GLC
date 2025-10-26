@@ -4809,7 +4809,7 @@
 39	საბუნებისმეტყველო	საბუნებისმეტყველო	ADJ	Adj	Case=Gen|Number=Sing	40	amod	_	Translit=sabunebismetqvelo
 40	მეცნიერებების	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	42	nmod	_	Translit=mecʻnierebebis
 41	(	(	PUNCT	F	PunctType=Brck	42	punct	_	SpaceAfter=No|Translit=(
-42	ასტრონომია	ასტრონომია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	37	obj	_	SpaceAfter=No|Translit=astronomia
+42	ასტრონომია	ასტრონომია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	52	nmod	_	SpaceAfter=No|Translit=astronomia
 43	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
 44	ბიოლოგია	ბიოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	42	conj	_	SpaceAfter=No|Translit=biologia
 45	,	,	PUNCT	F	PunctType=Comm	46	punct	_	Translit=,
