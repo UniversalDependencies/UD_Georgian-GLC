@@ -10581,7 +10581,7 @@
 12	უბნებ	უბანი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	29	obl	_	Translit=ubneb
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
 14	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
-15	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur	19	nsubj	_	Translit=romeltʻa
+15	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	19	nsubj	_	Translit=romeltʻa
 16	ზომა	ზომა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	nsubj	_	Translit=zoma
 17	ასეულობით	ასეულობით	ADV	Adv	AdvType=Deg	19	advmod	_	Translit=aseulobitʻ
 18	მეგაპარსეკს	მეგაპარსეკი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obj	_	Translit=megaparseks
@@ -10833,7 +10833,7 @@
 9	გარდაქმნა	გარდაქმნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=gardakʻmna
 10	ჩვეულებრივ	ჩვეულებრივი	ADJ	Adj	Case=Ess|Number=Sing	11	amod	_	Translit=čʻveulebriv
 11	საგამოძიებო	საგამოძიებო	ADJ	Adj	Case=Ess|Number=Sing	12	amod	_	Translit=sagamożiebo
-12	მოქმედებად	მოქმედება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	9	obl	_	SpaceAfter=No|Translit=mokʻmedebad
+12	მოქმედებად	მოქმედება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	5	obl	_	SpaceAfter=No|Translit=mokʻmedebad
 13	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = wiki_criminal_00753
@@ -11225,7 +11225,7 @@
 13	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	14	nsubj	_	Translit=romelicʻ
 14	ეყრდნობა	ეყრდნობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	11	acl	_	Translit=eqrdnoba
 15	ძირითად	ძირითადი	ADJ	Adj	Case=Ins|Number=Sing	16	amod	_	Translit=żiritʻad
-16	მტკიცებით	მტკიცება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	obl	_	Translit=mtkicʻebitʻ
+16	მტკიცებით	მტკიცება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	nmod	_	Translit=mtkicʻebitʻ
 17	სტანდარტებს	სტანდარტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	14	obj	_	Translit=standartebs
 18	—	—	PUNCT	F	PunctType=Dash	17	punct	_	Translit=—
 19	გონივრული	გონივრული	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=gonivruli
@@ -11332,7 +11332,7 @@
 15	გახსნა	გახსნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	SpaceAfter=No|Translit=gaxsna
 16	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 17	დანაშაულის	დანაშაული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	nmod	_	Translit=današaulis
-18	აღკვეთისა	აღკვეთა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	obl	_	Translit=aġkvetʻisa
+18	აღკვეთისა	აღკვეთა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	obl	_	Translit=aġkvetʻisa
 19	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
 20-21	თავიდან	_	_	_	_	_	_	_	_
 20	თავი	თავი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	22	obl	_	Translit=tʻavi
