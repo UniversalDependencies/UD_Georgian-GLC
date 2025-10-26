@@ -2883,7 +2883,7 @@
 20	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 21	მესოპოტამიასა	მესოპოტამია	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	12	conj	_	Translit=mesopotamiasa
 22	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
-23	სხვ	სხვა	PRON	Pron	Abbr=Yes	12	conj	_	SpaceAfter=No|Translit=sxv.
+23	სხვ	სხვა	PRON	Pron	Abbr=Yes|PronType=Ind	12	conj	_	SpaceAfter=No|Translit=sxv.
 24	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = wiki_biography_00443
@@ -3003,7 +3003,7 @@
 17	გახადა	ხდის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=gaxada
 18	ლიტერატურულ	ლიტერატურული	ADJ	Adj	Case=Dat|Number=Sing	19	amod	_	Translit=literaturul
 19-20	ფორმებთან	_	_	_	_	_	_	_	_
-19	ფორმებ	ფორმა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	21	obl	_	Translit=pʻormeb
+19	ფორმებ	ფორმა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	21	nmod	_	Translit=pʻormeb
 20	თან	თან	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=tʻan
 21	შედარებით	შედარება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	obl	_	SpaceAfter=No|Translit=šedarebitʻ
 22	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
@@ -3072,7 +3072,7 @@
 14	-	-	PUNCT	F	PunctType=Dash	13	punct	_	Translit=-
 15	ბიოგრაფიები	ბიოგრაფია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	26	nsubj	_	Translit=biograpʻiebi
 16-17	მხატვრებზე	_	_	_	_	_	_	_	SpaceAfter=No
-16	მხატვრებ	მხატვარი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	15	obl	_	Translit=mxatvreb
+16	მხატვრებ	მხატვარი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	15	nmod	_	Translit=mxatvreb
 17	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	16	case	_	Translit=ze
 18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 19	მოქანდაკეებსა	მოქანდაკე	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	16	conj	_	Translit=mokʻandakeebsa
@@ -3211,7 +3211,7 @@
 1	კომპიუტერული	კომპიუტერული	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=kompiuteruli
 2	ტექნიკის	ტექნიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=tekʻnikis
 3	განვითარების	განვითარება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=ganvitʻarebis
-4	წყალობით	წყალობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	5	obl	_	Translit=cqalobitʻ
+4	წყალობით	წყალობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	9	obl	_	Translit=cqalobitʻ
 5-6	ავტორთათვის	_	_	_	_	_	_	_	_
 5	ავტორთა	ავტორი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	9	obl	_	Translit=avtortʻa
 6	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=tʻvis
@@ -3380,7 +3380,7 @@
 3	მოეხდინათ	ახდენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|Voice=Act	1	ccomp	_	Translit=moexdinatʻ
 4	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det:poss	_	Translit=misi
 5	კლასიფიცირება	კლასიფიცირება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	_	Translit=klasipʻicʻireba
-6	თემებად	თემა	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	5	obl	_	SpaceAfter=No|Translit=tʻemebad
+6	თემებად	თემა	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	5	nmod	_	SpaceAfter=No|Translit=tʻemebad
 7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 8	შენახვა	შენახვა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	conj	_	SpaceAfter=No|Translit=šenaxva
 9	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
@@ -3420,7 +3420,7 @@
 6	მეთოდებით	მეთოდი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	4	obl	_	SpaceAfter=No|Translit=metʻodebitʻ
 7	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 8	რომლებიც	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	10	nsubj:pass	_	Translit=romlebicʻ
-9	თავდაპირველად	თავდაპირვლად	ADV	Adv	AdvType=Tim	17	obl	_	Translit=tʻavdapirvelad
+9	თავდაპირველად	თავდაპირვლად	ADV	Adv	AdvType=Tim	10	obl	_	Translit=tʻavdapirvelad
 10	გამოიყენებოდა	იყენებაა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Pass	6	acl	_	Translit=gamoiqeneboda
 11	ატომური	ატომური	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=atomuri
 12	ფიზიკისა	ფიზიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=pʻizikisa
@@ -3490,7 +3490,7 @@
 13	აფორმირებს	აფორმირებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=apʻormirebs
 14	ფიგურას	ფიგურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obj	_	SpaceAfter=No|Translit=pʻiguras
 15	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
-16	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	19	obj	_	Translit=romelsacʻ
+16	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	19	iobj	_	Translit=romelsacʻ
 17	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	18	det	_	Translit=es
 18	patatoïde-ი	patatoïdeი	X	Foreign	Foreign=Yes	19	nsubj	_	Translit=patatoïde-i
 19	შეესაბამება	ესაბამება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	14	acl	_	Translit=šeesabameba
