@@ -3529,7 +3529,7 @@
 23	ინფორმაციას	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	obj	_	Translit=inpʻormacʻias
 24	მსოფლიოს	მსოფლიო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	Translit=msopʻlios
 25-26	ბიომრავალფეროვნებაზე	_	_	_	_	_	_	_	SpaceAfter=No
-25	ბიომრავალფეროვნება	ბიომრავალფეროვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	23	obl	_	Translit=biomravalpʻerovneba
+25	ბიომრავალფეროვნება	ბიომრავალფეროვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	obl	_	Translit=biomravalpʻerovneba
 26	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	25	case	_	Translit=ze
 27	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
 
@@ -3570,7 +3570,7 @@
 8	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	10	det	_	Translit=qvela
 9	ცნობილ	ცნობილი	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=cʻnobil
 10-11	ფორმასთან	_	_	_	_	_	_	_	_
-10	ფორმას	ფორმა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=pʻormas
+10	ფორმას	ფორმა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	nmod	_	Translit=pʻormas
 11	თან	თან	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=tʻan
 12	ღია	ღია	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	13	amod	_	Translit=ġia
 13	წვდომის	წვდომა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=cvdomis
