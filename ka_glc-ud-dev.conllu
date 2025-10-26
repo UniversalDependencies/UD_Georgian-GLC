@@ -1430,7 +1430,7 @@
 15	დაკავშირებით	დაკავშირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	obl	_	Translit=dakavširebitʻ
 16	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=saertʻašoriso
 17	სამართლის	სამართალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	nmod	_	Translit=samartʻlis
-18	სუბიექტებს	სუბიექტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	20	obl	_	Translit=subiekʻtebs
+18	სუბიექტებს	სუბიექტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	20	nmod	_	Translit=subiekʻtebs
 19	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=šoris
 20	ურთიერთობათა	ურთიერთობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	23	nmod	_	Translit=urtʻiertʻobatʻa
 21	მარეგულირებელი	მარეგულირებელი	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=maregulirebeli
@@ -1580,7 +1580,7 @@
 # text = აზერბაიჯანში ორდონიანი საბანკო სისტემიდან მეორე დონეს კომერციული ბანკები მიეკუთვნება.
 # translit = azerbaijanši ordoniani sabanko sistemidan meore dones komercʻiuli bankebi miekutʻvneba.
 1-2	აზერბაიჯანში	_	_	_	_	_	_	_	_
-1	აზერბაიჯან	აზერბაიჯანი	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	5	obl	_	Translit=azerbaijan
+1	აზერბაიჯან	აზერბაიჯანი	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	11	obl	_	Translit=azerbaijan
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
 3	ორდონიანი	ორდონიანი	ADJ	Adj	Case=Ins|Number=Sing	5	amod	_	Translit=ordoniani
 4	საბანკო	საბანკო	ADJ	Adj	Case=Ins|Number=Sing	5	amod	_	Translit=sabanko
@@ -1660,7 +1660,7 @@
 14	ასევე	ასევე	ADV	Adv	AdvType=Man	15	advmod	_	Translit=aseve
 15	რთული	რთული	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	7	advcl	_	Translit=rtʻuli
 16	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	15	cop	_	Translit=iqo
-17	თავად	თავი	PRON	Pron	Case=Ess|Number=Sing|Person=3|Poss=Yes	18	det	_	Translit=tʻavad
+17	თავად	თავი	PRON	Pron	Case=Ess|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	Translit=tʻavad
 18-19	ბანკებისთვისაც	_	_	_	_	_	_	_	_
 18	ბანკების	ბანკი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur|PartType=Emp	15	obl	_	Translit=bankebis
 19	თვისაც	თვის	ADP	Post	AdpType=Post|Case=Gen	18	case	_	Translit=tʻvisacʻ
