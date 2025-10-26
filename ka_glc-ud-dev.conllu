@@ -6160,7 +6160,7 @@
 58	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	5	conj	_	Translit=šeiscavlis
 59	დამოკიდებულებას	დამოკიდებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	58	obj	_	Translit=damokidebulebas
 60	ფიტოცენოზების	ფიტოცენოზი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	61	nmod	_	Translit=pʻitocʻenozebis
-61	აგებულებასა	აგებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	59	obl	_	Translit=agebulebasa
+61	აგებულებასა	აგებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	58	obl	_	Translit=agebulebasa
 62	და	და	CCONJ	Conj	_	63	cc	_	Translit=da
 63	გარემოს	გარემო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	61	conj	_	Translit=garemos
 64	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	61	case	_	SpaceAfter=No|Translit=šoris
@@ -6181,7 +6181,7 @@
 10	შეუქცევად	შეუქცევადი	ADJ	Adj	Case=Dat|Number=Sing	2	conj	_	Translit=šeukʻcʻevad
 11	ცვლილებებს	ცვლილება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	16	obj	_	Translit=cʻvlilebebs
 12-13	დროში	_	_	_	_	_	_	_	SpaceAfter=No
-12	დრო	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obl	_	Translit=dro
+12	დრო	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obl	_	Translit=dro
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
 14	;	;	PUNCT	F	PunctType=Semi	11	punct	_	Translit=;
 15	მიზნად	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	16	obl	_	Translit=miznad
@@ -6233,7 +6233,7 @@
 8	მოძღვრება	მოძღვრება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj:pass	_	Translit=możġvreba
 9	მცენარეული	მცენარეული	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=mcʻenareuli
 10	საფარის	საფარი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=sapʻaris
-11	უწყვეტობის	უწყვეტობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	obl	_	Translit=ucqvetobis
+11	უწყვეტობის	უწყვეტობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=ucqvetobis
 12	(	(	PUNCT	F	PunctType=Brck	13	punct	_	SpaceAfter=No|Translit=(
 13	კონტინუუმის	კონტინუუმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	appos	_	SpaceAfter=No|Translit=kontinuumis
 14	)	)	PUNCT	F	PunctType=Brck	13	punct	_	Translit=)
@@ -6543,7 +6543,7 @@
 6	კონცეფცია	კონცეფცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj:pass	_	Translit=koncʻepʻcʻia
 7	ონტოგენეზის	ონტოგენეზი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=ontogenezis
 8	კლონური	კლონური	ADJ	Adj	Case=Gen|Number=Sing	9	amod	_	Translit=klonuri
-9	საფუძვლების	საფუძველი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	obl	_	Translit=sapʻużvlebis
+9	საფუძვლების	საფუძველი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	Translit=sapʻużvlebis
 10	შესახებ	შესახებ	ADP	Post	AdpType=Post|Case=Gen	9	case	_	SpaceAfter=No|Translit=šesaxeb
 11	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 12	რომლის	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	13	det	_	Translit=romlis
@@ -7043,13 +7043,13 @@
 4	არსებობის	არსებობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=arsebobis
 5	პირველ	ერთი	NUM	Num	Case=Dat|Number=Sing|NumType=Ord	6	nummod	_	Translit=pirvel
 6-7	ეტაპზე	_	_	_	_	_	_	_	_
-6	ეტაპ	ეტაპი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	32	obl	_	Translit=etap
+6	ეტაპ	ეტაპი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	33	obl	_	Translit=etap
 7	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=ze
 8	(	(	PUNCT	F	PunctType=Brck	6	punct	_	SpaceAfter=No|Translit=(
 9	XVIII	18	NUM	Num	NumForm=Roman|NumType=Card	10	nummod	_	Translit=XVIII
 10	ს-ის	საუკუნე	NOUN	Noun	Abbr=Yes|Case=Gen|Number=Sing	11	nmod	_	Translit=s-is
 11-12	ბოლოდან	_	_	_	_	_	_	_	_
-11	ბოლო	ბოლო	ADJ	Adj	Case=Ins|Number=Sing	32	obl	_	Translit=bolo
+11	ბოლო	ბოლო	ADJ	Adj	Case=Ins|Number=Sing	33	obl	_	Translit=bolo
 12	დან	დან	ADP	Post	AdpType=Post|Case=Ins	11	case	_	Translit=dan
 13	XX	20	NUM	Num	NumForm=Roman|NumType=Card	14	nummod	_	Translit=XX
 14	ს-ის	საუკუნე	NOUN	Noun	Abbr=Yes|Case=Gen|Number=Sing	15	nmod	_	Translit=s-is
