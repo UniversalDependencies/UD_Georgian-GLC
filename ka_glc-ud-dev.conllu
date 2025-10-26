@@ -10410,7 +10410,7 @@
 11	თან	თან	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=tʻan
 12	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 13-14	რომელშიც	_	_	_	_	_	_	_	_
-13	რომელ	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	16	obl	_	Translit=romel
+13	რომელ	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Rel	19	obl	_	Translit=romel
 14	შიც	ში	ADP	Post	AdpType=Post|Case=Dat	13	case	_	Translit=šicʻ
 15	მთელი	მთელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	16	amod	_	Translit=mtʻeli
 16	მატერია	მატერია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	19	nsubj	_	Translit=materia
@@ -10452,7 +10452,7 @@
 27	ში	ში	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=ši
 28	მიღწეული	მიღწეული	ADJ	Adj	Case=Gen|Number=Sing	29	amod	_	Translit=miġceuli
 29-30	წარმატებისათვის	_	_	_	_	_	_	_	SpaceAfter=No
-29	წარმატებისა	წარმატება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	obl	_	Translit=carmatebisa
+29	წარმატებისა	წარმატება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	obl	_	Translit=carmatebisa
 30	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	29	case	_	Translit=tʻvis
 31	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
@@ -10516,7 +10516,7 @@
 20	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	19	cop	_	Translit=a
 21	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 22-23	რომელშიც	_	_	_	_	_	_	_	_
-22	რომელ	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	24	obl	_	Translit=romel
+22	რომელ	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	30	obl	_	Translit=romel
 23	შიც	ში	ADP	Post	AdpType=Post|Case=Dat	22	case	_	Translit=šicʻ
 24	ნივთიერება	ნივთიერება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	30	nsubj	_	Translit=nivtʻiereba
 25-26	სივრცეში	_	_	_	_	_	_	_	_
@@ -10578,7 +10578,7 @@
 10	სივრცის	სივრცე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=sivrcʻis
 11	იმ	ის	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	12	det	_	Translit=im
 12-13	უბნებში	_	_	_	_	_	_	_	SpaceAfter=No
-12	უბნებ	უბანი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	7	obl	_	Translit=ubneb
+12	უბნებ	უბანი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	29	obl	_	Translit=ubneb
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
 14	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 15	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur	19	nsubj	_	Translit=romeltʻa
