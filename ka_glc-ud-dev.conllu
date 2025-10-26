@@ -2359,14 +2359,14 @@
 # text = "R" ჯგუფი გარდაქმნის თითოეულ ამინომჟავას განსხვავებულად, ახდენს გვერდით ჯაჭვზე მნიშვნელოვან ზეგავლენას და ცილას განსაზღვრულ (განსაკუთრებულ) სამგანზომილებიან კონფორმაციას ანიჭებს.
 # translit = "R" jgupʻi gardakʻmnis tʻitʻoeul aminomžavas gansxvavebulad, axdens gverditʻ jačvze mnišvnelovan zegavlenas da cʻilas gansazġvrul(gansakutʻrebul) samganzomilebian konpʻormacʻias aničebs.
 1	"R"	R	X	Foreign	Foreign=Yes	2	nmod	_	Translit="R"
-2	ჯგუფი	ჯგუფი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=jgupʻi
-3	გარდაქმნის	გარდაქმნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=gardakʻmnis
+2	ჯგუფი	ჯგუფი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=jgupʻi
+3	გარდაქმნის	გარდაქმნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=gardakʻmnis
 4	თითოეულ	თითოეული	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	5	det	_	Translit=tʻitʻoeul
 5	ამინომჟავას	ამინომჟავა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	Translit=aminomžavas
-6	განსხვავებულად	განსხვავებულად	ADV	Adv	AdvType=Man	8	advmod	_	SpaceAfter=No|Translit=gansxvavebulad
+6	განსხვავებულად	განსხვავებულად	ADV	Adv	AdvType=Man	3	advmod	_	SpaceAfter=No|Translit=gansxvavebulad
 7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
-8	ახდენს	ახდენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=axdens
-9	გვერდით	გვერდით	ADV	Adv	AdvType=Loc	8	obl	_	Translit=gverditʻ
+8	ახდენს	ახდენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	3	conj	_	Translit=axdens
+9	გვერდით	გვერდით	ADV	Adv	AdvType=Loc	10	obl	_	Translit=gverditʻ
 10-11	ჯაჭვზე	_	_	_	_	_	_	_	_
 10	ჯაჭვ	ჯაჭვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=jačv
 11	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ze
