@@ -1826,7 +1826,7 @@
 24	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 25	მოჭრის	მოჭრა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	conj	_	Translit=močris
 26-27	პროცესში	_	_	_	_	_	_	_	_
-26	პროცეს	პროცესი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	obl	_	Translit=procʻes
+26	პროცეს	პროცესი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	nmod	_	Translit=procʻes
 27	ში	ში	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=ši
 28	ჩაშვება	ჩაშვება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	nsubj	_	SpaceAfter=No|Translit=čʻašveba
 29	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
@@ -2098,7 +2098,7 @@
 21	აქვთ	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	9	parataxis	_	Translit=akʻvtʻ
 22	მის	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det:poss	_	Translit=mis
 23-24	საქმიანობაში	_	_	_	_	_	_	_	_
-23	საქმიანობა	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	26	obl	_	Translit=sakʻmianoba
+23	საქმიანობა	საქმიანობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	obl	_	Translit=sakʻmianoba
 24	ში	ში	ADP	Post	AdpType=Post|Case=Dat	23	case	_	Translit=ši
 25	ჩარევის	ჩარევა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=čʻarevis
 26	უფლება	უფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	21	obj	_	SpaceAfter=No|Translit=upʻleba
@@ -2284,7 +2284,7 @@
 2	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	3	det	_	Translit=sxva
 3	ასპექტი	ასპექტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=aspekʻti
 4	მოიცავს	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=moicʻavs
-5	გენეტიკით	გენეტიკა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	Translit=genetikitʻ
+5	გენეტიკით	გენეტიკა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	Translit=genetikitʻ
 6	კოდს	კოდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	Translit=kods
 7	(	(	PUNCT	F	PunctType=Brck	8	punct	_	SpaceAfter=No|Translit=(
 8	დნმ	დეზოქსირიბონუკლეინის_მჟავა	NOUN	Noun	Abbr=Yes	6	appos	_	SpaceAfter=No|Translit=dnm
@@ -2327,7 +2327,7 @@
 7	გლიცეროლის	გლიცეროლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=glicʻerolis
 8	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	9	det	_	Translit=sxva
 9-10	მოლეკულასთან	_	_	_	_	_	_	_	_
-9	მოლეკულას	მოლეკულა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obl	_	Translit=molekulas
+9	მოლეკულას	მოლეკულა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=molekulas
 10	თან	თან	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=tʻan
 11	კომბინაციით	კომბინაცია	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	3	obl	_	SpaceAfter=No|Translit=kombinacʻiitʻ
 12	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
@@ -2362,11 +2362,11 @@
 2	ჯგუფი	ჯგუფი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=jgupʻi
 3	გარდაქმნის	გარდაქმნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=gardakʻmnis
 4	თითოეულ	თითოეული	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	5	det	_	Translit=tʻitʻoeul
-5	ამინომჟავას	ამინომჟავა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obj	_	Translit=aminomžavas
+5	ამინომჟავას	ამინომჟავა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	Translit=aminomžavas
 6	განსხვავებულად	განსხვავებულად	ADV	Adv	AdvType=Man	8	advmod	_	SpaceAfter=No|Translit=gansxvavebulad
 7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 8	ახდენს	ახდენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=axdens
-9	გვერდით	გვერდით	ADV	Adv	AdvType=Loc	10	obl	_	Translit=gverditʻ
+9	გვერდით	გვერდით	ADV	Adv	AdvType=Loc	8	obl	_	Translit=gverditʻ
 10-11	ჯაჭვზე	_	_	_	_	_	_	_	_
 10	ჯაჭვ	ჯაჭვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=jačv
 11	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ze
