@@ -2366,7 +2366,7 @@
 6	განსხვავებულად	განსხვავებულად	ADV	Adv	AdvType=Man	3	advmod	_	SpaceAfter=No|Translit=gansxvavebulad
 7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 8	ახდენს	ახდენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	3	conj	_	Translit=axdens
-9	გვერდით	გვერდით	ADV	Adv	AdvType=Loc	10	obl	_	Translit=gverditʻ
+9	გვერდით	გვერდით	ADV	Adv	AdvType=Loc	8	obl	_	Translit=gverditʻ
 10-11	ჯაჭვზე	_	_	_	_	_	_	_	_
 10	ჯაჭვ	ჯაჭვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=jačv
 11	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ze
