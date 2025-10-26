@@ -3525,7 +3525,7 @@
 19	ინტერნეტ-საიტი	ინტერნეტ-საიტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	conj	_	SpaceAfter=No|Translit=internet-saiti
 20	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 21	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	22	nsubj	_	Translit=romelicʻ
-22	აგროვებს	აგროვებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	17	acl	_	Translit=agrovebs
+22	აგროვებს	აგროვებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	17	acl:relcl	_	Translit=agrovebs
 23	ინფორმაციას	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	obj	_	Translit=inpʻormacʻias
 24	მსოფლიოს	მსოფლიო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	Translit=msopʻlios
 25-26	ბიომრავალფეროვნებაზე	_	_	_	_	_	_	_	SpaceAfter=No
