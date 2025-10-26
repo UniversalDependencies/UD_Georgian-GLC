@@ -11424,7 +11424,7 @@
 7	საშუალებები	საშუალება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	5	conj	_	SpaceAfter=No|Translit=sašualebebitʻ
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9	ტაქტიკური	ტაქტიკური	ADJ	Adj	Case=Ins|Number=Sing	10	amod	_	Translit=takʻtikuri
-10	ხერხებითა	ხერხი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	5	obl	_	Translit=xerxebitʻa
+10	ხერხებითა	ხერხი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	5	nmod	_	Translit=xerxebitʻa
 11	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 12	ცალკეული	ცალკეული	ADJ	Adj	Case=Gen|Number=Sing	13	amod	_	Translit=cʻalkeuli
 13	სახის	სახე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=saxis
@@ -11466,7 +11466,7 @@
 7	პოლიციის	პოლიცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=policʻiis
 8	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Gen|Number=Sing	9	amod	_	Translit=saertʻašoriso
 9	კომისიის	კომისია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=komisiis
-10	შექმნის	შექმნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	obl	_	Translit=šekʻmnis
+10	შექმნის	შექმნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=šekʻmnis
 11	შესახებ	შესახებ	ADP	Post	AdpType=Post|Case=Gen	10	case	_	SpaceAfter=No|Translit=šesaxeb
 12	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
@@ -11484,7 +11484,7 @@
 8	შეხება	შეხება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	obj	_	Translit=šexeba
 9	დანაშაულის	დანაშაული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=današaulis
 10-11	გამოწვევასთან	_	_	_	_	_	_	_	SpaceAfter=No
-10	გამოწვევას	გამოწვევა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=gamocvevas
+10	გამოწვევას	გამოწვევა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	nmod	_	Translit=gamocvevas
 11	თან	თან	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=tʻan
 12	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 13-14	გასწორებასთან	_	_	_	_	_	_	_	_
@@ -11547,7 +11547,7 @@
 21	პირის	პირი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	22	nmod	_	Translit=piris
 22	სისხლისსამართლებრივი	სისხლისსამართლებრივი	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=sisxlissamartʻlebrivi
 23-24	პასუხისმგებლობისგან	_	_	_	_	_	_	_	_
-23	პასუხისმგებლობის	პასუხისმგებლობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	obl	_	Translit=pasuxismgeblobis
+23	პასუხისმგებლობის	პასუხისმგებლობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	obl	_	Translit=pasuxismgeblobis
 24	გან	გან	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=gan
 25	გათავისუფლება	გათავისუფლება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	nsubj	_	SpaceAfter=No|Translit=gatʻavisupʻleba
 26	.	.	PUNCT	F	PunctType=Peri	12	punct	_	Translit=.
@@ -11633,7 +11633,7 @@
 6	1999	1999	NUM	Num	NumForm=Digit|NumType=Card	7	nummod	_	Translit=1999
 7	წლის	წელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=clis
 8	22	22	NUM	Num	NumForm=Digit|NumType=Card	9	nummod	_	Translit=22
-9	ივლისის	ივლისი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	obl:tmod	_	Translit=ivlisis
+9	ივლისის	ივლისი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=ivlisis
 10-11	კანონში	_	_	_	_	_	_	_	_
 10	კანონ	კანონი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=kanon
 11	ში	ში	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ši
@@ -11953,11 +11953,11 @@
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	Translit=romelicʻ
 10	შეისწავლის	სწავლობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	7	acl	_	Translit=šeiscavlis
-11	ხელოვნებას	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=xelovnebas
+11	ხელოვნებას	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	_	Translit=xelovnebas
 12	–	–	PUNCT	F	PunctType=Dash	15	punct	_	Translit=–
 13	საზოგადოების	საზოგადოება	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	15	nmod	_	Translit=sazogadoebis
 14	მხატვრულ	მხატვრული	ADJ	Adj	Case=Dat|Number=Sing	15	amod	_	Translit=mxatvrul
-15	კულტურას	კულტურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	_	Translit=kulturas
+15	კულტურას	კულტურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	conj	_	Translit=kulturas
 16-17	მთლიანობაში	_	_	_	_	_	_	_	_
 16	მთლიანობა	მთლიანობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obl	_	Translit=mtʻlianoba
 17	ში	ში	ADP	Post	AdpType=Post|Case=Dat	16	case	_	Translit=ši
@@ -12030,7 +12030,7 @@
 # text = ხელოვნებათმცოდნეობა მეცნიერებად XVI - XIX საუკუნეებში ჩამოყალიბდა, ის ჩაისახა ანტიკურ ხანაში ბერძენი და რომაელი მოაზროვნეების და მწერლების შემოქმედებაში.
 # translit = xelovnebatʻmcʻodneoba mecʻnierebad XVI - XIX saukuneebši čʻamoqalibda, is čʻaisaxa antikur xanaši berżeni da romaeli moazrovneebis da mcerlebis šemokʻmedebaši.
 1	ხელოვნებათმცოდნეობა	ხელოვნებათმცოდნეობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=xelovnebatʻmcʻodneoba
-2	მეცნიერებად	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	1	obl	_	Translit=mecʻnierebad
+2	მეცნიერებად	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	8	obl	_	Translit=mecʻnierebad
 3	XVI	16	NUM	Num	NumForm=Roman|NumType=Card	5	nummod	_	Translit=XVI
 4	-	-	PUNCT	F	PunctType=Dash	3	punct	_	Translit=-
 5	XIX	19	NUM	Num	NumForm=Roman|NumType=Card	6	nummod	_	Translit=XIX
