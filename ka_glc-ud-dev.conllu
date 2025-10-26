@@ -8615,7 +8615,7 @@
 21	დანიშვნა	დანიშვნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	_	Translit=danišvna
 22	(	(	PUNCT	F	PunctType=Brck	24	punct	_	SpaceAfter=No|Translit=(
 23	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det:poss	_	Translit=misi
-24	მონაწილეობით	მონაწილეობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	21	obl	_	SpaceAfter=No|Translit=monacileobitʻ
+24	მონაწილეობით	მონაწილეობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	21	nmod	_	SpaceAfter=No|Translit=monacileobitʻ
 25	)	)	PUNCT	F	PunctType=Brck	24	punct	_	SpaceAfter=No|Translit=)
 26	.	.	PUNCT	F	PunctType=Peri	14	punct	_	Translit=.
 
@@ -8631,7 +8631,7 @@
 6	ნორმები	ნორმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	7	nsubj	_	Translit=normebi
 7	მოქმედებდა	მოქმედებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	0	root	_	Translit=mokʻmedebda
 8-9	რუსეთთან	_	_	_	_	_	_	_	_
-8	რუსეთ	რუსეთი	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	10	obl	_	Translit=rusetʻ
+8	რუსეთ	რუსეთი	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	10	nmod	_	Translit=rusetʻ
 9	თან	თან	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=tʻan
 10	შეერთების	შეერთება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=šeertʻebis
 11	შემდეგაც	შემდეგ	ADV	Adv	AdvType=Tim|PartType=Emp	7	advmod	_	Translit=šemdegacʻ
@@ -8762,7 +8762,7 @@
 6	(	(	PUNCT	F	PunctType=Brck	7	punct	_	SpaceAfter=No|Translit=(
 7	კომპიუტერი	კომპიუტერი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	appos	_	SpaceAfter=No|Translit=kompiuteri
 8	)	)	PUNCT	F	PunctType=Brck	7	punct	_	Translit=)
-9	საშუალებით	საშუალება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	11	obl	_	Translit=sašualebitʻ
+9	საშუალებით	საშუალება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	11	nmod	_	Translit=sašualebitʻ
 10	ინფორმაციის	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=inpʻormacʻiis
 11	დამუშავების	დამუშავება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=damušavebis
 12	შესახებ	შესახებ	ADP	Post	AdpType=Post|Case=Gen	11	case	_	SpaceAfter=No|Translit=šesaxeb
@@ -8906,7 +8906,7 @@
 3	შეიძლება	შეუძლია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=šeiżleba
 4	იყოს	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	3	cop	_	Translit=iqos
 5-6	ადამიანისთვის	_	_	_	_	_	_	_	_
-5	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	8	obl	_	Translit=adamianis
+5	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	3	obl	_	Translit=adamianis
 6	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=tʻvis
 7	აღქმად	აღქმადი	ADJ	Adj	Case=Dat|Number=Sing	8	amod	_	Translit=aġkʻmad
 8-9	ფორმაში	_	_	_	_	_	_	_	SpaceAfter=No
@@ -9573,7 +9573,7 @@
 16	დამოუკიდებელი	დამოუკიდებელი	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=damoukidebeli
 17	ნორმატიული	ნორმატიული	ADJ	Adj	Case=Gen|Number=Sing	18	amod	_	Translit=normatiuli
 18	აქტის	აქტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=akʻtis
-19	სახით	სახე	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	20	obl	_	Translit=saxitʻ
+19	სახით	სახე	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	15	obl	_	Translit=saxitʻ
 20	არსებობას	არსებობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obj	_	SpaceAfter=No|Translit=arsebobas
 21	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
@@ -9798,7 +9798,7 @@
 19	ყველა	ყველა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	det	_	Translit=qvela
 20	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	21	det	_	Translit=sxva
 21	ნორმატიული	ნორმატიული	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=normatiuli
-22	აქტის	აქტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	obl	_	Translit=akʻtis
+22	აქტის	აქტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	obl	_	Translit=akʻtis
 23	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	22	case	_	SpaceAfter=No|Translit=mimartʻ
 24	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
