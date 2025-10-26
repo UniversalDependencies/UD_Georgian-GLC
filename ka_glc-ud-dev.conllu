@@ -2883,7 +2883,7 @@
 20	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 21	მესოპოტამიასა	მესოპოტამია	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	12	conj	_	Translit=mesopotamiasa
 22	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
-23	სხვ	სხვა	PRON	Pron	Abbr=Yes|PronType=Ind	12	conj	_	SpaceAfter=No|Translit=sxv.
+23	სხვ	სხვა	PRON	Pron	Abbr=Yes|PronType=Tot	12	conj	_	SpaceAfter=No|Translit=sxv.
 24	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = wiki_biography_00443
@@ -4245,7 +4245,7 @@
 7	ბიოლოგია	ბიოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	appos	_	SpaceAfter=No|Translit=biologia
 8	“	“	PUNCT	F	PunctType=Quot	7	punct	_	SpaceAfter=No|Translit=“
 9	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-10	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing	11	obl	_	Translit=romelmacʻ
+10	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	11	obl	_	Translit=romelmacʻ
 11	გააერთიანა	აერთიანებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	4	acl	_	Translit=gaaertʻiana
 12	ყველა	ყველა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	13	det	_	Translit=qvela
 13	ზემოთ	ზემოთ	ADV	Adv	AdvType=Loc	15	advmod:lmod	_	Translit=zemotʻ
@@ -4264,7 +4264,7 @@
 5	გენეტიკური	გენეტიკური	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	Translit=genetikuri
 6	თეორია	თეორია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No|Translit=tʻeoria
 7	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-8	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing	10	nmod	_	Translit=romelmacʻ
+8	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	10	nmod	_	Translit=romelmacʻ
 9	ფაქტობრივად	ფაქტობრივად	ADV	Adv	AdvType=Man	10	advmod	_	Translit=pʻakʻtobrivad
 10	გააერთიანა	აერთიანებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	6	acl	_	Translit=gaaertʻiana
 11	პრეფორმიზმისა	პრეფორმიზმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	Translit=prepʻormizmisa
@@ -4490,7 +4490,7 @@
 19	არისტოტელეს	არისტოტელე	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	16	conj	_	Translit=aristoteles
 20	თან	თან	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=tʻan
 21	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
-22	სხვ	სხვა	NOUN	Noun	Abbr=Yes	16	conj	_	SpaceAfter=No|Translit=sxv
+22	სხვ	სხვა	NOUN	Noun	Abbr=Yes|PronType=Tot	16	conj	_	SpaceAfter=No|Translit=sxv
 23	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = wiki_biophysics_00507
@@ -4623,7 +4623,7 @@
 14	გამოყენებითი	გამოყენებითი	ADJ	Adj	Case=Gen|Number=Sing	10	conj	_	Translit=gamoqenebitʻi
 15	ფიზიკის	ფიზიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=pʻizikis
 16	ძირითადი	ძირითადი	ADJ	Adj	Case=Ins|Number=Sing	17	amod	_	Translit=żiritʻadi
-17	მიმართულებებით	მიმართულება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	9	obl	_	SpaceAfter=No|Translit=mimartʻulebebitʻ
+17	მიმართულებებით	მიმართულება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	9	nmod	_	SpaceAfter=No|Translit=mimartʻulebebitʻ
 18	:	:	PUNCT	F	PunctType=Colo	17	punct	_	Translit=:
 19	ელემენტარული	ელემენტარული	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=elementaruli
 20	ნაწილაკების	ნაწილაკი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	_	Translit=nacilakebis
@@ -4797,7 +4797,7 @@
 27	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 28	ბიოლოგიური	ბიოლოგიური	ADJ	Adj	Case=Gen|Number=Sing	26	conj	_	Translit=biologiuri
 29	და	და	CCONJ	Conj	_	30	cc	_	Translit=da
-30	სხვ.	სხვა	PRON	Pron	Abbr=Yes	26	conj	_	SpaceAfter=No|Translit=sxv.
+30	სხვ.	სხვა	PRON	Pron	Abbr=Yes|PronType=Tot	26	conj	_	SpaceAfter=No|Translit=sxv.
 31	)	)	PUNCT	F	PunctType=Brck	26	punct	_	Translit=)
 32	შემადგენელ	შემადგენელი	ADJ	Adj	Case=Dat|Number=Sing	33	amod	_	Translit=šemadgenel
 33	ნაწილს	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obj	_	SpaceAfter=No|Translit=nacils
@@ -4817,7 +4817,7 @@
 47	,	,	PUNCT	F	PunctType=Comm	48	punct	_	Translit=,
 48	გეოლოგია	გეოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	42	conj	_	Translit=geologia
 49	და	და	CCONJ	Conj	_	52	cc	_	Translit=da
-50	სხვ.	სხვა	PRON	Pron	Abbr=Yes	52	det:poss	_	SpaceAfter=No|Translit=sxv.
+50	სხვ.	სხვა	PRON	Pron	Abbr=Yes|PronType=Tot	52	det:poss	_	SpaceAfter=No|Translit=sxv.
 51	)	)	PUNCT	F	PunctType=Brck	50	punct	_	Translit=)
 52	საფუძველს	საფუძველი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	37	obj	_	SpaceAfter=No|Translit=sapʻużvels
 53	.	.	PUNCT	F	PunctType=Peri	19	punct	_	Translit=.
@@ -5468,7 +5468,7 @@
 7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 8	ბიოტექნოლოგია	ბიოტექნოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	conj	_	Translit=biotekʻnologia
 9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
-10	სხვ.	სხვა	PRON	Pron	Abbr=Yes	4	conj	_	SpaceAfter=No|Translit=sxv.
+10	სხვ.	სხვა	PRON	Pron	Abbr=Yes|PronType=Tot	4	conj	_	SpaceAfter=No|Translit=sxv.
 11	)	)	PUNCT	F	PunctType=Brck	4	punct	_	Translit=)
 12	არნახულმა	არნახული	ADJ	Adj	Case=Erg|Number=Sing	13	amod	_	Translit=arnaxulma
 13	განვითარებამ	განვითარება	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	40	nsubj	_	SpaceAfter=No|Translit=ganvitʻarebam
@@ -10378,7 +10378,7 @@
 23	ნიუტონის	ნიუტონი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	24	nmod	_	Translit=niutonis
 24	მექანიკამ	მექანიკა	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	9	conj	_	SpaceAfter=No|Translit=mekʻanikam
 25	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
-26	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing	28	nsubj	_	Translit=romelmacʻ
+26	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	28	nsubj	_	Translit=romelmacʻ
 27	საშუალება	საშუალება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	28	obj	_	Translit=sašualeba
 28	მისცა	აძლევს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	24	acl	_	Translit=miscʻa
 29	ადამიანებს	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	30	iobj	_	Translit=adamianebs
