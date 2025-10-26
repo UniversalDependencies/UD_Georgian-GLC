@@ -432,7 +432,7 @@
 18	სიჩქარის	სიჩქარე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=sičʻkʻaris
 19	მახლობელი	მახლობელი	ADJ	Adj	Case=Ins|Number=Sing	20	amod	_	Translit=maxlobeli
 20	სიჩქარით	სიჩქარე	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	21	obl	_	Translit=sičʻkʻaritʻ
-21	მოძრაობისას	მოძრაობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl:tmod	_	SpaceAfter=No|Translit=możraobisas
+21	მოძრაობისას	მოძრაობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	nmod	_	SpaceAfter=No|Translit=możraobisas
 22	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 23	რელატივისტური	რელატივისტური	ADJ	Adj	Case=Nom|Number=Sing	24	amod	_	Translit=relativisturi
 24	მექანიკა	მექანიკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	25	nsubj	_	Translit=mekʻanika
