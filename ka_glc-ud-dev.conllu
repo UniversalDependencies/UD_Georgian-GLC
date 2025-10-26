@@ -1021,7 +1021,7 @@
 7	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 8	საავიაციო	საავიაციო	ADJ	Adj	Case=Dat|Number=Sing	9	amod	_	Translit=saaviacʻio
 9-10	ბაზარზე	_	_	_	_	_	_	_	_
-9	ბაზარ	ბაზარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	obl	_	Translit=bazar
+9	ბაზარ	ბაზარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	nmod	_	Translit=bazar
 10	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ze
 11	მათი	მათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	det:poss	_	Translit=matʻi
 12	შესვლის	შესვლა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=šesvlis
@@ -1374,7 +1374,7 @@
 13	ფრონტის	ფრონტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	Translit=pʻrontis
 14	საავიაციო	საავიაციო	ADJ	Adj	Case=Ins|Number=Sing	15	amod	_	Translit=saaviacʻio
 15-16	ტექნიკიდან	_	_	_	_	_	_	_	_
-15	ტექნიკი	ტექნიკა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	obl	_	Translit=tekʻniki
+15	ტექნიკი	ტექნიკა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	nmod	_	Translit=tekʻniki
 16	დან	დან	ADP	Post	AdpType=Post|Case=Ins	15	case	_	Translit=dan
 17	მემკვიდრეობით	მემკვიდრეობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	28	obl	_	Translit=memkvidreobitʻ
 18	რამდენიმე	რამდენიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	19	det	_	Translit=ramdenime
@@ -1425,7 +1425,7 @@
 11	საჰაერო	საჰაერო	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=sahaero
 12	სივრცის	სივრცე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=sivrcʻis
 13-14	გამოყენებასთან	_	_	_	_	_	_	_	_
-13	გამოყენებას	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=gamoqenebas
+13	გამოყენებას	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	nmod	_	Translit=gamoqenebas
 14	თან	თან	ADP	Post	AdpType=Post|Case=Dat	13	case	_	Translit=tʻan
 15	დაკავშირებით	დაკავშირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	obl	_	Translit=dakavširebitʻ
 16	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=saertʻašoriso
