@@ -1750,9 +1750,9 @@
 1	ლარის	ლარი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=laris
 2	სიმბოლოს	სიმბოლო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=simbolos
 3-4	შექმნასთან	_	_	_	_	_	_	_	_
-3	შექმნას	შექმნა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=šekʻmnas
+3	შექმნას	შექმნა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=šekʻmnas
 4	თან	თან	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=tʻan
-5	დაკავშირებით	დაკავშირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	9	obl	_	Translit=dakavširebitʻ
+5	დაკავშირებით	დაკავშირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	14	obl	_	Translit=dakavširebitʻ
 6	საქართველოს	საქართველო	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	7	nmod	_	Translit=sakʻartʻvelos
 7	ეროვნულმა	ეროვნული	ADJ	Adj	Case=Erg|Number=Sing	8	amod	_	Translit=erovnulma
 8	ბანკმა	ბანკი	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	14	nsubj	_	Translit=bankma
@@ -8820,7 +8820,7 @@
 8	Informatique	Informatique	X	Foreign	Foreign=Yes	6	appos	_	SpaceAfter=No|Translit=Informatique
 9	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 10	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	12	nsubj	_	Translit=romelicʻ
-11	თავად	თავი	PRON	Pron	Case=Ess|Number=Sing|Person=3|Poss=Yes	12	det	_	Translit=tʻavad
+11	თავად	თავი	PRON	Pron	Case=Ess|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Translit=tʻavad
 12	წარმოიქმნა	იქმნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	6	acl	_	Translit=carmoikʻmna
 13	ორი	ორი	NUM	Num	Case=Gen|NumType=Card	14	nummod	_	Translit=ori
 14	ტერმინის	ტერმინი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=terminis
@@ -9949,7 +9949,7 @@
 10	მზიდ	მზიდი	ADJ	Adj	Case=Dat|Number=Sing	11	amod	_	Translit=mzid
 11	ძელებს	ძელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	5	nsubj	_	Translit=żelebs
 12	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
-13	თავად	თავი	PRON	Pron	Case=Ess|Number=Sing|Person=3|Poss=Yes	18	det:poss	_	Translit=tʻavad
+13	თავად	თავი	PRON	Pron	Case=Ess|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=tʻavad
 14	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	15	det	_	Translit=am
 15-16	კონსტრუქციაზე	_	_	_	_	_	_	_	_
 15	კონსტრუქცია	კონსტრუქცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obl	_	Translit=konstrukʻcʻia
