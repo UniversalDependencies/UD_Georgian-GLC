@@ -5350,7 +5350,7 @@
 17	დეპარტამენტ	დეპარტამენტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=departament
 18	ში	ში	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ši
 19	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
-20	სახელწოდებით	სახელწოდება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	obl	_	Translit=saxelcodebitʻ
+20	სახელწოდებით	სახელწოდება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	nmod	_	Translit=saxelcodebitʻ
 21	სასოფლო-სამეურნეო	სასოფლო-სამეურნეო	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=sasopʻlo-sameurneo
 22	ცხოველთა	ცხოველი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	23	nmod	_	Translit=cʻxoveltʻa
 23	მეანობა	მეანობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	20	nmod	_	Translit=meanoba
@@ -5550,7 +5550,7 @@
 # text = სინგაპურში ისეთი მოწინავე ინსტიტუტების ქარხნებია განლაგებული, როგორებიცაა: GlaxoSmithKline (GSK), Pfizer და Merck & Co.
 # translit = singapurši isetʻi mocinave institutebis kʻarxnebia ganlagebuli, rogorebicʻaa: GlaxoSmithKline (GSK), Pfizer da Merck & Co.
 1-2	სინგაპურში	_	_	_	_	_	_	_	_
-1	სინგაპურ	სინგაპური	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	6	obl	_	Translit=singapur
+1	სინგაპურ	სინგაპური	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	8	obl	_	Translit=singapur
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
 3	ისეთი	ისეთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	det	_	Translit=isetʻi
 4	მოწინავე	მოწინავე	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=mocinave
@@ -5608,7 +5608,7 @@
 # text = 2022 წელს სინგაპურის ბიოფარმულმა მრეწველობამ 18 მილიარდი ამერიკული დოლარის ღირებულების პროდუქცია აწარმოა, რაც ბოლო ორ ათწლეულში გასამმაგებული მაჩვენებელია.
 # translit = 2022 cels singapuris biopʻarmulma mrecvelobam 18 miliardi amerikuli dolaris ġirebulebis produkʻcʻia acarmoa, racʻ bolo or atʻcleulši gasammagebuli mačʻvenebelia.
 1	2022	2022	NUM	Num	NumForm=Digit|NumType=Card	2	nummod	_	Translit=2022
-2	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl:tmod	_	Translit=cels
+2	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	obl:tmod	_	Translit=cels
 3	სინგაპურის	სინგაპური	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	5	nmod	_	Translit=singapuris
 4	ბიოფარმულმა	ბიოფარმული	ADJ	Adj	Case=Erg|Number=Sing	5	amod	_	Translit=biopʻarmulma
 5	მრეწველობამ	მრეწველობა	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	12	nsubj	_	Translit=mrecvelobam
@@ -5900,7 +5900,7 @@
 7	გამოიყოფა	ყოფს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=gamoiqopʻa
 8	აგრეთვე	აგრეთვე	ADV	Adv	AdvType=Man	7	advmod	_	Translit=agretʻve
 9	მეცნიერება	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=mecʻniereba
-10	წყალმცენარეთა	წყალმცენარე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	obl	_	Translit=cqalmcʻenaretʻa
+10	წყალმცენარეთა	წყალმცენარე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=cqalmcʻenaretʻa
 11	შესახებ	შესახებ	ADP	Post	AdpType=Post|Case=Gen	10	case	_	Translit=šesaxeb
 12	—	—	PUNCT	F	PunctType=Dash	13	punct	_	Translit=—
 13	ალგოლოგია	ალგოლოგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No|Translit=algologia
@@ -5973,8 +5973,8 @@
 # translit = mkvetʻri zġvari mcʻenaretʻa takʻsonomiasa da dendrologias šoris ar ikvetʻeba.
 1	მკვეთრი	მკვეთრი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	Translit=mkvetʻri
 2	ზღვარი	ზღვარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	Translit=zġvari
-3	მცენარეთა	მცენარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	2	nmod	_	Translit=mcʻenaretʻa
-4	ტაქსონომიასა	ტაქსონომია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=takʻsonomiasa
+3	მცენარეთა	მცენარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	nmod	_	Translit=mcʻenaretʻa
+4	ტაქსონომიასა	ტაქსონომია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=takʻsonomiasa
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	დენდროლოგიას	დენდროლოგია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	conj	_	Translit=dendrologias
 7	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=šoris
