@@ -6183,7 +6183,7 @@
 12-13	დროში	_	_	_	_	_	_	_	SpaceAfter=No
 12	დრო	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obl	_	Translit=dro
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
-14	;	;	PUNCT	F	PunctType=Semi	11	punct	_	Translit=;
+14	;	;	PUNCT	F	PunctType=Semi	16	punct	_	Translit=;
 15	მიზნად	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	16	obl	_	Translit=miznad
 16	ისახავს	სახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=isaxavs
 17	ფიტოცენოზების	ფიტოცენოზი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	18	nmod	_	Translit=pʻitocʻenozebis
