@@ -4210,7 +4210,7 @@
 18	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
 19	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	11	conj	_	Translit=sxva
 20	მეთოდების	მეთოდი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	_	Translit=metʻodebis
-21	გამოყენებით	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	SpaceAfter=No|Translit=gamoqenebitʻ
+21	გამოყენებით	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=gamoqenebitʻ
 22	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 23	რამაც	რამაც	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	25	nsubj	_	Translit=ramacʻ
 24	საბოლოოდ	საბოლოო	ADV	Adv	AdvType=Man	25	advmod	_	Translit=sabolood
