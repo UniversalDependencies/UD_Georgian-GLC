@@ -1788,7 +1788,7 @@
 15	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
 16	უმაღლესი	მაღალი	ADJ	Adj	Case=Gen|Degree=Sup|Number=Sing	14	conj	_	Translit=umaġlesi
 17-18	სასწავლებლებისათვის	_	_	_	_	_	_	_	_
-17	სასწავლებლებისა	სასწავლებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	obl	_	Translit=sascavleblebisa
+17	სასწავლებლებისა	სასწავლებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	obl	_	Translit=sascavleblebisa
 18	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=tʻvis
 19	გრამატიკული	გრამატიკული	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=gramatikuli
 20	სახელმძღვანელოს	სახელმძღვანელო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=saxelmżġvanelos
@@ -2439,7 +2439,7 @@
 17	შეიცავს	შეიცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	2	conj	_	Translit=šeicʻavs
 18	რეკომენდაციებს	რეკომენდაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	17	obj	_	Translit=rekomendacʻiebs
 19	სწავლის	სწავლა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=scavlis
-20	გაუმჯობესების	გაუმჯობესება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	obl	_	Translit=gaumjobesebis
+20	გაუმჯობესების	გაუმჯობესება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	nmod	_	Translit=gaumjobesebis
 21	შესახებ	შესახებ	ADP	Post	AdpType=Post|Case=Gen	20	case	_	SpaceAfter=No|Translit=šesaxeb
 22	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
