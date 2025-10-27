@@ -3536,7 +3536,7 @@
 6	სამეურნეო	სამეურნეო	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=sameurneo
 7	პროცესებს	პროცესი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	5	obj	_	Translit=procʻesebs
 8-9	ურთიერთკავშირში	_	_	_	_	_	_	_	_
-8	ურთიერთკავშირ	ურთიერთკავშირი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	Translit=urtʻiertʻkavšir
+8	ურთიერთკავშირ	ურთიერთკავშირი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=urtʻiertʻkavšir
 9	ში	ში	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ši
 10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 11-12	დროში	_	_	_	_	_	_	_	_
@@ -3644,7 +3644,7 @@
 # translit = pʻinansuri aġricʻxvisagan gansxvavebitʻ sagadasaxado aġricʻxvaši is żiritʻadi sašualebebi romeltʻa sabalanso ġirebuleba 1000 laramdea, matʻze cʻvetʻis daricʻxva aġar grżeldeba da pirdapir čʻamoicereba mimdinare periodis xarjebši, magram aġricʻxva grżeldeba pʻinansur aġricʻxvaši, ratʻa moxdes kʻonebis gadasaxadis srulpʻasovani daangarišeba.
 1	ფინანსური	ფინანსური	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=pʻinansuri
 2-3	აღრიცხვისაგან	_	_	_	_	_	_	_	_
-2	აღრიცხვისა	აღრიცხვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	obl	_	Translit=aġricʻxvisa
+2	აღრიცხვისა	აღრიცხვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=aġricʻxvisa
 3	გან	გან	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=gan
 4	განსხვავებით	განსხვავება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	10	obl	_	Translit=gansxvavebitʻ
 5	საგადასახადო	საგადასახადო	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=sagadasaxado
@@ -3721,7 +3721,7 @@
 17	გარე	გარე	ADJ	Adj	Case=Gen|Number=Sing	15	conj	_	Translit=gare
 18-19	მომხმარებლებისათვის	_	_	_	_	_	_	_	SpaceAfter=No
 18	მომხმარებლებისა	მომხმარებელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	13	nmod	_	Translit=momxmareblebisa
-19	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	18	obl	_	Translit=tʻvis
+19	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	18	case	_	Translit=tʻvis
 20	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 21	განსხვავებით	განსხვავება	ADV	Adv	_	32	advmod	_	Translit=gansxvavebitʻ
 22	მმართველობითი	მმართველობითი	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=mmartʻvelobitʻi
@@ -3886,8 +3886,8 @@
 19	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
 20	მეცხოველეობის	მეცხოველეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	conj	_	Translit=mecʻxoveleobis
 21	პროდუქციის	პროდუქცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	22	nmod	_	Translit=produkʻcʻiis
-22	მიღების	მიღება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	obl	_	Translit=miġebis
-23	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	22	obl	_	SpaceAfter=No|Translit=miznitʻ
+22	მიღების	მიღება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	nmod	_	Translit=miġebis
+23	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	13	nmod	_	SpaceAfter=No|Translit=miznitʻ
 24	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = wiki_agriculture_00027
