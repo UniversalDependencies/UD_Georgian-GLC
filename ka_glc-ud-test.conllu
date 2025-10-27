@@ -94,12 +94,12 @@
 # translit = sul tquilad aqvedrian isini tʻavis tʻavs am kʻveqanas.
 1	სულ	სულ	ADV	Adv	AdvType=Man	2	advmod	_	Translit=sul
 2	ტყუილად	ტყუილად	ADV	Adv	AdvType=Man	3	advmod	_	Translit=tquilad
-3	აყვედრიან	აყვედრის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=aqvedrian
+3	აყვედრიან	აყვედრის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=aqvedrian
 4	ისინი	ისინი	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Translit=isini
 5	თავის	თავისი	PRON	Pron	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	Translit=tʻavis
 6	თავს	თავი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	3	obj	_	Translit=tʻavs
 7	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	8	det	_	Translit=am
-8	ქვეყანას	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	SpaceAfter=No|Translit=kʻveqanas
+8	ქვეყანას	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	iobj	_	SpaceAfter=No|Translit=kʻveqanas
 9	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = GLC_00007
@@ -548,7 +548,7 @@
 6	ილია	ილია	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	5	nsubj	_	Translit=ilia
 7	ჭავჭავაძე	ჭავჭავაძე	PROPN	Prop	Case=Nom|NameType=Sur|Number=Sing	6	flat:name	_	Translit=čavčavaże
 8	თავისი	თავისი	PRON	Pron	Case=Ins|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	Translit=tʻavisi
-9	თანამებრძოლებით	თანამებრძოლი	NOUN	Noun	Animacy=Anim|Case=Ins|Number=Plur	6	obl	_	SpaceAfter=No|Translit=tʻanamebrżolebitʻ
+9	თანამებრძოლებით	თანამებრძოლი	NOUN	Noun	Animacy=Anim|Case=Ins|Number=Plur	6	nmod	_	SpaceAfter=No|Translit=tʻanamebrżolebitʻ
 10	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = GLC_00032
@@ -653,7 +653,7 @@
 15	ში	ში	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ši
 16	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 17-18	ოცნებაში	_	_	_	_	_	_	_	SpaceAfter=No
-17	ოცნება	ოცნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=ocʻneba
+17	ოცნება	ოცნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl	_	Translit=ocʻneba
 18	ში	ში	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ši
 19	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 20	მაგრამ	მაგრამ	CCONJ	Conj	_	23	cc	_	Translit=magram
@@ -761,7 +761,7 @@
 5	“	“	PUNCT	F	PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=“
 6	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 7-8	მოსახლეობისათვის	_	_	_	_	_	_	_	_
-7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	obl	_	Translit=mosaxleobisa
+7	მოსახლეობისა	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	obl	_	Translit=mosaxleobisa
 8	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=tʻvis
 9	თავზარდამცემი	თავზარდამცემი	ADJ	Adj	Case=Nom|Number=Sing	4	conj	_	Translit=tʻavzardamcʻemi
 10	ავადმყოფობა	ავადმყოფობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	obj	_	Translit=avadmqopʻoba
