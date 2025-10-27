@@ -776,7 +776,7 @@
 2	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	13	obl	_	Translit=adamianis
 3	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=tʻvis
 4-5	ყველაზე	_	_	_	_	_	_	_	_
-4	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	7	obl	_	Translit=qvela
+4	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	7	nmod	_	Translit=qvela
 5	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ze
 6	საშიშ	საშიში	ADJ	Adj	Case=Ess|Number=Sing	7	amod	_	Translit=sašiš
 7	დაავადებად	დაავადება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	13	obl	_	Translit=daavadebad
@@ -870,7 +870,7 @@
 5	უწყინარმა	უწყინარი	ADJ	Adj	Case=Erg|Number=Sing	10	amod	_	Translit=ucqinarma
 6	სამედიცინო	სამედიცინო	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=samedicʻino
 7-8	საკითხებთან	_	_	_	_	_	_	_	_
-7	საკითხებ	საკითხი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	10	obl	_	Translit=sakitʻxeb
+7	საკითხებ	საკითხი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	10	nmod	_	Translit=sakitʻxeb
 8	თან	თან	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=tʻan
 9	დაკავშირებულმა	დაკავშირებული	ADJ	Adj	Case=Erg|Number=Sing	10	amod	_	Translit=dakavširebulma
 10	ინფორმაციამ	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	15	nsubj	_	Translit=inpʻormacʻiam
@@ -890,7 +890,7 @@
 3	სამედიცინო	სამედიცინო	ADJ	Adj	Case=Gen|Number=Sing	4	nmod	_	Translit=samedicʻino
 4	საკითხების	საკითხი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	nmod	_	Translit=sakitʻxebis
 5-6	ცოდნისაკენ	_	_	_	_	_	_	_	_
-5	ცოდნისა	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	obl	_	Translit=cʻodnisa
+5	ცოდნისა	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8s	obl	_	Translit=cʻodnisa
 6	კენ	კენ	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=ken
 7	წარმოუდგენლად	წარმოუდგენელი	ADJ	Adj	Case=Ess|Number=Sing	8	amod	_	Translit=carmoudgenlad
 8	გააძნელა	აძნელებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=gaażnela
@@ -905,7 +905,7 @@
 16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 17	მის	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=mis
 18-19	ჭირისუფალთან	_	_	_	_	_	_	_	SpaceAfter=No
-18	ჭირისუფალ	ჭირისუფალი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	14	obl	_	Translit=čirisupʻal
+18	ჭირისუფალ	ჭირისუფალი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	14	conj	_	Translit=čirisupʻal
 19	თან	თან	ADP	Post	AdpType=Post|Case=Dat	18	case	_	Translit=tʻan
 20	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 21	რაზეც	რაზეც	SCONJ	Conj	_	24	mark	_	Translit=razecʻ
@@ -1014,7 +1014,7 @@
 23	ჩვეულებრივი	ჩვეულებრივი	ADJ	Adj	Case=Gen|Number=Sing	20	conj	_	Translit=čʻveulebrivi
 24	სათქმელის	სათქმელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	25	nmod	_	Translit=satʻkʻmelis
 25-26	ლექსიდან	_	_	_	_	_	_	_	_
-25	ლექსი	ლექსი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	27	obl	_	Translit=lekʻsi
+25	ლექსი	ლექსი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	28	obl	_	Translit=lekʻsi
 26	დან	დან	ADP	Post	AdpType=Post|Case=Ins	25	case	_	Translit=dan
 27	განსხეულებას	განსხეულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	iobj	_	Translit=gansxeulebas
 28	ეწირება	ეწირება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	15	ccomp	_	SpaceAfter=No|Translit=ecireba
@@ -1025,13 +1025,13 @@
 # translit = igi am drosacʻ ki ganiridebs daštampul saxeebs da pʻrazeologias...
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=igi
 2	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	3	det	_	Translit=am
-3	დროსაც	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing|PartType=Emp	5	obj	_	Translit=drosacʻ
+3	დროსაც	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing|PartType=Emp	5	obl	_	Translit=drosacʻ
 4	კი	კი	PART	Part	PartType=Emp	5	advmod	_	Translit=ki
 5	განირიდებს	არიდებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=ganiridebs
 6	დაშტამპულ	დაშტამპული	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=daštampul
 7	სახეებს	სახე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	5	obj	_	Translit=saxeebs
 8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
-9	ფრაზეოლოგიას	ფრაზეოლოგია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=pʻrazeologias
+9	ფრაზეოლოგიას	ფრაზეოლოგია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	conj	_	SpaceAfter=No|Translit=pʻrazeologias
 10	...	...	PUNCT	F	PunctType=Elip	5	punct	_	Translit=...
 
 # sent_id = GLC_00049
