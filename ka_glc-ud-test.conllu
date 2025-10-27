@@ -3082,7 +3082,7 @@
 2	წარდგენა	წარდგენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	Translit=cardgena
 3	დაინტერესებული	დაინტერესებული	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=dainteresebuli
 4-5	პირებისათვის	_	_	_	_	_	_	_	_
-4	პირებისა	პირი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	obl	_	Translit=pirebisa
+4	პირებისა	პირი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	Translit=pirebisa
 5	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=tʻvis
 6	მონიტორინგისა	მონიტორინგი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=monitoringisa
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
@@ -3282,7 +3282,7 @@
 7	პროცესების	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	nmod	_	Translit=procʻesebis
 8	განზოგადება	განზოგადება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=ganzogadeba
 9-10	მთლიანობაში	_	_	_	_	_	_	_	_
-9	მთლიანობა	მთლიანობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=mtʻlianoba
+9	მთლიანობა	მთლიანობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=mtʻlianoba
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ši
 11	(	(	PUNCT	F	PunctType=Brck	13	punct	_	SpaceAfter=No|Translit=(
 12	სინთეზური	სინთეზური	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	Translit=sintʻezuri
@@ -3413,12 +3413,12 @@
 18	ითვალისწინებდა	ითვალისწინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	15	acl	_	Translit=itʻvaliscinebda
 19	GAAP	GAAP	X	Foreign	Foreign=Yes	20	nmod	_	Translit=GAAP
 20-21	სტანდარტიდან	_	_	_	_	_	_	_	SpaceAfter=No
-20	სტანდარტი	სტანდარტი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	obl	_	Translit=standarti
+20	სტანდარტი	სტანდარტი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	nmod	_	Translit=standarti
 21	დან	დან	ADP	Post	AdpType=Post|Case=Ins	20	case	_	Translit=dan
 22	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 23	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Gen|Number=Sing	24	amod	_	Translit=saertʻašoriso
 24-25	სტანდარტებზე	_	_	_	_	_	_	_	_
-24	სტანდარტებ	სტანდარტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	26	obl	_	Translit=standarteb
+24	სტანდარტებ	სტანდარტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	26	nmod	_	Translit=standarteb
 25	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	24	case	_	Translit=ze
 26	გადასვლას	გადასვლა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obj	_	SpaceAfter=No|Translit=gadasvlas
 27	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
@@ -3475,7 +3475,7 @@
 7	პროცესების	პროცესი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	nmod	_	Translit=procʻesebis
 8	განზოგადება	განზოგადება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=ganzogadeba
 9-10	მთლიანობაში	_	_	_	_	_	_	_	_
-9	მთლიანობა	მთლიანობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=mtʻlianoba
+9	მთლიანობა	მთლიანობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=mtʻlianoba
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ši
 11	(	(	PUNCT	F	PunctType=Brck	13	punct	_	SpaceAfter=No|Translit=(
 12	სინთეზური	სინთეზური	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	Translit=sintʻezuri
@@ -3510,7 +3510,7 @@
 14	ორგანიზაცია	ორგანიზაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	SpaceAfter=No|Translit=organizacʻia
 15	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 16-17	მასში	_	_	_	_	_	_	_	_
-16	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	14	obl	_	Translit=mas
+16	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	14	nmod	_	Translit=mas
 17	ში	ში	ADP	Post	AdpType=Post|Case=Dat	16	case	_	Translit=ši
 18	შემავალი	შემავალი	ADJ	Adj	Case=Nom|Number=Sing	19	amod	_	Translit=šemavali
 19	ქონება	ქონება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	conj	_	SpaceAfter=No|Translit=kʻoneba
