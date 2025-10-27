@@ -1243,7 +1243,7 @@
 7	გულისხმობს	გულისხმობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=gulisxmobs
 8	მატერიალურ	მატერიალური	ADJ	Adj	Case=Gen|Number=Sing	9	amod	_	Translit=materialur
 9-10	სამყაროსგან	_	_	_	_	_	_	_	_
-9	სამყაროს	სამყარო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	obl	_	Translit=samqaros
+9	სამყაროს	სამყარო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	obl	_	Translit=samqaros
 10	გან	გან	ADP	Post	AdpType=Post|Case=Gen	9	case	_	Translit=gan
 11	სრულ	სრული	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	12	amod	_	Translit=srul
 12	გათიშვას	გათიშვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=gatʻišvas
@@ -1278,7 +1278,7 @@
 22	სიმაღლი	სიმაღლე	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	27	obl	_	Translit=simaġli
 23	დან	დან	ADP	Post	AdpType=Post|Case=Ins	22	case	_	Translit=dan
 24	„	„	PUNCT	F	PunctType=Quot	25	punct	_	SpaceAfter=No|Translit=„
-25	ქვეყანას	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	obj	_	SpaceAfter=No|Translit=kʻveqanas
+25	ქვეყანას	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	iobj	_	SpaceAfter=No|Translit=kʻveqanas
 26	“	“	PUNCT	F	PunctType=Quot	25	punct	_	Translit=“
 27	მოავლო	ავლებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	6	advcl	_	Translit=moavlo
 28	თვალი	თვალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	27	obj	_	Translit=tʻvali
@@ -1310,7 +1310,7 @@
 # translit = sitqvakazmul xelovnebaši misi mravalmxrivi moġvaceobis amomcuravi šepʻaseba, cʻxadia, momavlis sakʻmea, amitom poetis šemokʻmedebis amsaxveli qoveli maġalkvalipʻicʻiuri cerili tʻu našromi samomavlod gansakutʻrebuli pʻaseulobis šemcʻvelia.
 1	სიტყვაკაზმულ	სიტყვაკაზმული	ADJ	Adj	Case=Dat|Number=Sing	2	amod	_	Translit=sitqvakazmul
 2-3	ხელოვნებაში	_	_	_	_	_	_	_	_
-2	ხელოვნება	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=xelovneba
+2	ხელოვნება	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=xelovneba
 3	ში	ში	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ši
 4	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det:poss	_	Translit=misi
 5	მრავალმხრივი	მრავალმხრივი	ADJ	Adj	Case=Gen|Number=Sing	6	amod	_	Translit=mravalmxrivi
