@@ -1783,7 +1783,7 @@
 10	მუშაობის	მუშაობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=mušaobis
 11	მეორე	ორი	NUM	Num	Case=Dat|NumType=Ord	12	nummod	_	Translit=meore
 12	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=mxares
-13	–	–	PUNCT	F	PunctType=Dash	21	punct	_	Translit=–
+13	–	–	PUNCT	F	PunctType=Dash	12	punct	_	Translit=–
 14	საშუალო	საშუალო	ADJ	Adj	Case=Gen|Number=Sing	17	nmod	_	Translit=sašualo
 15	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
 16	უმაღლესი	მაღალი	ADJ	Adj	Case=Gen|Degree=Sup|Number=Sing	14	conj	_	Translit=umaġlesi
