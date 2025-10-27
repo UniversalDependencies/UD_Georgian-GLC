@@ -1383,7 +1383,7 @@
 9	გზა	გზა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	conj	_	Translit=gza
 10	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ze
 11-12	მხარზე	_	_	_	_	_	_	_	_
-11	მხარ	მხარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=mxar
+11	მხარ	მხარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=mxar
 12	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=ze
 13	ცულგადებული	ცულგადებული	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=cʻulgadebuli
 14	კაცი	კაცი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=kacʻi
@@ -1446,7 +1446,7 @@
 5	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	6	nmod	_	Translit=adamianis
 6	არსებობა	არსებობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj:pass	_	Translit=arseboba
 7-8	კავკასიაში	_	_	_	_	_	_	_	SpaceAfter=No
-7	კავკასია	კავკასია	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	6	obl	_	Translit=kavkasia
+7	კავკასია	კავკასია	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	4	obl	_	Translit=kavkasia
 8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
 9	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
@@ -1782,7 +1782,7 @@
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 10	მუშაობის	მუშაობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=mušaobis
 11	მეორე	ორი	NUM	Num	Case=Dat|NumType=Ord	12	nummod	_	Translit=meore
-12	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obj	_	Translit=mxares
+12	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=mxares
 13	–	–	PUNCT	F	PunctType=Dash	21	punct	_	Translit=–
 14	საშუალო	საშუალო	ADJ	Adj	Case=Gen|Number=Sing	17	nmod	_	Translit=sašualo
 15	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
@@ -1792,7 +1792,7 @@
 18	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=tʻvis
 19	გრამატიკული	გრამატიკული	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=gramatikuli
 20	სახელმძღვანელოს	სახელმძღვანელო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=saxelmżġvanelos
-21	შედგენას	შედგენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	parataxis	_	SpaceAfter=No|Translit=šedgenas
+21	შედგენას	შედგენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	iobj	_	SpaceAfter=No|Translit=šedgenas
 22	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = GLC_00090
