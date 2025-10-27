@@ -890,7 +890,7 @@
 3	სამედიცინო	სამედიცინო	ADJ	Adj	Case=Gen|Number=Sing	4	nmod	_	Translit=samedicʻino
 4	საკითხების	საკითხი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	nmod	_	Translit=sakitʻxebis
 5-6	ცოდნისაკენ	_	_	_	_	_	_	_	_
-5	ცოდნისა	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8s	obl	_	Translit=cʻodnisa
+5	ცოდნისა	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	obl	_	Translit=cʻodnisa
 6	კენ	კენ	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=ken
 7	წარმოუდგენლად	წარმოუდგენელი	ADJ	Adj	Case=Ess|Number=Sing	8	amod	_	Translit=carmoudgenlad
 8	გააძნელა	აძნელებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=gaażnela
