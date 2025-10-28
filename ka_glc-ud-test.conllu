@@ -1636,7 +1636,7 @@
 1	წყალი	წყალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	_	Translit=cqali
 2	გვწყუროდა	წყურია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Imp|Voice=Mid	0	root	_	Translit=gvcquroda
 3	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
-4	ერთი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	5	nmod	_	Translit=ertʻi
+4	ერთი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	5	nummod	_	Translit=ertʻi
 5	გლეხის	გლეხი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	6	nmod	_	Translit=glexis
 6-7	სახლთან	_	_	_	_	_	_	_	_
 6	სახლ	სახლი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=saxl
@@ -4274,7 +4274,7 @@
 19	სესხების	სესხი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	17	conj	_	Translit=sesxebis
 20	სახით	სახე	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	25	obl	_	Translit=saxitʻ
 21	200	200	NUM	Num	NumForm=Digit|NumType=Card	22	nummod	_	Translit=200
-22	მილიონი	მილიონი	NUM	Num	Case=Nom|NumType=Card	24	nmod	_	Translit=milioni
+22	მილიონი	მილიონი	NUM	Num	Case=Nom|NumType=Card	24	nummod	_	Translit=milioni
 23	აშშ	ამერიკის_შეერთებული_შტატები	NOUN	Noun	Abbr=Yes	24	nmod	_	Translit=ašš
 24	დოლარი	დოლარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	25	obj	_	Translit=dolari
 25	გამოყო	ყოფს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=gamoqo
@@ -4572,7 +4572,7 @@
 4	აგროქიმიკოსმა	აგროქიმიკოსი	NOUN	Noun	Animacy=Anim|Case=Erg|Number=Sing	8	nsubj	_	Translit=agrokʻimikosma
 5	ჰ.	ჰ.	NOUN	Noun	Abbr=Yes	4	flat:name	_	Translit=h.
 6	ჰელრიგელმა	ჰელრიგელი	PROPN	Prop	Case=Erg|NameType=Sur|Number=Sing	5	flat:name	_	Translit=helrigelma
-7	პირველმა	ერთი	NUM	Num	Case=Erg|NumType=Ord	8	amod	_	Translit=pirvelma
+7	პირველმა	ერთი	NUM	Num	Case=Erg|NumType=Ord	8	nummod	_	Translit=pirvelma
 8	დაამტკიცა	უმტკიცებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=daamtkicʻa
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 10	თუ	თუ	CCONJ	Conj	_	13	mark	_	Translit=tʻu
@@ -5314,7 +5314,7 @@
 1	ხილის	ხილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=xilis
 2	პლანტაციები	პლანტაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	Translit=plantacʻiebi
 3	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	2	cop	_	Translit=aris
-4	ერთი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	5	nmod	_	Translit=ertʻi
+4	ერთი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	5	nummod	_	Translit=ertʻi
 5	ტიპის	ტიპი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=tipis
 6	ხილის	ხილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=xilis
 7	მონოკულტურა	მონოკულტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=monokultura
@@ -5377,7 +5377,7 @@
 4	“	“	PUNCT	F	PunctType=Quot	3	punct	_	Translit=“
 5	—	—	PUNCT	F	PunctType=Dash	10	punct	_	Translit=—
 6	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	det	_	Translit=ertʻ-ertʻi
-7	პირველი	ერთი	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	10	amod	_	Translit=pirveli
+7	პირველი	ერთი	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	10	nummod	_	Translit=pirveli
 8	ქართული	ქართული	ADJ	Adj	Case=Nom|Number=Sing	10	amod	_	Translit=kʻartʻuli
 9	სასოფლო-სამეურნეო	სასოფლო-სამეურნეო	ADJ	Adj	Case=Nom|Number=Sing	10	amod	_	Translit=sasopʻlo-sameurneo
 10	ჟურნალი	ჟურნალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=žurnali
@@ -6209,7 +6209,7 @@
 3	რეზერფორდ	რეზერფორდი	PROPN	Prop	Case=Dat|NameType=Sur|Number=Sing	8	obl	_	Translit=rezerpʻord
 4	თან	თან	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=tʻan
 5	ერთად	ერთად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=ertʻad
-6	1903	1903	NUM	Num	NumForm=Digit|NumType=Card	7	amod	_	Translit=1903
+6	1903	1903	NUM	Num	NumForm=Digit|NumType=Card	7	nummod	_	Translit=1903
 7	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl:tmod	_	Translit=cels
 8	შეიმუშავა	იმუშავებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=šeimušava
 9	რადიაქტიური	რადიაქტიური	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=radiakʻtiuri
@@ -9120,7 +9120,7 @@
 8	წლის	წელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=clis
 9	ნაგებობის	ნაგებობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=nagebobis
 10	რესტავრაციას	რესტავრაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obj	_	Translit=restavracʻias
-11	ორი	ორი	NUM	Num	Case=Nom|NumType=Card	12	amod	_	Translit=ori
+11	ორი	ორი	NUM	Num	Case=Nom|NumType=Card	12	nummod	_	Translit=ori
 12	წელი	წელი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	Translit=celi
 13	დასჭირდა	ჭირს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Imp|Voice=Pass	0	root	_	Translit=dasčirda
 14	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
@@ -11277,7 +11277,7 @@
 7	ამერიკის	ამერიკა	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	8	nmod	_	Translit=amerikis
 8	შეერთებული	შეერთებული	ADJ	Adj	Case=Gen|Number=Sing	9	amod	_	Translit=šeertʻebuli
 9	შტატების	შტატი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	10	nmod	_	Translit=štatebis
-10	პირველი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Ord	11	nmod	_	Translit=pirveli
+10	პირველი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Ord	11	nummod	_	Translit=pirveli
 11	ახალშენის	ახალშენი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=axalšenis
 12	თანადამფუძნებელი	თანადამფუძნებელი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=tʻanadampʻużnebeli
 13	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
