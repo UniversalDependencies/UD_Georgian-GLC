@@ -5562,7 +5562,7 @@
 16	რეკომენდაციას	რეკომენდაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	17	obj	_	Translit=rekomendacʻias
 17	იძლევიან	იძლევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	6	conj	_	Translit=iżlevian
 18	მიწათმოქმედების	მიწათმოქმედება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=micatʻmokʻmedebis
-19	სისტემების	სისტემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	25	obl	_	SpaceAfter=No|Translit=sistemebis
+19	სისტემების	სისტემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	25	nmod	_	SpaceAfter=No|Translit=sistemebis
 20	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 21	პროგრესული	პროგრესული	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=progresuli
 22	ტექნოლოგიისა	ტექნოლოგია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	conj	_	Translit=tekʻnologiisa
@@ -5643,7 +5643,7 @@
 1	აგრონომიული	აგრონომიული	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=agronomiuli
 2	მადნები	მადანი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	3	nsubj	_	Translit=madnebi
 3	შეიცავენ	იცავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=šeicʻaven
-4	ფოსფორის	ფოსფორი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	obj	_	SpaceAfter=No|Translit=pʻospʻoris
+4	ფოსფორის	ფოსფორი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	SpaceAfter=No|Translit=pʻospʻoris
 5	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 6	კალიუმის	კალიუმი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	conj	_	SpaceAfter=No|Translit=kaliumis
 7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
@@ -5786,7 +5786,7 @@
 2	ქიმიური	ქიმიური	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=kʻimiuri
 3	პროცესი	პროცესი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	25	nsubj	_	SpaceAfter=No|Translit=procʻesi
 4	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
-5	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	6	obl	_	Translit=magalitʻad
+5	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	25	obl	_	Translit=magalitʻad
 6-7	მადნისაგან	_	_	_	_	_	_	_	_
 6	მადნისა	მადანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=madnisa
 7	გან	გან	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=gan
@@ -5804,7 +5804,7 @@
 19	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	22	nmod	_	Translit=adamianis
 20	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	19	case	_	Translit=mier
 21	კულტურული	კულტურული	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=kulturuli
-22	ცხოვრების	ცხოვრება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	obl	_	Translit=cʻxovrebis
+22	ცხოვრების	ცხოვრება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	23	nmod	_	Translit=cʻxovrebis
 23-24	გარიჟრაჟზე	_	_	_	_	_	_	_	_
 23	გარიჟრაჟ	გარიჟრაჟი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	25	obl	_	Translit=garižražze
 24	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	23	case	_	Translit=ze
@@ -5828,7 +5828,7 @@
 11	ლითონების	ლითონი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	nmod	_	Translit=litʻonebis
 12	გადაქცევა	გადაქცევა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=gadakʻcʻeva
 13	კეთილშობილ	კეთილშობილი	ADJ	Adj	Case=Ess|Number=Sing	14	amod	_	Translit=ketʻilšobil
-14	ლითონებად	ლითონი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	12	obl	_	SpaceAfter=No|Translit=litʻonebad
+14	ლითონებად	ლითონი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	8	obl	_	SpaceAfter=No|Translit=litʻonebad
 15	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = wiki_analytical_00097
