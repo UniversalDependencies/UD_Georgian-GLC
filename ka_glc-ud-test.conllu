@@ -5852,7 +5852,7 @@
 14	მიზნებისა	მიზანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	obl	_	Translit=miznebisa
 15	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	14	case	_	Translit=tʻvis
 16	(	(	PUNCT	F	PunctType=Brck	17	punct	_	SpaceAfter=No|Translit=(
-17	მეტალურგია	მეტალურგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	obl	_	SpaceAfter=No|Translit=metalurgia
+17	მეტალურგია	მეტალურგია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	14	appos	_	SpaceAfter=No|Translit=metalurgia
 18	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
 19	მინის	მინა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=minis
 20	წარმოება	წარმოება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	conj	_	SpaceAfter=No|Translit=carmoeba
@@ -5982,7 +5982,7 @@
 14	განპირობებული	განპირობებული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|VerbForm=Part	11	acl:relcl	_	Translit=ganpirobebuli
 15	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	14	cop	_	Translit=a
 16	ატომური	ატომური	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=atomuri
-17	ბირთვებისა	ბირთვი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	obl	_	Translit=birtʻvebisa
+17	ბირთვებისა	ბირთვი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	nmod	_	Translit=birtʻvebisa
 18	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
 19	ელემენტარული	ელემენტარული	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=elementaruli
 20	ნაწილაკების	ნაწილაკი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	17	conj	_	Translit=nacilakebis
@@ -6120,7 +6120,7 @@
 6	გენეტიკური	გენეტიკური	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=genetikuri
 7	ინფორმაციის	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	conj	_	Translit=inpʻormacʻiis
 8-9	გადაცემაზე	_	_	_	_	_	_	_	_
-8	გადაცემა	გადაცემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	2	obl	_	Translit=gadacʻema
+8	გადაცემა	გადაცემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	2	conj	_	Translit=gadacʻema
 9	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ze
 10	პასუხისმგებელი	პასუხისმგებელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	Translit=pasuxismgebeli
 11	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	10	cop	_	Translit=aris
@@ -6166,12 +6166,12 @@
 19	მრეწველობის	მრეწველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=mrecvelobis
 20	მრავალ	მრავალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	21	amod	_	Translit=mraval
 21-22	დარგში	_	_	_	_	_	_	_	_
-21	დარგ	დარგი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obl	_	Translit=darg
+21	დარგ	დარგი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	conj	_	Translit=darg
 22	ში	ში	ADP	Post	AdpType=Post|Case=Dat	21	case	_	Translit=ši
 23	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
 24	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	25	nmod	_	Translit=adamianis
 25-26	ყოფაცხოვრებაში	_	_	_	_	_	_	_	SpaceAfter=No
-25	ყოფაცხოვრება	ყოფაცხოვრება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	conj	_	Translit=qopʻacʻxovreba
+25	ყოფაცხოვრება	ყოფაცხოვრება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	conj	_	Translit=qopʻacʻxovreba
 26	ში	ში	ADP	Post	AdpType=Post|Case=Dat	25	case	_	Translit=ši
 27	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
@@ -6194,7 +6194,7 @@
 13	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 14	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	18	obl	_	Translit=romelsacʻ
 15-16	სათავეში	_	_	_	_	_	_	_	_
-15	სათავე	სათავე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=satʻave
+15	სათავე	სათავე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obl	_	Translit=satʻave
 16	ში	ში	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=ši
 17	დედამისი	დედამისი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	18	nsubj	_	Translit=dedamisi
 18	ედგა	ადგია	VERB	Verb	Aspect=Imp|Mood=Ind|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	11	acl	_	SpaceAfter=No|Translit=edga
