@@ -4108,7 +4108,7 @@
 8	მოსახლეობის	მოსახლეობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=mosaxleobis
 9	მომარაგება	მომარაგება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=momarageba
 10	ახალი	ახალი	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	11	amod	_	Translit=axali
-11	ყურძნით	ყურძენი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	9	obl	_	SpaceAfter=No|Translit=qurżnitʻ
+11	ყურძნით	ყურძენი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	9	nmod	_	SpaceAfter=No|Translit=qurżnitʻ
 12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 13	რისთვისაც	რა	SCONJ	Conj	_	14	mark	_	Translit=ristʻvisacʻ
 14	გაშენდა	შენდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	9	acl	_	Translit=gašenda
@@ -4215,7 +4215,7 @@
 33	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 34	ხეხილისა	ხეხილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	28	conj	_	Translit=xexilisa
 35	და	და	CCONJ	Conj	_	36	cc	_	Translit=da
-36	სხვ.	სხვა	PRON	Pron	Abbr=Yes	28	conj	_	SpaceAfter=No|Translit=sxv.
+36	სხვ.	სხვა	PRON	Pron	Abbr=Yes|PronType=Tot	28	conj	_	SpaceAfter=No|Translit=sxv.
 37	)	)	PUNCT	F	PunctType=Brck	28	punct	_	Translit=)
 38	მიხედვით	მიხედვით	ADV	Adv	AdvType=Man	24	advmod	_	SpaceAfter=No|Translit=mixedvitʻ
 39	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
@@ -4409,7 +4409,7 @@
 12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 13	სოფლის	სოფელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=sopʻlis
 14-15	მეურნეობაზე	_	_	_	_	_	_	_	_
-14	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obl	_	Translit=meurneoba
+14	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=meurneoba
 15	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ze
 16	დაფუძნებული	დაფუძნებული	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=dapʻużnebuli
 17	ტექსტილის	ტექსტილი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=tekʻstilis
