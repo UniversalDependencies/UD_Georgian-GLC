@@ -11514,7 +11514,7 @@
 7	ბიოგრაფია	ბიოგრაფია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj:pass	_	Translit=biograpʻia
 8	ინგლისურ	ინგლისური	ADJ	Adj	Case=Dat|Number=Sing	9	amod	_	Translit=inglisur
 9-10	ენაზე	_	_	_	_	_	_	_	_
-9	ენა	ენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	Translit=ena
+9	ენა	ენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	nmod	_	Translit=ena
 10	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ze
 11	"	"	PUNCT	F	PunctType=Quot	12	punct	_	SpaceAfter=No|Translit="
 12	პლუტარხი	პლუტარხი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	7	conj	_	SpaceAfter=No|Translit=plutarxi
@@ -11590,7 +11590,7 @@
 16	პირდაპირ	პირდაპირი	ADJ	Adj	Case=Dat|Number=Sing	17	amod	_	Translit=pirdapir
 17	დაკავშირებულ	დაკავშირებული	ADJ	Adj	Case=Dat|Number=Sing	19	amod	_	Translit=dakavširebul
 18	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	19	det	_	Translit=sxva
-19	მასალას	მასალა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	SpaceAfter=No|Translit=masalas
+19	მასალას	მასალა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	conj	_	SpaceAfter=No|Translit=masalas
 20	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = wiki_autobiography_00293
@@ -11811,7 +11811,7 @@
 9	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj:pass	_	SpaceAfter=No|Translit=sistema
 10	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 11	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=romelicʻ
-12	ფრენისას	ფრენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	_	Translit=pʻrenisas
+12	ფრენისას	ფრენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obl	_	Translit=pʻrenisas
 13	ჭურვის	ჭურვი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=čurvis
 14	კოორდინატებს	კოორდინატი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	15	nmod	_	Translit=koordinatebs
 15	კორექტირებას	კორექტირება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	_	Translit=korekʻtirebas
@@ -12002,7 +12002,7 @@
 16	სასაზღვრო	სასაზღვრო	ADJ	Adj	Case=Ins|Number=Sing	14	conj	_	Translit=sasazġvro
 17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 18	სანიტარიულ-საკარანტინო	სანიტარიულ-საკარანტინო	ADJ	Adj	Case=Ins|Number=Sing	14	conj	_	Translit=sanitariul-sakarantino
-19	კონტროლით	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	5	obl	_	SpaceAfter=No|Translit=kontrolitʻ
+19	კონტროლით	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	12	obl	_	SpaceAfter=No|Translit=kontrolitʻ
 20	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = wiki_automatic_00309
@@ -12022,7 +12022,7 @@
 10	ითვალისწინებს	ითვალისწინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=itʻvaliscinebs
 11	საბაჟო-ადმინისტრაციული	საბაჟო-ადმინისტრაციული	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=sabažo-administracʻiuli
 12	ფორმალობის	ფორმალობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=pʻormalobis
-13	დაცვას	დაცვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obj	_	SpaceAfter=No|Translit=dacʻvas
+13	დაცვას	დაცვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obj	_	SpaceAfter=No|Translit=dacʻvas
 14	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 15	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	16	obj	_	Translit=romelsacʻ
 16	წარმოადგენს	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	10	conj	_	Translit=carmoadgens
@@ -12098,7 +12098,7 @@
 21	ქვეყანა	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=kʻveqana
 22	ში	ში	ADP	Post	AdpType=Post|Case=Dat	21	case	_	Translit=ši
 23	ტრანზიტის	ტრანზიტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=tranzitis
-24-25	შეტანისათვის	_	_	_	_	_	_	_	SpaceAfter=No|
+24-25	შეტანისათვის	_	_	_	_	_	_	_	SpaceAfter=No
 24	შეტანისა	შეტანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	conj	_	Translit=šetanisa
 25	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	24	case	_	Translit=tʻvis
 26	)	)	PUNCT	F	PunctType=Brck	19	punct	_	SpaceAfter=No|Translit=)
