@@ -6350,7 +6350,7 @@
 7-8	სამსახურში	_	_	_	_	_	_	_	_
 7	სამსახურ	სამსახური	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=samsaxur
 8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
-9	ჩაეყენებინა	იყენებს	VERB	Verb	Aspect=Perf|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|VerbForm=Fin|Voice=Act	2	csubj	_	SpaceAfter=No|Translit=čʻaeqenebina
+9	ჩაეყენებინა	იყენებს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp|VerbForm=Fin|Voice=Act	2	csubj	_	SpaceAfter=No|Translit=čʻaeqenebina
 10	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = wiki_anthropology_00116
@@ -6795,7 +6795,7 @@
 3	მუშავდება	მუშავდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=mušavdeba
 4	ვარიაციულ-სტატისტიკური	ვარიაციულ-სტატისტიკური	ADJ	Adj	Case=Ins|Number=Sing	9	amod	_	Translit=variacʻiul-statistikuri
 5	(	(	PUNCT	F	PunctType=Brck	6	punct	_	SpaceAfter=No|Translit=(
-6	იხ.	იხილეთ	VERB	Verb	Abbr=Yes|VerbForm=Fin	3	parataxis	_	Translit=ix.
+6	იხ.	იხილეთ	VERB	Verb	Abbr=Yes	3	parataxis	_	Translit=ix.
 7	ბიომეტრია	ბიომეტრია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	obj	_	SpaceAfter=No|Translit=biometria
 8	)	)	PUNCT	F	PunctType=Brck	6	punct	_	Translit=)
 9	მეთოდით	მეთოდი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	3	obl	_	Translit=metʻoditʻ
