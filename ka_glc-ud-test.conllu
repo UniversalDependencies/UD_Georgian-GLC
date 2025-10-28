@@ -11088,7 +11088,7 @@
 14	თერმობირთვული	თერმობირთვული	ADJ	Adj	Case=Gen|Number=Sing	15	amod	_	Translit=tʻermobirtʻvuli
 15	რეაქციების	რეაქცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	16	nmod	_	Translit=reakʻcʻiebis
 16	საშუალებით	საშუალება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	20	obl	_	Translit=sašualebitʻ
-17	ჰელიუმად	ჰელიუმი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	18	obl	_	Translit=heliumad
+17	ჰელიუმად	ჰელიუმი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	18	nmod	_	Translit=heliumad
 18	გადაქცევის	გადაქცევა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=gadakʻcʻevis
 19	პროცესს	პროცესი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	obj	_	Translit=procʻess
 20	იყენებს	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	8	acl	_	SpaceAfter=No|Translit=iqenebs
@@ -11148,7 +11148,7 @@
 6	მოიხმარს	ხმარს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	21	advcl	_	Translit=moixmars
 7	ჰელიუმს	ჰელიუმი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obj	_	Translit=heliums
 8-9	ბირთვში	_	_	_	_	_	_	_	SpaceAfter=No
-8	ბირთვ	ბირთვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	obl	_	Translit=birtʻv
+8	ბირთვ	ბირთვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obl	_	Translit=birtʻv
 9	ში	ში	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=ši
 10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 11	სინთეზი	სინთეზი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	21	nsubj	_	Translit=sintʻezi
@@ -11267,7 +11267,7 @@
 # sent_id = wiki_autobiography_00280
 # text = ელენ გეიტისთან ერთად ის არის ამერიკის შეერთებული შტატების პირველი ახალშენის თანადამფუძნებელი, ჩიკაგოს ჰული სახლი, რომელიც მოგვიანებით ცნობილი გახდა, როგორც ერთ-ერთი ყველაზე ცნობილი ახალშენი ამერიკაში.
 # translit = elen geitistʻan ertʻad is aris amerikis šeertʻebuli štatebis pirveli axalšenis tʻanadampʻużnebeli, čʻikagos huli saxli, romelicʻ mogvianebitʻ cʻnobili gaxda, rogorcʻ ertʻ-ertʻi qvelaze cʻnobili axalšeni amerikaši.
-1	ელენ	ელენ	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	5	obl	_	Translit=elen
+1	ელენ	ელენ	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	5	nmod	_	Translit=elen
 2-3	გეიტისთან	_	_	_	_	_	_	_	_
 2	გეიტის	გეიტი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	1	flat:name	_	Translit=geitis
 3	თან	თან	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=tʻan
@@ -11293,12 +11293,12 @@
 23	როგორც	როგორც	SCONJ	Conj	_	28	mark	_	Translit=rogorcʻ
 24	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	25	det	_	Translit=ertʻ-ertʻi
 25-26	ყველაზე	_	_	_	_	_	_	_	_
-25	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	28	obl	_	Translit=qvela
+25	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	27	nmod	_	Translit=qvela
 26	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	25	case	_	Translit=ze
 27	ცნობილი	ცნობილი	ADJ	Adj	Case=Nom|Number=Sing	28	amod	_	Translit=cʻnobili
 28	ახალშენი	ახალშენი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	21	obj	_	Translit=axalšeni
 29-30	ამერიკაში	_	_	_	_	_	_	_	SpaceAfter=No
-29	ამერიკა	ამერიკა	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	28	obl	_	Translit=amerika
+29	ამერიკა	ამერიკა	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	28	nmod	_	Translit=amerika
 30	ში	ში	ADP	Post	AdpType=Post|Case=Dat	29	case	_	Translit=ši
 31	.	.	PUNCT	F	PunctType=Peri	12	punct	_	Translit=.
 
@@ -11468,7 +11468,7 @@
 14	-	-	PUNCT	F	PunctType=Dash	13	punct	_	Translit=-
 15	ბიოგრაფიები	ბიოგრაფია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	26	nsubj	_	Translit=biograpʻiebi
 16-17	მხატვრებზე	_	_	_	_	_	_	_	SpaceAfter=No
-16	მხატვრებ	მხატვარი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	15	obl	_	Translit=mxatvreb
+16	მხატვრებ	მხატვარი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	15	nmod	_	Translit=mxatvreb
 17	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	16	case	_	Translit=ze
 18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 19	მოქანდაკეებსა	მოქანდაკე	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	16	conj	_	Translit=mokʻandakeebsa
@@ -11508,7 +11508,7 @@
 2	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl:tmod	_	Translit=cels
 3	გამოიცა	იცმევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	_	Translit=gamoicʻa
 4-5	ისტორიაში	_	_	_	_	_	_	_	_
-4	ისტორია	ისტორია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	Translit=istoria
+4	ისტორია	ისტორია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=istoria
 5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
 6	პირველი	ერთი	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	7	nummod	_	Translit=pirveli
 7	ბიოგრაფია	ბიოგრაფია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj:pass	_	Translit=biograpʻia
