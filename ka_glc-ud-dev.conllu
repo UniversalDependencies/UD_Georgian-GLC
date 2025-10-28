@@ -10587,7 +10587,7 @@
 18	მეგაპარსეკს	მეგაპარსეკი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obj	_	Translit=megaparseks
 19	აღემატება	ემატება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	12	acl	_	Translit=aġemateba
 20	(	(	PUNCT	F	PunctType=Brck	21	punct	_	SpaceAfter=No|Translit=(
-21	იხ.	იხილეთ	VERB	Verb	Abbr=Yes|VerbForm=Fin	19	parataxis	_	Translit=ix.
+21	იხ.	იხილეთ	VERB	Verb	Abbr=Yes	19	parataxis	_	Translit=ix.
 22	პარსეკი	პარსეკი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	21	appos	_	SpaceAfter=No|Translit=parseki
 23	)	)	PUNCT	F	PunctType=Brck	22	punct	_	SpaceAfter=No|Translit=)
 24	)	)	PUNCT	F	PunctType=Brck	22	punct	_	Translit=)
