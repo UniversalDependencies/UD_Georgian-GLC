@@ -6209,7 +6209,7 @@
 3	რეზერფორდ	რეზერფორდი	PROPN	Prop	Case=Dat|NameType=Sur|Number=Sing	8	obl	_	Translit=rezerpʻord
 4	თან	თან	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=tʻan
 5	ერთად	ერთად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=ertʻad
-6	1903	1903	NUM	Num	NumForm=Digit|NumType=Card	7	obl	_	Translit=1903
+6	1903	1903	NUM	Num	NumForm=Digit|NumType=Card	7	amod	_	Translit=1903
 7	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl:tmod	_	Translit=cels
 8	შეიმუშავა	იმუშავებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=šeimušava
 9	რადიაქტიური	რადიაქტიური	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=radiakʻtiuri
