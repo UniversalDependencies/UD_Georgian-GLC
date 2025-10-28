@@ -4616,7 +4616,7 @@
 19	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	18	case	_	Translit=tʻvis
 20	ხელოვნური	ხელოვნური	ADJ	Adj	Case=Nom|Number=Sing	22	amod	_	Translit=xelovnuri
 21	საკვები	საკვები	ADJ	Adj	Case=Nom|Number=Sing	22	amod	_	Translit=sakvebi
-22	ხსნარები	ხსნარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	24	obj	_	Translit=xsnarebi
+22	ხსნარები	ხსნარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	16	obj	_	Translit=xsnarebi
 23	და	და	CCONJ	Conj	_	24	cc	_	Translit=da
 24	შეიმუშავა	იმუშავებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	16	conj	_	Translit=šeimušava
 25-26	ნიადაგში	_	_	_	_	_	_	_	SpaceAfter=No
@@ -4731,8 +4731,8 @@
 18	ტორფის	ტორფი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=torpʻis
 19	ფონდი	ფონდი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	obj	_	Translit=pʻondi
 20	და	და	CCONJ	Conj	_	24	cc	_	Translit=da
-21	მისი	მისი	PRON	Pron	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det:poss	_	Translit=misi
-22	სასუქად	სასუქი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	23	obl	_	Translit=sasukʻad
+21	მისი	მისი	PRON	Pron	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det:poss	_	Translit=misi
+22	სასუქად	სასუქი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	24	nmod	_	Translit=sasukʻad
 23	გამოყენების	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=gamoqenebis
 24	წესები	წესი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	19	conj	_	SpaceAfter=No|Translit=cesebi
 25	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
@@ -4924,7 +4924,7 @@
 32	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 33	კობალტი	კობალტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	Translit=kobalti
 34	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
-35	სხვ.	სხვა	PRON	Pron	Abbr=Yes	33	conj	_	SpaceAfter=No|Translit=sxv.
+35	სხვ.	სხვა	PRON	Pron	Abbr=Yes|PronType=Tot	33	conj	_	SpaceAfter=No|Translit=sxv.
 36	)	)	PUNCT	F	PunctType=Brck	9	punct	_	Translit=)
 37	შემცველობას	შემცველობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	SpaceAfter=No|Translit=šemcʻvelobas
 38	,	,	PUNCT	F	PunctType=Comm	43	punct	_	Translit=,
@@ -4999,7 +4999,7 @@
 21	ცალკეულ	ცალკეული	ADJ	Adj	Case=Nom|Number=Sing	19	conj	_	Translit=cʻalkeul
 22	მოწინავე	მოწინავე	ADJ	Adj	Case=Nom|Number=Sing	23	amod	_	Translit=mocinave
 23-24	მეურნეობასთან	_	_	_	_	_	_	_	_
-23	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	obl	_	Translit=meurneoba
+23	მეურნეობა	მეურნეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	nmod	_	Translit=meurneoba
 24	თან	თან	ADP	Post	AdpType=Post|Case=Dat	23	case	_	Translit=tʻan
 25	არსებული	არსებული	ADJ	Adj	Case=Nom|Number=Sing	18	conj	_	Translit=arsebuli
 26	აგროქიმიური	აგროქიმიური	ADJ	Adj	Case=Nom|Number=Sing	27	amod	_	Translit=agrokʻimiuri
