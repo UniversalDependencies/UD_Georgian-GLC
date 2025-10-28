@@ -8880,7 +8880,7 @@
 12	გვხვდება	ხვდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	0	root	_	Translit=gvxvdeba
 13	სამეცნიერო	სამეცნიერო	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=samecʻniero
 14-15	ლიტერატურაში	_	_	_	_	_	_	_	_
-14	ლიტერატურა	ლიტერატურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	16	obl	_	Translit=literatura
+14	ლიტერატურა	ლიტერატურა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	obl	_	Translit=literatura
 15	ში	ში	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ši
 16	დაძაბულობის	დაძაბულობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	22	nmod	_	SpaceAfter=No|Translit=dażabulobis
 17	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
@@ -8911,9 +8911,9 @@
 41	უჩვეულო	უჩვეულო	ADJ	Adj	Case=Dat|Number=Sing	39	conj	_	Translit=učʻveulo
 42	კულტურულ	კულტურული	ADJ	Adj	Case=Dat|Number=Sing	43	amod	_	Translit=kulturul
 43-44	გარემოში	_	_	_	_	_	_	_	_
-43	გარემო	გარემო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	45	obl	_	Translit=garemo
+43	გარემო	გარემო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	38	obl	_	Translit=garemo
 44	ში	ში	ADP	Post	AdpType=Post|Case=Dat	43	case	_	Translit=ši
-45	აღმოჩენისას	აღმოჩენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	38	obj	_	Translit=aġmočʻenisas
+45	აღმოჩენისას	აღმოჩენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	38	obl	_	Translit=aġmočʻenisas
 46	(	(	PUNCT	F	PunctType=Brck	47	punct	_	SpaceAfter=No|Translit=(
 47	K.	K	X	Foreign	Foreign=Yes	45	appos	_	Translit=K.
 48	Oberg	Oberg	X	Foreign	Foreign=Yes	47	flat:foreign	_	SpaceAfter=No|Translit=Oberg
@@ -9010,7 +9010,7 @@
 9	გადადის	გადადის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	Translit=gadadis
 10	მომდევნო	მომდევნო	ADJ	Adj	Case=Dat|Number=Sing	11	amod	_	Translit=momdevno
 11-12	თაობებზე	_	_	_	_	_	_	_	_
-11	თაობებ	თაობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	19	obl	_	Translit=tʻaobeb
+11	თაობებ	თაობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	9	obl	_	Translit=tʻaobeb
 12	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=ze
 13	ინფორმაციის	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=inpʻormacʻiis
 14	გადაცემის	გადაცემა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	Translit=gadacʻemis
@@ -9052,7 +9052,7 @@
 24	ქვეყნის	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=kʻveqnis
 25	ას	ასი	NUM	Num	Case=Gen|NumType=Card	26	nummod	_	Translit=as
 26-27	წლისთავთან	_	_	_	_	_	_	_	_
-26	წლისთავ	წლისთავი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	obl	_	Translit=clistʻav
+26	წლისთავ	წლისთავი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	nmod	_	Translit=clistʻav
 27	თან	თან	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=tʻan
 28	დაკავშირებით	დაკავშირება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	21	obl	_	Translit=dakavširebitʻ
 29	და	და	CCONJ	Conj	_	38	cc	_	Translit=da
@@ -9141,7 +9141,7 @@
 4	ხელოვნების	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=xelovnebis
 5	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	6	det	_	Translit=sxva
 6-7	ინსტიტუტებთან	_	_	_	_	_	_	_	_
-6	ინსტიტუტებ	ინსტიტუტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	8	obl	_	Translit=instituteb
+6	ინსტიტუტებ	ინსტიტუტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	3	obl	_	Translit=instituteb
 7	თან	თან	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=tʻan
 8	გამოფენების	გამოფენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=gamopʻenebis
 9	თანადაფინანსებისა	თანადაფინანსება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=tʻanadapʻinansebisa
@@ -9450,7 +9450,7 @@
 16	ნიმუშებს	ნიმუში	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	12	conj	_	SpaceAfter=No|Translit=nimušebs
 17	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 18-19	რომლებშიც	_	_	_	_	_	_	_	_
-18	რომლებ	რომელი	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Int	21	obl	_	Translit=romel
+18	რომლებ	რომელი	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Int	23	obl	_	Translit=romel
 19	შიც	ში	ADP	Post	AdpType=Post|Case=Dat	18	case	_	Translit=šicʻ
 20	ოპტიკური	ოპტიკური	ADJ	Adj	Case=Nom|Number=Sing	21	amod	_	Translit=optikuri
 21-22	ილუზიებია	_	_	_	_	_	_	_	_
