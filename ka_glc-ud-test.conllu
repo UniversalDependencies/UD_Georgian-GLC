@@ -6626,7 +6626,7 @@
 4	კლასიფიცირებას	კლასიფიცირება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obj	_	Translit=klasipʻicʻirebas
 5	კანის	კანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=kanis
 6-7	ფერზე	_	_	_	_	_	_	_	_
-6	ფერ	ფერი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=pʻer
+6	ფერ	ფერი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	nmod	_	Translit=pʻer
 7	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=ze
 8	(	(	PUNCT	F	PunctType=Brck	9	punct	_	SpaceAfter=No|Translit=(
 9	პიგმენტაცია	პიგმენტაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	appos	_	SpaceAfter=No|Translit=pigmentacʻia
@@ -6802,7 +6802,7 @@
 10	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
 11	ცხრილებად	ცხრილი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	16	obl	_	SpaceAfter=No|Translit=cʻxrilebad
 12	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
-13	გრაფიკებად	გრაფიკი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	11	obl	_	Translit=grapʻikebad
+13	გრაფიკებად	გრაფიკი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	11	conj	_	Translit=grapʻikebad
 14	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
 15	სქემებად	სქემა	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Plur	11	conj	_	Translit=skʻemebad
 16	ფორმდება	ფორმდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	3	conj	_	SpaceAfter=No|Translit=pʻormdeba
@@ -6816,7 +6816,7 @@
 3	გამოთქვა	თქვამს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=gamotʻkʻva
 4	მოსაზრება	მოსაზრება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	obj	_	Translit=mosazreba
 5	კლიმატის	კლიმატი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=klimatis
-6	გავლენის	გავლენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	obl	_	Translit=gavlenis
+6	გავლენის	გავლენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=gavlenis
 7-8	თაობაზე	_	_	_	_	_	_	_	SpaceAfter=No
 7	თაობა	თაობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	nmod	_	Translit=tʻaoba
 8	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ze
@@ -7084,7 +7084,7 @@
 13	დათარიღებისა	დათარიღება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	conj	_	Translit=datʻariġebisa
 14	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
 15	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	5	conj	_	Translit=sxva
-16	დროს	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obj	_	Translit=dros
+16	დროს	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	obl	_	Translit=dros
 17	წარმატებით	წარმატებით	ADV	Adv	AdvType=Man	18	advmod	_	Translit=carmatebitʻ
 18	იყენებს	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=iqenebs
 19	საბუნებისმეტყველო	საბუნებისმეტყველო	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=sabunebismetqvelo
@@ -7130,7 +7130,7 @@
 # translit = miuxedavad arkʻeologiuri gatʻxrebis mcʻire masštabisa, XIX saukunis II naxevarsa da XX saukunis dasacqisši sakʻartʻveloši moxda mnišvnelovani arkʻeologiuri aġmočʻenebi: samtʻavros samarovnisa da sačʻxeris qorġanuli samarxebis gatʻxrebi, qazbegis ganżis, axalgoris ganżis povna da sxva.
 1	მიუხედავად	მიუხედავად	ADV	Adv	AdvType=Man	18	advmod	_	Translit=miuxedavad
 2	არქეოლოგიური	არქეოლოგიური	ADJ	Adj	Case=Gen|Number=Sing	3	amod	_	Translit=arkʻeologiuri
-3	გათხრების	გათხრა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	obl	_	Translit=gatʻxrebis
+3	გათხრების	გათხრა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	nmod	_	Translit=gatʻxrebis
 4	მცირე	მცირე	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	Translit=mcʻire
 5	მასშტაბისა	მასშტაბი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	1	nmod	_	SpaceAfter=No|Translit=masštabisa
 6	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
@@ -7483,7 +7483,7 @@
 3	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ze
 4	ლითონის	ლითონი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=litʻonis
 5-6	ყველაზე	_	_	_	_	_	_	_	_
-5	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	8	obl	_	Translit=qvela
+5	ყველა	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	8	nmod	_	Translit=qvela
 6	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	5	case	_	Translit=ze
 7	ადრეული	ადრეული	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=adreuli
 8	ცულები	ცული	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	11	nsubj	_	Translit=cʻulebi
@@ -7550,7 +7550,7 @@
 # sent_id = wiki_archaeology_00160
 # text = განძებს, რომლებიც მონეტებთან ერთად ლითონის სხვა ნივთებსაც შეიცავს, ჩვეულებრივ შერეულ განძს უწოდებენ.
 # translit = ganżebs, romlebicʻ monetebtʻan ertʻad litʻonis sxva nivtʻebsacʻ šeicʻavs, čʻveulebriv šereul ganżs ucodeben.
-1	განძებს	განძი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	10	obj	_	SpaceAfter=No|Translit=ganżebs
+1	განძებს	განძი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	15	nsubj	_	SpaceAfter=No|Translit=ganżebs
 2	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 3	რომლებიც	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	10	nsubj	_	Translit=romlebicʻ
 4-5	მონეტებთან	_	_	_	_	_	_	_	_
@@ -7564,7 +7564,7 @@
 11	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 12	ჩვეულებრივ	ჩვეულებრივი	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=čʻveulebriv
 13	შერეულ	შერეული	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=šereul
-14	განძს	განძი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	iobj	_	Translit=ganżs
+14	განძს	განძი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obj	_	Translit=ganżs
 15	უწოდებენ	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Subcat=Tran|Tense=Pres|Voice=Act	10	conj	_	SpaceAfter=No|Translit=ucodeben
 16	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
