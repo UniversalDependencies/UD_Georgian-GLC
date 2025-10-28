@@ -9621,7 +9621,7 @@
 5	"	"	PUNCT	F	PunctType=Quot	4	punct	_	SpaceAfter=No|Translit="
 6	ხელოვანი	ხელოვანი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	4	nmod	_	Translit=xelovani
 7-8	ბაზარზე	_	_	_	_	_	_	_	SpaceAfter=No
-7	ბაზარ	ბაზარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obl	_	Translit=bazar
+7	ბაზარ	ბაზარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	nmod	_	Translit=bazar
 8	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ze
 9	"	"	PUNCT	F	PunctType=Quot	3	punct	_	SpaceAfter=No|Translit="
 10	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
@@ -9648,7 +9648,7 @@
 4	ლექციები	ლექცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	3	nsubj	_	Translit=lekʻcʻiebi
 5	თანამედროვე	თანამედროვე	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=tʻanamedrove
 6-7	ხელოვნებაზე	_	_	_	_	_	_	_	SpaceAfter=No
-6	ხელოვნება	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=xelovneba
+6	ხელოვნება	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	nmod	_	Translit=xelovneba
 7	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=ze
 8	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 9	თანამედროვე	თანამედროვე	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=tʻanamedrove
@@ -9873,11 +9873,11 @@
 13	შესაბამისად	შესაბამისად	ADV	Adv	AdvType=Man	21	advmod	_	Translit=šesabamisad
 14	ჩამოთვლილ	ჩამოთვლილი	ADJ	Adj	Case=Dat|Number=Sing	15	amod	_	Translit=čʻamotʻvlil
 15-16	სიაში	_	_	_	_	_	_	_	_
-15	სია	სია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	obl	_	Translit=sia
+15	სია	სია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	26	obl	_	Translit=sia
 16	ში	ში	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=ši
 17	მეორე	ორი	NUM	Num	Case=Dat|NumType=Ord	18	nummod	_	Translit=meore
 18-19	ამოცანაზე	_	_	_	_	_	_	_	_
-18	ამოცანა	ამოცანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	obl	_	Translit=amocʻana
+18	ამოცანა	ამოცანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	nmod	_	Translit=amocʻana
 19	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	18	case	_	Translit=ze
 20	პასუხის	პასუხი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=pasuxis
 21	გაცემა	გაცემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	26	nsubj	_	Translit=gacʻema
@@ -10052,7 +10052,7 @@
 7	რხევას	რხევა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obj	_	SpaceAfter=No|Translit=rxevas
 8	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=romelicʻ
-10	ტალღსადენით	ტალღსადენი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	11	obl	_	Translit=talġsadenitʻ
+10	ტალღსადენით	ტალღსადენი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	16	obl	_	Translit=talġsadenitʻ
 11	მიმღებსა	მიმღები	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	16	obl	_	Translit=mimġebsa
 12	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 13	ჩამწერ	ჩამწერი	ADJ	Adj	Case=Ess|Number=Sing	14	amod	_	Translit=čʻamcer
@@ -10475,7 +10475,7 @@
 2	ალტერნატიული	ალტერნატიული	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=alternatiuli
 3	ახსნებიც	ახსნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur|PartType=Emp	1	nsubj	_	SpaceAfter=No|Translit=axsnebicʻ
 4	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
-5	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur	14	nmod	_	Translit=romeltʻa
+5	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	14	nmod	_	Translit=romeltʻa
 6	მიხედვითაც	მიხედვით	ADV	Adv	AdvType=Man|PartType=Emp	14	parataxis	_	SpaceAfter=No|Translit=mixedvitʻacʻ
 7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 8	სირიუსის	სირიუსი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	9	nmod	_	Translit=siriusis
