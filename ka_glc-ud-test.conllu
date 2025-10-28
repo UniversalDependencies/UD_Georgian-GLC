@@ -10568,7 +10568,7 @@
 21-22	დროში	_	_	_	_	_	_	_	_
 21	დრო	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	17	obl	_	Translit=dro
 22	ში	ში	ADP	Post	AdpType=Post|Case=Dat	21	case	_	Translit=ši
-23	მოგზაურობა	მოგზაურობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	obj	_	SpaceAfter=No|Translit=mogzauroba
+23	მოგზაურობა	მოგზაურობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	nsubj	_	SpaceAfter=No|Translit=mogzauroba
 24	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 25-26	შესაძლებელია	_	_	_	_	_	_	_	_
 25	შესაძლებელი	შესაძლებელი	ADJ	Adj	Case=Nom|Number=Sing	17	conj	_	Translit=šesażlebeli
@@ -10577,12 +10577,12 @@
 28	არა	არა	PART	Part	PartType=Neg	25	advmod	_	Translit=ara
 29	ჭიის	ჭია	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	30	nmod	_	Translit=čiis
 30	ხვრელების	ხვრელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	31	nmod	_	Translit=xvrelebis
-31	წარმოქმნა	წარმოქმნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	25	obj	_	Translit=carmokʻmna
+31	წარმოქმნა	წარმოქმნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	25	nsubj	_	Translit=carmokʻmna
 32	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 33	არსებობს	არსებობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	17	conj	_	Translit=arsebobs
 34	თუ	თუ	CCONJ	Conj	_	35	cc	_	Translit=tʻu
 35	არა	არა	PART	Part	PartType=Neg	17	advmod	_	Translit=ara
-36	მულტისამყარო	მულტისამყარო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	obj	_	SpaceAfter=No|Translit=multisamqaro
+36	მულტისამყარო	მულტისამყარო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	33	nsubj	_	SpaceAfter=No|Translit=multisamqaro
 37	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = wiki_astrophysics_00257
