@@ -7641,7 +7641,7 @@
 4	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 5	როგორც	როგორც	SCONJ	Conj	_	6	mark	_	Translit=rogorcʻ
 6-7	მშენებლისთვის	_	_	_	_	_	_	_	_
-6	მშენებლის	მშენებელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	8	obl	_	Translit=mšeneblis
+6	მშენებლის	მშენებელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	8	nmod	_	Translit=mšeneblis
 7	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=tʻvis
 8	ღირებულებასა	ღირებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	Translit=ġirebulebasa
 9	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
@@ -7754,7 +7754,7 @@
 12	მიმდინარეობებ	მიმდინარეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur|PartType=Emp	6	obl	_	Translit=mimdinareobeb
 13	თანაც	თან	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=tʻanacʻ
 14	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
-15	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	12	obl	_	Translit=matʻ
+15	მათ	იგინი	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs	12	nmod	_	Translit=matʻ
 16	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=šoris
 17-18	მოდერნიზმთან	_	_	_	_	_	_	_	SpaceAfter=No
 17	მოდერნიზმ	მოდერნიზმი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	conj	_	Translit=modernizm
@@ -7908,7 +7908,7 @@
 # text = საქართველოში სივრცით-ტერიტორიული დაგეგმვის ტიპები და იერარქია განმარტებული და შეჯამებულია საქართველოს კანონში სივრცითი მოწყობისა და ქალაქთმშენებლობის საფუძვლების შესახებ, რომელიც 2005 წელს დამტკიცდა და რომელიც რამდენიმე სხვა სამართლებრივ აქტთან ერთად, დაგეგმვისა და დაგეგმარების ფორმალურ მხარეს არეგულირებს.
 # translit = sakʻartʻveloši sivrcʻitʻ-teritoriuli dagegmvis tipebi da ierarkʻia ganmartebuli da šejamebulia sakʻartʻvelos kanonši sivrcʻitʻi mocqobisa da kʻalakʻtʻmšeneblobis sapʻużvlebis šesaxeb, romelicʻ 2005 cels damtkicʻda da romelicʻ ramdenime sxva samartʻlebriv akʻttʻan ertʻad, dagegmvisa da dagegmarebis pʻormalur mxares aregulirebs.
 1-2	საქართველოში	_	_	_	_	_	_	_	_
-1	საქართველო	საქართველო	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	5	obl	_	Translit=sakʻartʻvelo
+1	საქართველო	საქართველო	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	8	obl	_	Translit=sakʻartʻvelo
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
 3	სივრცით-ტერიტორიული	სივრცით-ტერიტორიული	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=sivrcʻitʻ-teritoriuli
 4	დაგეგმვის	დაგეგმვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=dagegmvis
@@ -8414,7 +8414,7 @@
 28	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	27	cop	_	Translit=a
 29	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 30	რაც	რაც	SCONJ	Conj	_	35	mark	_	Translit=racʻ
-31	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	32	obl	_	Translit=magalitʻad
+31	მაგალითად	მაგალითი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	37	obl	_	Translit=magalitʻad
 32-33	მხატვრობისთვის	_	_	_	_	_	_	_	_
 32	მხატვრობის	მხატვრობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	37	nmod	_	Translit=mxatvrobis
 33	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	32	case	_	Translit=tʻvis
@@ -8529,7 +8529,7 @@
 12	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	13	nmod	_	Translit=adamianis
 13	როლს	როლი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	conj	_	Translit=rols
 14-15	მასში	_	_	_	_	_	_	_	SpaceAfter=No
-14	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl	_	Translit=mas
+14	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Translit=mas
 15	ში	ში	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ši
 16	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 17	რაც	რაც	SCONJ	Conj	_	18	mark	_	Translit=racʻ
@@ -8679,7 +8679,7 @@
 # text = თარზე შესრულება, ისევე როგორც მისი წარმოების ხელოვნება განვითარებულია აზერბაიჯანის ტერიტორიაზე.
 # translit = tʻarze šesruleba, iseve rogorcʻ misi carmoebis xelovneba ganvitʻarebulia azerbaijanis teritoriaze.
 1-2	თარზე	_	_	_	_	_	_	_	_
-1	თარ	თარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obl	_	Translit=tʻar
+1	თარ	თარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	nmod	_	Translit=tʻar
 2	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ze
 3	შესრულება	შესრულება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	nsubj	_	SpaceAfter=No|Translit=šesruleba
 4	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
@@ -8742,10 +8742,10 @@
 18	განეკუთვნება	ეკუთვნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	11	acl	_	Translit=ganekutʻvneba
 19	(	(	PUNCT	F	PunctType=Brck	21	punct	_	SpaceAfter=No|Translit=(
 20	სოფ.	სოფელი	NOUN	Noun	Abbr=Yes	21	nmod	_	Translit=sopʻ.
-21	მუნდიგაკი	მუნდიგაკი	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	18	obl	_	SpaceAfter=No|Translit=mundigaki
+21	მუნდიგაკი	მუნდიგაკი	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	18	appos	_	SpaceAfter=No|Translit=mundigaki
 22	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 23-24	კლდეებზე	_	_	_	_	_	_	_	_
-23	კლდეებ	კლდე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	21	obl	_	Translit=kldeeb
+23	კლდეებ	კლდე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	21	nmod	_	Translit=kldeeb
 24	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	23	case	_	Translit=ze
 25	მხატვრობა	მხატვრობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	21	conj	_	SpaceAfter=No|Translit=mxatvroba
 26	)	)	PUNCT	F	PunctType=Brck	21	punct	_	SpaceAfter=No|Translit=)
