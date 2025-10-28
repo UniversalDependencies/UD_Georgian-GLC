@@ -1366,7 +1366,7 @@
 5	ავიაცია	ავიაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	28	nsubj	_	Translit=aviacʻia
 6	—	—	PUNCT	F	PunctType=Dash	5	punct	_	Translit=—
 7	საქართველოს	საქართველო	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	8	nmod	_	Translit=sakʻartʻvelos
-8	პირველი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Ord	9	nmod	_	Translit=pirveli
+8	პირველი	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Ord	9	nummod	_	Translit=pirveli
 9	რესპუბლიკის	რესპუბლიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	11	nmod	_	Translit=respublikis
 10	შეიარაღებულ	შეიარაღებული	ADJ	Adj	Case=Dat|Number=Sing	11	amod	_	Translit=šeiaraġebul
 11	ძალებს	ძალა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	13	nmod	_	Translit=żalebs
@@ -3298,7 +3298,7 @@
 1	დღე	დღე	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	3	obl	_	Translit=dġe
 2	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	1	case	_	Translit=mde
 3	მოღწეული	მოღწეული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=moġceuli
-4	პირველი	ერთი	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	7	amod	_	Translit=pirveli
+4	პირველი	ერთი	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	7	nummod	_	Translit=pirveli
 5	ქართული	ქართული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=kʻartʻuli
 6	ჰაგიოგრაფიული	ჰაგიოგრაფიული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=hagiograpʻiuli
 7-8	ძეგლია	_	_	_	_	_	_	_	_
