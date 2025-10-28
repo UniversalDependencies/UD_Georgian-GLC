@@ -12198,11 +12198,11 @@
 17	კონტროლი	კონტროლი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	10	conj	_	Translit=kontroli
 18	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	det	_	Translit=mis
 19-20	შესრულებაზე	_	_	_	_	_	_	_	SpaceAfter=No
-19	შესრულება	შესრულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	26	obl	_	Translit=šesruleba
+19	შესრულება	შესრულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	17	nmod	_	Translit=šesruleba
 20	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=ze
 21	;	;	PUNCT	F	PunctType=Semi	26	punct	_	Translit=;
 22	დადგენილი	დადგენილი	ADJ	Adj	Case=Ins|Number=Sing	23	amod	_	Translit=dadgenili
-23	წესით	წესი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	obl	_	Translit=cesitʻ
+23	წესით	წესი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	nmod	_	Translit=cesitʻ
 24	ადგილობრივი	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	25	amod	_	Translit=adgilobrivi
 25	თვითმმართველობის	თვითმმართველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=kʻonebis
 26	ქონების	ქონება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	nmod	_	Translit=kʻonebis
@@ -12243,7 +12243,7 @@
 3	ქვეყანა	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	xcomp	_	Translit=kʻveqana
 4	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=gaxda
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-6	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing	9	nsubj	_	Translit=romelmacʻ
+6	რომელმაც	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	9	nsubj	_	Translit=romelmacʻ
 7	შენგენის	შენგენი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	8	nmod	_	Translit=šengenis
 8	შეთანხმებას	შეთანხმება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	iobj	_	Translit=šetʻanxmebas
 9	მოაწერა	წერს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	3	acl	_	Translit=moacera
@@ -12348,7 +12348,7 @@
 13	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj:pass	_	SpaceAfter=No|Translit=sistema
 14	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 15	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	19	nsubj	_	Translit=romelicʻ
-16	დროთა	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	19	obj	_	Translit=drotʻa
+16	დროთა	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	17	nmod	_	Translit=drotʻa
 17-18	განმავლობაში	_	_	_	_	_	_	_	_
 17	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=ganmavloba
 18	ში	ში	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ši
@@ -12548,7 +12548,7 @@
 8	შეტევა	შეტევა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	conj	_	SpaceAfter=No|Translit=šeteva
 9	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 10	რომლის	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	11	det	_	Translit=romlis
-11	დროსაც	დრო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing|PartType=Emp	24	obl	_	Translit=drosacʻ
+11	დროსაც	დრო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing|PartType=Emp	22	obl	_	Translit=drosacʻ
 12	გარეშე	გარეშე	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	Translit=gareše
 13	პირი	პირი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	22	nsubj	_	Translit=piri
 14-15	სისტემაზე	_	_	_	_	_	_	_	_
