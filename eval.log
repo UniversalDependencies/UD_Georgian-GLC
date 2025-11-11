@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Georgian-GLC:
-commit 3ba2ce354c8924914326f6c42305c6a9eec4f38b
-Merge: 1057198 30df1e5
+commit c7befc9ec964e489b2ac13c159320025ec0a8ab5
+Merge: f08857b 8917c8f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 60173 of 60173 words (nodes).
-Size: min(0, log((N/1000)**2)) = 8.19444749344589.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ka_glc'
+Language code (from CoNLL-U file name) = 'ka'
+Found the following data files: ka_glc-ud-dev.conllu, ka_glc-ud-test.conllu, ka_glc-ud-train.conllu
+Size: counted 60182 of 60182 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.19474660856422.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,14 +19,10 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.1.
-Features: 56660 out of 60173 total words have one or more features.
+Features: 56667 out of 60182 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
-Universal relations: 30 out of 37 found in the corpus.
+Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
-Udapi:
-               TOTAL       3804
-Udapi: found 3804 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 60173 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ka --max-err=10 UD_Georgian-GLC/ka_glc-ud-dev.conllu
 *** PASSED ***
@@ -31,14 +31,13 @@ Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ka --max-err=10 UD_Georgian-GLC/ka_glc-ud-train.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
-(weight=0.256410256410256) * (score{size}=0.593133888108247) = 0.152085612335448
-(weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
-(weight=0.0769230769230769) * (score{tags}=0.0941176470588235) = 0.00723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.367822777657754) = 0.113176239279309
-(weight=0.0769230769230769) * (score{udeprels}=0.0810810810810811) = 0.00623700623700624
-(TOTAL score=0.39087542899304) * (availability=1) * (validity=1) = 0.39087542899304
+(weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.4) = 0.0444444444444444
+(weight=0.37037037037037) * (score{size}=0.593155538782471) = 0.2196872365861
+(weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
+(weight=0.111111111111111) * (score{tags}=0.0941176470588235) = 0.0104575163398693
+(weight=0.111111111111111) * (score{udeprels}=0.0837837837837838) = 0.00930930930930931
+(TOTAL score=0.401429370877254) * (availability=1) * (validity=1) = 0.401429370877254
 STARS = 2
-UD_Georgian-GLC	0.39087542899304	2
+UD_Georgian-GLC	0.401429370877254	2
