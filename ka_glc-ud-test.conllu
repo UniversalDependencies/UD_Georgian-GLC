@@ -11769,7 +11769,7 @@
 10	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl	_	Translit=ganmavloba
 11	ში	ში	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ši
 12	ჩუმად	ჩუმად	ADV	Adv	AdvType=Man	13	advmod	_	Translit=čʻumad
-13	ამყოფო	ამყოფებს	VERB	Verb	Aspect=Imp|Evident=Nfh|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=amqopʻo
+13	ამყოფო	ამყოფებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=amqopʻo
 14	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 15	თუ	თუ	SCONJ	Conj	_	17	mark	_	Translit=tʻu
 16	არ	არ	PART	Part	PartType=Neg	17	advmod	_	Translit=ar
