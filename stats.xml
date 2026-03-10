@@ -5,74 +5,75 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>3164</sentences><tokens>56174</tokens><words>60173</words><fused>3969</fused></total>
-    <train><sentences>2214</sentences><tokens>37875</tokens><words>40525</words><fused>2630</fused></train>
-    <dev><sentences>469</sentences><tokens>9016</tokens><words>9609</words><fused>588</fused></dev>
-    <test><sentences>481</sentences><tokens>9283</tokens><words>10039</words><fused>751</fused></test>
+    <total><sentences>3164</sentences><tokens>56174</tokens><words>60182</words><fused>3976</fused></total>
+    <train><sentences>2214</sentences><tokens>37875</tokens><words>40530</words><fused>2634</fused></train>
+    <dev><sentences>469</sentences><tokens>9016</tokens><words>9611</words><fused>590</fused></dev>
+    <test><sentences>481</sentences><tokens>9283</tokens><words>10041</words><fused>752</fused></test>
   </size>
-  <lemmas unique="8924" /><!-- ,, ., და, ში, არის, (, ), ზე, —, რომელიც, რომელი, თან, წელი, იგი, „ -->
-  <forms unique="15248" /><!-- ,, ., და, ში, ა, (, ), ზე, —, რომელიც, თან, „, “, დან, თვის -->
-  <fusions unique="2163" /><!-- საქართველოში, წლებში, ყველაზე, განმავლობაში, საუკუნეში, მიზანია, რომელშიც, როგორიცაა, საფუძველზე, დარგია, პერიოდში, ტერიტორიაზე, შემთხვევაში, წლიდან, პროცესში -->
+  <lemmas unique="9021" /><!-- ,, ., და, ში, არის, (, ), ზე, —, რომელიც, რომელი, თან, წელი, იგი, „ -->
+  <forms unique="15247" /><!-- ,, ., და, ში, ა, (, ), ზე, —, რომელიც, თან, „, “, დან, თვის -->
+  <fusions unique="2164" /><!-- საქართველოში, წლებში, ყველაზე, განმავლობაში, საუკუნეში, მიზანია, რომელშიც, როგორიცაა, საფუძველზე, დარგია, პერიოდში, ტერიტორიაზე, შემთხვევაში, წლიდან, პროცესში -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">9175</tag><!-- ძველი, სხვადასხვა, ქიმიური, დიდი, საერთაშორისო, ბერძნული, ძირითადი, ახალი, თანამედროვე, ფიზიკური -->
-    <tag name="ADP">3452</tag><!-- ში, ზე, თან, დან, თვის, გან, შესახებ, შორის, მიერ, მდე -->
-    <tag name="ADV">1724</tag><!-- ასევე, აგრეთვე, შემდეგ, მიხედვით, მხოლოდ, ძირითადად, ხშირად, ერთად, პირველად, შესაბამისი -->
+    <tag name="ADJ">8997</tag><!-- ძველი, სხვადასხვა, ქიმიური, დიდი, საერთაშორისო, ბერძნული, ძირითადი, ახალი, თანამედროვე, ფიზიკური -->
+    <tag name="ADP">3461</tag><!-- ში, ზე, თან, დან, თვის, გან, შესახებ, შორის, მდე, მიერ -->
+    <tag name="ADV">1717</tag><!-- ასევე, აგრეთვე, შემდეგ, მიხედვით, მხოლოდ, ძირითადად, ხშირად, ერთად, პირვლად, შესაბამისად -->
     <tag name="AUX">1328</tag><!-- არის, უნდა -->
     <tag name="CCONJ">2729</tag><!-- და, ან, ხოლო, მაგრამ, ანუ, თუ, არამედ, ანდა, თუნდ, რა -->
     <tag name="INTJ">2</tag><!-- დე, სუ -->
-    <tag name="NOUN">20604</tag><!-- წელი, მეცნიერება, საუკუნე, ადამიანი, დარგი, განვითარება, სისტემა, პროცესი, დრო, ენა -->
+    <tag name="NOUN">20602</tag><!-- წელი, მეცნიერება, საუკუნე, ადამიანი, დარგი, განვითარება, სისტემა, პროცესი, დრო, ენა -->
     <tag name="NUM">1025</tag><!-- ერთი, ორი, 19, 20, სამი, 2, ბევრი, 1, 18, 17 -->
     <tag name="PART">251</tag><!-- არ, კი, არა, მაინც, ვერ, არც, თქო, ალბათ, აღარ, ხომ -->
-    <tag name="PRON">2849</tag><!-- რომელიც, რომელი, იგი, ეს, სხვა, მისი, ყველა, მათი, ის, ის(ი) -->
-    <tag name="PROPN">1571</tag><!-- საქართველო, თბილისი, ევროპა, ამერიკა, ალექსანდრე, აზერბაიჯანი, არისტოტელე, კავკასია, რუსეთი, აღმოსავლეთი -->
+    <tag name="PRON">2856</tag><!-- რომელიც, რომელი, იგი, ეს, სხვა, მისი, ყველა, მათი, ის, ის(ი) -->
+    <tag name="PROPN">1564</tag><!-- საქართველო, თბილისი, ევროპა, ამერიკა, ალექსანდრე, აზერბაიჯანი, არისტოტელე, კავკასია, რუსეთი, ქართლი -->
     <tag name="PUNCT">10428</tag><!-- ,, ., (, ), —, „, “, :, -, ; -->
-    <tag name="SCONJ">699</tag><!-- როგორც, რომ, რაც, თუმცა, თუ, როგორი, როდესაც, სადაც, რომელი, ამიტომ -->
+    <tag name="SCONJ">701</tag><!-- როგორც, რომ, რაც, თუმცა, თუ, როგორი, როდესაც, რომელი, სადაც, ამიტომ -->
     <tag name="SYM">34</tag><!-- %, +, /, &, =, |, °С, °С-მდე, ±, – -->
-    <tag name="VERB">3870</tag><!-- სწავლობს, ადგენს, აქვს, იცავს, ხდება, შეუძლია, აყენებს, იქმნება, იღებს, იყენებაა -->
+    <tag name="VERB">4055</tag><!-- სწავლობს, ადგენს, აქვს, იყენებს, ხდება, იცავს, შეუძლია, იქმნება, იღებს, იყენებაა -->
     <tag name="X">432</tag><!-- the, logos, λόγος, of, de, art, fantasy, βίος, νόμος, -λογία -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="92">
+  <feats unique="94">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PRON,PROPN,SCONJ,VERB">527</feat><!-- ბერძნ., ძვ., ინგლ., ლათ., მაგ., ე.წ., წ., ა.შ, სხვ, სხვ. -->
-    <feat name="AdpType" value="Post" upos="ADJ,ADP,NOUN,PRON,VERB">3482</feat><!-- ში, ზე, თან, დან, თვის, გან, შესახებ, შორის, მიერ, მდე -->
+    <feat name="AdpType" value="Post" upos="ADJ,ADP,NOUN,PRON,VERB">3491</feat><!-- ში, ზე, თან, დან, თვის, გან, შესახებ, შორის, მიერ, მდე -->
     <feat name="AdvType" value="Cau" upos="ADV">3</feat><!-- აღსაწერად, გასავითარებლად, მოსაპოვებლად -->
     <feat name="AdvType" value="Deg" upos="ADV">100</feat><!-- ხშირად, საკმაოდ, მეტად, ამდენად, გაცილებით, იშვიათად, ათასობით, პირიქით, ნაწილობრივ, ოდნავ -->
     <feat name="AdvType" value="Int" upos="ADV">6</feat><!-- რატომ, როგორ, როდი, როდისა, სად, საიდან -->
     <feat name="AdvType" value="Loc" upos="ADV">93</feat><!-- აქ, აქედან, საზღვარგარეთ, ახლოს, გარშემო, ქვეშ, აქამდე, წინ, გარეთ, ირგვლივ -->
     <feat name="AdvType" value="Man" upos="ADV">1145</feat><!-- ასევე, აგრეთვე, მიხედვით, მხოლოდ, ძირითადად, ერთად, ფართოდ, შესაბამისად, ისე, მეშვეობით -->
     <feat name="AdvType" value="Rel" upos="ADV">8</feat><!-- სადაც, რატომღაც, როგორც -->
-    <feat name="AdvType" value="Tim" upos="ADV">315</feat><!-- შემდეგ, პირველად, ზოგჯერ, ჯერ, ამჟამად, უკვე, თავდაპირველად, დღეს, მოგვიანებით, ბოლოს -->
-    <feat name="Animacy" value="Anim" upos="NOUN">1178</feat><!-- ადამიანის, საზოგადოების, ცხოველთა, ადამიანთა, საზოგადოება, ადამიანი, ავტორი, ხალხის, ცხოველების, მეცნიერმა -->
-    <feat name="Animacy" value="Inan" upos="NOUN">19122</feat><!-- წელს, მეცნიერება, საუკუნის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის, ტერმინი -->
-    <feat name="Aspect" value="Imp" upos="VERB">1716</feat><!-- შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება, უწოდებენ -->
-    <feat name="Aspect" value="Perf" upos="VERB">1728</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, ჩამოყალიბდა, დაიწყო, შედგება, შეიქმნა, გახდა, განსაზღვრავს, მიიღო -->
-    <feat name="Case" value="Dat" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">10036</feat><!-- ში, ზე, თან, წელს, შორის, მათ, საქართველო, მას, რომლის, სხვა -->
+    <feat name="AdvType" value="Tim" upos="ADV">308</feat><!-- შემდეგ, პირველად, ზოგჯერ, ჯერ, ამჟამად, უკვე, თავდაპირველად, დღეს, მოგვიანებით, ბოლოს -->
+    <feat name="Animacy" value="Anim" upos="NOUN">1180</feat><!-- ადამიანის, საზოგადოების, ცხოველთა, ადამიანთა, საზოგადოება, ადამიანი, ავტორი, ხალხის, ცხოველების, მეცნიერმა -->
+    <feat name="Animacy" value="Inan" upos="NOUN">19120</feat><!-- წელს, მეცნიერება, საუკუნის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის, ტერმინი -->
+    <feat name="Aspect" value="Imp" upos="VERB">1726</feat><!-- შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება, უწოდებენ -->
+    <feat name="Aspect" value="Perf" upos="VERB">1723</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, ჩამოყალიბდა, დაიწყო, შედგება, შეიქმნა, გახდა, განსაზღვრავს, მიიღო -->
+    <feat name="Case" value="Dat" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">10034</feat><!-- ში, ზე, თან, წელს, შორის, მათ, საქართველო, მას, რომლის, სხვა -->
     <feat name="Case" value="Erg" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">475</feat><!-- მან, მეცნიერმა, რომელმაც, ამ, განვითარებამ, გერმანელმა, რამაც, მანვე, მექანიკამ, ქიმიკოსმა -->
-    <feat name="Case" value="Ess" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">704</feat><!-- მდე, შედეგად, მაგალითად, დმი, საფუძვლად, მეცნიერებად, მიზნად, დღე, ბოლო, დამოუკიდებელ -->
-    <feat name="Case" value="Gen" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">13336</feat><!-- თვის, გან, საქართველოს, შესახებ, საუკუნის, მიერ, ადამიანის, მისი, ამ, განვითარების -->
-    <feat name="Case" value="Ins" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">1768</feat><!-- დან, მიზნით, საშუალებით, წლი, ამ, სახით, გაგებით, განსხვავებით, გამოყენებით, ფართო -->
-    <feat name="Case" value="Nom" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">11428</feat><!-- რომელიც, იგი, რომლებიც, მეცნიერება, ეს, დარგი, სხვა, პირველი, ძირითადი, დიდი -->
+    <feat name="Case" value="Ess" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">703</feat><!-- მდე, შედეგად, მაგალითად, დმი, საფუძვლად, მეცნიერებად, მიზნად, დღე, ბოლო, დამოუკიდებელ -->
+    <feat name="Case" value="Gen" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">13341</feat><!-- თვის, გან, საქართველოს, შესახებ, საუკუნის, მიერ, ადამიანის, მისი, ამ, განვითარების -->
+    <feat name="Case" value="Ins" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">1766</feat><!-- დან, მიზნით, საშუალებით, წლი, ამ, სახით, გაგებით, განსხვავებით, გამოყენებით, ფართო -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">11438</feat><!-- რომელიც, იგი, რომლებიც, მეცნიერება, ეს, დარგი, სხვა, პირველი, ძირითადი, დიდი -->
     <feat name="Case" value="Voc" upos="NOUN">1</feat><!-- ფაქტო -->
     <feat name="Degree" value="Cmp" upos="ADJ">69</feat><!-- უფრო, მომრგვალო, უკეთესი -->
-    <feat name="Degree" value="Pos" upos="ADJ">1063</feat><!-- დიდი, ახალი, ძველი, მთავარი, მნიშვნელოვანი, ფართო, მრავალი, ზოგადი, მეტი, საჭირო -->
+    <feat name="Degree" value="Pos" upos="ADJ">1064</feat><!-- დიდი, ახალი, ძველი, მთავარი, მნიშვნელოვანი, ფართო, მრავალი, ზოგადი, მეტი, საჭირო -->
     <feat name="Degree" value="Sup" upos="ADJ">141</feat><!-- უძველესი, უმაღლეს, უმაღლესი, უდიდესი, უმნიშვნელოვანესი, უძველეს, უმთავრესად, უმარტივესი, უმნიშვნელოვანეს, უმცირესი -->
-    <feat name="Evident" value="Nfh" upos="PART,VERB">9</feat><!-- ო, მიიღო, ამყოფო, შეუწყო -->
+    <feat name="Evident" value="Nfh" upos="PART,VERB">6</feat><!-- ო, ამყოფო -->
+    <feat name="ExtPos" value="ADV" upos="ADJ">1</feat><!-- უპირველეს -->
     <feat name="Foreign" value="Yes" upos="X">432</feat><!-- the, logos, λόγος, of, de, art, fantasy, βίος, νόμος, -λογία -->
     <feat name="Mood" value="Imp" upos="VERB">3</feat><!-- ითქვას, იქცეს, მოხდეს -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">5079</feat><!-- ა, არის, შეისწავლის, იყო, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს -->
-    <feat name="Mood" value="Sub" upos="VERB">10</feat><!-- გადაჭრილიყო, გახსნას, ეცნობოს, მიჰფენოდნენ, მოეღრიცოს, შეედაროს, შეექმნა, შეეწყოს, შეფასდეს, წარმოქმნას -->
-    <feat name="NameType" value="Geo" upos="PROPN">694</feat><!-- საქართველოს, საქართველო, თბილისის, ევროპა, აზერბაიჯანის, ამერიკის, თბილის, კავკასიის, ამერიკა, გერმანია -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">5264</feat><!-- ა, არის, შეისწავლის, იყო, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს -->
+    <feat name="Mood" value="Sub" upos="VERB">11</feat><!-- გადაჭრილიყო, გახსნას, ეცნობოს, მიჰფენოდნენ, მოეღრიცოს, შეედაროს, შეექმნა, შეეწყოს, შეფასდეს, ჩაეყენებინა -->
+    <feat name="NameType" value="Geo" upos="PROPN">687</feat><!-- საქართველოს, საქართველო, თბილისის, ევროპა, აზერბაიჯანის, ამერიკის, თბილის, კავკასიის, ამერიკა, გერმანია -->
     <feat name="NameType" value="Prs" upos="PROPN">500</feat><!-- ალექსანდრე, გიორგი, ვახტანგ, ჯონ, არისტოტელე, არისტოტელეს, დე, კონფუცის, მაგმური, გივი -->
     <feat name="NameType" value="Sur" upos="PROPN">372</feat><!-- ნიუტონის, რუსთაველის, ტიურინგის, გალილეის, კლარკის, ტოლკინის, ჯანდიერის, გოგინაშვილი, გოგინაშვილის, თუმანიშვილის -->
-    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">5151</feat><!-- მათ, რომლებიც, მათი, წლებ, მცენარეთა, რომელთა, ისინი, მეცნიერებათა, პროცესების, ქანების -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">29140</feat><!-- რომელიც, სხვა, ამ, საქართველოს, წელს, მისი, სხვადასხვა, ყველა, იგი, მეცნიერება -->
+    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">5147</feat><!-- მათ, რომლებიც, მათი, წლებ, მცენარეთა, რომელთა, ისინი, მეცნიერებათა, პროცესების, ქანების -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">28940</feat><!-- რომელიც, სხვა, ამ, საქართველოს, წელს, მისი, სხვადასხვა, ყველა, იგი, მეცნიერება -->
     <feat name="Number[io]" value="Plur" upos="VERB">39</feat><!-- გვხვდება, გვევლინება, მოგვითხრობს, გვხვდებოდა, შემოგვინახა, გაგვანდო, გეხახუნებათ, გვაფიქრებინებს, გვიქმნის, გვიჩვენოს -->
     <feat name="Number[io]" value="Sing" upos="VERB">8</feat><!-- მიჰყვება, დამჭირდება, მეკითხება, მეძახიან, მიაჩნდეს, მიუძღვით, სწამებენ -->
     <feat name="Number[obj]" value="Plur" upos="VERB">21</feat><!-- გააჩნიათ, მიაჩნიათ, მოგვცეს, შემოგვთავაზა, აინტერესებდათ, გვაფრთხილებს, გვაწვდის, გვთავაზობს, დაგვანახოს, ევალებათ -->
     <feat name="Number[obj]" value="Sing" upos="VERB">17</feat><!-- გამოსცა, ახლავს, აღწევს, ახლდეს, გასდევს, გახადოს, დაუჭერს, მაინტერესებს, მითხოვია, მჭრის -->
     <feat name="Number[subj]" value="Plur" upos="AUX,VERB">633</feat><!-- იყენებენ, არიან, უწოდებენ, აქვთ, განარჩევენ, განასხვავებენ, წარმოადგენენ, ეკუთვნის, ვხვდებით, იყენებდნენ -->
-    <feat name="Number[subj]" value="Sing" upos="AUX,VERB">4293</feat><!-- ა, არის, შეისწავლის, იყო, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს -->
+    <feat name="Number[subj]" value="Sing" upos="AUX,VERB">4294</feat><!-- ა, არის, შეისწავლის, იყო, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს -->
     <feat name="NumForm" value="Digit" upos="NUM">491</feat><!-- 1992, 1999, 2, 1, 2008, 30-იან, 11, 20, 2001, 2005 -->
     <feat name="NumForm" value="Roman" upos="NUM">169</feat><!-- XIX, XX, XVII, XVIII, II, I, VI-ის, XVI, I-ის, III -->
     <feat name="NumType" value="Card" upos="NUM">821</feat><!-- XIX, XX, ორი, ერთი, სამი, ერთ, XVII, XVIII, II, ორ -->
@@ -83,25 +84,25 @@
     <feat name="PartType" value="Neg" upos="PART">163</feat><!-- არ, არა, ვერ, აღარ -->
     <feat name="Person" value="1" upos="PRON">65</feat><!-- ჩვენ, ჩვენი, მე, ჩემი, თავიანთი, ჩემ, ჩვენს, მეც, ჩემს, ჩემა -->
     <feat name="Person" value="2" upos="PRON">4</feat><!-- შენს, თქვენ, შენ -->
-    <feat name="Person" value="3" upos="AUX,PRON">1174</feat><!-- ამ, მისი, მათ, იგი, ეს, მათი, იმ, მის, მას, ის -->
+    <feat name="Person" value="3" upos="AUX,PRON">1173</feat><!-- ამ, მისი, მათ, იგი, ეს, მათი, იმ, მის, მას, ის -->
     <feat name="Person[io]" value="1" upos="VERB">47</feat><!-- გვხვდება, გვევლინება, მოგვითხრობს, გვხვდებოდა, მიჰყვება, შემოგვინახა, გაგვანდო, გვაფიქრებინებს, გვაფრთხილებს, გვაწვდის -->
     <feat name="Person[io]" value="2" upos="VERB">2</feat><!-- გაინტერესებთ, გეხახუნებათ -->
-    <feat name="Person[io]" value="3" upos="VERB">520</feat><!-- უწოდებენ, მიეკუთვნება, ახასიათებს, უკავშირდება, განეკუთვნება, ეკუთვნის, ემყარება, ეხება, ამუშავებს, არეგულირებს -->
+    <feat name="Person[io]" value="3" upos="VERB">522</feat><!-- უწოდებენ, მიეკუთვნება, ახასიათებს, უკავშირდება, განეკუთვნება, ეკუთვნის, ემყარება, ეხება, ამუშავებს, არეგულირებს -->
     <feat name="Person[obj]" value="1" upos="VERB">10</feat><!-- მოგვცეს, შემოგვთავაზა, აინტერესებდათ, გვთავაზობს, დაგვანახოს, მაინტერესებს, მოგვცა, მჭრის -->
     <feat name="Person[obj]" value="2" upos="VERB">4</feat><!-- გასდევს, შეგიძლიათ, შეექმნა, შეეწყო -->
-    <feat name="Person[obj]" value="3" upos="AUX,VERB">2000</feat><!-- შეისწავლის, აქვს, წარმოადგენს, მოიცავს, უნდა, სწავლობს, იყენებენ, იკვლევს, იყენებს, დაიწყო -->
+    <feat name="Person[obj]" value="3" upos="AUX,VERB">2001</feat><!-- შეისწავლის, აქვს, წარმოადგენს, მოიცავს, უნდა, სწავლობს, იყენებენ, იკვლევს, იყენებს, დაიწყო -->
     <feat name="Person[subj]" value="1" upos="AUX,VERB">97</feat><!-- ვხვდებით, ვწერ, აღმოვაჩენთ, განვიხილოთ, გვაქვს, ვიქონიოთ, მაქვს, მინდა, ავივსო, ამოვალთ -->
-    <feat name="Person[subj]" value="2" upos="AUX,VERB">936</feat><!-- ა, მიიღო, შეიქმნა, ახასიათებთ, აერთიანებთ, აღმოაჩენ, შევიდა, შეუწყო, აამოძრაოთ, აირევი -->
-    <feat name="Person[subj]" value="3" upos="AUX,VERB">3924</feat><!-- არის, შეისწავლის, იყო, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, უნდა -->
-    <feat name="Poss" value="Yes" upos="PRON">345</feat><!-- მისი, მათი, თავისი, მის, თავის, მათ, ჩვენი, ჩემი, თავიანთი, თავად -->
+    <feat name="Person[subj]" value="2" upos="AUX,VERB">935</feat><!-- ა, მიიღო, შეიქმნა, ახასიათებთ, აერთიანებთ, აღმოაჩენ, შევიდა, შეუწყო, აამოძრაოთ, აირევი -->
+    <feat name="Person[subj]" value="3" upos="AUX,VERB">3926</feat><!-- არის, შეისწავლის, იყო, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, უნდა -->
+    <feat name="Poss" value="Yes" upos="PRON">343</feat><!-- მისი, მათი, თავისი, მის, თავის, მათ, ჩვენი, ჩემი, თავიანთი, ჩემ -->
     <feat name="PronType" value="Dem" upos="PRON">510</feat><!-- ამ, იმ, ეს, ისეთი, ასეთი, მათ, მის, ისეთ, ამავე, ის -->
     <feat name="PronType" value="Ind" upos="PRON">209</feat><!-- ერთ-ერთი, რამდენიმე, ერთი, ზოგიერთი, ერთ-ერთ, ზოგიერთ, ზოგი, რაიმე, ერთ, ზოგ -->
-    <feat name="PronType" value="Int" upos="PRON">102</feat><!-- რომელ, რა, რის, რომელი, რომლებ, რომლებსაც, რამდენი, რითიც, ვის, რამ -->
+    <feat name="PronType" value="Int" upos="PRON">101</feat><!-- რომელ, რა, რის, რომელი, რომლებ, რომლებსაც, რამდენი, რითიც, ვის, რამ -->
     <feat name="PronType" value="Neg" upos="PRON">11</feat><!-- არავის, არაფერს, არავინ, არა, არაფრით, არცერთი -->
-    <feat name="PronType" value="Prs" upos="PRON">807</feat><!-- მისი, მათ, იგი, მათი, მას, მის, ის, ისინი, ეს, თავისი -->
+    <feat name="PronType" value="Prs" upos="PRON">859</feat><!-- მისი, მათ, იგი, მათი, მას, მის, ის, ისინი, თავისი, ეს -->
     <feat name="PronType" value="Rcp" upos="PRON">45</feat><!-- ერთმანეთ, ერთმანეთს, ერთმანეთის, ერთმანეთისა, ურთიერთ -->
-    <feat name="PronType" value="Rel" upos="PRON">651</feat><!-- რომელიც, რომლებიც, რომლის, რომელსაც, რომელთაც, რომელთა, რა, რომელმაც, რომლებსაც, რამაც -->
-    <feat name="PronType" value="Tot" upos="PRON">409</feat><!-- სხვა, ყველა, ყოველი, თვით, თითოეული, სხვათა, ყოვლისა, ყველაფერი, ყოველ, თავად -->
+    <feat name="PronType" value="Rel" upos="PRON">678</feat><!-- რომელიც, რომლებიც, რომლის, რომელსაც, რომელთა, რომელთაც, რომელმაც, რა, რომლებსაც, რამაც -->
+    <feat name="PronType" value="Tot" upos="PRON">443</feat><!-- სხვა, ყველა, ყოველი, სხვ, სხვ., თვით, თითოეული, სხვათა, ყოვლისა, ყველაფერი -->
     <feat name="PunctType" value="Brck" upos="PUNCT">1337</feat><!-- (, ), <, [, ], > -->
     <feat name="PunctType" value="Colo" upos="PUNCT">142</feat><!-- : -->
     <feat name="PunctType" value="Comm" upos="PUNCT">4418</feat><!-- , -->
@@ -114,56 +115,58 @@
     <feat name="PunctType" value="Semi" upos="PUNCT">88</feat><!-- ; -->
     <feat name="Subcat" value="Indir" upos="VERB">191</feat><!-- ხდება, გახდა, გვხვდება, შედგება, ხდებოდა, ვხვდებით, მოხდა, ჰქვია, ეყრდნობა, რჩება -->
     <feat name="Subcat" value="Intr" upos="AUX,VERB">2677</feat><!-- ა, არის, იყო, აქვს, შეიძლება, გამოიყენება, არსებობს, ჩამოყალიბდა, შეიქმნა, იყოს -->
-    <feat name="Subcat" value="Tran" upos="AUX,VERB">2057</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, უნდა, სწავლობს, იყენებენ, იკვლევს, დაიწყო, იყენებს, განსაზღვრავს -->
-    <feat name="Tense" value="Fut" upos="AUX,VERB">776</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ -->
+    <feat name="Subcat" value="Tran" upos="AUX,VERB">2058</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, უნდა, სწავლობს, იყენებენ, იკვლევს, დაიწყო, იყენებს, განსაზღვრავს -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">767</feat><!-- შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ -->
     <feat name="Tense" value="Imp" upos="AUX,VERB">244</feat><!-- ჰქონდა, ხდებოდა, გამოიყენებოდა, იყენებდნენ, ვითარდებოდა, თვლიდა, არსებობდა, გულისხმობდა, იყენებდა, მდებარეობდა -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">1121</feat><!-- იყო, ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, იყოს, მიიღო, იქნა, დაარსდა, ჩაისახა -->
-    <feat name="Tense" value="PastPerf" upos="AUX,VERB">42</feat><!-- უკავია, შეუძლია, შეუძლიათ, უკავიათ, შექმნილა, აღმოუჩენია, გადაჭრილიყო, გამოჩენილა, დადგენილა, დამკვიდრებულა -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">1060</feat><!-- იყო, ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, იყოს, მიიღო, იქნა, დაარსდა, ჩაისახა -->
+    <feat name="Tense" value="PastPerf" upos="AUX,VERB">36</feat><!-- უკავია, უკავიათ, შექმნილა, აღმოუჩენია, გადაჭრილიყო, გამოჩენილა, დადგენილა, დამკვიდრებულა, დაუდასტურებია, დაუკარგავთ -->
     <feat name="Tense" value="Pqp" upos="AUX,VERB">61</feat><!-- ჩაეყარა, გამოეყო, მიეცა, დაედო, მიეცათ, მიეძღვნა, ყოფილიყო, აეყვანა, აეხსნათ, ამოეგდო -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">2849</feat><!-- ა, არის, აქვს, შეიძლება, გამოიყენება, არსებობს, უნდა, სწავლობს, იყენებენ, იკვლევს -->
-    <feat name="VerbForm" value="Part" upos="VERB">138</feat><!-- დანალექი, ასახული, დამუხტული, დამზადებული, სარწყავი, წამკითხავი, წამყვან, არაევკლიდური, გარემოსდაცვითი, დამსახურებული -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">2847</feat><!-- ა, არის, აქვს, შეიძლება, გამოიყენება, არსებობს, უნდა, სწავლობს, იყენებენ, იკვლევს -->
+    <feat name="VerbForm" value="Fin" upos="VERB">3634</feat><!-- შეისწავლის, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, ჩამოყალიბდა, იყენებენ -->
+    <feat name="VerbForm" value="Part" upos="VERB">322</feat><!-- დაკავშირებული, შესაძლებელი, დანალექი, აღსანიშნავი, გავრცელებული, დაფარული, მიმართული, განპირობებული, დაკავებული, ასახული -->
     <feat name="VerbForm" value="Vnoun" upos="VERB">96</feat><!-- გამოსხივების, დარაიონება, გამოსხივებას, დაგეგმარების, დაკრისტალების, დაპროექტებისა, მოკვლევისა, მორწყვის, შეკავშირების, შესიტყვება -->
-    <feat name="Voice" value="Act" upos="VERB">2806</feat><!-- შეისწავლის, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, იყენებენ, იკვლევს, დაიწყო -->
+    <feat name="Voice" value="Act" upos="VERB">2809</feat><!-- შეისწავლის, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, იყენებენ, იკვლევს, დაიწყო -->
     <feat name="Voice" value="Mid" upos="VERB">9</feat><!-- ავიწყდება, ახსოვდა, გვწყუროდა, დამავიწყდა, მიეჩქარებოდათ, მქვია, მჯერა, სცხელოდა, წაადგებოდა -->
-    <feat name="Voice" value="Pass" upos="VERB">618</feat><!-- ჩამოყალიბდა, შეიქმნა, ეწოდება, გააჩნია, ითვლება, იძლევა, დაარსდა, წარმოიქმნება, წარმოიშვა, ჩაისახა -->
+    <feat name="Voice" value="Pass" upos="VERB">617</feat><!-- ჩამოყალიბდა, შეიქმნა, ეწოდება, გააჩნია, ითვლება, იძლევა, დაარსდა, წარმოიქმნება, წარმოიშვა, ჩაისახა -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="38">
-    <dep name="acl">932</dep>
-    <dep name="acl:relcl">14</dep>
-    <dep name="advcl">257</dep>
-    <dep name="advmod">1864</dep>
+  <deps unique="39">
+    <dep name="acl">931</dep>
+    <dep name="acl:relcl">15</dep>
+    <dep name="advcl">260</dep>
+    <dep name="advmod">1855</dep>
     <dep name="advmod:lmod">43</dep>
-    <dep name="amod">7796</dep>
-    <dep name="appos">962</dep>
+    <dep name="amod">7800</dep>
+    <dep name="appos">968</dep>
     <dep name="aux">34</dep>
-    <dep name="case">3441</dep>
+    <dep name="case">3451</dep>
     <dep name="cc">2731</dep>
-    <dep name="ccomp">254</dep>
+    <dep name="ccomp">253</dep>
     <dep name="compound">13</dep>
-    <dep name="conj">4885</dep>
+    <dep name="conj">4901</dep>
     <dep name="cop">1276</dep>
     <dep name="csubj">8</dep>
     <dep name="dep">18</dep>
-    <dep name="det">1102</dep>
+    <dep name="det">1105</dep>
     <dep name="det:poss">323</dep>
-    <dep name="discourse">3</dep>
+    <dep name="discourse">4</dep>
     <dep name="expl">1</dep>
+    <dep name="fixed">1</dep>
     <dep name="flat">11</dep>
     <dep name="flat:foreign">175</dep>
-    <dep name="flat:name">379</dep>
-    <dep name="iobj">188</dep>
-    <dep name="mark">655</dep>
-    <dep name="nmod">7262</dep>
-    <dep name="nsubj">4019</dep>
+    <dep name="flat:name">380</dep>
+    <dep name="iobj">197</dep>
+    <dep name="mark">657</dep>
+    <dep name="nmod">7479</dep>
+    <dep name="nsubj">4030</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">180</dep>
-    <dep name="nummod">904</dep>
-    <dep name="obj">2163</dep>
-    <dep name="obl">3918</dep>
-    <dep name="obl:tmod">290</dep>
-    <dep name="orphan">19</dep>
-    <dep name="parataxis">413</dep>
+    <dep name="nummod">916</dep>
+    <dep name="obj">2115</dep>
+    <dep name="obl">3691</dep>
+    <dep name="obl:tmod">288</dep>
+    <dep name="orphan">21</dep>
+    <dep name="parataxis">411</dep>
     <dep name="punct">10428</dep>
     <dep name="root">3164</dep>
     <dep name="xcomp">46</dep>
