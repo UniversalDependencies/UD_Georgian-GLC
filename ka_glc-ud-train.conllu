@@ -20068,7 +20068,7 @@
 16	საზოგადოებრივ	საზოგადოებრივი	ADJ	Adj	Case=Dat|Number=Sing	17	amod	_	Translit=sazogadoebriv
 17	წყობას	წყობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	iobj	_	Translit=cqobas
 18	საფრთხეს	საფრთხე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obj	_	Translit=sapʻrtʻxes
-19	უქმნის	უქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No|Translit=ukʻmnis
+19	უქმნის	ქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No|Translit=ukʻmnis
 20	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = wiki_ideology_01607

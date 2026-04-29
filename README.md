@@ -37,7 +37,7 @@ License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
 Genre: fiction nonfiction
-Lemmas: automatic
+Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: automatic 
 Features: automatic with corrections

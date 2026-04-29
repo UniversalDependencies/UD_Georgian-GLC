@@ -11981,7 +11981,7 @@
 8	შეცვლილმა	შეცვლილი	ADJ	Adj	Case=Erg|Number=Sing	9	amod	_	Translit=šecʻvlilma
 9	ვითარებამ	ვითარება	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	11	nsubj	_	Translit=vitʻarebam
 10	ნიადაგი	ნიადაგი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	obj	_	Translit=niadagi
-11	შეუქმნა	უქმნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeukʻmna
+11	შეუქმნა	ქმნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeukʻmna
 12	სამხატვრო	სამხატვრო	ADJ	Adj	Case=Gen|Number=Sing	13	amod	_	Translit=samxatvro
 13	კრიტიკის	კრიტიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=kritikis
 14	გაჩენას	გაჩენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	iobj	_	Translit=gačʻenas

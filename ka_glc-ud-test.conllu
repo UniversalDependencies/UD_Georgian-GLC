@@ -50,7 +50,7 @@
 9	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	obl	_	Translit=čʻem
 10	ში	ში	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ši
 11	რაღაც	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nsubj	_	Translit=raġacʻ
-12	აფართხალდა	აფართხალდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=apʻartʻxalda
+12	აფართხალდა	ფართხალებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=apʻartʻxalda
 13-14	მტრედივით	_	_	_	_	_	_	_	SpaceAfter=No
 13	მტრედი	მტრედი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	12	obl	_	Translit=mtredi
 14	ვით	ვით	ADP	Post	AdpType=Post|Case=Nom	13	case	_	Translit=vitʻ
@@ -75,7 +75,7 @@
 4	იმათი	იმათი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No|Translit=imatʻi
 5	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 6	ვინც	ვინ	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Int	7	nsubj:pass	_	Translit=vincʻ
-7	დაიბადა	იბადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	4	acl	_	Translit=daibada
+7	დაიბადა	ბადებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	4	acl	_	Translit=daibada
 8	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 9	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	10	advmod	_	Translit=šemdeg
 10	იძახის	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	Translit=iżaxis
@@ -83,7 +83,7 @@
 12	მე	მე	PRON	Pron	Case=Dat|Person=1|PronType=Prs	15	iobj	_	Translit=me
 13	ხომ	ხომ	PART	Part	PartType=Int	15	advmod	_	Translit=xom
 14	არ	არ	PART	Part	PartType=Neg	15	advmod	_	Translit=ar
-15	მითხოვია	ეთხოვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|VerbForm=Fin|Voice=Act	10	ccomp	_	Translit=mitʻxovia
+15	მითხოვია	თხოულობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=PastPerf|VerbForm=Fin|Voice=Act	10	ccomp	_	Translit=mitʻxovia
 16-17	დაბადებაო	_	_	_	_	_	_	_	SpaceAfter=No
 16	დაბადება	დაბადება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	nsubj	_	Translit=dabadeba
 17	ო	თქო	PART	Part	Evident=Nfh	16	ccomp	_	Translit=o
@@ -144,14 +144,14 @@
 3	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	aux	_	Translit=unda
 4	გავუფრთხილდე	უფრთხილდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gavupʻrtʻxilde
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-6	დამჭირდება	ჭირდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No|Translit=damčirdeba
+6	დამჭირდება	სჭირს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No|Translit=damčirdeba
 7	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00011
 # text = მთვარე იჭყიტება ფანჯარაში...
 # translit = mtʻvare ičqiteba pʻanjaraši...
 1	მთვარე	მთვარე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=mtʻvare
-2	იჭყიტება	იჭყიტება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ičqiteba
+2	იჭყიტება	ჭყეტს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ičqiteba
 3-4	ფანჯარაში	_	_	_	_	_	_	_	SpaceAfter=No
 3	ფანჯარა	ფანჯარა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	2	obl	_	Translit=pʻanjara
 4	ში	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=ši
@@ -182,7 +182,7 @@
 9	ოღონდ	ოღონდ	SCONJ	Conj	_	12	mark	_	Translit=oġond
 10	დილას	დილა	ADV	Adv	AdvType=Tim	12	advmod	_	Translit=dilas
 11	ყველაფერი	ყველაფერი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	12	obj	_	Translit=qvelapʻeri
-12	დამავიწყდა	ავიწყდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Mid	7	parataxis	_	SpaceAfter=No|Translit=damavicqda
+12	დამავიწყდა	ივიწყებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Mid	7	parataxis	_	SpaceAfter=No|Translit=damavicqda
 13	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id = GLC_00014
@@ -216,7 +216,7 @@
 8	მაგრამ	მაგრამ	CCONJ	Conj	_	11	cc	_	Translit=magram
 9	არავინ	არავინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	11	nsubj	_	Translit=aravin
 10	არაფერს	არაფერი	PRON	Pron	Case=Dat|Number=Sing|PronType=Neg	11	obj	_	Translit=arapʻers
-11	მეკითხება	ეკითხება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	Translit=mekitʻxeba
+11	მეკითხება	კითხულობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	Translit=mekitʻxeba
 12	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
 13	ამიტომ	ამიტომ	SCONJ	Conj	_	16	mark	_	Translit=amitom
 14	მეც	მე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|Person=1|PronType=Prs	16	nsubj	_	Translit=mecʻ
@@ -230,7 +230,7 @@
 1	სიმართლის	სიმართლე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=simartʻlis
 2	თქმა	თქმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=tʻkʻma
 3	დღეიდან	დღეიდან	ADV	Adv	AdvType=Tim	4	advmod	_	Translit=dġeidan
-4	იწყება	იწყება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=icqeba
+4	იწყება	იწყებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=icqeba
 5	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00018
@@ -314,7 +314,7 @@
 12	შემდგომ	შემდგომი	ADJ	Adj	Case=Dat|Number=Sing	15	obl	_	Translit=šemdgom
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
 14	ყველას	ყველა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	15	nsubj	_	Translit=qvelas
-15	ავიწყდება	ავიწყდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Mid	10	ccomp	_	Translit=avicqdeba
+15	ავიწყდება	ივიწყებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Mid	10	ccomp	_	Translit=avicqdeba
 16	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	obj	_	Translit=igi
 17	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 18	სწორედ	სწორედ	ADV	Adv	AdvType=Man	20	advmod	_	Translit=scored
@@ -472,7 +472,7 @@
 3	ღამე	ღამე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No|Translit=ġame
 4	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
 5	ცოტა	ცოტა	NUM	Num	Case=Nom|NumType=Card	6	nummod	_	Translit=cʻota
-6	აცივდება	აცივდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	Translit=acʻivdeba
+6	აცივდება	ცივა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	Translit=acʻivdeba
 7	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 8	უეცრად	უეცრად	ADV	Adv	AdvType=Tim	9	advmod	_	Translit=uecʻrad
 9	აღმოაჩენ	აჩენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No|Translit=aġmoačʻen
@@ -785,7 +785,7 @@
 10	სავსებით	სავსებით	ADV	Adv	AdvType=Deg	11	advmod	_	Translit=savsebitʻ
 11	სამართლიანად	სამართლიანად	ADV	Adv	_	13	advmod	_	SpaceAfter=No|Translit=samartʻlianad
 12	)	)	PUNCT	F	PunctType=Brck	11	punct	_	Translit=)
-13	ითვლება	ითვლება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=itʻvleba
+13	ითვლება	თვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=itʻvleba
 14	ავთვისებიანი	ავთვისებიანი	ADJ	Adj	Case=Nom|Number=Sing	15	amod	_	Translit=avtʻvisebiani
 15	სიმსივნე	სიმსივნე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj:pass	_	SpaceAfter=No|Translit=simsivne
 16	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
@@ -834,7 +834,7 @@
 35	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	36	cop	_	Translit=iqo
 36	დახატული	დახატული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|VerbForm=Part	22	ccomp	_	SpaceAfter=No|Translit=daxatuli
 37	,	,	PUNCT	F	PunctType=Comm	38	punct	_	Translit=,
-38	წარმოიდგინა	წარმოიდგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No|Translit=carmoidgina
+38	წარმოიდგინა	წარმოადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No|Translit=carmoidgina
 39	,	,	PUNCT	F	PunctType=Comm	38	punct	_	Translit=,
 40	რომ	რომ	SCONJ	Conj	_	38	mark	_	Translit=rom
 41	ამ	ეს	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	42	det	_	Translit=am
@@ -934,7 +934,7 @@
 3	და	და	CCONJ	Conj	_	4	cc	_	Translit=da
 4	მრავალფეროვნება	მრავალფეროვნება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	conj	_	Translit=mravalpʻerovneba
 5	დიდად	დიდად	ADV	Adv	_	6	advmod	_	Translit=didad
-6	აღემატება	ემატება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=aġemateba
+6	აღემატება	მატულობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=aġemateba
 7	განცდილსა	განცდილი	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=gancʻdilsa
 8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 9	ნანახს	ნანახი	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	SpaceAfter=No|Translit=nanaxs
@@ -950,7 +950,7 @@
 5	ლექსის	ლექსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=lekʻsis
 6	წიგნი	წიგნი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj:pass	_	Translit=cigni
 7	რომ	რომ	SCONJ	Conj	_	8	mark	_	Translit=rom
-8	შეიქმნას	იქმნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=šeikʻmnas
+8	შეიქმნას	ქმნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=šeikʻmnas
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 10-11	ამისათვის	_	_	_	_	_	_	_	_
 10	ამისა	ეს(ე)	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obl	_	Translit=amisa
@@ -1017,7 +1017,7 @@
 25	ლექსი	ლექსი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	28	obl	_	Translit=lekʻsi
 26	დან	დან	ADP	Post	AdpType=Post|Case=Ins	25	case	_	Translit=dan
 27	განსხეულებას	განსხეულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	28	iobj	_	Translit=gansxeulebas
-28	ეწირება	ეწირება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	SpaceAfter=No|Translit=ecireba
+28	ეწირება	წირავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	SpaceAfter=No|Translit=ecireba
 29	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = GLC_00048
@@ -1618,7 +1618,7 @@
 6	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 7	რომლებიც	რომლებიც	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	9	nsubj	_	Translit=romlebicʻ
 8	დარბაისლურად	დარბაისლურად	ADV	Adv	_	9	advmod	_	Translit=darbaislurad
-9	მიაბიჯებდნენ	აბიჯებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	4	acl	_	Translit=miabijebdnen
+9	მიაბიჯებდნენ	აბიჯებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	Translit=miabijebdnen
 10-11	შარაზე	_	_	_	_	_	_	_	SpaceAfter=No
 10	შარა	შარა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=šara
 11	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ze
@@ -11887,7 +11887,7 @@
 31	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	30	case	_	Translit=ze
 32	)	)	PUNCT	F	PunctType=Brck	30	punct	_	Translit=)
 33	გადატანის	გადატანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	34	nmod	_	Translit=gadatanis
-34	გარეშე	გარეშე	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	SpaceAfter=No|Translit=gareše
+34	გარეშე	გარეშე	ADJ	Adj	Case=Dat|Number=Sing	4	advmod	_	SpaceAfter=No|Translit=gareše
 35	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = wiki_automatic_00305
