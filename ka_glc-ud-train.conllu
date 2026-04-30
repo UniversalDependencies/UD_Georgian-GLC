@@ -1316,7 +1316,7 @@
 28	გამოშვება	გამოშვება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	24	nsubj	_	SpaceAfter=No|Translit=gamošveba
 29	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 30	რამაც	რამაც	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	32	nsubj	_	Translit=ramacʻ
-31	ხელი	ხელი	NOUN	Noun	Case=Nom|Degree=Pos|Number=Sing	32	obj	_	Translit=xeli
+31	ხელი	ხელი	NOUN	Noun	Case=Nom|Number=Sing	32	obj	_	Translit=xeli
 32	შეუწყო	აწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	28	acl	_	Translit=šeucqo
 33	იაპონური	იაპონური	ADJ	Adj	Case=Gen|Number=Sing	34	amod	_	Translit=iaponuri
 34	კიბერპანკის	კიბერპანკი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	35	nmod	_	Translit=kiberpankis
@@ -13763,7 +13763,7 @@
 6	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	5	cop	_	Translit=a
 7	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 8	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	12	nsubj	_	Translit=romelicʻ
-9	უპირველეს	პირველი	NUM	Num	Case=Gen|ExtPos=ADV|Number=Sing	12	advmod	_	Translit=upirveles
+9	უპირველეს	პირველი	NUM	Num	Case=Gen|Number=Sing	12	advmod	_	Translit=upirveles
 10	ყოვლისა	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	9	fixed	_	Translit=qovlisa
 11	მიზნად	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	obl	_	Translit=miznad
 12	ისახავს	სახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	5	acl	_	Translit=isaxavs
@@ -29698,7 +29698,7 @@
 18	ტ.	ტ.	NOUN	Noun	Abbr=Yes	15	conj	_	Translit=t.
 19	სიდენჰემის	სიდენჰემი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	18	flat:name	_	Translit=sidenhemis
 20	მოღვაწეობამ	მოღვაწეობა	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	10	conj	_	Translit=moġvaceobam
-21	ხელი	ხელი	NOUN	Noun	Case=Nom|Degree=Pos|Number=Sing	22	obj	_	Translit=xeli
+21	ხელი	ხელი	NOUN	Noun	Case=Nom|Number=Sing	22	obj	_	Translit=xeli
 22	შეუწყო	აწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeucqo
 23	მედიცინის	მედიცინა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=medicʻinis
 24	დაბრუნებას	დაბრუნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	22	iobj	_	Translit=dabrunebas
