@@ -1340,7 +1340,7 @@
 27	განსაკუთრებული	განსაკუთრებული	ADJ	Adj	Case=Gen|Number=Sing	28	amod	_	Translit=gansakutʻrebuli
 28	ფასეულობის	ფასეულობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	29	nmod	_	Translit=pʻaseulobis
 29-30	შემცველია	_	_	_	_	_	_	_	SpaceAfter=No
-29	შემცველი	შემცველი	ADJ	Adj	Case=Nom|Number=Sing	14	parataxis	_	Translit=šemcʻveli
+29	შემცველი	შემცველი	NOUN	Noun	Case=Nom|Number=Sing	14	parataxis	_	Translit=šemcʻveli
 30	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	29	cop	_	Translit=a
 31	.	.	PUNCT	F	PunctType=Peri	29	punct	_	Translit=.
 
@@ -2871,7 +2871,7 @@
 1	რევოლუციური	რევოლუციური	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=revolucʻiuri
 2	მთავრობების	მთავრობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	3	nmod	_	Translit=mtʻavrobebis
 3	სარისკო	სარისკო	ADJ	Adj	Case=Nom|Number=Sing	4	amod	_	Translit=sarisko
-4	მახასიათებელი	მახასიათებელი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=maxasiatʻebeli
+4	მახასიათებელი	მახასიათებელი	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	Translit=maxasiatʻebeli
 5	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	4	cop	_	Translit=iqo
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 7	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	conj	_	Translit=aris
@@ -3854,7 +3854,7 @@
 15	ქვეყნებ	ქვეყანა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	20	obl	_	Translit=kʻveqneb
 16	ში	ში	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=ši
 17	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	18	det	_	Translit=es
-18	მაჩვენებელი	მაჩვენებელი	ADJ	Adj	Case=Nom|Number=Sing	20	nsubj	_	Translit=mačʻvenebeli
+18	მაჩვენებელი	მაჩვენებელი	NOUN	Noun	Case=Nom|Number=Sing	20	nsubj	_	Translit=mačʻvenebeli
 19	არ	არ	PART	Part	PartType=Neg	20	advmod	_	Translit=ar
 20	აღემატება	მატულობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	5	acl	_	Translit=aġemateba
 21	5-6	5-6	NUM	Num	Case=Dat|Number=Sing|NumForm=Digit|NumType=Card	22	nummod	_	Translit=5-6
@@ -8422,7 +8422,7 @@
 35-36	არაა	_	_	_	_	_	_	_	_
 35	არა	არა	PART	Part	PartType=Neg	37	advmod	_	Translit=ara
 36	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	37	cop	_	Translit=a
-37	დამახასიათებელი	დამახასიათებელი	ADJ	Adj	Case=Nom|Number=Sing	27	xcomp	_	SpaceAfter=No|Translit=damaxasiatʻebeli
+37	დამახასიათებელი	დამახასიათებელი	NOUN	Noun	Case=Nom|Number=Sing	27	xcomp	_	SpaceAfter=No|Translit=damaxasiatʻebeli
 38	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = wiki_art_00188
@@ -10348,7 +10348,7 @@
 1	პლანეტის	პლანეტა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=planetis
 2	ერთ-ერთი	ერთ-ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	4	det	_	Translit=ertʻ-ertʻi
 3	მნიშვნელოვანი	მნიშვნელოვანი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=mnišvnelovani
-4	მახასიათებელი	მახასიათებელი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=maxasiatʻebeli
+4	მახასიათებელი	მახასიათებელი	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	Translit=maxasiatʻebeli
 5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	4	cop	_	Translit=aris
 6	მაგნიტური	მაგნიტური	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=magnituri
 7	მომენტი	მომენტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No|Translit=momenti

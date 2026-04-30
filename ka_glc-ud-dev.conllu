@@ -10111,7 +10111,7 @@
 1	ტოლკინის	ტოლკინი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	2	nmod	_	Translit=tolkinis
 2	კოსმოლოგიის	კოსმოლოგია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=kosmologiis
 3	ძირითადი	ძირითადი	ADJ	Adj	Case=Nom|Number=Sing	4	amod	_	Translit=żiritʻadi
-4	საძირკველი	საძირკველი	ADJ	Adj	Case=Nom|Number=Sing	6	nsubj	_	Translit=sażirkveli
+4	საძირკველი	საძირკველი	NOUN	Noun	Case=Nom|Number=Sing	6	nsubj	_	Translit=sażirkveli
 5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	6	cop	_	Translit=aris
 6	დუალიზმი	დუალიზმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=dualizmi
 7	სულიერ	სულიერი	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=sulier
@@ -10797,7 +10797,7 @@
 5	ადგენს	ადგენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=adgens
 6	სისხლისსამართლებრივი	სისხლისსამართლებრივი	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=sisxlissamartʻlebrivi
 7	პასუხისმგებლობის	პასუხისმგებლობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	obj	_	Translit=pasuxismgeblobis
-8	საფუძველს	საფუძველი	ADJ	Adj	Case=Dat|Number=Sing	5	obj	_	SpaceAfter=No|Translit=sapʻużvels
+8	საფუძველს	საფუძველი	NOUN	Noun	Case=Dat|Number=Sing	5	obj	_	SpaceAfter=No|Translit=sapʻużvels
 9	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 10	განსაზღვრავს	საზღვრავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No|Translit=gansazġvravs
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
