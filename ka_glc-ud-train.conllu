@@ -13763,8 +13763,8 @@
 6	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	5	cop	_	Translit=a
 7	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 8	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	12	nsubj	_	Translit=romelicʻ
-9	უპირველეს	პირველი	NUM	Num	Case=Gen|Number=Sing	12	advmod	_	Translit=upirveles
-10	ყოვლისა	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	9	fixed	_	Translit=qovlisa
+9	უპირველეს	პირველი	NUM	Num	Case=Gen|Number=Sing	10	nummod	_	Translit=upirveles
+10	ყოვლისა	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	12	obl	_	Translit=qovlisa
 11	მიზნად	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	obl	_	Translit=miznad
 12	ისახავს	სახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	5	acl	_	Translit=isaxavs
 13	დედამიწის	დედამიწა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	19	nmod	_	Translit=dedamicis
