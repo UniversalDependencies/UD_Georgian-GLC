@@ -11810,7 +11810,7 @@
 3	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	2	case	_	Translit=mde
 4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 5	დასჯა	დასჯა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=dasja
-6	ითვალისწინებდა	ითვალისწინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=itʻvaliscinebda
+6	ითვალისწინებდა	ითვალისწინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=itʻvaliscinebda
 7	საზოგადო	საზოგადო	ADJ	Adj	Case=Dat|Number=Sing	8	amod	_	Translit=sazogado
 8	დამცირებას	დამცირება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obj	_	SpaceAfter=No|Translit=damcʻirebas
 9	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
@@ -11880,7 +11880,7 @@
 4-5	განმავლობაში	_	_	_	_	_	_	_	_
 4	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obl	_	Translit=ganmavloba
 5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
-6	აყალიბებდა	აყალიბებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=aqalibebda
+6	აყალიბებდა	აყალიბებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aqalibebda
 7	მძიმე	მძიმე	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	SpaceAfter=No|Translit=mżime
 8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 9	თუმცა	თუმცა	SCONJ	Conj	_	10	mark	_	Translit=tʻumcʻa

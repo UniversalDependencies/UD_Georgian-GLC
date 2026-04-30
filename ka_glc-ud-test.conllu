@@ -2893,13 +2893,13 @@
 # translit = xelisupʻlebis carmomadgenlebi uarqopʻdnen am tʻu sxva braldebebs, aġnišnavdnen ra, rom xširad saertʻašoriso upʻlebadacʻvitʻi organizacʻiebi gadaumocmebel inpʻormacʻias eqrdnobodnen.
 1	ხელისუფლების	ხელისუფლება	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	2	nmod	_	Translit=xelisupʻlebis
 2	წარმომადგენლები	წარმომადგენელი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	3	nsubj	_	Translit=carmomadgenlebi
-3	უარყოფდნენ	უარყოფს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=uarqopʻdnen
+3	უარყოფდნენ	უარყოფს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=uarqopʻdnen
 4	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	7	det	_	Translit=am
 5	თუ	თუ	CCONJ	Conj	_	6	cc	_	Translit=tʻu
 6	სხვა	სხვა	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	4	conj	_	Translit=sxva
 7	ბრალდებებს	ბრალდება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	3	obj	_	SpaceAfter=No|Translit=braldebebs
 8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-9	აღნიშნავდნენ	აღნიშნავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	3	conj	_	Translit=aġnišnavdnen
+9	აღნიშნავდნენ	აღნიშნავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Translit=aġnišnavdnen
 10	რა	რა	PRON	Pron	Number=Sing|PronType=Rel	9	nmod	_	SpaceAfter=No|Translit=ra
 11	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 12	რომ	რომ	SCONJ	Conj	_	19	mark	_	Translit=rom
@@ -2909,7 +2909,7 @@
 16	ორგანიზაციები	ორგანიზაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	19	nsubj	_	Translit=organizacʻiebi
 17	გადაუმოწმებელ	გადაუმოწმებელი	ADJ	Adj	Case=Dat|Number=Sing	18	amod	_	Translit=gadaumocmebel
 18	ინფორმაციას	ინფორმაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obj	_	Translit=inpʻormacʻias
-19	ეყრდნობოდნენ	ეყრდნობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Imp|VerbForm=Fin|Voice=Act	9	ccomp	_	SpaceAfter=No|Translit=eqrdnobodnen
+19	ეყრდნობოდნენ	ეყრდნობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	SpaceAfter=No|Translit=eqrdnobodnen
 20	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = GLC_00144
@@ -2965,7 +2965,7 @@
 9	ისე	ისე	ADV	Adv	AdvType=Man	11	advmod	_	Translit=ise
 10	საერთაშორისო	საერთაშორისო	ADJ	Adj	Case=Nom|Number=Sing	11	amod	_	Translit=saertʻašoriso
 11	ორგანიზაციები	ორგანიზაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	7	conj	_	Translit=organizacʻiebi
-12	აღნიშნავდნენ	აღნიშნავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	1	ccomp	_	Translit=aġnišnavdnen
+12	აღნიშნავდნენ	აღნიშნავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	Translit=aġnišnavdnen
 13	ძალადობის	ძალადობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	15	nmod	_	Translit=żaladobis
 14	აშკარა	აშკარა	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	15	amod	_	Translit=aškara
 15	ფაქტების	ფაქტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	17	nmod	_	Translit=pʻakʻtebis
@@ -3410,7 +3410,7 @@
 15	გეგმა	გეგმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	SpaceAfter=No|Translit=gegma
 16	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 17	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	18	nsubj	_	Translit=romelicʻ
-18	ითვალისწინებდა	ითვალისწინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	15	acl	_	Translit=itʻvaliscinebda
+18	ითვალისწინებდა	ითვალისწინებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	15	acl	_	Translit=itʻvaliscinebda
 19	GAAP	GAAP	X	Foreign	Foreign=Yes	20	nmod	_	Translit=GAAP
 20-21	სტანდარტიდან	_	_	_	_	_	_	_	SpaceAfter=No
 20	სტანდარტი	სტანდარტი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	26	nmod	_	Translit=standarti
@@ -3925,7 +3925,7 @@
 # translit = igi miznad isaxavda marcʻvleulis carmoebis, mebaġeobis, mebostneobis, mevenaxeoba-meġvineobis, meabrešumeobisa da mepʻutkreobis gaumjobesebas, axali iaraġmankʻanebis gavrcʻelebas, morcqvis sistemis srulqopʻas, ucʻxo kʻveqnebis miġcevatʻa danergvas, specʻialistebis mocvevas, specʻialuri da tekʻnikuri kulturebis — metʻambakʻoebis, mebambeobis da sxva gavrcʻeleba-ganvitʻarebas.
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=igi
 2	მიზნად	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	3	obl	_	Translit=miznad
-3	ისახავდა	სახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=isaxavda
+3	ისახავდა	სახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=isaxavda
 4	მარცვლეულის	მარცვლეული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=marcʻvleulis
 5	წარმოების	წარმოება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	nmod	_	SpaceAfter=No|Translit=carmoebis
 6	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
@@ -3979,11 +3979,11 @@
 5	თავდაპირველად	თავდაპირვლად	ADV	Adv	AdvType=Tim	8	advmod	_	Translit=tʻavdapirvelad
 6	სახელმწიფო	სახელმწიფო	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=saxelmcipʻo
 7	მოხელეები	მოხელე	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	8	nsubj	_	Translit=moxeleebi
-8	მეთაურობდნენ	მეთაურობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=metʻaurobdnen
+8	მეთაურობდნენ	მეთაურობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=metʻaurobdnen
 9	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 10	რომლებიც	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	12	nsubj	_	Translit=romlebicʻ
 11	ნაკლებად	ნაკლებად	ADV	Adv	_	12	advmod	_	Translit=naklebad
-12	იცნობდნენ	ცნობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	7	acl	_	Translit=icʻnobdnen
+12	იცნობდნენ	ცნობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	7	acl	_	Translit=icʻnobdnen
 13	ადგილობრივ	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	14	amod	_	Translit=adgilobriv
 14	პირობებს	პირობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	12	obj	_	Translit=pirobebs
 15	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
@@ -4648,7 +4648,7 @@
 6	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	5	case	_	Translit=mde
 7	აგროქიმიური	აგროქიმიური	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=agrokʻimiuri
 8	სამუშაოები	სამუშაო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	9	nsubj:pass	_	Translit=samušaoebi
-9	ტარდებოდა	ატარებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tardeboda
+9	ტარდებოდა	ატარებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tardeboda
 10	ყარაიაზისა	ყარაიაზი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	14	nmod	_	Translit=qaraiazisa
 11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 12	ქუთაისის	ქუთაისი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	10	conj	_	Translit=kʻutʻaisis
@@ -5119,7 +5119,7 @@
 16	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 17	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	19	nsubj	_	Translit=romelicʻ
 18	მომსახურებას	მომსახურება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	iobj	_	Translit=momsaxurebas
-19	უწევდა	უწევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	15	acl:relcl	_	Translit=ucevda
+19	უწევდა	უწევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	Translit=ucevda
 20	ამიერკავკასიის	ამიერკავკასია	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	21	nmod	_	Translit=amierkavkasiis
 21	რესპუბლიკებს	რესპუბლიკა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	19	iobj	_	SpaceAfter=No|Translit=respublikebs
 22	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
@@ -5528,11 +5528,11 @@
 4	ცოდნის	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=cʻodnis
 5	პოპულარიზაციის	პოპულარიზაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=popularizacʻiis
 6	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	7	obl	_	Translit=miznitʻ
-7	აწყობდა	აწყობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=acqobda
+7	აწყობდა	აწყობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=acqobda
 8	საჩვენებელ	საჩვენებელი	ADJ	Adj	Case=Dat|Number=Sing	9	amod	_	Translit=sačʻvenebel
 9	ნაკვეთებს	ნაკვეთი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	7	obj	_	SpaceAfter=No|Translit=nakvetʻebs
 10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-11	ცდიდა	სცდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	7	conj	_	Translit=cʻdida
+11	ცდიდა	სცდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	Translit=cʻdida
 12	ახალ	ახალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	14	amod	_	Translit=axal
 13	სასოფლო-სამეურნეო	სასოფლო-სამეურნეო	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=sasopʻlo-sameurneo
 14	მანქანა-იარაღებსა	მანქანა-იარაღი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	11	obj	_	Translit=mankʻana-iaraġebsa
@@ -5616,7 +5616,7 @@
 # translit = saselekʻcʻio sadgurebs gamohqavdatʻ axali, upʻro produkʻtiuli sasopʻlo-sameurneo jišebi, exmarebodnen kolmeurneobebsa da sabčotʻa meurneobebs jištʻganaxlebisa da jištʻmonacʻvleobis ganxorcʻielebaši.
 1	სასელექციო	სასელექციო	ADJ	Adj	Case=Dat|Number=Sing	2	amod	_	Translit=saselekʻcʻio
 2	სადგურებს	სადგური	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	3	nsubj	_	Translit=sadgurebs
-3	გამოჰყავდათ	გამოჰყავს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	Translit=gamohqavdatʻ
+3	გამოჰყავდათ	გამოჰყავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=gamohqavdatʻ
 4	ახალი	ახალი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	SpaceAfter=No|Translit=axali
 5	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 6	უფრო	უფრო	ADJ	Adj	Degree=Cmp	7	amod	_	Translit=upʻro
@@ -5624,7 +5624,7 @@
 8	სასოფლო-სამეურნეო	სასოფლო-სამეურნეო	ADJ	Adj	Case=Nom|Number=Sing	9	amod	_	Translit=sasopʻlo-sameurneo
 9	ჯიშები	ჯიში	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	3	obj	_	SpaceAfter=No|Translit=jišebi
 10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-11	ეხმარებოდნენ	ეხმარება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	3	conj	_	Translit=exmarebodnen
+11	ეხმარებოდნენ	ეხმარება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Translit=exmarebodnen
 12	კოლმეურნეობებსა	კოლმეურნეობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	11	iobj	_	Translit=kolmeurneobebsa
 13	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
 14	საბჭოთა	საბჭო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	15	amod	_	Translit=sabčotʻa
@@ -5683,7 +5683,7 @@
 4-5	ქსელში	_	_	_	_	_	_	_	_
 4	ქსელ	ქსელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obl	_	Translit=kʻsel
 5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
-6	ხდებოდა	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=xdeboda
+6	ხდებოდა	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=xdeboda
 7	ჯიშთა	ჯიში	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	8	nmod	_	Translit=jištʻa
 8	დარაიონება	დარაიონება	VERB	VerbalNoun	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Vnoun	6	nsubj	_	Translit=daraioneba
 9	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
@@ -5698,14 +5698,14 @@
 1	თესლის	თესლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=tʻeslis
 2	სახელმწიფო	სახელმწიფო	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=saxelmcipʻo
 3	ინსპექცია	ინსპექცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=inspekʻcʻia
-4	აკონტროლებდა	აკონტროლებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=akontrolebda
+4	აკონტროლებდა	აკონტროლებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=akontrolebda
 5	სათესლე	სათესლე	ADJ	Adj	Case=Gen|Number=Sing	6	amod	_	Translit=satʻesle
 6	მასალის	მასალა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=masalis
 7	ხარისხს	ხარისხი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	SpaceAfter=No|Translit=xarisxs
 8	;	;	PUNCT	F	PunctType=Semi	4	punct	_	Translit=;
 9	სათანადო	სათანადო	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=satʻanado
 10	მუშაობას	მუშაობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	11	iobj	_	Translit=mušaobas
-11	ეწეოდა	ეწევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	4	parataxis	_	Translit=eceoda
+11	ეწეოდა	ეწევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	Translit=eceoda
 12	მცენარეთა	მცენარე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	13	nmod	_	Translit=mcʻenaretʻa
 13	დაცვის	დაცვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=dacʻvis
 14	სამსახური	სამსახური	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	nsubj	_	SpaceAfter=No|Translit=samsaxuri
@@ -5808,7 +5808,7 @@
 23-24	გარიჟრაჟზე	_	_	_	_	_	_	_	_
 23	გარიჟრაჟ	გარიჟრაჟი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	25	obl	_	Translit=garižražze
 24	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	23	case	_	Translit=ze
-25	გამოიყენებოდა	იყენებაა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gamoiqeneboda
+25	გამოიყენებოდა	იყენებაა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gamoiqeneboda
 26	.	.	PUNCT	F	PunctType=Peri	25	punct	_	Translit=.
 
 # sent_id = wiki_analytical_00096
@@ -5846,7 +5846,7 @@
 9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 10	უფრო	უფრო	ADJ	Adj	Degree=Cmp	8	conj	_	Translit=upʻro
 11	აქტიურად	აქტიურად	ADV	Adv	AdvType=Man	12	advmod	_	Translit=akʻtiurad
-12	იყენებდნენ	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=iqenebdnen
+12	იყენებდნენ	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=iqenebdnen
 13	პრაქტიკული	პრაქტიკული	ADJ	Adj	Case=Gen|Number=Sing	14	amod	_	Translit=prakʻtikuli
 14-15	მიზნებისათვის	_	_	_	_	_	_	_	_
 14	მიზნებისა	მიზანი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	obl	_	Translit=miznebisa
@@ -6289,7 +6289,7 @@
 19	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
 20	ცეცხლს	ცეცხლი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	18	conj	_	SpaceAfter=No|Translit=cʻecʻxls
 21	“	“	PUNCT	F	PunctType=Quot	18	punct	_	Translit=“
-22	იღებდა	იღებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	6	acl	_	SpaceAfter=No|Translit=iġebda
+22	იღებდა	იღებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	SpaceAfter=No|Translit=iġebda
 23	.	.	PUNCT	F	PunctType=Peri	22	punct	_	Translit=.
 
 # sent_id = wiki_analytical_00113
@@ -6315,7 +6315,7 @@
 16	ქიმიური	ქიმიური	ADJ	Adj	Case=Gen|Number=Sing	17	amod	_	Translit=kʻimiuri
 17	მეცნიერების	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	18	nmod	_	Translit=mecʻnierebis
 18	ცენტრად	ცენტრი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	19	obl	_	Translit=cʻentrad
-19	ითვლებოდა	თვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	10	parataxis	_	SpaceAfter=No|Translit=itʻvleboda
+19	ითვლებოდა	თვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	10	parataxis	_	SpaceAfter=No|Translit=itʻvleboda
 20	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id = wiki_analytical_00114
@@ -6550,7 +6550,7 @@
 12	სულიერი	სულიერი	ADJ	Adj	Case=Gen|Number=Sing	13	amod	_	Translit=sulieri
 13	კულტურის	კულტურა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	14	nmod	_	Translit=kulturis
 14	ბუნებას	ბუნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obj	_	Translit=bunebas
-15	გულისხმობდა	გულისხმობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	5	acl	_	SpaceAfter=No|Translit=gulisxmobda
+15	გულისხმობდა	გულისხმობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	SpaceAfter=No|Translit=gulisxmobda
 16	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = wiki_anthropology_00123
@@ -6891,7 +6891,7 @@
 # text = იგი თვლიდა, რომ სკვითები სტეპებს სახლობენ  ჩაფსკვნილი ხალხი შავი თმებით, ხოლო მაღალმთიან რეგიონში სახლობს მაღალი  და ძლიერი ხალხი.
 # translit = igi tʻvlida, rom skvitʻebi stepebs saxloben  čʻapʻskvnili xalxi šavi tʻmebitʻ, xolo maġalmtʻian regionši saxlobs maġali  da żlieri xalxi.
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=igi
-2	თვლიდა	თვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻvlida
+2	თვლიდა	თვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻvlida
 3	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 4	რომ	რომ	SCONJ	Conj	_	7	mark	_	Translit=rom
 5	სკვითები	სკვითები	ADJ	Adj	Case=Nom|Number=Sing	7	nsubj	_	Translit=skvitʻebi
@@ -6931,7 +6931,7 @@
 11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 12	სოციალური	სოციალური	ADJ	Adj	Case=Ins|Number=Sing	8	conj	_	Translit=socʻialuri
 13	მიზნებით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	14	obl	_	Translit=miznebitʻ
-14	გამოიყენებოდა	იყენებაა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gamoiqeneboda
+14	გამოიყენებოდა	იყენებაა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gamoiqeneboda
 15	.	.	PUNCT	F	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id = wiki_archaeology_00139
@@ -7017,7 +7017,7 @@
 27-28	დროიდანვე	_	_	_	_	_	_	_	_
 27	დროი	დრო	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	29	obl	_	Translit=droi
 28	დანვე	დან	ADP	Post	AdpType=Post|Case=Ins	27	case	_	Translit=danve
-29	იჩენდნენ	აჩენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	12	advcl	_	SpaceAfter=No|Translit=ičʻendnen
+29	იჩენდნენ	აჩენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	SpaceAfter=No|Translit=ičʻendnen
 30	.	.	PUNCT	F	PunctType=Peri	29	punct	_	Translit=.
 
 # sent_id = wiki_archaeology_00143
@@ -7044,7 +7044,7 @@
 3	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=tʻvis
 4	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	Translit=didi
 5	მნიშვნელობა	მნიშვნელობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=mnišvneloba
-6	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	Translit=hkʻonda
+6	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	_	Translit=hkʻonda
 7	ო.	ო.	NOUN	Noun	Abbr=Yes	10	nmod	_	Translit=o.
 8	მონტელიუსის	მონტელიუსი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	7	flat:name	_	Translit=monteliusis
 9	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	10	case	_	Translit=mier
@@ -7423,7 +7423,7 @@
 17	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	16	case	_	Translit=tʻvis
 18	მატერიალურ	მატერიალური	ADJ	Adj	Case=Dat|Number=Sing	19	amod	_	Translit=materialur
 19	ფასეულობას	ფასეულობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	obj	_	Translit=pʻaseulobas
-20	წარმოადგენდნენ	ადგენდა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	11	acl	_	SpaceAfter=No|Translit=carmoadgendnen
+20	წარმოადგენდნენ	ადგენდა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	11	acl	_	SpaceAfter=No|Translit=carmoadgendnen
 21	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
 22-23	ჩვენთვის	_	_	_	_	_	_	_	_
 22	ჩვენ	ჩვენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	32	obl	_	Translit=čʻven
@@ -7982,7 +7982,7 @@
 4	ში	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=ši
 5	კონსოლიდირებულ	კონსოლიდირებული	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=konsolidirebul
 6	სქემას	სქემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	Translit=skʻemas
-7	იყენებდნენ	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iqenebdnen
+7	იყენებდნენ	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iqenebdnen
 8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 9	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	17	nsubj	_	Translit=romelicʻ
 10	სამხედრო	სამხედრო	ADJ	Adj	Case=Gen|Number=Sing	11	amod	_	Translit=samxedro
@@ -8142,9 +8142,9 @@
 12	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=ze
 13	იდეოლოგიურ	იდეოლოგიური	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=ideologiur
 14	ზეგავლენას	ზეგავლენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obj	_	Translit=zegavlenas
-15	ახდენდა	ახდენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No|Translit=axdenda
+15	ახდენდა	ახდენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No|Translit=axdenda
 16	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
-17	იყენებდა	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	15	conj	_	Translit=iqenebda
+17	იყენებდა	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	Translit=iqenebda
 18	რა	რა	PART	Part	_	17	advmod	_	Translit=ra
 19	ამგვარ	ამგვარი	ADJ	Adj	Case=Dat|Number=Sing	20	amod	_	Translit=amgvar
 20	კონსტრუქციებს	კონსტრუქცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	17	obj	_	Translit=konstrukʻcʻiebs
@@ -8254,7 +8254,7 @@
 3	ხუროთმოძღვრება	ხუროთმოძღვრება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obl	_	Translit=xurotʻmożġvreba
 4	ში	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=ši
 5	ძირითადად	ძირითადად	ADV	Adv	AdvType=Man	6	advmod	_	Translit=żiritʻadad
-6	აღადგენდნენ	ადგენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=aġadgendnen
+6	აღადგენდნენ	ადგენს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aġadgendnen
 7	თემურლენგის	თემურლენგი	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	8	nmod	_	Translit=tʻemurlengis
 8	შემოსევათა	შემოსევა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	Translit=šemosevatʻa
 9	დროს	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	10	obl	_	Translit=dros
@@ -9122,7 +9122,7 @@
 10	რესტავრაციას	რესტავრაცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obj	_	Translit=restavracʻias
 11	ორი	ორი	NUM	Num	Case=Nom|NumType=Card	12	nummod	_	Translit=ori
 12	წელი	წელი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	Translit=celi
-13	დასჭირდა	ჭირს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=dasčirda
+13	დასჭირდა	ჭირს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=dasčirda
 14	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
 15	დაახლოებით	დაახლოება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	13	conj	_	Translit=daaxloebitʻ
 16	30	30	NUM	Num	NumForm=Digit|NumType=Card	17	nummod	_	Translit=30
@@ -9249,7 +9249,7 @@
 4-5	სახსრებში	_	_	_	_	_	_	_	_
 4	სახსრებ	სახსარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	6	obl	_	Translit=saxsreb
 5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
-6	ინახებოდა	ინახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=inaxeboda
+6	ინახებოდა	ინახავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=inaxeboda
 7	6738	6738	NUM	Num	NumForm=Digit|NumType=Card	8	nummod	_	Translit=6738
 8	ხელოვნების	ხელოვნება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=xelovnebis
 9	ობიექტი	ობიექტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj:pass	_	SpaceAfter=No|Translit=obiekʻti
@@ -10257,9 +10257,9 @@
 3	ში	ში	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ši
 4	ასტრონომიული	ასტრონომიული	ADJ	Adj	Case=Nom|Number=Sing	5	amod	_	Translit=astronomiuli
 5	ცოდნა	ცოდნა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj:pass	_	Translit=cʻodna
-6	ივსებოდა	ავსებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ivseboda
+6	ივსებოდა	ავსებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ivseboda
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
-8	მდიდრდებოდა	ამდიდრებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	6	conj	_	SpaceAfter=No|Translit=mdidrdeboda
+8	მდიდრდებოდა	ამდიდრებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	6	conj	_	SpaceAfter=No|Translit=mdidrdeboda
 9	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 10	მისი	მისი	PRON	Pron	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	Translit=misi
 11	გამოყენება	გამოყენება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	nsubj	_	Translit=gamoqeneba
@@ -10267,7 +10267,7 @@
 13	სულ	სულ	ADV	Adv	AdvType=Man	16	advmod	_	Translit=sul
 14	უფრო	უფრო	ADJ	Adj	Degree=Cmp	15	amod	_	Translit=upʻro
 15	მრავალფეროვანი	მრავალფეროვანი	ADJ	Adj	Case=Nom|Number=Sing	16	xcomp	_	Translit=mravalpʻerovani
-16	ხდებოდა	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Imp|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No|Translit=xdeboda
+16	ხდებოდა	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No|Translit=xdeboda
 17	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = wiki_astronomy_00248
@@ -10459,7 +10459,7 @@
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 12	რომელიც	რომელიც	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	14	nsubj	_	Translit=romelicʻ
 13	პირდაპირ	პირდაპირ	ADV	Adv	AdvType=Man	14	advmod	_	Translit=pirdapir
-14	აერთიანებდა	აერთიანებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	10	acl	_	Translit=aertʻianebda
+14	აერთიანებდა	აერთიანებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	Translit=aertʻianebda
 15	დედამიწის	დედამიწა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	16	nmod	_	Translit=dedamicis
 16	ბრუნვას	ბრუნვა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obj	_	Translit=brunvas
 17	მის	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=mis
@@ -10499,7 +10499,7 @@
 24	წითელი	წითელი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	25	amod	_	Translit=citʻeli
 25	შეფერილობის	შეფერილობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=šepʻerilobis
 26	შთაბეჭდილებას	შთაბეჭდილება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	27	obj	_	Translit=štʻabečdilebas
-27	ტოვებდა	ტოვებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No|Translit=tovebda
+27	ტოვებდა	ტოვებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No|Translit=tovebda
 28	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
 
 # sent_id = wiki_astrophysics_00254
@@ -10746,7 +10746,7 @@
 15-16	მატერიისაგან	_	_	_	_	_	_	_	_
 15	მატერიისა	მატერია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	obl	_	Translit=materiisa
 16	გან	გან	ADP	Post	AdpType=Post|Case=Gen	15	case	_	Translit=gan
-17	შედგებოდა	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	6	csubj	_	SpaceAfter=No|Translit=šedgeboda
+17	შედგებოდა	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	6	csubj	_	SpaceAfter=No|Translit=šedgeboda
 18	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 19	ვიდრე	ვიდრე	SCONJ	Conj	_	21	mark	_	Translit=vidre
 20	დედამიწური	დედამიწური	ADJ	Adj	Case=Nom|Number=Sing	21	amod	_	Translit=dedamicuri
@@ -11346,7 +11346,7 @@
 3	ბიოგრაფიები	ბიოგრაფია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	6	nsubj:pass	_	Translit=biograpʻiebi
 4	ჟამთააღმწერლების	ჟამთააღმწერელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	6	obl	_	Translit=žamtʻaaġmcerlebis
 5	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=mier
-6	იწერებოდა	წერს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=icereboda
+6	იწერებოდა	წერს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=icereboda
 7	ანტიკური	ანტიკური	ADJ	Adj	Case=Gen|Number=Sing	8	amod	_	Translit=antikuri
 8	ხანის	ხანა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	9	nmod	_	Translit=xanis
 9	მმართველების	მმართველი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Plur	10	nmod	_	Translit=mmartʻvelebis
@@ -11382,7 +11382,7 @@
 7-8	ტაბლეტებზე	_	_	_	_	_	_	_	_
 7	ტაბლეტებ	ტაბლეტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	3	conj	_	Translit=tableteb
 8	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ze
-9	იკვეთებოდა	კვეთს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ikvetʻeboda
+9	იკვეთებოდა	კვეთს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ikvetʻeboda
 10	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 11	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	12	det	_	Translit=am
 12	მეთოდს	მეთოდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	nsubj	_	Translit=metʻods
@@ -11574,7 +11574,7 @@
 1	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=es
 2	ნამუშევრები	ნამუშევრი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	4	nsubj	_	Translit=namuševrebi
 3	ძირითადად	ძირითადად	ADV	Adv	AdvType=Man	4	advmod	_	Translit=żiritʻadad
-4	ეყრდნობოდა	ეყრდნობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=eqrdnoboda
+4	ეყრდნობოდა	ეყრდნობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=eqrdnoboda
 5	კორესპონდენციას	კორესპონდენცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	SpaceAfter=No|Translit=korespondencʻias
 6	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 7	პირად	პირადი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	8	amod	_	Translit=pirad
@@ -11729,7 +11729,7 @@
 9	უთანხმოებები	უთანხმოება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	12	nsubj	_	Translit=utʻanxmoebebi
 10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 11	დავები	დავა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	9	conj	_	Translit=davebi
-12	ხდებოდა	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=xdeboda
+12	ხდებოდა	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=xdeboda
 13	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 14	რაც	რაც	SCONJ	Conj	_	15	mark	_	Translit=racʻ
 15	განპირობებული	განპირობებული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|VerbForm=Part	12	advcl	_	Translit=ganpirobebuli
@@ -11976,7 +11976,7 @@
 19-20	განმავლობაში	_	_	_	_	_	_	_	_
 19	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	21	obl	_	Translit=ganmavloba
 20	ში	ში	ADP	Post	AdpType=Post|Case=Dat	19	case	_	Translit=ši
-21	ჰქონდა	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	7	acl	_	Translit=hkʻonda
+21	ჰქონდა	აქვს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin	7	acl	_	Translit=hkʻonda
 22	ადგილი	ადგილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	21	nsubj	_	SpaceAfter=No|Translit=adgili
 23	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
@@ -12352,7 +12352,7 @@
 17-18	განმავლობაში	_	_	_	_	_	_	_	_
 17	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=ganmavloba
 18	ში	ში	ADP	Post	AdpType=Post|Case=Dat	17	case	_	Translit=ši
-19	იცვლიდა	იცვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	13	acl	_	Translit=icʻvlida
+19	იცვლიდა	იცვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	13	acl	_	Translit=icʻvlida
 20	სახელწოდებას	სახელწოდება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obj	_	Translit=saxelcodebas
 21	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
 22	ფუნქციას	ფუნქცია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	20	conj	_	SpaceAfter=No|Translit=pʻunkʻcʻias
