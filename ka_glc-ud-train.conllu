@@ -31194,11 +31194,11 @@
 # text = ვირუსები არც მცენარეებს მიეკუთვნება და არც ცხოველებს.
 # translit = virusebi arcʻ mcʻenareebs miekutʻvneba da arcʻ cʻxovelebs.
 1	ვირუსები	ვირუსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	4	nsubj	_	Translit=virusebi
-2	არც	არც	PART	Part	PartType=Emp	4	advmod	_	Translit=arcʻ
+2	არც	არც	PART	Part	PartType=Neg	4	advmod	_	Translit=arcʻ
 3	მცენარეებს	მცენარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	obj	_	Translit=mcʻenareebs
 4	მიეკუთვნება	ეკუთვნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=miekutʻvneba
 5	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
-6	არც	არც	PART	Part	PartType=Emp	7	advmod	_	Translit=arcʻ
+6	არც	არც	PART	Part	PartType=Neg	7	advmod	_	Translit=arcʻ
 7	ცხოველებს	ცხოველი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	3	conj	_	SpaceAfter=No|Translit=cʻxovelebs
 8	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
@@ -34216,7 +34216,7 @@
 # translit = temperaturis cʻvalebadoba arcʻ ise xširia okeaneebidan camosuli kʻarebidan gamomdinare, romlebicʻ sanapiros mtʻeli gavrcʻelebis arealze aregulireben klimats.
 1	ტემპერატურის	ტემპერატურა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=temperaturis
 2	ცვალებადობა	ცვალებადობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=cʻvalebadoba
-3	არც	არც	PART	Part	PartType=Emp	5	advmod	_	Translit=arcʻ
+3	არც	არც	PART	Part	PartType=Neg	5	advmod	_	Translit=arcʻ
 4	ისე	ისე	ADV	Adv	AdvType=Man	5	advmod	_	Translit=ise
 5-6	ხშირია	_	_	_	_	_	_	_	_
 5	ხშირი	ხშირი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	0	root	_	Translit=xširi
