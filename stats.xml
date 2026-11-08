@@ -78,9 +78,9 @@
     <feat name="NumType" value="Card" upos="NUM">821</feat><!-- XIX, XX, ორი, ერთი, სამი, ერთ, XVII, XVIII, II, ორ -->
     <feat name="NumType" value="Mult" upos="NUM">1</feat><!-- ორჯერ -->
     <feat name="NumType" value="Ord" upos="NUM">202</feat><!-- პირველი, მეორე, პირველ, ბევრი, მესამე, ბევრ, მეოცე, ორივე, პირველმა, მე-20 -->
-    <feat name="PartType" value="Emp" upos="ADJ,ADP,ADV,NOUN,NUM,PART,PRON,PROPN">300</feat><!-- კი, რომელ, მაინც, დროსაც, რომლებ, არც, გამოც, დღესაც, შემდეგაც, მეც -->
+    <feat name="PartType" value="Emp" upos="ADJ,ADP,ADV,NOUN,NUM,PART,PRON,PROPN">295</feat><!-- კი, რომელ, მაინც, დროსაც, რომლებ, გამოც, დღესაც, შემდეგაც, მეც, მიხედვითაც -->
     <feat name="PartType" value="Int" upos="PART">5</feat><!-- ალბათ, ხომ, თურმე -->
-    <feat name="PartType" value="Neg" upos="PART">163</feat><!-- არ, არა, ვერ, აღარ -->
+    <feat name="PartType" value="Neg" upos="PART">168</feat><!-- არ, არა, ვერ, არც, აღარ -->
     <feat name="Person" value="1" upos="PRON">65</feat><!-- ჩვენ, ჩვენი, მე, ჩემი, თავიანთი, ჩემ, ჩვენს, მეც, ჩემს, ჩემა -->
     <feat name="Person" value="2" upos="PRON">4</feat><!-- შენს, თქვენ, შენ -->
     <feat name="Person" value="3" upos="AUX,PRON">1173</feat><!-- ამ, მისი, მათ, იგი, ეს, მათი, იმ, მის, მას, ის -->
